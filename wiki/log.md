@@ -77,3 +77,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-22] ingest | onecard-posts-rs-1-878-cr-revenue-in-fy25-cuts-losses-by-26.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-22] ingest | onecard-posts-rs-1-878-cr-revenue-in-fy25-cuts-losses-by-26.md → subjects/onecard.md, subjects/federal-bank.md, subjects/idfc-first-bank.md, subjects/sbm-bank.md, sources/2026-06-22-onecard-posts-rs-1-878-cr-revenue-in-fy25-cuts-losses-by-26.md | Auto-approved
+
+## [2026-06-22] update | entity-registry += pnb (partner), kiwi (competitor) (from pnb-partners-kiwi-to-launch-rupay-credit-card-on-upi-platform.md)
+
+## [2026-06-22] ingest | pnb-partners-kiwi-to-launch-rupay-credit-card-on-upi-platform.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
