@@ -65,9 +65,9 @@ treated as context until promoted).
 - tbo-tek | competitor | TBO Tek | domain: tbo.com | added_by: agent 2026-06-22 · source: the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatra-s-earnings-ca.md · India travel vertical SaaS and OTA operator focused on B2B distribution and internal productivity.
 - onecard-issuer | competitor | Onecard Issuer | added_by: foundation 2026-06-22
 - yes-bank | competitor | Yes Bank | domain: yesbank.in | added_by: foundation 2026-06-22
-- sbm-bank | competitor | Sbm Bank | added_by: foundation 2026-06-22
+- sbm-bank | competitor | Sbm Bank | domain: sbmbank.co.in | added_by: foundation 2026-06-22
 - au-bank | competitor | Au Bank | added_by: foundation 2026-06-22
-- idfc-first-bank | competitor | Idfc First Bank | added_by: foundation 2026-06-22
+- idfc-first-bank | competitor | Idfc First Bank | domain: idfcfirstbank.com | added_by: foundation 2026-06-22
 - rbl-bank | competitor | Rbl Bank | added_by: foundation 2026-06-22
 - sbi-card | competitor | Sbi Card | added_by: foundation 2026-06-22
 - icici-bank | competitor | Icici Bank | added_by: foundation 2026-06-22
@@ -75,7 +75,7 @@ treated as context until promoted).
 - bobcard-etihad-base | competitor | Bobcard Etihad Base | added_by: foundation 2026-06-22
 - axis-burgundy-private | competitor | Axis Burgundy Private | added_by: foundation 2026-06-22
 - uni-nxtwave | competitor | Uni Nxtwave | added_by: foundation 2026-06-22
-- onecard | competitor | Onecard | added_by: foundation 2026-06-22
+- onecard | competitor | Onecard | domain: getonecard.app | added_by: foundation 2026-06-22
 - niyo-global-sbm | competitor | Niyo Global Sbm | added_by: foundation 2026-06-22
 - idfc-first-wow | competitor | Idfc First Wow | added_by: foundation 2026-06-22
 - bobcard-etihad-premium | competitor | Bobcard Etihad Premium | added_by: foundation 2026-06-22
@@ -93,6 +93,8 @@ treated as context until promoted).
 ## Context (never gets a page)
 
 ## Partner candidates (pending curator confirmation)
+
+- pnb | partner-candidate | Punjab National Bank | added_by: agent 2026-06-22 · source: pnb-partners-kiwi-to-launch-rupay-credit-card-on-upi-platform.md · Indian public-sector bank, 180M customer base, 10k+ branch network; entered credit-on-UPI space via Kiwi partnership on RuPay.
 
 - smfg-india-credit | partner-candidate | SMFG India Credit | added_by: agent 2026-06-22 · source: flex-by-google-pay-reimagining-everyday-credit-for-india.md · Credit origination partner to Google Pay Flex ecosystem
 

@@ -75,3 +75,5 @@ Append-only ingest/query/lint event log.
 ## [2026-06-22] ingest | amazon-pay-launches-rewards-gold-get-5-cashback-every-time-you-spend.md → subjects/amazon-pay.md, sources/2026-06-22-amazon-pay-launches-rewards-gold-get-5-cashback-every-time-you-spend.md | Auto-approved
 
 ## [2026-06-22] ingest | onecard-posts-rs-1-878-cr-revenue-in-fy25-cuts-losses-by-26.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-22] ingest | onecard-posts-rs-1-878-cr-revenue-in-fy25-cuts-losses-by-26.md → subjects/onecard.md, subjects/federal-bank.md, subjects/idfc-first-bank.md, subjects/sbm-bank.md, sources/2026-06-22-onecard-posts-rs-1-878-cr-revenue-in-fy25-cuts-losses-by-26.md | Auto-approved

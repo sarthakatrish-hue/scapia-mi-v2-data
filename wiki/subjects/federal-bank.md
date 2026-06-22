@@ -1,5 +1,5 @@
 ---
-subject: "'Federal Bank'"
+subject: "Federal Bank"
 type: subject
 role: partner
 domains: [fintech]
@@ -7,9 +7,9 @@ categories: [banks]
 domain_url: federalbank.co.in
 logo: null
 issuer: null
-keywords: [[issuer, co-brand, partner, rbi, regulatory-freeze]]
+keywords: [issuer, co-brand, partner, rbi, regulatory-freeze, onecard, data-sharing]
 signal: threat
-headline: "'Federal Bank ordered to halt new co-brand card issuances pending RBI compliance review'"
+headline: "'Federal Bank co-brand freeze widens — RBI data-sharing concern confirmed across OneCard partnership too'"
 vitals: []
 last_updated: 2026-06-22
 ---
@@ -20,23 +20,32 @@ last_updated: 2026-06-22
 **Remediation underway** — Federal Bank stated it is working to address regulatory deficiencies and will await RBI approval before resuming co-brand issuances [^rbi-cobrand-2026-06-22]
 **Non-co-brand segment unaffected** — Bank confirmed it will continue issuing cards to new and existing customers in its non-co-brand portfolio [^rbi-cobrand-2026-06-22]
 **Existing customers protected** — Existing co-branded cardholders (including Scapia cardholders) continue to be served normally [^rbi-cobrand-2026-06-22]
+**OneCard also a Federal Bank co-brand partner** — Federal Bank is one of three issuing partners for OneCard; RBI's data-sharing scrutiny of OneCard explicitly names Federal Bank as a partner under review [^oc-fy25-fb-2026-06-22]
+**Data-sharing concern confirmed industry-wide** — RBI's action against OneCard's partner banks (including Federal Bank) confirms the regulatory pressure centres on fintech-bank data-sharing practices, not a single bank's idiosyncratic compliance failure [^oc-fy25-fb-2026-06-22]
 
 ## Partner Intel
 
-**Relationship:** Federal Bank is Scapia's sole card-issuing partner for the Scapia Federal Bank co-branded Visa credit card.
+**Relationship:** Federal Bank is Scapia's sole card-issuing partner for the Scapia Federal Bank co-branded Visa credit card. Federal Bank is also one of three issuing partners for competitor OneCard (FPL Technologies).
 
-**Status:** Under regulatory review — RBI has ordered Federal Bank to halt new co-brand card issuances. Specific violation undisclosed. Remediation in progress; resumption contingent on RBI approval [^rbi-cobrand-2026-06-22].
+**Status:** Under regulatory review — RBI has ordered Federal Bank to halt new co-brand card issuances. The OneCard FY25 filing now independently corroborates that the RBI's concern is specifically about data sharing between fintech co-brand partners and their issuing banks [^oc-fy25-fb-2026-06-22]. Remediation in progress; resumption contingent on RBI approval [^rbi-cobrand-2026-06-22].
 
 ### What Scapia gets
 **Card issuance infrastructure** — Federal Bank provides the regulated issuing, KYC, and credit underwriting backbone that allows Scapia to operate as a co-brand fintech without a banking licence.
 **Existing portfolio continuity** — Federal Bank has confirmed continued servicing of all existing co-branded cardholders, so Scapia's current user base is not immediately disrupted [^rbi-cobrand-2026-06-22].
 
 ### Current risks
-**New acquisition freeze** — If the RBI freeze extends to the Scapia co-brand programme specifically, or if Federal Bank's broader co-brand operations are paused, Scapia cannot onboard new cardholders for the duration — a potentially material growth constraint [Inferred · High].
-**Data-access constraints** — RBI's reiterated prohibition on co-brand partners accessing customer data post-issuance may force a re-evaluation of Scapia's post-onboarding data and engagement model [^rbi-cobrand-2026-06-22] [Inferred · Medium].
-**Compliance contagion risk** — The undisclosed nature of Federal Bank's violation makes it difficult to confirm Scapia's own programme is fully insulated; a related finding could trigger a secondary freeze [Inferred · Medium].
+**New acquisition freeze** — The RBI freeze blocks Scapia from onboarding new cardholders for the duration of the compliance review — a potentially material growth constraint [Inferred · High].
+**Data-access constraints confirmed** — The OneCard RBI action makes explicit that the regulator's concern is post-issuance data sharing between fintech partners and banks; this directly implicates any engagement or personalisation model Scapia runs on post-onboarding cardholder data [^oc-fy25-fb-2026-06-22] [Inferred · High].
+**Shared-bank exposure** — Federal Bank serves both Scapia and OneCard as co-brand partners; regulatory findings from the OneCard programme review could surface practices or standards that affect Federal Bank's posture toward all co-brand partners, including Scapia [Inferred · Medium].
+**Compliance contagion risk** — The industry-wide nature of the RBI scrutiny — confirmed by independent action against OneCard's partner banks — reduces the probability that Federal Bank's issue is narrow or quickly resolved [^oc-fy25-fb-2026-06-22] [Inferred · Medium].
 
 ## Coverage
+
+### OneCard Filing Confirms Federal Bank RBI Exposure — 2026-06-22
+
+OneCard's FY25 financial disclosures independently confirm that the RBI has asked partner banks — explicitly including Federal Bank — to pause new co-branded card issuances, citing concerns about data sharing between OneCard and its banking partners [^oc-fy25-fb-2026-06-22]. This is the second source in the same day corroborating Federal Bank's co-brand regulatory exposure, and it anchors the specific regulatory concern: post-issuance data flows from fintech co-brand partners back to the issuing bank and the fintech itself.
+
+For Scapia's planning, this confirmation matters because it shifts the Federal Bank freeze from a possible bank-specific compliance anomaly to a documented, RBI-driven, industry-wide review of co-brand data-sharing practices [Inferred · High]. Scapia's own post-onboarding data and engagement model should be reviewed against the RBI's stated concern before Federal Bank's remediation concludes, to ensure the Scapia programme is not caught in a secondary review [Inferred · High].
 
 ### Federal Bank Faces Co-brand Freeze — 2026-06-22
 
@@ -48,8 +57,10 @@ The lack of disclosure around the specific violation is the most unsettling elem
 
 ## Developments
 
+- 2026-06-22 — OneCard Filing Confirms Federal Bank RBI Exposure [^oc-fy25-fb-2026-06-22]
 - 2026-06-22 — Federal Bank Faces Co-brand Freeze [^rbi-cobrand-2026-06-22]
 
 ## Sources
 
 [^rbi-cobrand-2026-06-22]: Outlook Money — RBI Halts Co-branded Card Issuances — raw/ambiguous/rbi-halts-co-branded-card-issuances-controversy-guidelines-and-consumer-advice.md
+[^oc-fy25-fb-2026-06-22]: Entrackr/Fintrackr — OneCard FY25 financials, RBI co-brand scrutiny — raw/ambiguous/onecard-posts-rs-1-878-cr-revenue-in-fy25-cuts-losses-by-26.md

@@ -7,7 +7,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/pop]] — "Razorpay-backed POP builds multi-brand UPI rewards loop with RuPay credit card"
 - [[subjects/razorpay]] — "Razorpay acquires majority stake in POP, entering consumer UPI rewards space"
 - [[subjects/super-money]] — "Flipkart's fintech arm launches secured card + savings account to monetise UPI"
-- [[subjects/federal-bank]] — "Federal Bank ordered to halt new co-brand card issuances pending RBI compliance review"
+- [[subjects/federal-bank]] — "Federal Bank co-brand freeze widens — RBI data-sharing concern confirmed across OneCard partnership too"
 - [[subjects/rbi-cobranded-card-scrutiny]] — "RBI halts co-brand card issuances, tightening fintech-bank partnership rules"
 - [[subjects/atlys]] — Atlys raises $36M Series C to accelerate AI-driven global visa platform
 - [[subjects/phonepe]] — PhonePe launches Credit Line on UPI, expanding credit access across millions of merchants
@@ -16,7 +16,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/bobcard-etihad-base]]
 - [[subjects/axis-burgundy-private]]
 - [[subjects/uni-nxtwave]]
-- [[subjects/onecard]]
+- [[subjects/onecard]] — "OneCard nears ₹2,000 cr revenue in FY25, losses shrink 26% but RBI scrutiny clouds growth"
 - [[subjects/niyo-global-sbm]]
 - [[subjects/idfc-first-wow]]
 - [[subjects/bobcard-etihad-premium]]
@@ -30,9 +30,9 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/hdfc-infinia]]
 - [[subjects/onecard-issuer]]
 - [[subjects/yes-bank]] — "Powers BharatPe and POP credit products; emerging fintech credit infrastructure bank"
-- [[subjects/sbm-bank]]
+- [[subjects/sbm-bank]] — "SBM Bank named in RBI co-brand data-sharing review via OneCard partnership"
 - [[subjects/au-bank]]
-- [[subjects/idfc-first-bank]]
+- [[subjects/idfc-first-bank]] — "IDFC First Bank named in RBI co-brand data-sharing scrutiny via OneCard partnership"
 - [[subjects/rbl-bank]]
 - [[subjects/sbi-card]]
 - [[subjects/icici-bank]]
