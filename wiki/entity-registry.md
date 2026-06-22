@@ -48,6 +48,8 @@ treated as context until promoted).
 
 ## Competitors
 
+- razorpay | competitor | Razorpay | added_by: agent 2026-06-22 · source: razorpay-acquires-majority-stake-in-pop-with-30-mn-investment.md · B2B/B2C fintech payments and commerce platform acquiring majority stake in consumer UPI and rewards app POP.
+
 - google-pay | competitor | Google Pay | added_by: agent 2026-06-22 · source: flex-by-google-pay-reimagining-everyday-credit-for-india.md · UPI-powered digital credit platform and fintech ecosystem player in India
 
 - super-money | competitor | Super.money (Flipkart Fintech) | domain: super.money | added_by: agent 2026-06-22 · source: flipkart-s-super-money-teams-up-with-kotak811-to-make-india-s-free-upi-payments-.md · Flipkart's fintech arm offering UPI, secured credit cards, and BNPL bundled into a single account; 10M active users, $36M ARR, targeting 2M secured cards in 12 months via bank partnerships.
@@ -58,7 +60,7 @@ treated as context until promoted).
 
 - tbo-tek | competitor | TBO Tek | domain: tbo.com | added_by: agent 2026-06-22 · source: the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatra-s-earnings-ca.md · India travel vertical SaaS and OTA operator focused on B2B distribution and internal productivity.
 - onecard-issuer | competitor | Onecard Issuer | added_by: foundation 2026-06-22
-- yes-bank | competitor | Yes Bank | added_by: foundation 2026-06-22
+- yes-bank | competitor | Yes Bank | domain: yesbank.in | added_by: foundation 2026-06-22
 - sbm-bank | competitor | Sbm Bank | added_by: foundation 2026-06-22
 - au-bank | competitor | Au Bank | added_by: foundation 2026-06-22
 - idfc-first-bank | competitor | Idfc First Bank | added_by: foundation 2026-06-22
@@ -87,5 +89,11 @@ treated as context until promoted).
 ## Context (never gets a page)
 
 ## Partner candidates (pending curator confirmation)
+
+- smfg-india-credit | partner-candidate | SMFG India Credit | added_by: agent 2026-06-22 · source: flex-by-google-pay-reimagining-everyday-credit-for-india.md · Credit origination partner to Google Pay Flex ecosystem
+
+- payu-finance | partner-candidate | PayU Finance | added_by: agent 2026-06-22 · source: flex-by-google-pay-reimagining-everyday-credit-for-india.md · Credit origination partner to Google Pay Flex ecosystem
+
+- l-t-finance | partner-candidate | L&T Finance | added_by: agent 2026-06-22 · source: flex-by-google-pay-reimagining-everyday-credit-for-india.md · Credit origination partner to Google Pay Flex ecosystem
 
 - juspay | partner-candidate | Juspay | added_by: agent 2026-06-22 · source: flipkart-s-super-money-teams-up-with-kotak811-to-make-india-s-free-upi-payments-.md · SoftBank-backed payment orchestration and checkout platform partnering with Super.money for D2C one-click checkout; relevant to Scapia's card-linked commerce positioning.

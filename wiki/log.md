@@ -53,3 +53,11 @@ Append-only ingest/query/lint event log.
 ## [2026-06-22] ingest | flipkart-s-super-money-teams-up-with-kotak811-to-make-india-s-free-upi-payments-.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-22] ingest | flipkart-s-super-money-teams-up-with-kotak811-to-make-india-s-free-upi-payments-.md → subjects/super-money.md, sources/2026-06-22-flipkart-s-super-money-teams-up-with-kotak811-to-make-india-s-free-upi-payments-.md | Auto-approved
+
+## [2026-06-22] update | entity-registry += google-pay (competitor), l-t-finance (partner), payu-finance (partner), smfg-india-credit (partner) (from flex-by-google-pay-reimagining-everyday-credit-for-india.md)
+
+## [2026-06-22] ingest | flex-by-google-pay-reimagining-everyday-credit-for-india.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-22] ingest | bharatpe-launches-bharatpe-flex-a-credit-on-upi-solution-powered-by-yes-bank.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-22] ingest | bharatpe-launches-bharatpe-flex-a-credit-on-upi-solution-powered-by-yes-bank.md → subjects/yes-bank.md, sources/2026-06-22-bharatpe-launches-bharatpe-flex-a-credit-on-upi-solution-powered-by-yes-bank.md | Auto-approved

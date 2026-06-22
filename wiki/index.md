@@ -26,7 +26,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/hdfc-diners-black]]
 - [[subjects/hdfc-infinia]]
 - [[subjects/onecard-issuer]]
-- [[subjects/yes-bank]]
+- [[subjects/yes-bank]] — "Powers BharatPe Flex Credit-on-UPI; deepening fintech co-brand partnerships"
 - [[subjects/sbm-bank]]
 - [[subjects/au-bank]]
 - [[subjects/idfc-first-bank]]
