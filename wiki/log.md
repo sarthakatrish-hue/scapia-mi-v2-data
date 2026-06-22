@@ -37,3 +37,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-22] update | entity-registry += atlys (competitor) (from visa-processing-startup-atlys-raises-36-mn-in-series-c-funding.md)
 
 ## [2026-06-22] ingest | visa-processing-startup-atlys-raises-36-mn-in-series-c-funding.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-22] ingest | visa-processing-startup-atlys-raises-36-mn-in-series-c-funding.md → subjects/atlys.md, sources/2026-06-22-visa-processing-startup-atlys-raises-36-mn-in-series-c-funding.md | Auto-approved
+
+## [2026-06-22] ingest | batch b_31bad29137: 5 URLs — 4 ingested, 1 queued-for-review
