@@ -3,6 +3,8 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/india-travel-ai-divide-2026]] — "Indian OTAs are diverging sharply on AI strategy, creating a window for Scapia"
+- [[subjects/tbo-tek]] — "TBO Tek treats AI as an internal efficiency tool, not a disruptive force yet"
 - [[subjects/bobcard-etihad-base]]
 - [[subjects/axis-burgundy-private]]
 - [[subjects/uni-nxtwave]]
@@ -10,7 +12,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/niyo-global-sbm]]
 - [[subjects/idfc-first-wow]]
 - [[subjects/bobcard-etihad-premium]]
-- [[subjects/ixigo-au]]
+- [[subjects/ixigo-au]] — "Ixigo is rebuilding its app around conversational AI, deepening the co-brand moat"
 - [[subjects/rbl-world-safari]]
 - [[subjects/idfc-first-mayura]]
 - [[subjects/sbi-elite]]

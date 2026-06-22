@@ -48,7 +48,9 @@ treated as context until promoted).
 
 ## Competitors
 
-- tbo-tek | competitor | TBO Tek | added_by: agent 2026-06-22 · source: the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatra-s-earnings-ca.md · India travel vertical SaaS and OTA operator focused on B2B distribution and internal productivity.
+- phonepe | competitor | PhonePe | added_by: agent 2026-06-22 · source: phonepe-enables-credit-line-on-upi-on-its-platform.md · Fintech payments platform offering UPI, wallet, and credit-on-UPI products; material benchmark in India's credit-on-UPI ecosystem.
+
+- tbo-tek | competitor | TBO Tek | domain: tbo.com | added_by: agent 2026-06-22 · source: the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatra-s-earnings-ca.md · India travel vertical SaaS and OTA operator focused on B2B distribution and internal productivity.
 - onecard-issuer | competitor | Onecard Issuer | added_by: foundation 2026-06-22
 - yes-bank | competitor | Yes Bank | added_by: foundation 2026-06-22
 - sbm-bank | competitor | Sbm Bank | added_by: foundation 2026-06-22
@@ -65,7 +67,7 @@ treated as context until promoted).
 - niyo-global-sbm | competitor | Niyo Global Sbm | added_by: foundation 2026-06-22
 - idfc-first-wow | competitor | Idfc First Wow | added_by: foundation 2026-06-22
 - bobcard-etihad-premium | competitor | Bobcard Etihad Premium | added_by: foundation 2026-06-22
-- ixigo-au | competitor | Ixigo Au | added_by: foundation 2026-06-22
+- ixigo-au | competitor | Ixigo Au | domain: aubank.in | added_by: foundation 2026-06-22
 - rbl-world-safari | competitor | Rbl World Safari | added_by: foundation 2026-06-22
 - idfc-first-mayura | competitor | Idfc First Mayura | added_by: foundation 2026-06-22
 - sbi-elite | competitor | Sbi Elite | added_by: foundation 2026-06-22

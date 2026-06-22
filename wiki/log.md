@@ -25,3 +25,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-22] update | entity-registry += tbo-tek (competitor) (from the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatra-s-earnings-ca.md)
 
 ## [2026-06-22] ingest | the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatra-s-earnings-ca.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-22] ingest | the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatra-s-earnings-ca.md → subjects/ixigo-au.md, subjects/tbo-tek.md, subjects/india-travel-ai-divide-2026.md, sources/2026-06-22-the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatra-s-earnings-ca.md | Auto-approved
+
+## [2026-06-22] update | entity-registry += phonepe (competitor) (from phonepe-enables-credit-line-on-upi-on-its-platform.md)
+
+## [2026-06-22] ingest | phonepe-enables-credit-line-on-upi-on-its-platform.md | Maker: 7/10, Checker: 6/10 AUTO-APPROVE — bypassing queue
