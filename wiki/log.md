@@ -81,3 +81,11 @@ Append-only ingest/query/lint event log.
 ## [2026-06-22] update | entity-registry += pnb (partner), kiwi (competitor) (from pnb-partners-kiwi-to-launch-rupay-credit-card-on-upi-platform.md)
 
 ## [2026-06-22] ingest | pnb-partners-kiwi-to-launch-rupay-credit-card-on-upi-platform.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-22] lint | ⚠ pnb-partners-kiwi-to-launch-rupay-credit-card-on-upi-platform.md: subject block 'pnb' skipped — unresolved role/vocabulary
+
+## [2026-06-22] ingest | pnb-partners-kiwi-to-launch-rupay-credit-card-on-upi-platform.md → subjects/kiwi.md, sources/2026-06-22-pnb-partners-kiwi-to-launch-rupay-credit-card-on-upi-platform.md | Auto-approved
+
+## [2026-06-22] update | entity-registry += revolut (competitor) (from revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launc.md)
+
+## [2026-06-22] ingest | revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launc.md | Maker: 8/10 AUTO-APPROVE — bypassing queue

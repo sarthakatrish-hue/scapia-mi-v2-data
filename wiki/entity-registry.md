@@ -48,7 +48,9 @@ treated as context until promoted).
 
 ## Competitors
 
-- kiwi | competitor | Kiwi | added_by: agent 2026-06-22 · source: pnb-partners-kiwi-to-launch-rupay-credit-card-on-upi-platform.md · Fintech specialist in credit-on-UPI and QR-code-based credit transactions; launched co-branded PNB Kiwi Credit Card as first public-sector bank partnership.
+- revolut | competitor | Revolut | added_by: agent 2026-06-22 · source: revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launc.md · British fintech offering multi-currency cards, digital wallets, and UPI services in beta launch across India and other emerging markets.
+
+- kiwi | competitor | Kiwi | domain: kiwi.co.in | added_by: agent 2026-06-22 · source: pnb-partners-kiwi-to-launch-rupay-credit-card-on-upi-platform.md · Fintech specialist in credit-on-UPI and QR-code-based credit transactions; launched co-branded PNB Kiwi Credit Card as first public-sector bank partnership.
 
 - amazon-pay | competitor | Amazon Pay | domain: pay.amazon.in | added_by: agent 2026-06-22 · source: amazon-pay-launches-rewards-gold-get-5-cashback-every-time-you-spend.md · Cashback and UPI/payments fintech player in India, operating a wallet and buy-now-pay-later adjacent product; launched Rewards Gold cashback programme with up to 5% earn on travel, groceries, food delivery, and entertainment.
 
