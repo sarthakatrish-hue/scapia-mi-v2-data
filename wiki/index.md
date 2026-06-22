@@ -19,7 +19,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/axis-burgundy-private]]
 - [[subjects/uni-nxtwave]]
 - [[subjects/onecard]] — "OneCard nears ₹2,000 cr revenue in FY25, losses shrink 26% but RBI scrutiny clouds growth"
-- [[subjects/niyo-global-sbm]]
+- [[subjects/niyo-global-sbm]] — "Niyo expands zero-forex distribution via Vodafone Idea telecom partnership and doorstep KYC"
 - [[subjects/idfc-first-wow]]
 - [[subjects/bobcard-etihad-premium]]
 - [[subjects/ixigo-au]] — "Ixigo is rebuilding its app around conversational AI, deepening the co-brand moat"

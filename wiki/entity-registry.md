@@ -48,6 +48,8 @@ treated as context until promoted).
 
 ## Competitors
 
+- fi-money | competitor | Fi Money | added_by: agent 2026-06-22 · source: cash-strapped-fi-money-pivots-to-ai-led-b2b-play.md · Indian neobank founded 2019, pivoting from consumer lending to B2B/AI after funding burnout and ₹300 Cr FY23 losses
+
 - revolut | competitor | Revolut | domain: revolut.com | added_by: agent 2026-06-22 · source: revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launc.md · British fintech offering multi-currency cards, digital wallets, and UPI services in beta launch across India and other emerging markets.
 
 - kiwi | competitor | Kiwi | domain: kiwi.co.in | added_by: agent 2026-06-22 · source: pnb-partners-kiwi-to-launch-rupay-credit-card-on-upi-platform.md · Fintech specialist in credit-on-UPI and QR-code-based credit transactions; launched co-branded PNB Kiwi Credit Card as first public-sector bank partnership.
@@ -80,7 +82,7 @@ treated as context until promoted).
 - axis-burgundy-private | competitor | Axis Burgundy Private | added_by: foundation 2026-06-22
 - uni-nxtwave | competitor | Uni Nxtwave | added_by: foundation 2026-06-22
 - onecard | competitor | Onecard | domain: getonecard.app | added_by: foundation 2026-06-22
-- niyo-global-sbm | competitor | Niyo Global Sbm | added_by: foundation 2026-06-22
+- niyo-global-sbm | competitor | Niyo Global Sbm | domain: sbmbank.co.in | added_by: foundation 2026-06-22
 - idfc-first-wow | competitor | Idfc First Wow | added_by: foundation 2026-06-22
 - bobcard-etihad-premium | competitor | Bobcard Etihad Premium | added_by: foundation 2026-06-22
 - ixigo-au | competitor | Ixigo Au | domain: aubank.in | added_by: foundation 2026-06-22
