@@ -48,6 +48,10 @@ treated as context until promoted).
 
 ## Competitors
 
+- google-pay | competitor | Google Pay | added_by: agent 2026-06-22 · source: flex-by-google-pay-reimagining-everyday-credit-for-india.md · UPI-powered digital credit platform and fintech ecosystem player in India
+
+- super-money | competitor | Super.money (Flipkart Fintech) | domain: super.money | added_by: agent 2026-06-22 · source: flipkart-s-super-money-teams-up-with-kotak811-to-make-india-s-free-upi-payments-.md · Flipkart's fintech arm offering UPI, secured credit cards, and BNPL bundled into a single account; 10M active users, $36M ARR, targeting 2M secured cards in 12 months via bank partnerships.
+
 - atlys | competitor | Atlys | domain: atlys.com | added_by: agent 2026-06-22 · source: visa-processing-startup-atlys-raises-36-mn-in-series-c-funding.md · Digital visa discovery, application, and management platform serving 120+ destinations; operates in UAE, US, UK, Australia; processing 700K+ visa applications annually with AI-driven document verification and eligibility checks.
 
 - phonepe | competitor | PhonePe | domain: phonepe.com | added_by: agent 2026-06-22 · source: phonepe-enables-credit-line-on-upi-on-its-platform.md · Fintech payments platform offering UPI, wallet, and credit-on-UPI products; material benchmark in India's credit-on-UPI ecosystem.
@@ -83,3 +87,5 @@ treated as context until promoted).
 ## Context (never gets a page)
 
 ## Partner candidates (pending curator confirmation)
+
+- juspay | partner-candidate | Juspay | added_by: agent 2026-06-22 · source: flipkart-s-super-money-teams-up-with-kotak811-to-make-india-s-free-upi-payments-.md · SoftBank-backed payment orchestration and checkout platform partnering with Super.money for D2C one-click checkout; relevant to Scapia's card-linked commerce positioning.

@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/super-money]] — "Flipkart's fintech arm launches secured card + savings account to monetise UPI"
 - [[subjects/federal-bank]] — "Federal Bank ordered to halt new co-brand card issuances pending RBI compliance review"
 - [[subjects/rbi-cobranded-card-scrutiny]] — "RBI halts co-brand card issuances, tightening fintech-bank partnership rules"
 - [[subjects/atlys]] — Atlys raises $36M Series C to accelerate AI-driven global visa platform
