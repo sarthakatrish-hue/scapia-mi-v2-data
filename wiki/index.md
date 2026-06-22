@@ -14,7 +14,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/rbl-world-safari]]
 - [[subjects/idfc-first-mayura]]
 - [[subjects/sbi-elite]]
-- [[subjects/axis-atlas]]
+- [[subjects/axis-atlas]] — "Axis Atlas devalued April 2024 — capped travel rewards, halved milestone miles, split transfer partners"
 - [[subjects/icici-emeralde]]
 - [[subjects/hdfc-diners-black]]
 - [[subjects/hdfc-infinia]]

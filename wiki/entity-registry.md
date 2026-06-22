@@ -47,6 +47,8 @@ treated as context until promoted).
 
 
 ## Competitors
+
+- tbo-tek | competitor | TBO Tek | added_by: agent 2026-06-22 · source: the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatra-s-earnings-ca.md · India travel vertical SaaS and OTA operator focused on B2B distribution and internal productivity.
 - onecard-issuer | competitor | Onecard Issuer | added_by: foundation 2026-06-22
 - yes-bank | competitor | Yes Bank | added_by: foundation 2026-06-22
 - sbm-bank | competitor | Sbm Bank | added_by: foundation 2026-06-22
@@ -67,7 +69,7 @@ treated as context until promoted).
 - rbl-world-safari | competitor | Rbl World Safari | added_by: foundation 2026-06-22
 - idfc-first-mayura | competitor | Idfc First Mayura | added_by: foundation 2026-06-22
 - sbi-elite | competitor | Sbi Elite | added_by: foundation 2026-06-22
-- axis-atlas | competitor | Axis Atlas | added_by: foundation 2026-06-22
+- axis-atlas | competitor | Axis Atlas | domain: axisbank.com | added_by: foundation 2026-06-22
 - icici-emeralde | competitor | Icici Emeralde | added_by: foundation 2026-06-22
 - hdfc-diners-black | competitor | Hdfc Diners Black | added_by: foundation 2026-06-22
 - hdfc-infinia | competitor | Hdfc Infinia | added_by: foundation 2026-06-22
