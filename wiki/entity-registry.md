@@ -31,7 +31,7 @@ treated as context until promoted).
 
 ## Partners
 
-- federal-bank | partner | Federal Bank | aliases: federal | Co-brand issuer since Jun 2023; ALSO issues for other fintechs — competitive moves by Federal go on the partner page under Current Risks, never as a competitor page
+- federal-bank | partner | Federal Bank | aliases: federal | domain: federalbank.co.in | Co-brand issuer since Jun 2023; ALSO issues for other fintechs — competitive moves by Federal go on the partner page under Current Risks, never as a competitor page
 - bobcard | partner | BOBCARD | aliases: bob card, bank of baroda cards | Second co-brand issuer (Bank of Baroda subsidiary)
 - visa | partner | Visa | | Card network for the Visa variant
 - rupay | partner | RuPay | | Card network for the UPI variant (NPCI product — NPCI itself is a regulator)

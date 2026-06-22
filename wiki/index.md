@@ -3,6 +3,8 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/federal-bank]] — "Federal Bank ordered to halt new co-brand card issuances pending RBI compliance review"
+- [[subjects/rbi-cobranded-card-scrutiny]] — "RBI halts co-brand card issuances, tightening fintech-bank partnership rules"
 - [[subjects/atlys]] — Atlys raises $36M Series C to accelerate AI-driven global visa platform
 - [[subjects/phonepe]] — PhonePe launches Credit Line on UPI, expanding credit access across millions of merchants
 - [[subjects/india-travel-ai-divide-2026]] — "Indian OTAs are diverging sharply on AI strategy, creating a window for Scapia"

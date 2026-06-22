@@ -45,3 +45,5 @@ Append-only ingest/query/lint event log.
 ## [2026-06-22] query/brief_query | hdfc maket trend
 
 ## [2026-06-22] query/deepdive | deepdive: HDFC Regalia Gold
+
+## [2026-06-22] ingest | rbi-halts-co-branded-card-issuances-controversy-guidelines-and-consumer-advice.md → subjects/rbi-cobranded-card-scrutiny.md, subjects/federal-bank.md, sources/2026-06-22-rbi-halts-co-branded-card-issuances-controversy-guidelines-and-consumer-advice.md | Approved via curator

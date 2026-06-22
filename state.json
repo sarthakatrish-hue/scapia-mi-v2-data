@@ -1,44 +1,5 @@
 {
-  "pending_queue": [
-    {
-      "id": "queue-a1922a43",
-      "filename": "rbi-halts-co-branded-card-issuances-controversy-guidelines-and-consumer-advice.md",
-      "source_type": "ambiguous",
-      "entity": "rbi",
-      "entities": [
-        "rbi",
-        "federal-bank",
-        "scapia"
-      ],
-      "domains": [
-        "fintech"
-      ],
-      "page_types": [
-        "regulatory",
-        "event"
-      ],
-      "categories": [
-        "cards",
-        "banks"
-      ],
-      "role": "regulatory",
-      "domain_url": "rbi.org.in",
-      "treatments": [
-        "regulatory",
-        "market"
-      ],
-      "maker_score": 9,
-      "maker_reason": "Material regulatory event with immediate structural implications for Scapia's issuer partner and co-brand model; signals RBI enforcement priority on data governance and branding disclosure \u2014 high-value market knowledge regardless of immediate Scapia product impact.",
-      "checker_score": null,
-      "checker_reason": null,
-      "band": "BORDERLINE",
-      "layer2_outcome": "SELF",
-      "timestamp": "2026-06-22",
-      "raw_path": "/data/raw/ambiguous/rbi-halts-co-branded-card-issuances-controversy-guidelines-and-consumer-advice.md",
-      "shadow": false,
-      "self_coverage": true
-    }
-  ],
+  "pending_queue": [],
   "rejection_log": [],
   "health": {
     "entity_count": 0,
