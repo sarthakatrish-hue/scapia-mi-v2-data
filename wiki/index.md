@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/fi-money]] — "Cash-strapped Fi Money exits consumer neobanking for AI-driven B2B play"
 - [[subjects/revolut]] — "Revolut enters India with UPI and prepaid cards, targeting 20 million users by 2030"
 - [[subjects/kiwi]] — "Kiwi lands first public-sector bank co-brand with PNB on RuPay-UPI credit"
 - [[subjects/amazon-pay]] — "Amazon Pay bets on volume-gated cashback to cement everyday payments dominance"

@@ -101,3 +101,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-22] update | entity-registry += fi-money (competitor) (from cash-strapped-fi-money-pivots-to-ai-led-b2b-play.md)
 
 ## [2026-06-22] ingest | cash-strapped-fi-money-pivots-to-ai-led-b2b-play.md | Maker: 7/10, Checker: 7/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-22] ingest | cash-strapped-fi-money-pivots-to-ai-led-b2b-play.md → subjects/fi-money.md, sources/2026-06-22-cash-strapped-fi-money-pivots-to-ai-led-b2b-play.md | Auto-approved
+
+## [2026-06-22] ingest | batch b_1a4a019bd1: 11 URLs — 2 error, 9 ingested
