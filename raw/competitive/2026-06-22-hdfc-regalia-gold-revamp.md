@@ -1,0 +1,5 @@
+HDFC Bank overhauls its Regalia Gold credit card, June 2026
+
+HDFC Bank announced a revamp of the Regalia Gold credit card. The annual fee is now Rs 2,500 plus GST, waived on annual spends of Rs 4,00,000. The joining fee is Rs 2,500. Eligibility requires salaried income of Rs 1,00,000 per month, or ITR above Rs 12,00,000 for the self-employed; age 21 to 60. The forex markup stays at 3.5%. Rewards are 4 reward points per Rs 150 spent, but utility and telecom spends are now capped monthly. The card offers 12 domestic airport lounge visits per year and a welcome benefit of 2,500 reward points.
+
+Parag Rao, HDFC Bank Country Head for Payments, said: "We are sharpening Regalia Gold for the mass-premium salaried customer; rewards must be sustainable, not a giveaway." The move signals HDFC doubling down on the premium segment and tightening loyalty economics.
