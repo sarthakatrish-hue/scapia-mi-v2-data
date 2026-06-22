@@ -31,3 +31,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-22] update | entity-registry += phonepe (competitor) (from phonepe-enables-credit-line-on-upi-on-its-platform.md)
 
 ## [2026-06-22] ingest | phonepe-enables-credit-line-on-upi-on-its-platform.md | Maker: 7/10, Checker: 6/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-22] ingest | phonepe-enables-credit-line-on-upi-on-its-platform.md → subjects/phonepe.md, sources/2026-06-22-phonepe-enables-credit-line-on-upi-on-its-platform.md | Auto-approved
+
+## [2026-06-22] update | entity-registry += atlys (competitor) (from visa-processing-startup-atlys-raises-36-mn-in-series-c-funding.md)
+
+## [2026-06-22] ingest | visa-processing-startup-atlys-raises-36-mn-in-series-c-funding.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
