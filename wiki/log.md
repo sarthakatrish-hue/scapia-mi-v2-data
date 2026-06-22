@@ -13,3 +13,5 @@ Append-only ingest/query/lint event log.
 ## [2026-06-22] query/brief_query | How should Scapia respond to HDFC Regalia Gold?
 
 ## [2026-06-22] query/brief_query | Tell me about HDFC regalia
+
+## [2026-06-22] query/brief_query | What are the top competitors to Scapia's credit card
