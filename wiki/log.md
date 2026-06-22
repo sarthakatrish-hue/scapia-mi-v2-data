@@ -43,3 +43,5 @@ Append-only ingest/query/lint event log.
 ## [2026-06-22] ingest | batch b_31bad29137: 5 URLs — 4 ingested, 1 queued-for-review
 
 ## [2026-06-22] query/brief_query | hdfc maket trend
+
+## [2026-06-22] query/deepdive | deepdive: HDFC Regalia Gold
