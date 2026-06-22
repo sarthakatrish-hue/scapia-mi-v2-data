@@ -48,7 +48,7 @@ treated as context until promoted).
 
 ## Competitors
 
-- revolut | competitor | Revolut | added_by: agent 2026-06-22 · source: revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launc.md · British fintech offering multi-currency cards, digital wallets, and UPI services in beta launch across India and other emerging markets.
+- revolut | competitor | Revolut | domain: revolut.com | added_by: agent 2026-06-22 · source: revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launc.md · British fintech offering multi-currency cards, digital wallets, and UPI services in beta launch across India and other emerging markets.
 
 - kiwi | competitor | Kiwi | domain: kiwi.co.in | added_by: agent 2026-06-22 · source: pnb-partners-kiwi-to-launch-rupay-credit-card-on-upi-platform.md · Fintech specialist in credit-on-UPI and QR-code-based credit transactions; launched co-branded PNB Kiwi Credit Card as first public-sector bank partnership.
 
@@ -97,6 +97,8 @@ treated as context until promoted).
 ## Context (never gets a page)
 
 ## Partner candidates (pending curator confirmation)
+
+- vodafone-idea | partner-candidate | Vodafone Idea Limited | added_by: agent 2026-06-22 · source: vodafone-idea-partners-with-niyo-to-offer-zero-markup-forex-card-for-internation.md · Indian telecom operator partnering with travel fintech on forex card distribution.
 
 - pnb | partner-candidate | Punjab National Bank | added_by: agent 2026-06-22 · source: pnb-partners-kiwi-to-launch-rupay-credit-card-on-upi-platform.md · Indian public-sector bank, 180M customer base, 10k+ branch network; entered credit-on-UPI space via Kiwi partnership on RuPay.
 

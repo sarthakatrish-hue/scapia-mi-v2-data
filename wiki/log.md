@@ -89,3 +89,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-22] update | entity-registry += revolut (competitor) (from revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launc.md)
 
 ## [2026-06-22] ingest | revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launc.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-22] ingest | revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launc.md → subjects/revolut.md, sources/2026-06-22-revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launc.md | Auto-approved
+
+## [2026-06-22] update | entity-registry += vodafone-idea (partner) (from vodafone-idea-partners-with-niyo-to-offer-zero-markup-forex-card-for-internation.md)
