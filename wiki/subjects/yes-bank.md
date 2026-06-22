@@ -3,22 +3,21 @@ subject: "YES Bank"
 type: subject
 role: competitor
 domains: [fintech]
-categories: [banks, upi]
+categories: [banks, upi, cards]
 domain_url: yesbank.in
 logo: null
 issuer: null
-keywords: [[issuer, bank, upi, credit-on-upi, co-brand, bharatpe]]
+keywords: [issuer, bank, upi, credit-on-upi, co-brand, bharatpe, pop, rupay, credit-card]
 signal: watch
-headline: "'Powers BharatPe Flex Credit-on-UPI; deepening fintech co-brand partnerships'"
+headline: "'Powers BharatPe and POP credit products; emerging fintech credit infrastructure bank'"
 vitals: []
 last_updated: 2026-06-22
 ---
 
 ## What we know
 
-**Credit-on-UPI issuer** — YES Bank is the banking partner powering BharatPe Flex, a Credit-on-UPI product launched June 2026 [^bharatpe-flex-2026-06-02]
-**Fintech co-brand expansion** — YES Bank is actively partnering with fintechs (BharatPe, Uni NxtWave) to extend credit via UPI and card rails, signalling a deliberate fintech-distribution strategy [^bharatpe-flex-2026-06-02]
-**UPI credit infrastructure** — Bank positions itself as having strong UPI technology infrastructure capable of embedding credit lines into existing UPI payment flows [^bharatpe-flex-2026-06-02]
+**RuPay credit card issuer for POP** — YES Bank issued 40,000+ RuPay credit cards in collaboration with POP, adding a second fintech card co-brand to its portfolio alongside BharatPe Flex [^yes-bank-pop-2026-06-22]
+**Multi-fintech card issuing pattern** — YES Bank is now confirmed as issuing partner for at least three fintech programmes (BharatPe Flex Credit-on-UPI, Uni NxtWave, POP RuPay card), reinforcing its fintech-first credit distribution strategy [^yes-bank-pop-2026-06-22]
 
 ## Competitor Intel
 
@@ -34,6 +33,12 @@ last_updated: 2026-06-22
 
 ## Coverage
 
+### YES Bank Issues POP RuPay Cards — 2026-06-22
+
+YES Bank's role as a fintech credit infrastructure provider deepened with the disclosure that it issued over 40,000 RuPay credit cards for rewards-UPI platform POP, now majority-owned by Razorpay [^yes-bank-pop-2026-06-22]. This adds a third confirmed fintech credit programme to YES Bank's portfolio — alongside BharatPe Flex and Uni NxtWave — cementing its strategy of acting as a behind-the-scenes issuer for high-distribution fintech apps rather than competing on branch acquisition.
+
+For Scapia, the development reinforces an earlier read: YES Bank is assembling a fintech-distribution network that embeds credit into daily-use consumer apps at scale [Inferred · High]. With POP's UPI transaction volume and Razorpay's merchant backing now added to this stack, YES Bank-powered credit products will reach digitally-native consumers through multiple daily touchpoints — a form of credit pre-emption that could reduce the addressable pool of first-time credit-card seekers who might otherwise discover Scapia [Inferred · Medium].
+
 ### YES Bank Powers BharatPe Credit-on-UPI — 2026-06-02
 
 BharatPe launched BharatPe Flex, a Credit-on-UPI product powered by YES Bank, enabling customers to make UPI payments — QR codes, online, bills, travel, fuel — against an integrated credit line with up to 45 days interest-free repayment and EMI conversion options [^bharatpe-flex-2026-06-02]. Onboarding is fully digital with approvals in under three minutes for eligible users [^bharatpe-flex-2026-06-02].
@@ -44,8 +49,10 @@ For Scapia, the indirect signal is notable: YES Bank's UPI-credit model meets co
 
 ## Developments
 
+- 2026-06-22 — YES Bank Issues POP RuPay Cards [^yes-bank-pop-2026-06-22]
 - 2026-06-02 — YES Bank Powers BharatPe Credit-on-UPI [^bharatpe-flex-2026-06-02]
 
 ## Sources
 
 [^bharatpe-flex-2026-06-02]: ANI / BharatPe Flex launch announcement — raw/ambiguous/bharatpe-launches-bharatpe-flex-a-credit-on-upi-solution-powered-by-yes-bank.md
+[^yes-bank-pop-2026-06-22]: Entrackr — Razorpay acquires majority stake in POP with $30 mn investment — raw/market/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment.md

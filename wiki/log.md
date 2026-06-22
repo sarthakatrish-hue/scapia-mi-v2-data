@@ -61,3 +61,13 @@ Append-only ingest/query/lint event log.
 ## [2026-06-22] ingest | bharatpe-launches-bharatpe-flex-a-credit-on-upi-solution-powered-by-yes-bank.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-22] ingest | bharatpe-launches-bharatpe-flex-a-credit-on-upi-solution-powered-by-yes-bank.md → subjects/yes-bank.md, sources/2026-06-22-bharatpe-launches-bharatpe-flex-a-credit-on-upi-solution-powered-by-yes-bank.md | Auto-approved
+
+## [2026-06-22] update | entity-registry += razorpay (competitor), pop (competitor) (from razorpay-acquires-majority-stake-in-pop-with-30-mn-investment.md)
+
+## [2026-06-22] ingest | razorpay-acquires-majority-stake-in-pop-with-30-mn-investment.md | Maker: 7/10, Checker: 3/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-22] ingest | razorpay-acquires-majority-stake-in-pop-with-30-mn-investment.md → subjects/razorpay.md, subjects/pop.md, subjects/yes-bank.md, sources/2026-06-22-razorpay-acquires-majority-stake-in-pop-with-30-mn-investment.md | Auto-approved
+
+## [2026-06-22] update | entity-registry += amazon-pay (competitor) (from amazon-pay-launches-rewards-gold-get-5-cashback-every-time-you-spend.md)
+
+## [2026-06-22] ingest | amazon-pay-launches-rewards-gold-get-5-cashback-every-time-you-spend.md | Maker: 6/10, Checker: 3/10 AUTO-APPROVE — bypassing queue

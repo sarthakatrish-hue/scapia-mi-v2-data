@@ -48,7 +48,11 @@ treated as context until promoted).
 
 ## Competitors
 
-- razorpay | competitor | Razorpay | added_by: agent 2026-06-22 · source: razorpay-acquires-majority-stake-in-pop-with-30-mn-investment.md · B2B/B2C fintech payments and commerce platform acquiring majority stake in consumer UPI and rewards app POP.
+- amazon-pay | competitor | Amazon Pay | added_by: agent 2026-06-22 · source: amazon-pay-launches-rewards-gold-get-5-cashback-every-time-you-spend.md · Cashback and UPI/payments fintech player in India, operating a wallet and buy-now-pay-later adjacent product; launched Rewards Gold cashback programme with up to 5% earn on travel, groceries, food delivery, and entertainment.
+
+- pop | competitor | POP (Rewards UPI App) | domain: pop.in | added_by: agent 2026-06-22 · source: razorpay-acquires-majority-stake-in-pop-with-30-mn-investment.md · Consumer UPI payments and multi-brand rewards currency platform issuing RuPay credit cards via Yes Bank; acquired by Razorpay in majority stake deal.
+
+- razorpay | competitor | Razorpay | domain: razorpay.com | added_by: agent 2026-06-22 · source: razorpay-acquires-majority-stake-in-pop-with-30-mn-investment.md · B2B/B2C fintech payments and commerce platform acquiring majority stake in consumer UPI and rewards app POP.
 
 - google-pay | competitor | Google Pay | added_by: agent 2026-06-22 · source: flex-by-google-pay-reimagining-everyday-credit-for-india.md · UPI-powered digital credit platform and fintech ecosystem player in India
 

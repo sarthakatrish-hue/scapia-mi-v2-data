@@ -3,6 +3,8 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/pop]] — "Razorpay-backed POP builds multi-brand UPI rewards loop with RuPay credit card"
+- [[subjects/razorpay]] — "Razorpay acquires majority stake in POP, entering consumer UPI rewards space"
 - [[subjects/super-money]] — "Flipkart's fintech arm launches secured card + savings account to monetise UPI"
 - [[subjects/federal-bank]] — "Federal Bank ordered to halt new co-brand card issuances pending RBI compliance review"
 - [[subjects/rbi-cobranded-card-scrutiny]] — "RBI halts co-brand card issuances, tightening fintech-bank partnership rules"
@@ -26,7 +28,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/hdfc-diners-black]]
 - [[subjects/hdfc-infinia]]
 - [[subjects/onecard-issuer]]
-- [[subjects/yes-bank]] — "Powers BharatPe Flex Credit-on-UPI; deepening fintech co-brand partnerships"
+- [[subjects/yes-bank]] — "Powers BharatPe and POP credit products; emerging fintech credit infrastructure bank"
 - [[subjects/sbm-bank]]
 - [[subjects/au-bank]]
 - [[subjects/idfc-first-bank]]
