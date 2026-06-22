@@ -48,7 +48,7 @@ treated as context until promoted).
 
 ## Competitors
 
-- amazon-pay | competitor | Amazon Pay | added_by: agent 2026-06-22 · source: amazon-pay-launches-rewards-gold-get-5-cashback-every-time-you-spend.md · Cashback and UPI/payments fintech player in India, operating a wallet and buy-now-pay-later adjacent product; launched Rewards Gold cashback programme with up to 5% earn on travel, groceries, food delivery, and entertainment.
+- amazon-pay | competitor | Amazon Pay | domain: pay.amazon.in | added_by: agent 2026-06-22 · source: amazon-pay-launches-rewards-gold-get-5-cashback-every-time-you-spend.md · Cashback and UPI/payments fintech player in India, operating a wallet and buy-now-pay-later adjacent product; launched Rewards Gold cashback programme with up to 5% earn on travel, groceries, food delivery, and entertainment.
 
 - pop | competitor | POP (Rewards UPI App) | domain: pop.in | added_by: agent 2026-06-22 · source: razorpay-acquires-majority-stake-in-pop-with-30-mn-investment.md · Consumer UPI payments and multi-brand rewards currency platform issuing RuPay credit cards via Yes Bank; acquired by Razorpay in majority stake deal.
 

@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/amazon-pay]] — "Amazon Pay bets on volume-gated cashback to cement everyday payments dominance"
 - [[subjects/pop]] — "Razorpay-backed POP builds multi-brand UPI rewards loop with RuPay credit card"
 - [[subjects/razorpay]] — "Razorpay acquires majority stake in POP, entering consumer UPI rewards space"
 - [[subjects/super-money]] — "Flipkart's fintech arm launches secured card + savings account to monetise UPI"
