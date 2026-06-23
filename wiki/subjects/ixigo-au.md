@@ -52,13 +52,6 @@ last_updated: 2026-06-22
 | Lounge | 16 domestic (spend-triggered) + 1 intl / year |
 | Welcome benefit | 1,000 reward points + ₹1,000 ixigo Money |
 
-## Leadership Signals
-
-**Rajnish Kumar · Co-Founder & Co-CEO, Ixigo** — 2026-05-21
-> "Ixigo NEXT is more than a chatbot added to an existing app — travel software itself is changing."[^skift1]
-**Signal:** Kumar is staking Ixigo's next growth phase on a ground-up AI redesign, not incremental feature work
-**Belief:** [Inferred · High] Management believes conversational, preference-aware interfaces will structurally replace filter-and-menu travel booking in India
-
 ## Developments
 
 - 2026-05-21 — Ixigo relaunched its app as "Ixigo NEXT" and Co-CEO Rajnish Kumar used the Q earnings call to pitch it as a full AI platform transformation, not a chatbot add-on [^skift1]

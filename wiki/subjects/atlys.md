@@ -43,13 +43,6 @@ last_updated: 2026-06-22
 **Monitor MakeMyTrip overlap** — MakeMyTrip's Atlys stake could erode Scapia's ability to negotiate preferential booking integrations; review current OTA relationships now.[Inferred · Medium]
 **Lean into rewards differentiation** — Promote zero-forex and reward-on-visa-fee spend messaging to own the "cost of travel" framing before Atlys adds a payment layer.[Inferred · High]
 
-## Leadership Signals
-
-**Mohak Nahta · Founder & CEO** — 2026-06-22
-> "We will use this capital to expand into new international markets and advance our AI roadmap."[^atlys-c]
-**Signal:** Founder is prioritising geographic expansion and AI infrastructure simultaneously, suggesting aggressive multi-front scaling.
-**Belief:** [Inferred · High] Management believes AI-native visa processing is a winner-take-most category and that moving fast globally before incumbents automate is the core strategic bet.
-
 ## Developments
 
 - 2026-06-22 — Atlys closes $36M Series C led by Susquehanna Asia Venture Capital; MakeMyTrip joins as new investor.[^atlys-c]

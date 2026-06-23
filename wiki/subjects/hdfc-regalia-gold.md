@@ -59,13 +59,6 @@ last_updated: 2026-06-22
 | Lounge | 12 domestic airport lounge visits/year |
 | Welcome benefit | 2,500 reward points on activation |
 
-## Leadership Signals
-
-**Parag Rao · Country Head, Payments — HDFC Bank** — 2026-06-22
-> "We are sharpening Regalia Gold for the mass-premium salaried customer; rewards must be sustainable, not a giveaway."[^regalia26]
-**Signal:** HDFC is deliberately reining in loyalty economics to protect margins while doubling down on the premium salaried segment.
-**Belief:** [Inferred · High] Management believes premium-segment growth can be sustained by tightening reward leakage rather than by expanding card benefits.
-
 ## Developments
 
 - 2026-06-22 — HDFC Bank revamped Regalia Gold with a Rs 2,500 annual fee, 12 domestic lounge visits, capped utility/telecom rewards, and a stated mass-premium salaried focus.[^regalia26]

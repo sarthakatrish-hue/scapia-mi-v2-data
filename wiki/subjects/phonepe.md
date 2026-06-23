@@ -33,13 +33,6 @@ last_updated: 2026-06-22
 
 **Implication:** Scapia's differentiation must lean harder into card-exclusive benefits (co-branded Federal Bank relationship, Scapia Coins on travel, zero forex markup) that a generic bank credit line on UPI cannot replicate. The risk is not immediate displacement but gradual spend migration for non-travel everyday purchases, eroding the base that cross-subsidises travel rewards [Inferred · Medium]
 
-## Leadership Signals
-
-**Deep Agrawal · Head of Payments, PhonePe** — 2026-06-22
-> "This is the second offering that will unlock the potential of credit usage on UPI, following the tremendous success of Rupay Credit Cards on UPI… This offering will revolutionise the access and use of credit in the country."[^clonupi]
-**Signal:** PhonePe is deliberately sequencing UPI credit products, signalling a roadmap ambition to own the credit-on-UPI layer across all bank partners
-**Belief:** [Inferred · High] Management believes UPI rails are sufficient to disintermediate traditional card networks for mainstream credit use cases
-
 ## Developments
 
 - 2026-06-22 — PhonePe launched Credit Line on UPI, enabling bank-approved credit lines to be linked and used for merchant payments on UPI rails[^clonupi]

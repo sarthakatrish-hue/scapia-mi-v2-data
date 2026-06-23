@@ -1,0 +1,221 @@
+{
+  "_comment": "Tracked leaders for the daily Leadership Watch (backend/leadership_watch.py). Editable: this file is git-synced into /data on first run; edit it there. company_subject_slug should match a wiki/subjects/<slug>.md where one exists. PHOTO OVERRIDE: set `photo` to a direct image URL (downloaded + stored once) or a \"/leaders/<file>\" path (drop the file in frontend-react/public/leaders/); it wins over auto-resolution. null = auto (article lead image → Wikimedia → initials). wikipedia_title seeds the Wikimedia photo lookup; null = look up by name. x_handle is best-effort tweet-reading only (gated by X_API_BEARER_TOKEN) and is NOT used for photos.",
+  "leaders": [
+    {
+      "name": "Kunal Shah",
+      "role": "Founder & CEO, CRED",
+      "company_subject_slug": "cred",
+      "x_handle": "kunalb11",
+      "wikipedia_title": "Kunal Shah (entrepreneur)",
+      "photo": null,
+      "rationale": "Premium cards + UPI + rewards mindshare — the closest analogue to Scapia's affluent-spender play."
+    },
+    {
+      "name": "Sashidhar Jagdishan",
+      "role": "MD & CEO, HDFC Bank",
+      "company_subject_slug": "hdfc-bank",
+      "x_handle": null,
+      "wikipedia_title": "Sashidhar Jagdishan",
+      "photo": null,
+      "rationale": "Runs India's largest card issuer (Infinia/DCB) — sets the premium-card benchmark Scapia competes against."
+    },
+    {
+      "name": "Amitabh Chaudhry",
+      "role": "MD & CEO, Axis Bank",
+      "company_subject_slug": "axis-bank",
+      "x_handle": null,
+      "wikipedia_title": "Amitabh Chaudhry",
+      "photo": null,
+      "rationale": "Issuer of Axis Atlas — the miles-led travel card most directly cross-shopped with Scapia."
+    },
+    {
+      "name": "Sandeep Bakhshi",
+      "role": "MD & CEO, ICICI Bank",
+      "company_subject_slug": "icici-bank",
+      "x_handle": null,
+      "wikipedia_title": "Sandeep Bakhshi",
+      "photo": null,
+      "rationale": "Emeralde + a deep co-brand book; a bellwether for premium-card economics and lounge policy."
+    },
+    {
+      "name": "V. Vaidyanathan",
+      "role": "MD & CEO, IDFC FIRST Bank",
+      "company_subject_slug": "idfc-first-bank",
+      "x_handle": null,
+      "wikipedia_title": "V. Vaidyanathan",
+      "photo": null,
+      "rationale": "Zero-forex premium cards (Mayura/WOW!) — directly attacks Scapia's zero-markup positioning."
+    },
+    {
+      "name": "Dilip Asbe",
+      "role": "MD & CEO, NPCI",
+      "company_subject_slug": "npci",
+      "x_handle": "dilipasbe",
+      "wikipedia_title": "Dilip Asbe",
+      "photo": null,
+      "rationale": "Owns UPI rails and credit-on-UPI policy — shapes whether cards or UPI win the spend."
+    },
+    {
+      "name": "Sanjay Malhotra",
+      "role": "Governor, Reserve Bank of India",
+      "company_subject_slug": "rbi",
+      "x_handle": null,
+      "wikipedia_title": "Sanjay Malhotra (civil servant)",
+      "photo": null,
+      "rationale": "RBI direction on co-brand norms, MDR and credit-on-UPI is existential for the card's economics."
+    },
+    {
+      "name": "Harshil Mathur",
+      "role": "Co-founder & CEO, Razorpay",
+      "company_subject_slug": "razorpay",
+      "x_handle": "harshilmathur",
+      "wikipedia_title": "Harshil Mathur",
+      "photo": null,
+      "rationale": "Payments-stack vantage point on where transaction value and credit are flowing."
+    },
+    {
+      "name": "Vinay Bagri",
+      "role": "Co-founder & CEO, Niyo",
+      "company_subject_slug": "niyo-global-sbm",
+      "x_handle": null,
+      "wikipedia_title": null,
+      "photo": null,
+      "rationale": "Zero-forex travel neobank for young travellers — Scapia's nearest neobank competitor."
+    },
+    {
+      "name": "Jitendra Gupta",
+      "role": "Founder & CEO, Jupiter",
+      "company_subject_slug": "jupiter",
+      "x_handle": "jitendragupta",
+      "wikipedia_title": null,
+      "photo": null,
+      "rationale": "Neobank turning into a lender — a read on the digital-first spend+credit bundle."
+    },
+    {
+      "name": "Anurag Sinha",
+      "role": "Co-founder & CEO, OneCard (FPL)",
+      "company_subject_slug": "onecard-issuer",
+      "x_handle": null,
+      "wikipedia_title": null,
+      "photo": null,
+      "rationale": "Metal-card neobank competing on app UX and lifetime-free — Scapia's design-led rival."
+    },
+    {
+      "name": "Rajan Bajaj",
+      "role": "Founder & CEO, slice",
+      "company_subject_slug": "slice",
+      "x_handle": "rajanbajaj_",
+      "wikipedia_title": null,
+      "photo": null,
+      "rationale": "Card-to-bank merger play; young-spender acquisition Scapia also targets."
+    },
+    {
+      "name": "Rajesh Magow",
+      "role": "Co-founder & Group CEO, MakeMyTrip",
+      "company_subject_slug": "makemytrip",
+      "x_handle": null,
+      "wikipedia_title": "Rajesh Magow",
+      "photo": null,
+      "rationale": "Runs India's largest OTA — the booking surface and loyalty layer Scapia's travel store competes with."
+    },
+    {
+      "name": "Deep Kalra",
+      "role": "Founder & Chairman, MakeMyTrip",
+      "company_subject_slug": "makemytrip",
+      "x_handle": "deepkalra",
+      "wikipedia_title": "Deep Kalra",
+      "photo": null,
+      "rationale": "Sets MMT's long-game on payments + travel bundling; frequent public strategy commentary."
+    },
+    {
+      "name": "Aloke Bajpai",
+      "role": "Co-founder & Group CEO, ixigo",
+      "company_subject_slug": "ixigo",
+      "x_handle": "alokebajpai",
+      "wikipedia_title": "Aloke Bajpai",
+      "photo": null,
+      "rationale": "ixigo's AU co-brand card is the closest direct travel-card co-brand to Scapia."
+    },
+    {
+      "name": "Nishant Pitti",
+      "role": "Co-founder & CEO, EaseMyTrip",
+      "company_subject_slug": "easemytrip",
+      "x_handle": "nishantpitti1",
+      "wikipedia_title": "Nishant Pitti",
+      "photo": null,
+      "rationale": "Aggressive OTA pricing + fintech moves; a signal on travel-distribution margins."
+    },
+    {
+      "name": "Glenn Fogel",
+      "role": "President & CEO, Booking Holdings",
+      "company_subject_slug": "booking",
+      "x_handle": null,
+      "wikipedia_title": "Glenn Fogel",
+      "photo": null,
+      "rationale": "Global OTA leader — connected-trip and fintech-in-travel direction that reaches India."
+    },
+    {
+      "name": "Ariane Gorin",
+      "role": "CEO, Expedia Group",
+      "company_subject_slug": "expedia",
+      "x_handle": null,
+      "wikipedia_title": "Ariane Gorin",
+      "photo": null,
+      "rationale": "Sets global OTA loyalty + B2B travel-tech trends relevant to Scapia's store."
+    },
+    {
+      "name": "Sam Altman",
+      "role": "CEO, OpenAI",
+      "company_subject_slug": "openai",
+      "x_handle": "sama",
+      "wikipedia_title": "Sam Altman",
+      "photo": null,
+      "rationale": "AI roadmap reshapes product, support and personalization across every fintech/travel rival."
+    },
+    {
+      "name": "Campbell Wilson",
+      "role": "CEO, Air India",
+      "company_subject_slug": "air-india",
+      "x_handle": null,
+      "wikipedia_title": "Campbell Wilson",
+      "photo": null,
+      "rationale": "Loyalty (Maharaja Club) + co-brand partnerships are a travel-rewards lever Scapia tracks."
+    },
+    {
+      "name": "Pieter Elbers",
+      "role": "CEO, IndiGo",
+      "company_subject_slug": "indigo",
+      "x_handle": null,
+      "wikipedia_title": "Pieter Elbers",
+      "photo": null,
+      "rationale": "India's largest carrier launching loyalty + co-brand — direct to the flights-rewards battleground."
+    },
+    {
+      "name": "Nikhil Kamath",
+      "role": "Co-founder, Zerodha / investor",
+      "company_subject_slug": "investor-nikhil-kamath",
+      "x_handle": "nikhilkamathcio",
+      "wikipedia_title": "Nikhil Kamath",
+      "photo": null,
+      "rationale": "Prominent fintech investor/commentator — early read on where capital and consumer-finance bets are going."
+    },
+    {
+      "name": "Sumit Gwalani",
+      "role": "Co-founder, Fi (epiFi)",
+      "company_subject_slug": "fi-money",
+      "x_handle": null,
+      "wikipedia_title": null,
+      "photo": null,
+      "rationale": "Affluent-millennial neobank with a spends+rewards focus overlapping Scapia's base."
+    },
+    {
+      "name": "Sujith Narayanan",
+      "role": "Co-founder & CEO, Fi (epiFi)",
+      "company_subject_slug": "fi-money",
+      "x_handle": null,
+      "wikipedia_title": null,
+      "photo": null,
+      "rationale": "Drives Fi's credit + rewards expansion — a direct read on the digital-first spend bundle."
+    }
+  ]
+}
