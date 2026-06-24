@@ -121,3 +121,5 @@ Append-only ingest/query/lint event log.
 ## [2026-06-24] ingest | the-future-of-upi-in-2026-simple-fast-and-for-everyone.md | Maker: 6/10, Checker: 4/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-24] ingest | the-future-of-upi-in-2026-simple-fast-and-for-everyone.md → subjects/upi-evolution-2026.md, sources/2026-06-24-the-future-of-upi-in-2026-simple-fast-and-for-everyone.md | Auto-approved
+
+## [2026-06-24] crawl-drop | rbi-standardizes-upi-credit-rules-to-align-with-base-loans.md | Maker: 9/10 BORDERLINE — dropped (autonomous, no queue)
