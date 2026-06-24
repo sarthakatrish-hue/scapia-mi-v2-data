@@ -131,3 +131,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-24] ingest | major-banking-tax-upi-transaction-rule-changes-kicking-in-from-june-2026-key-poi.md | Maker: 6/10, Checker: 5/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-24] ingest | major-banking-tax-upi-transaction-rule-changes-kicking-in-from-june-2026-key-poi.md → subjects/npci.md, subjects/icici-bank.md, subjects/hdfc-bank.md, subjects/bank-of-baroda.md, sources/2026-06-24-major-banking-tax-upi-transaction-rule-changes-kicking-in-from-june-2026-key-poi.md | Auto-approved
+
+## [2026-06-24] update | entity-registry += upi-lite (regulator), aadhaar-face-authentication (regulator), project-nexus (regulator) (from upi-payments-in-2026-new-features-transaction-limits-future-of-digital-india.md)
+
+## [2026-06-24] ingest | upi-payments-in-2026-new-features-transaction-limits-future-of-digital-india.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-24] ingest | upi-payments-in-2026-new-features-transaction-limits-future-of-digital-india.md → subjects/npci.md, subjects/phonepe.md, subjects/amazon-pay.md, sources/2026-06-24-upi-payments-in-2026-new-features-transaction-limits-future-of-digital-india.md | Auto-approved

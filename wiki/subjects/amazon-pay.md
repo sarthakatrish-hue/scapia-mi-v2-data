@@ -7,23 +7,17 @@ categories: [upi, cards, stays, store]
 domain_url: pay.amazon.in
 logo: null
 issuer: null
-keywords: [amazon-pay, rewards-gold, cashback, upi, prime, travel, grocery, entertainment, icici-cobranded]
+keywords: [upi, market-share, digital-payments, cashback, rewards-gold, top-5-upi]
 signal: threat
-headline: "'Amazon Pay bets on volume-gated cashback to cement everyday payments dominance'"
-vitals: ["['5%|Cashback (Prime)|Scapia earns on card spends, not UPI volume gates', '25 txns/3 months|Qualification bar|Scapia has no transaction threshold to unlock benefits', '0|Annual fee|Both free to hold/use']"]
-scoreboard: ["UPI & Payments|High|up", "Loyalty & Rewards|High|up", "Travel Booking|Medium|up"]
-last_updated: 2026-06-22
+headline: "'Amazon Pay rounds out top 5 UPI apps on a 500M-user platform growing rapidly'"
+vitals: ["['Top 5|UPI app ranking|PhonePe 48.3%, Google Pay 37% ahead; Amazon Pay sub-5%', '500M+|UPI platform users|Tailwind for all top-5 apps including Amazon Pay', '0|Forex edge|Scapia zero markup vs Amazon Pay UPI has no cross-border play']"]
+scoreboard: ["UPI & Payments|High|steady"]
+last_updated: 2026-06-24
 ---
 
 ## What we know
 
-**Rewards Gold programme launched** — Amazon Pay introduced Rewards Gold, offering up to 5% cashback to users who complete 25 transactions in any 3-month rolling window.[^amzpay-20250710]
-**Prime vs non-Prime split** — Prime members earn 5% cashback; non-Prime users earn 3% on eligible transactions — no stated cap on either tier.[^amzpay-20250710]
-**Broad category coverage** — Cashback applies across groceries, clothing, food delivery (Zomato, Domino's/District, Ola), hotel bookings, entertainment (JioHotstar, Xbox), and offline at 55,000+ merchants.[^amzpay-20250710]
-**Travel vertical included** — Hotel bookings explicitly earn 5% unlimited cashback, bringing Amazon Pay into direct competition on the stays category.[^amzpay-20250710]
-**Stacks with ICICI co-brand** — Rewards Gold cashback is additive to Amazon Pay ICICI credit card rewards, deepening the moat for existing ICICI cardholders.[^amzpay-20250710]
-**Activation threshold is UPI-friendly** — Any 25 transactions — UPI, QR scan, recharge, send money — count toward qualification, lowering friction significantly.[^amzpay-20250710]
-**Timed to Prime Day** — Launch comes days before the July 12–14 Prime Day sale, suggesting an acquisition and engagement push timed to peak spend.[^amzpay-20250710]
+**Amazon Pay in UPI top 5** — Amazon Pay is confirmed among the top 5 UPI apps in India in 2026, alongside PhonePe, Google Pay, Paytm, and CRED[^upi2026-amzp-jun24]
 
 ## Competitor Intel
 
@@ -47,6 +41,10 @@ last_updated: 2026-06-22
 
 ## Coverage
 
+### Amazon Pay Confirmed UPI Top 5 — 2026-06-24
+
+The 2026 UPI landscape article confirms Amazon Pay holds a top-5 position among Indian UPI apps, on a platform that now serves 500 million unique users and processes 21 billion transactions monthly[^upi2026-amzp-jun24]. PhonePe (48.3%) and Google Pay (37%) dominate, but the sheer scale of UPI growth means even sub-5% players like Amazon Pay are riding a structurally expanding base — reinforcing the distribution advantage Amazon Pay already wields via its e-commerce and Prime ecosystem.
+
 ### Amazon Pay Launches Rewards Gold — 2025-07-10
 
 Amazon Pay launched Rewards Gold, a tiered cashback programme that pays Prime members 5% and non-Prime users 3% on eligible transactions after they complete any 25 payments or purchases within a rolling 3-month window.[^amzpay-20250710] The programme covers groceries, food delivery, offline retail, entertainment, and — directly relevant to Scapia — hotel bookings, with cashback described as unlimited and assured.[^amzpay-20250710] The timing, days before Prime Day (July 12–14), signals a deliberate acquisition and habit-formation push.[^amzpay-20250710]
@@ -57,8 +55,10 @@ Scapia's clearest counter is specificity: Rewards Gold is a generalist cashback 
 
 ## Developments
 
+- 2026-06-24 — Amazon Pay Confirmed UPI Top 5 [^upi2026-amzp-jun24]
 - 2025-07-10 — Amazon Pay Launches Rewards Gold [^amzpay-20250710]
 
 ## Sources
 
 [^amzpay-20250710]: raw/ambiguous/amazon-pay-launches-rewards-gold-get-5-cashback-every-time-you-spend.md
+[^upi2026-amzp-jun24]: raw/ambiguous/upi-payments-in-2026-new-features-transaction-limits-future-of-digital-india.md

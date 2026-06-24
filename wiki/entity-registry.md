@@ -38,6 +38,12 @@ treated as context until promoted).
 
 ## Regulators
 
+- project-nexus | regulator | Project Nexus | newly-surfaced · added_by: agent 2026-06-24 · source: upi-payments-in-2026-new-features-transaction-limits-future-of-digital-india.md · multilateral cross-border payment initiative to interlink fast payment systems, expected live by 2026
+
+- aadhaar-face-authentication | regulator | Aadhaar Face Authentication | newly-surfaced · added_by: agent 2026-06-24 · source: upi-payments-in-2026-new-features-transaction-limits-future-of-digital-india.md · biometric authentication mechanism for UPI transactions piloted in 2026
+
+- upi-lite | regulator | UPI Lite | newly-surfaced · added_by: agent 2026-06-24 · source: upi-payments-in-2026-new-features-transaction-limits-future-of-digital-india.md · offline-UPI payment product with ₹5,000 limit for low-connectivity areas
+
 - epfo | regulator | Employees' Provident Fund Organisation | newly-surfaced · added_by: agent 2026-06-24 · source: major-banking-tax-upi-transaction-rule-changes-kicking-in-from-june-2026-key-poi.md · government social security body introducing UPI-linked withdrawal infrastructure
 
 - authentication-mechanisms-for-digital-payment-transactions-directions-2025 | regulator | RBI Authentication Mechanisms Directions 2025 | domain: rbi.org.in | newly-surfaced · added_by: agent 2026-06-24 · source: rbi-new-upi-rules-2026-2fa-afa-impact-benefits-explained.md · mandate requiring 2FA/AFA for UPI, cards and wallets effective 1 April 2026
