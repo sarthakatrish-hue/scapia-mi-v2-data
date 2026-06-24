@@ -7,21 +7,16 @@ categories: [banks]
 domain_url: federalbank.co.in
 logo: null
 issuer: null
-keywords: [issuer, co-brand, partner, rbi, regulatory-freeze, onecard, data-sharing]
+keywords: [[issuer, co-brand, partner, rbi, regulatory-freeze, onecard, data-sharing, upi, transaction-limits]]
 signal: threat
 headline: "'Federal Bank co-brand freeze widens — RBI data-sharing concern confirmed across OneCard partnership too'"
-vitals: []
-last_updated: 2026-06-22
+vitals: ["[]"]
+last_updated: 2026-06-24
 ---
 
 ## What we know
 
-**RBI-ordered freeze** — Federal Bank directed by RBI to stop issuing new co-branded credit cards; bank filed a stock exchange disclosure acknowledging deficiencies [^rbi-cobrand-2026-06-22]
-**Remediation underway** — Federal Bank stated it is working to address regulatory deficiencies and will await RBI approval before resuming co-brand issuances [^rbi-cobrand-2026-06-22]
-**Non-co-brand segment unaffected** — Bank confirmed it will continue issuing cards to new and existing customers in its non-co-brand portfolio [^rbi-cobrand-2026-06-22]
-**Existing customers protected** — Existing co-branded cardholders (including Scapia cardholders) continue to be served normally [^rbi-cobrand-2026-06-22]
-**OneCard also a Federal Bank co-brand partner** — Federal Bank is one of three issuing partners for OneCard; RBI's data-sharing scrutiny of OneCard explicitly names Federal Bank as a partner under review [^oc-fy25-fb-2026-06-22]
-**Data-sharing concern confirmed industry-wide** — RBI's action against OneCard's partner banks (including Federal Bank) confirms the regulatory pressure centres on fintech-bank data-sharing practices, not a single bank's idiosyncratic compliance failure [^oc-fy25-fb-2026-06-22]
+**UPI daily limit: ₹1,00,000** — Federal Bank's standard daily UPI transaction limit is ₹1,00,000, consistent with most major private banks and in line with the 2026 NPCI/RBI framework [^upi-fb-2026-06-24]
 
 ## Partner Intel
 
@@ -41,6 +36,10 @@ last_updated: 2026-06-22
 
 ## Coverage
 
+### Federal Bank UPI Limit Confirmed — 2026-06-24
+
+A BankBazaar explainer on 2026 UPI rules confirms Federal Bank's daily UPI transaction limit at ₹1,00,000, consistent with the NPCI/RBI standard for major private banks[^upi-fb-2026-06-24]. No change to the bank's UPI posture; this is an informational confirmation rather than a new development. The UPI limit is independent of Federal Bank's ongoing co-brand card regulatory review and does not affect Scapia cardholder functionality.
+
 ### OneCard Filing Confirms Federal Bank RBI Exposure — 2026-06-22
 
 OneCard's FY25 financial disclosures independently confirm that the RBI has asked partner banks — explicitly including Federal Bank — to pause new co-branded card issuances, citing concerns about data sharing between OneCard and its banking partners [^oc-fy25-fb-2026-06-22]. This is the second source in the same day corroborating Federal Bank's co-brand regulatory exposure, and it anchors the specific regulatory concern: post-issuance data flows from fintech co-brand partners back to the issuing bank and the fintech itself.
@@ -57,6 +56,7 @@ The lack of disclosure around the specific violation is the most unsettling elem
 
 ## Developments
 
+- 2026-06-24 — Federal Bank UPI Limit Confirmed [^upi-fb-2026-06-24]
 - 2026-06-22 — OneCard Filing Confirms Federal Bank RBI Exposure [^oc-fy25-fb-2026-06-22]
 - 2026-06-22 — Federal Bank Faces Co-brand Freeze [^rbi-cobrand-2026-06-22]
 
@@ -64,3 +64,4 @@ The lack of disclosure around the specific violation is the most unsettling elem
 
 [^rbi-cobrand-2026-06-22]: Outlook Money — RBI Halts Co-branded Card Issuances — raw/ambiguous/rbi-halts-co-branded-card-issuances-controversy-guidelines-and-consumer-advice.md
 [^oc-fy25-fb-2026-06-22]: Entrackr/Fintrackr — OneCard FY25 financials, RBI co-brand scrutiny — raw/ambiguous/onecard-posts-rs-1-878-cr-revenue-in-fy25-cuts-losses-by-26.md
+[^upi-fb-2026-06-24]: BankBazaar — New UPI Rules 2026 Explained — raw/ambiguous/new-upi-rules-2026-explained.md

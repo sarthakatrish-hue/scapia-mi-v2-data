@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/upi-regulatory-framework-2026]] — "RBI and NPCI tighten UPI rules on interchange fees, limits, and payee name verification"
 - [[subjects/fi-money]] — "Cash-strapped Fi Money exits consumer neobanking for AI-driven B2B play"
 - [[subjects/revolut]] — "Revolut enters India with UPI and prepaid cards, targeting 20 million users by 2030"
 - [[subjects/kiwi]] — "Kiwi lands first public-sector bank co-brand with PNB on RuPay-UPI credit"
@@ -13,7 +14,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/federal-bank]] — "Federal Bank co-brand freeze widens — RBI data-sharing concern confirmed across OneCard partnership too"
 - [[subjects/rbi-cobranded-card-scrutiny]] — "RBI halts co-brand card issuances, tightening fintech-bank partnership rules"
 - [[subjects/atlys]] — Atlys raises $36M Series C to accelerate AI-driven global visa platform
-- [[subjects/phonepe]] — PhonePe launches Credit Line on UPI, expanding credit access across millions of merchants
+- [[subjects/phonepe]] — "PhonePe launches Credit Line on UPI, expanding credit access across millions of merchants"
 - [[subjects/india-travel-ai-divide-2026]] — "Indian OTAs are diverging sharply on AI strategy, creating a window for Scapia"
 - [[subjects/tbo-tek]] — "TBO Tek treats AI as an internal efficiency tool, not a disruptive force yet"
 - [[subjects/bobcard-etihad-base]]

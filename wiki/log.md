@@ -107,3 +107,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-22] ingest | batch b_1a4a019bd1: 11 URLs — 2 error, 9 ingested
 
 ## [2026-06-23] crawl | autonomous | universe 54, 20 searches → 0 candidates | ingested 0/12 (vault 0, market-signal 0), dropped 0, queued 0, dupes 0, stale 0, irrelevant 0, errors 0
+
+## [2026-06-24] ingest | new-upi-rules-2026-explained.md | Maker: 7/10, Checker: 7/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-24] ingest | new-upi-rules-2026-explained.md → subjects/upi-regulatory-framework-2026.md, subjects/federal-bank.md, subjects/phonepe.md, sources/2026-06-24-new-upi-rules-2026-explained.md | Auto-approved
