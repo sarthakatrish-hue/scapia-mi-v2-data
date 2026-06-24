@@ -38,6 +38,8 @@ treated as context until promoted).
 
 ## Regulators
 
+- authentication-mechanisms-for-digital-payment-transactions-directions-2025 | regulator | RBI Authentication Mechanisms Directions 2025 | domain: rbi.org.in | newly-surfaced · added_by: agent 2026-06-24 · source: rbi-new-upi-rules-2026-2fa-afa-impact-benefits-explained.md · mandate requiring 2FA/AFA for UPI, cards and wallets effective 1 April 2026
+
 - rbi | regulator | Reserve Bank of India | aliases: reserve bank
 - npci | regulator | NPCI | aliases: national payments corporation of india
 - dgca | regulator | DGCA | aliases: directorate general of civil aviation
@@ -97,6 +99,8 @@ treated as context until promoted).
 - hdfc-bank | competitor | HDFC Bank | added_by: agent 2026-06-22 · source: 2026-06-22-hdfc-regalia-gold-revamp.md · Indian systemically important bank; issuer of co-branded and proprietary premium travel credit cards (Regalia Gold, Regalia Platinum, etc.); major benchmark in India's premium segment.
 
 ## Context (never gets a page)
+
+- pine-labs | context | Pine Labs | newly-surfaced · added_by: agent 2026-06-24 · source: rbi-new-upi-rules-2026-2fa-afa-impact-benefits-explained.md · payments infrastructure provider and systems integrator
 
 ## Partner candidates (pending curator confirmation)
 

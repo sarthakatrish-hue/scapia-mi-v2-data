@@ -111,3 +111,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-24] ingest | new-upi-rules-2026-explained.md | Maker: 7/10, Checker: 7/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-24] ingest | new-upi-rules-2026-explained.md → subjects/upi-regulatory-framework-2026.md, subjects/federal-bank.md, subjects/phonepe.md, sources/2026-06-24-new-upi-rules-2026-explained.md | Auto-approved
+
+## [2026-06-24] update | entity-registry += pine-labs (context), authentication-mechanisms-for-digital-payment-transactions-directions-2025 (regulator) (from rbi-new-upi-rules-2026-2fa-afa-impact-benefits-explained.md)
+
+## [2026-06-24] ingest | rbi-new-upi-rules-2026-2fa-afa-impact-benefits-explained.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-24] ingest | rbi-new-upi-rules-2026-2fa-afa-impact-benefits-explained.md → subjects/authentication-mechanisms-for-digital-payment-transactions-directions-2025.md, sources/2026-06-24-rbi-new-upi-rules-2026-2fa-afa-impact-benefits-explained.md | Auto-approved
