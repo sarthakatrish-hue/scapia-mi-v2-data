@@ -2,6 +2,9 @@
   "roles": {
     "rathina@scapia.cards": [
       "leader"
+    ],
+    "gaurav.mankele@scapia.cards": [
+      "leader"
     ]
   },
   "access_requests": [
@@ -11,7 +14,7 @@
       "email": "gaurav.mankele@scapia.cards",
       "requested_role": "leader",
       "reason": "Platform access request",
-      "status": "pending",
+      "status": "granted",
       "ts": 1782279886142
     },
     {
