@@ -38,10 +38,12 @@ treated as context until promoted).
 
 ## Regulators
 
+- epfo | regulator | Employees' Provident Fund Organisation | newly-surfaced · added_by: agent 2026-06-24 · source: major-banking-tax-upi-transaction-rule-changes-kicking-in-from-june-2026-key-poi.md · government social security body introducing UPI-linked withdrawal infrastructure
+
 - authentication-mechanisms-for-digital-payment-transactions-directions-2025 | regulator | RBI Authentication Mechanisms Directions 2025 | domain: rbi.org.in | newly-surfaced · added_by: agent 2026-06-24 · source: rbi-new-upi-rules-2026-2fa-afa-impact-benefits-explained.md · mandate requiring 2FA/AFA for UPI, cards and wallets effective 1 April 2026
 
 - rbi | regulator | Reserve Bank of India | aliases: reserve bank
-- npci | regulator | NPCI | aliases: national payments corporation of india
+- npci | regulator | NPCI | aliases: national payments corporation of india | domain: npci.org.in
 - dgca | regulator | DGCA | aliases: directorate general of civil aviation
 - sebi | regulator | SEBI |
 - meity | regulator | MeitY | aliases: ministry of electronics and information technology | DPDP Act owner
@@ -49,6 +51,8 @@ treated as context until promoted).
 
 
 ## Competitors
+
+- bank-of-baroda | competitor | Bank of Baroda | domain: bankofbaroda.in | newly-surfaced · added_by: agent 2026-06-24 · source: major-banking-tax-upi-transaction-rule-changes-kicking-in-from-june-2026-key-poi.md · operates credit card products and reward programs competing in Indian market
 
 - fi-money | competitor | Fi Money | domain: fi.money | added_by: agent 2026-06-22 · source: cash-strapped-fi-money-pivots-to-ai-led-b2b-play.md · Indian neobank founded 2019, pivoting from consumer lending to B2B/AI after funding burnout and ₹300 Cr FY23 losses
 
@@ -78,7 +82,7 @@ treated as context until promoted).
 - idfc-first-bank | competitor | Idfc First Bank | domain: idfcfirstbank.com | added_by: foundation 2026-06-22
 - rbl-bank | competitor | Rbl Bank | added_by: foundation 2026-06-22
 - sbi-card | competitor | Sbi Card | added_by: foundation 2026-06-22
-- icici-bank | competitor | Icici Bank | added_by: foundation 2026-06-22
+- icici-bank | competitor | Icici Bank | domain: icicibank.com | added_by: foundation 2026-06-22
 - axis-bank | competitor | Axis Bank | added_by: foundation 2026-06-22
 - bobcard-etihad-base | competitor | Bobcard Etihad Base | added_by: foundation 2026-06-22
 - axis-burgundy-private | competitor | Axis Burgundy Private | added_by: foundation 2026-06-22
@@ -96,7 +100,7 @@ treated as context until promoted).
 - hdfc-diners-black | competitor | Hdfc Diners Black | added_by: foundation 2026-06-22
 - hdfc-infinia | competitor | Hdfc Infinia | added_by: foundation 2026-06-22
 
-- hdfc-bank | competitor | HDFC Bank | added_by: agent 2026-06-22 · source: 2026-06-22-hdfc-regalia-gold-revamp.md · Indian systemically important bank; issuer of co-branded and proprietary premium travel credit cards (Regalia Gold, Regalia Platinum, etc.); major benchmark in India's premium segment.
+- hdfc-bank | competitor | HDFC Bank | domain: hdfcbank.com | added_by: agent 2026-06-22 · source: 2026-06-22-hdfc-regalia-gold-revamp.md · Indian systemically important bank; issuer of co-branded and proprietary premium travel credit cards (Regalia Gold, Regalia Platinum, etc.); major benchmark in India's premium segment.
 
 ## Context (never gets a page)
 

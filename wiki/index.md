@@ -3,6 +3,8 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/bank-of-baroda]] — Bank of Baroda raises interest rate on One co-branded card unpaid dues
+- [[subjects/npci]] — NPCI mandates verified recipient names on UPI to curb payment fraud
 - [[subjects/upi-evolution-2026]] — UPI grows into credit, global reach, and offline rails by 2026
 - [[subjects/authentication-mechanisms-for-digital-payment-transactions-directions-2025]] — RBI mandates two-factor authentication across all digital payments from April 2026
 - [[subjects/upi-regulatory-framework-2026]] — "RBI and NPCI tighten UPI rules on interchange fees, limits, and payee name verification"
@@ -41,7 +43,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/idfc-first-bank]] — "IDFC First Bank named in RBI co-brand data-sharing scrutiny via OneCard partnership"
 - [[subjects/rbl-bank]]
 - [[subjects/sbi-card]]
-- [[subjects/icici-bank]]
+- [[subjects/icici-bank]] — ICICI trims Amazon Pay card rewards on rent payments from June 2026
 - [[subjects/axis-bank]]
-- [[subjects/hdfc-bank]]
+- [[subjects/hdfc-bank]] — HDFC Bank cuts SMS alerts for small transactions from June 25 2026
 - [[subjects/hdfc-regalia-gold]] — HDFC sharpens Regalia Gold for mass-premium salaried travelers with tighter rewards

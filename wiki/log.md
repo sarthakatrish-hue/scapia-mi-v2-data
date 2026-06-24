@@ -125,3 +125,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-24] crawl-drop | rbi-standardizes-upi-credit-rules-to-align-with-base-loans.md | Maker: 9/10 BORDERLINE — dropped (autonomous, no queue)
 
 ## [2026-06-24] filter-reject | june-2026-upi-and-lpg-rule-changes-key-financial-and-utility-updates-for-exam-pr.md | Maker: 2/10 AUTO-REJECT — Generic exam-prep placeholder with no specific rule details, mechanism, or ecosystem impact; UPI mention alone insufficient without concrete policy content.
+
+## [2026-06-24] update | entity-registry += bank-of-baroda (competitor), epfo (regulator) (from major-banking-tax-upi-transaction-rule-changes-kicking-in-from-june-2026-key-poi.md)
+
+## [2026-06-24] ingest | major-banking-tax-upi-transaction-rule-changes-kicking-in-from-june-2026-key-poi.md | Maker: 6/10, Checker: 5/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-24] ingest | major-banking-tax-upi-transaction-rule-changes-kicking-in-from-june-2026-key-poi.md → subjects/npci.md, subjects/icici-bank.md, subjects/hdfc-bank.md, subjects/bank-of-baroda.md, sources/2026-06-24-major-banking-tax-upi-transaction-rule-changes-kicking-in-from-june-2026-key-poi.md | Auto-approved
