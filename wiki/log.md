@@ -123,3 +123,5 @@ Append-only ingest/query/lint event log.
 ## [2026-06-24] ingest | the-future-of-upi-in-2026-simple-fast-and-for-everyone.md → subjects/upi-evolution-2026.md, sources/2026-06-24-the-future-of-upi-in-2026-simple-fast-and-for-everyone.md | Auto-approved
 
 ## [2026-06-24] crawl-drop | rbi-standardizes-upi-credit-rules-to-align-with-base-loans.md | Maker: 9/10 BORDERLINE — dropped (autonomous, no queue)
+
+## [2026-06-24] filter-reject | june-2026-upi-and-lpg-rule-changes-key-financial-and-utility-updates-for-exam-pr.md | Maker: 2/10 AUTO-REJECT — Generic exam-prep placeholder with no specific rule details, mechanism, or ecosystem impact; UPI mention alone insufficient without concrete policy content.

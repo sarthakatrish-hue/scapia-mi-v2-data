@@ -1,6 +1,19 @@
 {
   "pending_queue": [],
-  "rejection_log": [],
+  "rejection_log": [
+    {
+      "id": "reject-9ef18f9f",
+      "filename": "june-2026-upi-and-lpg-rule-changes-key-financial-and-utility-updates-for-exam-pr.md",
+      "score": "2/10",
+      "checker_score": null,
+      "checker_reason": null,
+      "band": "AUTO-REJECT",
+      "outcome": null,
+      "reason": "Generic exam-prep placeholder with no specific rule details, mechanism, or ecosystem impact; UPI mention alone insufficient without concrete policy content.",
+      "maker_reason": "Generic exam-prep placeholder with no specific rule details, mechanism, or ecosystem impact; UPI mention alone insufficient without concrete policy content.",
+      "timestamp": "2026-06-24"
+    }
+  ],
   "health": {
     "entity_count": 0,
     "regulatory_count": 0,
