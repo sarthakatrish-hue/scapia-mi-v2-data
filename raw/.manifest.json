@@ -1,3 +1,108 @@
 {
- "seen": {}
+ "seen": {
+  "82a464dc898cc1fe5b932f9a": {
+   "url": "https://www.bankbazaar.com/ifsc/upi-rules.html",
+   "status": "AUTO-APPROVE",
+   "content_hash": "6f24c2e882ea46638477ff38",
+   "autonomous": true,
+   "at": "2026-06-24"
+  },
+  "27c33205ea5bb8412712c37d": {
+   "url": "https://suryaschoolsadalpur.in/upi-new-rule-2026/",
+   "status": "fetch-error",
+   "at": "2026-06-24"
+  },
+  "27fef8d67a63620a69dcbb77": {
+   "url": "https://drkodalisandhyaneuro.com/upi-new-rules-2026-key-changes-for-payments-above-%E2%82%B92000/",
+   "status": "fetch-error",
+   "at": "2026-06-24"
+  },
+  "ef3d73d5095e7552b64fa711": {
+   "url": "https://www.pinelabs.com/blog/what-are-rbis-new-upi-rules-in-2026-latest-updates-impacts-benefits",
+   "status": "AUTO-APPROVE",
+   "content_hash": "c780907922f2eb2d907945ef",
+   "autonomous": true,
+   "at": "2026-06-24"
+  },
+  "e74bd8d957c8040c26500cea": {
+   "url": "https://ezdroptaxi.in/upi-new-rules-2026/",
+   "status": "fetch-error",
+   "at": "2026-06-24"
+  },
+  "ae70f29165f15a8be643e1ea": {
+   "url": "https://www.stashfin.com/blogs/what-is-the-future-of-upi-payments-in-india",
+   "status": "AUTO-APPROVE",
+   "content_hash": "f911f831d5701fe14c4d8bc9",
+   "autonomous": true,
+   "at": "2026-06-24"
+  },
+  "9e375e3d54a89282483dbc37": {
+   "url": "https://www.whalesbook.com/news/English/bankingfinance/RBI-Standardizes-UPI-Credit-Rules-to-Align-With-Base-Loans/6a3a98f2a1c5bf084329da12",
+   "status": "BORDERLINE",
+   "content_hash": "23db87c2734d85215158d0b3",
+   "autonomous": true,
+   "at": "2026-06-24"
+  },
+  "b6748448415208ee18ba9aaa": {
+   "url": "https://www.superprep.io/current-affairs/june-2026-upi-lpg-rule-changes-exam-prep",
+   "status": "AUTO-REJECT",
+   "content_hash": "bac21608b36fa6dc9487388d",
+   "autonomous": true,
+   "at": "2026-06-24"
+  },
+  "73298b302b892464ff87176b": {
+   "url": "https://shiningindianews.com/2026/06/major-banking-tax-upi-transaction-rule-changes-kicking-in-from-june-2026-key-points-to-know/",
+   "status": "AUTO-APPROVE",
+   "content_hash": "1d7e0e4b2bf562173a6f011a",
+   "autonomous": true,
+   "at": "2026-06-24"
+  },
+  "78f026dd78eff7fb5b4398bd": {
+   "url": "https://www.facebook.com/etnow/posts/upi-new-rules-june-2026-key-revamp-in-digital-payment-ecosystem-what-changes-in-/1414672127358354/",
+   "status": "no-relevant-article",
+   "at": "2026-06-24"
+  },
+  "04c9fefd82528b75ec718081": {
+   "url": "https://www.upi.com/",
+   "status": "no-relevant-article",
+   "at": "2026-06-24"
+  },
+  "1069ef381487a53aa5c0428c": {
+   "url": "https://www.insightfulpost.com/upi-payments-2026-new-features-limits/",
+   "status": "AUTO-APPROVE",
+   "content_hash": "95c316e1fecfeb4c1e62937b",
+   "autonomous": true,
+   "at": "2026-06-24"
+  },
+  "c4aaaf54cb9d2a6121a286ab": {
+   "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12300",
+   "status": "fetch-error",
+   "at": "2026-06-24"
+  },
+  "e10ffa334e2e8698442e2eee": {
+   "url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/92MDCREDITDEBITCARDC423AFFB5E7945149C95CDD2F71E9158.PDF",
+   "status": "no-relevant-article",
+   "at": "2026-06-24"
+  },
+  "e271ca3d747aa0fc826b4456": {
+   "url": "https://www.rbi.org.in/commonman/english/scripts/FAQs.aspx?Id=3580",
+   "status": "fetch-error",
+   "at": "2026-06-24"
+  },
+  "f2c1ad3253d22d7c119d58aa": {
+   "url": "https://rbi.org.in/commonman/English/scripts/PressReleases.aspx?Id=2609",
+   "status": "fetch-error",
+   "at": "2026-06-24"
+  },
+  "b2beda0b1cf48bb1a5a1a682": {
+   "url": "https://www.rbi.org.in/commonman/English/scripts/Notification.aspx?Id=2620",
+   "status": "fetch-error",
+   "at": "2026-06-24"
+  },
+  "4e4ff5b51822cb7e64b4e614": {
+   "url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/MDR06122017317CE333007D406A9002F5A119229563.PDF",
+   "status": "no-relevant-article",
+   "at": "2026-06-24"
+  }
+ }
 }
