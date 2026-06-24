@@ -1,6 +1,16 @@
 {
   "roles": {},
-  "access_requests": [],
+  "access_requests": [
+    {
+      "id": "req_1782277244811_57940",
+      "name": "Rathinamurthy R",
+      "email": "rathina@scapia.cards",
+      "requested_role": "leader",
+      "reason": "Platform access request",
+      "status": "pending",
+      "ts": 1782277244811
+    }
+  ],
   "users": {
     "sarthak.atrish@scapia.cards": {
       "name": "Sarthak Atrish",
