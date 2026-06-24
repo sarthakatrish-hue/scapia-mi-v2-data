@@ -1,5 +1,9 @@
 {
-  "roles": {},
+  "roles": {
+    "rathina@scapia.cards": [
+      "leader"
+    ]
+  },
   "access_requests": [
     {
       "id": "req_1782277244811_57940",
@@ -7,7 +11,7 @@
       "email": "rathina@scapia.cards",
       "requested_role": "leader",
       "reason": "Platform access request",
-      "status": "pending",
+      "status": "granted",
       "ts": 1782277244811
     }
   ],
