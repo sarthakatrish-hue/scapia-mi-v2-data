@@ -139,3 +139,5 @@ Append-only ingest/query/lint event log.
 ## [2026-06-24] ingest | upi-payments-in-2026-new-features-transaction-limits-future-of-digital-india.md → subjects/npci.md, subjects/phonepe.md, subjects/amazon-pay.md, sources/2026-06-24-upi-payments-in-2026-new-features-transaction-limits-future-of-digital-india.md | Auto-approved
 
 ## [2026-06-24] crawl | autonomous | universe 54, 2 searches → 18 candidates | ingested 5/8 (vault 4, market-signal 1), dropped 2, queued 0, dupes 0, stale 0, irrelevant 4, errors 7
+
+## [2026-06-24] query/greeting | Tell me abo
