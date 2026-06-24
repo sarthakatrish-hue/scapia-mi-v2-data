@@ -117,3 +117,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-24] ingest | rbi-new-upi-rules-2026-2fa-afa-impact-benefits-explained.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-24] ingest | rbi-new-upi-rules-2026-2fa-afa-impact-benefits-explained.md → subjects/authentication-mechanisms-for-digital-payment-transactions-directions-2025.md, sources/2026-06-24-rbi-new-upi-rules-2026-2fa-afa-impact-benefits-explained.md | Auto-approved
+
+## [2026-06-24] ingest | the-future-of-upi-in-2026-simple-fast-and-for-everyone.md | Maker: 6/10, Checker: 4/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-24] ingest | the-future-of-upi-in-2026-simple-fast-and-for-everyone.md → subjects/upi-evolution-2026.md, sources/2026-06-24-the-future-of-upi-in-2026-simple-fast-and-for-everyone.md | Auto-approved
