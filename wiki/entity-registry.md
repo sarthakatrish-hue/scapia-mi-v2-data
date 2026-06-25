@@ -32,7 +32,7 @@ treated as context until promoted).
 ## Partners
 
 - federal-bank | partner | Federal Bank | aliases: federal | domain: federalbank.co.in | Co-brand issuer since Jun 2023; ALSO issues for other fintechs — competitive moves by Federal go on the partner page under Current Risks, never as a competitor page
-- bobcard | partner | BOBCARD | aliases: bob card, bank of baroda cards | Second co-brand issuer (Bank of Baroda subsidiary)
+- bobcard | partner | BOBCARD | aliases: bob card, bank of baroda cards | domain: bobcard.co.in | Second co-brand issuer (Bank of Baroda subsidiary)
 - visa | partner | Visa | | Card network for the Visa variant
 - rupay | partner | RuPay | | Card network for the UPI variant (NPCI product — NPCI itself is a regulator)
 
@@ -57,6 +57,16 @@ treated as context until promoted).
 
 
 ## Competitors
+
+- flipkart-travel | competitor | Flipkart Travel | newly-surfaced · added_by: agent 2026-06-25 · source: bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md · e-commerce player offering travel booking and deals
+
+- yatra | competitor | Yatra | newly-surfaced · added_by: agent 2026-06-25 · source: bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md · online travel agency for flights, hotels, and experiences
+
+- goibibo | competitor | Goibibo | newly-surfaced · added_by: agent 2026-06-25 · source: bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md · travel booking platform for flights, stays, and buses
+
+- easemytrip | competitor | EaseMyTrip | newly-surfaced · added_by: agent 2026-06-25 · source: bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md · domestic and international flight/hotel OTA
+
+- makemytrip | competitor | MakeMyTrip | newly-surfaced · added_by: agent 2026-06-25 · source: bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md · OTA and travel platform competing in flights, stays, and experiences
 
 - sbi-card-miles-elite | competitor | SBI Card Miles Elite | newly-surfaced · added_by: agent 2026-06-25 · source: credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits.md · airline-linked premium variant; discontinued as part of SBI portfolio rationalization
 
@@ -123,6 +133,8 @@ treated as context until promoted).
 - pine-labs | context | Pine Labs | newly-surfaced · added_by: agent 2026-06-24 · source: rbi-new-upi-rules-2026-2fa-afa-impact-benefits-explained.md · payments infrastructure provider and systems integrator
 
 ## Partner candidates (pending curator confirmation)
+
+- air-india | partner-candidate | Air India | newly-surfaced · added_by: agent 2026-06-25 · source: bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md · airline offering co-branded travel bookings and discounts
 
 - vodafone-idea | partner-candidate | Vodafone Idea Limited | added_by: agent 2026-06-22 · source: vodafone-idea-partners-with-niyo-to-offer-zero-markup-forex-card-for-internation.md · Indian telecom operator partnering with travel fintech on forex card distribution.
 

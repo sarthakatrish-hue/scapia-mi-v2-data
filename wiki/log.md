@@ -163,3 +163,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-25] ingest | credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-25] ingest | credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits.md → subjects/credit-card-devaluation-wave-2025-26.md, subjects/sbi-card.md, subjects/american-express.md, subjects/axis-bank.md, sources/2026-06-25-credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits.md | Auto-approved
+
+## [2026-06-25] update | entity-registry += air-india (partner), makemytrip (competitor), easemytrip (competitor), goibibo (competitor), yatra (competitor), flipkart-travel (competitor) (from bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md)
+
+## [2026-06-25] ingest | bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-25] ingest | bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md → subjects/bobcard.md, sources/2026-06-25-bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md | Auto-approved
