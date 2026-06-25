@@ -183,3 +183,5 @@ Append-only ingest/query/lint event log.
 ## [2026-06-25] ingest | air-india-announces-key-enhancements-to-maharaja-club.md → subjects/air-india-maharaja-club-credit-card.md, sources/2026-06-25-air-india-announces-key-enhancements-to-maharaja-club.md | Auto-approved
 
 ## [2026-06-25] crawl | autonomous | universe 60, 4 searches → 19 candidates | ingested 8/8 (vault 7, market-signal 1), dropped 0, queued 0, dupes 9, stale 0, irrelevant 1, errors 0
+
+## [2026-06-25] query/brief_query | MMT vs scapia
