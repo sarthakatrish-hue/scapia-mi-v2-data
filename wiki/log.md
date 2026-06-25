@@ -169,3 +169,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-25] ingest | bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-25] ingest | bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md → subjects/bobcard.md, sources/2026-06-25-bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md | Auto-approved
+
+## [2026-06-25] update | entity-registry += air-india-maharaja-club-credit-card (competitor) (from coming-soon-air-india-maharaja-club-co-branded-credit-cards.md)
+
+## [2026-06-25] ingest | coming-soon-air-india-maharaja-club-co-branded-credit-cards.md | Maker: 7/10, Checker: 6/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-25] ingest | coming-soon-air-india-maharaja-club-co-branded-credit-cards.md → subjects/air-india-maharaja-club-credit-card.md, sources/2026-06-25-coming-soon-air-india-maharaja-club-co-branded-credit-cards.md | Auto-approved

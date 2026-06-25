@@ -58,6 +58,8 @@ treated as context until promoted).
 
 ## Competitors
 
+- air-india-maharaja-club-credit-card | competitor | Air India Maharaja Club Co-Branded Credit Card | domain: airindia.com | newly-surfaced · added_by: agent 2026-06-25 · source: coming-soon-air-india-maharaja-club-co-branded-credit-cards.md · planned 2026 relaunch of Air India co-branded cards tied to loyalty program refresh and points accrual on Air India Express flights
+
 - flipkart-travel | competitor | Flipkart Travel | newly-surfaced · added_by: agent 2026-06-25 · source: bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md · e-commerce player offering travel booking and deals
 
 - yatra | competitor | Yatra | newly-surfaced · added_by: agent 2026-06-25 · source: bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md · online travel agency for flights, hotels, and experiences
