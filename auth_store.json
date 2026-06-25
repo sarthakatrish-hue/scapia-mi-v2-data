@@ -11,6 +11,9 @@
     ],
     "anil@scapia.cards": [
       "leader"
+    ],
+    "sang@scapia.cards": [
+      "leader"
     ]
   },
   "access_requests": [
@@ -20,7 +23,7 @@
       "email": "sang@scapia.cards",
       "requested_role": "leader",
       "reason": "Platform access request",
-      "status": "pending",
+      "status": "granted",
       "ts": 1782380760876
     },
     {
