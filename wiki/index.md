@@ -3,7 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
-- [[subjects/air-india-maharaja-club-credit-card]] — Air India's new Maharaja Club co-branded cards threaten premium travel card loyalty
+- [[subjects/air-india-maharaja-club-credit-card]] — "Maharaja Club deepens with Express redemption and improved award seat access"
 - [[subjects/bobcard]] — BOBCARD aggressively courts travel spenders with multi-OTA discount blitz
 - [[subjects/american-express]] — Amex India zeroes out reward points on fuel spends from June 2025
 - [[subjects/credit-card-devaluation-wave-2025-26]] — Incumbent card devaluations push users toward transparent, travel-first alternatives

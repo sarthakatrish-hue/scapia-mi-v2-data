@@ -103,6 +103,67 @@
    "url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/MDR06122017317CE333007D406A9002F5A119229563.PDF",
    "status": "no-relevant-article",
    "at": "2026-06-24"
+  },
+  "4cc63776afdd119ce546b1d1": {
+   "url": "https://www.oxigenwallet.com/upi/new-rules/",
+   "status": "AUTO-APPROVE",
+   "content_hash": "003e7794ceefcaad842be098",
+   "autonomous": true,
+   "at": "2026-06-25"
+  },
+  "f314d38a828bd0fd5536f890": {
+   "url": "https://www.bajajfinserv.in/rbi-new-digital-payment-rules-april-2026",
+   "status": "AUTO-APPROVE",
+   "content_hash": "ee117862a890175e259a08cb",
+   "autonomous": true,
+   "at": "2026-06-25"
+  },
+  "286992206e4a037b9e44ac05": {
+   "url": "https://www.businesstoday.in/personal-finance/news/story/india-cambodia-upi-link-goes-live-enabling-qr-payments-for-indian-travellers-534786-2026-06-03",
+   "status": "AUTO-APPROVE",
+   "content_hash": "1b064c88c4000f3c197d74c1",
+   "autonomous": true,
+   "at": "2026-06-25"
+  },
+  "f295fca9bca72ef94f87936c": {
+   "url": "https://paytm.com/blog/payments/upi/",
+   "status": "no-relevant-article",
+   "at": "2026-06-25"
+  },
+  "cc2a4fb4e8384c9001ed1f4d": {
+   "url": "https://taxguru.in/goods-and-service-tax/upi-rules-from-2026-new-limits-gst-qr-thresholds-key-compliance-points.html",
+   "status": "AUTO-APPROVE",
+   "content_hash": "937f16bfe827902db0dd9f18",
+   "autonomous": true,
+   "at": "2026-06-25"
+  },
+  "90036f6788b18b446d083582": {
+   "url": "https://www.business-standard.com/finance/personal-finance/credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits-126040900489_1.html",
+   "status": "AUTO-APPROVE",
+   "content_hash": "aebc46b959fa56cc75bbff9a",
+   "autonomous": true,
+   "at": "2026-06-25"
+  },
+  "f53a9884aae6a11278edc200": {
+   "url": "https://www.business-standard.com/amp/finance/personal-finance/bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details-126052900876_1.html",
+   "status": "AUTO-APPROVE",
+   "content_hash": "229c09ea776e1f02af811167",
+   "autonomous": true,
+   "at": "2026-06-25"
+  },
+  "6c719ea3cee925f51a005eb2": {
+   "url": "https://www.cardexpert.in/air-india-maharaja-club-credit-cards-coming-soon/",
+   "status": "AUTO-APPROVE",
+   "content_hash": "819666077f417b9ee3d8e400",
+   "autonomous": true,
+   "at": "2026-06-25"
+  },
+  "98c4cc21c3d07f7cb2e244b4": {
+   "url": "https://cardexpress.in/articles/air-india-maharaja-club-enhancements-2026",
+   "status": "AUTO-APPROVE",
+   "content_hash": "0283b94d844e3b84a6cbe559",
+   "autonomous": true,
+   "at": "2026-06-25"
   }
  }
 }
