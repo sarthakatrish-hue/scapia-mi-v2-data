@@ -7,18 +7,18 @@ categories: [upi]
 domain_url: phonepe.com
 logo: null
 issuer: null
-keywords: [upi, market-share, digital-payments, credit-line-on-upi, merchant-payments, two-factor-authentication, ai-assistant]
+keywords: [upi, market-share, digital-payments, credit-line-on-upi, merchant-payments, two-factor-authentication, market-share-cap, interchange-fees, wallet-upi]
 signal: threat
-headline: "'PhonePe holds 48% UPI share as rail grows to 500M users and adds 2FA mandate'"
-vitals: ["['48.3%|UPI market share|Google Pay 37%, Scapia not on UPI leaderboard', '500M+|UPI unique users (platform-level)|PhonePe is the #1 beneficiary of scale', '2FA required|From April 2026|Compliance overhead on all UPI apps including PhonePe']"]
+headline: "'Market-share cap extension and wallet-interchange rule shape PhonePe's 2026 UPI runway'"
+vitals: []
 scoreboard: ["UPI & Payments|High|up"]
-last_updated: 2026-06-24
+last_updated: 2026-06-25
 ---
 
 ## What we know
 
-**PhonePe commands 48.3% of UPI transactions** — PhonePe leads all UPI apps with a 48.3% share of transactions as of early 2026, with Google Pay at 37% — together controlling over 85% of the market[^upi2026-pep-jun24]
-**Scale advantage from UPI growth** — With UPI processing 21 billion transactions monthly and targeting 1 billion daily by 2026-27, PhonePe's absolute transaction volume is growing even if share stays flat[^upi2026-pep-jun24]
+**Market-share cap deadline extended to Dec 2026** — NPCI's 30% single-app cap extension directly benefits PhonePe, which holds ~48% of UPI volume, delaying any forced redistribution[^upi-rules-pe-2026-06-25]
+**Wallet-UPI interchange applies to PhonePe QR** — When customers pay via PhonePe wallet through a PhonePe QR, the merchant bears interchange of 0.5–1.1%; direct bank-linked UPI remains free[^upi-rules-pe-2026-06-25]
 
 ## Competitor Intel
 
@@ -31,6 +31,12 @@ last_updated: 2026-06-24
 **Implication:** Scapia's differentiation must lean harder into card-exclusive benefits (co-branded Federal Bank relationship, Scapia Coins on travel, zero forex markup) that a generic bank credit line on UPI cannot replicate. The risk is not immediate displacement but gradual spend migration for non-travel everyday purchases, eroding the base that cross-subsidises travel rewards [Inferred · Medium]
 
 ## Coverage
+
+### UPI Cap Extension Benefits PhonePe — 2026-06-25
+
+NPCI's extension of the 30% market-share cap to 31 December 2026 is an unambiguous near-term relief for PhonePe, which holds roughly 48% of UPI transaction volume[^upi-rules-pe-2026-06-25]. Rather than being forced to shed share or face penalties, PhonePe retains its dominant position through the end of the year while regulators allow smaller apps more runway to grow. The parallel clarification that wallet-based UPI transactions carry merchant interchange of 0.5–1.1% is notable: it formalises a revenue mechanism for the wallet layer that PhonePe operates, subtly improving the economics of its non-bank-linked UPI flows[^upi-rules-pe-2026-06-25].
+
+For Scapia, the read remains structural — PhonePe's dominance is not under near-term regulatory pressure, and the interchange framework makes wallet-UPI slightly more expensive for merchants than card rails, preserving one of Scapia's ecosystem advantages. The 2FA mandate adds compliance overhead across all UPI apps including PhonePe, but PhonePe's engineering scale means it absorbs this more easily than smaller competitors [Inferred · High][^upi-rules-pe-2026-06-25].
 
 ### PhonePe Dominant as UPI Scales — 2026-06-24
 
@@ -46,6 +52,7 @@ For Scapia, the read is that regulatory tailwinds are now actively supporting Ph
 
 ## Developments
 
+- 2026-06-25 — UPI Cap Extension Benefits PhonePe [^upi-rules-pe-2026-06-25]
 - 2026-06-24 — PhonePe Dominant as UPI Scales [^upi2026-pep-jun24]
 - 2026-06-24 — NPCI Rules Touch PhonePe UPI [^upi-phonepe-2026-06-24]
 - 2026-06-22 — PhonePe launched Credit Line on UPI, enabling bank-approved credit lines to be linked and used for merchant payments on UPI rails[^clonupi]
@@ -55,3 +62,4 @@ For Scapia, the read is that regulatory tailwinds are now actively supporting Ph
 [^clonupi]: raw/market/phonepe-enables-credit-line-on-upi-on-its-platform.md
 [^upi-phonepe-2026-06-24]: BankBazaar — New UPI Rules 2026 Explained — raw/ambiguous/new-upi-rules-2026-explained.md
 [^upi2026-pep-jun24]: raw/ambiguous/upi-payments-in-2026-new-features-transaction-limits-future-of-digital-india.md
+[^upi-rules-pe-2026-06-25]: raw/ambiguous/upi-payment-new-rules-2026-transaction-limits-guidelines.md

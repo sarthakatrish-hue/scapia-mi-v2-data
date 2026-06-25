@@ -141,3 +141,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-24] crawl | autonomous | universe 54, 2 searches → 18 candidates | ingested 5/8 (vault 4, market-signal 1), dropped 2, queued 0, dupes 0, stale 0, irrelevant 4, errors 7
 
 ## [2026-06-24] query/greeting | Tell me abo
+
+## [2026-06-25] ingest | upi-payment-new-rules-2026-transaction-limits-guidelines.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-25] ingest | upi-payment-new-rules-2026-transaction-limits-guidelines.md → subjects/npci.md, subjects/phonepe.md, sources/2026-06-25-upi-payment-new-rules-2026-transaction-limits-guidelines.md | Auto-approved

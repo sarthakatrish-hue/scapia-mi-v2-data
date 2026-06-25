@@ -7,33 +7,40 @@ categories: [upi]
 domain_url: npci.org.in
 logo: null
 issuer: null
-keywords: [upi, payments, transaction-limits, two-factor-authentication, upi-lite, cross-border, global-expansion, ai-assistant, epfo, verified-name, digital-payments, project-nexus]
+keywords: [upi, payments, transaction-limits, two-factor-authentication, upi-lite, cross-border, global-expansion, ai-assistant, epfo, verified-name, digital-payments, project-nexus, market-share-cap, interchange-fees, operational-guidelines, two-factor-authentication]
 signal: opportunity
-headline: "'UPI hits 500M users, gains 2FA mandate, global reach and offline payments in 2026'"
+headline: "'UPI 2FA mandate, 30% market-share cap extension and new category limits reshape rails for 2026'"
 vitals: []
-last_updated: 2026-06-24
+last_updated: 2026-06-25
 ---
 
 ## What we know
 
-**500M users, 21B monthly txns** — UPI surpassed 500 million unique users and processes over 21 billion transactions monthly by early 2026[^upi2026-jun24]
-**Enhanced 2FA from April 2026** — UPI transactions must implement two-factor authentication with at least one dynamic security element (biometrics or secure in-app approval) from April 2026[^upi2026-jun24]
-**Higher limits for select categories** — Daily UPI limit stays ₹1 lakh generally; verified categories (tax, education, healthcare) can transact up to ₹10 lakh/day[^upi2026-jun24]
-**UPI Lite offline up to ₹5,000** — UPI Lite supports offline transactions with a ₹5,000 total limit, expanding low-connectivity access in 2026[^upi2026-jun24]
-**Balance-check cap introduced** — Users can check account balance only 50 times per app per day to prevent system overload from high-frequency API calls[^upi2026-jun24]
-**Global expansion to 12+ countries** — UPI expanded to 12+ countries; NPCI linked UPI with Cambodia's Bakong KHQR network on 3 June 2026; India-Israel UPI agreement signed February 2026[^upi2026-jun24]
-**Project Nexus going live 2026** — Multilateral initiative to interlink domestic fast payment systems of member countries expected live by 2026[^upi2026-jun24]
-**EPFO UPI PF withdrawals in testing** — EPFO testing UPI-based provident fund withdrawals for faster access to savings for salaried workers[^upi2026-jun24]
-**AI assistants piloted** — UPI HELP and similar AI assistants piloted for user queries, complaints, and subscription management within UPI apps[^upi2026-jun24]
+**30% UPI share cap extended** — NPCI extended the single-app 30% market-share cap deadline to 31 December 2026, giving PhonePe and Google Pay more time while allowing smaller apps to scale[^upi-rules-2026-06-25]
+**Travel category gets ₹5L limit** — Travel UPI transactions now carry a ₹5 lakh per-transaction and ₹10 lakh per-day enhanced limit, effective 15 September 2025[^upi-rules-2026-06-25]
+**Interchange fees on wallet-UPI** — UPI via prepaid wallets carries merchant-side interchange of 0.5%–1.1%; peer-to-peer and direct bank UPI remain free for users[^upi-rules-2026-06-25]
+**AutoPay restricted to off-peak hours** — Recurring UPI mandates (subscriptions, EMIs) may only execute outside peak hours; up to 3 retries permitted per payment[^upi-rules-2026-06-25]
+**International QR must be live-scanned** — From April 2025, international UPI payments require real-time in-person QR scanning; saved or shared QR codes abroad are disallowed[^upi-rules-2026-06-25]
+**Recipient bank name mandatory** — UPI apps must display the recipient's bank name before payment confirmation to reduce misdirected transfers[^upi-rules-2026-06-25]
+**Linked-account view capped** — Users can request their linked bank account list only 25 times per app per day; excessive attempts trigger a temporary block[^upi-rules-2026-06-25]
 
 ## Regulatory Intel
 
-**Status:** Active — multiple rule changes and feature rollouts across 2026, with 2FA mandate effective April 2026 and ongoing global expansion[^upi2026-jun24]
-**What it requires:** UPI apps must implement dynamic two-factor authentication; balance inquiry capped at 50 per app per day; verified-name display on all P2P/merchant transactions; higher transaction limits require category verification[^upi2026-jun24]
-**Posture:** Strongly growth-oriented — NPCI is simultaneously hardening security (2FA, verified names), expanding utility (EPFO withdrawals, higher category limits, UPI Lite offline), and internationalising the rail (12+ countries, Project Nexus)[^upi2026-jun24]
-**Implication:** A more secure, globally interoperable, and high-limit UPI rail is a structural tailwind for Scapia. International UPI acceptance directly complements Scapia's zero-forex-markup proposition for outbound Indian travelers — cross-border UPI could reduce reliance on card swipes abroad, but also opens a new use-case that Scapia could lean into as a travel-first brand. EPFO UPI withdrawals and AI assistants signal UPI deepening into life-financial moments, expanding the platform's stickiness and reach [Inferred · Medium].
+**Status:** Active — operational guidelines effective 1 August 2025; enhanced category limits effective 15 September 2025; 2FA mandate effective 1 April 2026; market-share cap extended to 31 December 2026[^upi-rules-2026-06-25]
+
+**What it requires:** Two-factor authentication with at least one dynamic element (biometric or secure in-app approval) for all domestic digital payments; balance checks capped at 50/day; linked-account lookups capped at 25/day; transaction-status polling limited to 3 attempts with 90-second gaps; recipient bank name displayed pre-confirmation; recurring payments restricted to off-peak windows; live QR scanning required for international payments; compliance failures attract API access restrictions and onboarding bans[^upi-rules-2026-06-25]
+
+**Posture:** Security-hardening plus utility-expansion — NPCI is simultaneously tightening fraud controls (2FA, live-QR rule, recipient bank display), managing systemic load (API rate caps, off-peak AutoPay), raising limits for productive categories (travel, capital markets, insurance), and extending the market-share cap to preserve ecosystem diversity[^upi-rules-2026-06-25]
+
+**Implication:** The travel category's ₹5 lakh per-transaction / ₹10 lakh per-day limit is directly relevant to Scapia's core use-case — high-value flight and hotel bookings on UPI are now fully supported within the rail, reducing friction for users who might otherwise default to a card. The live-QR rule for international payments limits the abuse vectors NPCI is worried about, but also confirms UPI's intent to deepen global acceptance in a controlled way, reinforcing Scapia's zero-forex proposition. Interchange on wallet-UPI (0.5–1.1%) creates a cost asymmetry that keeps pure UPI less attractive for merchants at scale versus card rails where rewards fund engagement — a structural advantage for Scapia's card model [Inferred · Medium][^upi-rules-2026-06-25].
 
 ## Coverage
+
+### UPI Market-Cap Extended, Travel Limits Raised — 2026-06-25
+
+NPCI and RBI have released a consolidated set of 2026 UPI rule updates covering operational limits, enhanced category thresholds, and the 2FA mandate[^upi-rules-2026-06-25]. The most commercially significant change for Scapia's market is the travel category receiving an enhanced ₹5 lakh per-transaction and ₹10 lakh per-day limit from 15 September 2025, putting high-value trip payments firmly within UPI's reach. The 30% single-app market-share cap deadline has been pushed to 31 December 2026, extending a compliance runway that primarily benefits PhonePe and Google Pay — together holding over 85% of UPI volume — while smaller apps gain more time to compete[^upi-rules-2026-06-25].
+
+The operational guidelines (effective 1 August 2025) introduce API rate limits — 50 balance checks and 25 linked-account lookups per app per day — alongside AutoPay off-peak scheduling and a 3-poll cap on pending transaction status checks[^upi-rules-2026-06-25]. These are system-stability measures rather than user-facing friction, but they signal NPCI tightening the rails as transaction volumes scale. For Scapia, the interchange framework is worth watching: wallet-based UPI now carries 0.5–1.1% merchant interchange, structurally favouring card rails — where rewards fund engagement — over wallet-UPI for discretionary spend [Inferred · Medium][^upi-rules-2026-06-25].
 
 ### UPI 2026 Scale and Rule Overhaul — 2026-06-24
 
@@ -49,6 +56,7 @@ Simultaneously, EPFO has completed testing of instant provident fund withdrawals
 
 ## Developments
 
+- 2026-06-25 — UPI Market-Cap Extended, Travel Limits Raised [^upi-rules-2026-06-25]
 - 2026-06-24 — UPI 2026 Scale and Rule Overhaul [^upi2026-jun24]
 - 2026-06-24 — NPCI Verified Names, EPFO UPI Withdrawals [^npci-jun2026]
 
@@ -56,3 +64,4 @@ Simultaneously, EPFO has completed testing of instant provident fund withdrawals
 
 [^npci-jun2026]: raw/ambiguous/major-banking-tax-upi-transaction-rule-changes-kicking-in-from-june-2026-key-poi.md
 [^upi2026-jun24]: raw/ambiguous/upi-payments-in-2026-new-features-transaction-limits-future-of-digital-india.md
+[^upi-rules-2026-06-25]: raw/ambiguous/upi-payment-new-rules-2026-transaction-limits-guidelines.md

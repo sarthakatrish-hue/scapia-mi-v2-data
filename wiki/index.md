@@ -4,7 +4,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
 - [[subjects/bank-of-baroda]] — Bank of Baroda raises interest rate on One co-branded card unpaid dues
-- [[subjects/npci]] — "UPI hits 500M users, gains 2FA mandate, global reach and offline payments in 2026"
+- [[subjects/npci]] — "UPI 2FA mandate, 30% market-share cap extension and new category limits reshape rails for 2026"
 - [[subjects/upi-evolution-2026]] — UPI grows into credit, global reach, and offline rails by 2026
 - [[subjects/authentication-mechanisms-for-digital-payment-transactions-directions-2025]] — RBI mandates two-factor authentication across all digital payments from April 2026
 - [[subjects/upi-regulatory-framework-2026]] — "RBI and NPCI tighten UPI rules on interchange fees, limits, and payee name verification"
@@ -18,7 +18,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/federal-bank]] — "Federal Bank co-brand freeze widens — RBI data-sharing concern confirmed across OneCard partnership too"
 - [[subjects/rbi-cobranded-card-scrutiny]] — "RBI halts co-brand card issuances, tightening fintech-bank partnership rules"
 - [[subjects/atlys]] — Atlys raises $36M Series C to accelerate AI-driven global visa platform
-- [[subjects/phonepe]] — "PhonePe holds 48% UPI share as rail grows to 500M users and adds 2FA mandate"
+- [[subjects/phonepe]] — "Market-share cap extension and wallet-interchange rule shape PhonePe's 2026 UPI runway"
 - [[subjects/india-travel-ai-divide-2026]] — "Indian OTAs are diverging sharply on AI strategy, creating a window for Scapia"
 - [[subjects/tbo-tek]] — "TBO Tek treats AI as an internal efficiency tool, not a disruptive force yet"
 - [[subjects/bobcard-etihad-base]]
