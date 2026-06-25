@@ -153,3 +153,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-25] ingest | india-cambodia-upi-link-goes-live-enabling-qr-payments-for-indian-travellers.md | Maker: 7/10, Checker: 6/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-25] ingest | india-cambodia-upi-link-goes-live-enabling-qr-payments-for-indian-travellers.md → subjects/npci.md, sources/2026-06-25-india-cambodia-upi-link-goes-live-enabling-qr-payments-for-indian-travellers.md | Auto-approved
+
+## [2026-06-25] ingest | upi-rules-from-2026-new-limits-gst-qr-thresholds-key-compliance-points.md | Maker: 7/10, Checker: 6/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-25] ingest | upi-rules-from-2026-new-limits-gst-qr-thresholds-key-compliance-points.md → subjects/upi-rules-2026-compliance.md, sources/2026-06-25-upi-rules-from-2026-new-limits-gst-qr-thresholds-key-compliance-points.md | Auto-approved

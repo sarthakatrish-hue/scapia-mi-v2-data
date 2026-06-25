@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/upi-rules-2026-compliance]] — New UPI compliance rules tighten transaction limits and GST linkage from 2026
 - [[subjects/bank-of-baroda]] — Bank of Baroda raises interest rate on One co-branded card unpaid dues
 - [[subjects/npci]] — "UPI–Cambodia KHQR linkage live, covering 4.5 million merchants for Indian travellers"
 - [[subjects/upi-evolution-2026]] — UPI grows into credit, global reach, and offline rails by 2026
