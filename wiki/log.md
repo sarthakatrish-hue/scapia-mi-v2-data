@@ -149,3 +149,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-25] ingest | rbi-s-new-digital-payment-rules-from-april-1-what-changes-for-upi-cards-and-e-wa.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-25] ingest | rbi-s-new-digital-payment-rules-from-april-1-what-changes-for-upi-cards-and-e-wa.md → subjects/authentication-mechanisms-for-digital-payment-transactions-directions-2025.md, sources/2026-06-25-rbi-s-new-digital-payment-rules-from-april-1-what-changes-for-upi-cards-and-e-wa.md | Auto-approved
+
+## [2026-06-25] ingest | india-cambodia-upi-link-goes-live-enabling-qr-payments-for-indian-travellers.md | Maker: 7/10, Checker: 6/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-25] ingest | india-cambodia-upi-link-goes-live-enabling-qr-payments-for-indian-travellers.md → subjects/npci.md, sources/2026-06-25-india-cambodia-upi-link-goes-live-enabling-qr-payments-for-indian-travellers.md | Auto-approved

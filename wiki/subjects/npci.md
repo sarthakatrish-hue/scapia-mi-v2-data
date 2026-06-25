@@ -2,27 +2,24 @@
 subject: "NPCI"
 type: subject
 role: regulatory
-domains: [fintech]
-categories: [upi]
+domains: [fintech, travel]
+categories: [upi, flights]
 domain_url: npci.org.in
 logo: null
 issuer: null
-keywords: [upi, payments, transaction-limits, two-factor-authentication, upi-lite, cross-border, global-expansion, ai-assistant, epfo, verified-name, digital-payments, project-nexus, market-share-cap, interchange-fees, operational-guidelines, two-factor-authentication]
+keywords: [upi, payments, cross-border, global-expansion, cambodia, khqr, npci-international, qr-payments, international-travel, p2m, southeast-asia]
 signal: opportunity
-headline: "'UPI 2FA mandate, 30% market-share cap extension and new category limits reshape rails for 2026'"
-vitals: []
+headline: "'UPI–Cambodia KHQR linkage live, covering 4.5 million merchants for Indian travellers'"
+vitals: ["[]"]
 last_updated: 2026-06-25
 ---
 
 ## What we know
 
-**30% UPI share cap extended** — NPCI extended the single-app 30% market-share cap deadline to 31 December 2026, giving PhonePe and Google Pay more time while allowing smaller apps to scale[^upi-rules-2026-06-25]
-**Travel category gets ₹5L limit** — Travel UPI transactions now carry a ₹5 lakh per-transaction and ₹10 lakh per-day enhanced limit, effective 15 September 2025[^upi-rules-2026-06-25]
-**Interchange fees on wallet-UPI** — UPI via prepaid wallets carries merchant-side interchange of 0.5%–1.1%; peer-to-peer and direct bank UPI remain free for users[^upi-rules-2026-06-25]
-**AutoPay restricted to off-peak hours** — Recurring UPI mandates (subscriptions, EMIs) may only execute outside peak hours; up to 3 retries permitted per payment[^upi-rules-2026-06-25]
-**International QR must be live-scanned** — From April 2025, international UPI payments require real-time in-person QR scanning; saved or shared QR codes abroad are disallowed[^upi-rules-2026-06-25]
-**Recipient bank name mandatory** — UPI apps must display the recipient's bank name before payment confirmation to reduce misdirected transfers[^upi-rules-2026-06-25]
-**Linked-account view capped** — Users can request their linked bank account list only 25 times per app per day; excessive attempts trigger a temporary block[^upi-rules-2026-06-25]
+**India–Cambodia UPI live** — Indian travellers can scan KHQR QR codes at 4.5 million+ Cambodian merchants via any UPI app, launched 2 June 2026 in Phnom Penh[^india-cambodia-upi-2026-06-03]
+**NPCI International leads corridor** — NPCI International Payments Limited (NIPL) partnered with Acleda Bank Plc. under RBI and National Bank of Cambodia guidance to enable the interoperability[^india-cambodia-upi-2026-06-03]
+**Phase 2 incoming** — Current rollout is one-way (Indians paying in Cambodia); phase 2 will enable Cambodian travellers to pay at Indian UPI QR codes[^india-cambodia-upi-2026-06-03]
+**G20 roadmap aligned** — Initiative explicitly tied to G20 goals of cheaper, faster, more transparent cross-border payments[^india-cambodia-upi-2026-06-03]
 
 ## Regulatory Intel
 
@@ -35,6 +32,12 @@ last_updated: 2026-06-25
 **Implication:** The travel category's ₹5 lakh per-transaction / ₹10 lakh per-day limit is directly relevant to Scapia's core use-case — high-value flight and hotel bookings on UPI are now fully supported within the rail, reducing friction for users who might otherwise default to a card. The live-QR rule for international payments limits the abuse vectors NPCI is worried about, but also confirms UPI's intent to deepen global acceptance in a controlled way, reinforcing Scapia's zero-forex proposition. Interchange on wallet-UPI (0.5–1.1%) creates a cost asymmetry that keeps pure UPI less attractive for merchants at scale versus card rails where rewards fund engagement — a structural advantage for Scapia's card model [Inferred · Medium][^upi-rules-2026-06-25].
 
 ## Coverage
+
+### India–Cambodia UPI QR Goes Live — 2026-06-03
+
+India and Cambodia launched a live UPI–KHQR cross-border payment linkage on 2 June 2026, letting Indian travellers scan QR codes at more than 4.5 million Cambodian merchants using their existing UPI apps[^india-cambodia-upi-2026-06-03]. The corridor is built by NPCI International and Acleda Bank Plc., operates under RBI and National Bank of Cambodia oversight, and is framed as part of both India's digital public infrastructure push and the G20 cross-border payments roadmap[^india-cambodia-upi-2026-06-03].
+
+For Scapia, the read is structural: as UPI acceptance spreads to Southeast Asian tourist destinations, Indian outbound travellers gain a cash-free, card-free option abroad — but only for P2M QR payments[^india-cambodia-upi-2026-06-03]. Scapia's zero-forex credit card still captures spend where UPI acceptance is absent (hotels, airlines, aggregated bookings) and earns rewards UPI cannot offer, keeping the card proposition complementary rather than threatened [Inferred · Medium][^india-cambodia-upi-2026-06-03].
 
 ### UPI Market-Cap Extended, Travel Limits Raised — 2026-06-25
 
@@ -56,6 +59,7 @@ Simultaneously, EPFO has completed testing of instant provident fund withdrawals
 
 ## Developments
 
+- 2026-06-03 — India–Cambodia UPI QR Goes Live [^india-cambodia-upi-2026-06-03]
 - 2026-06-25 — UPI Market-Cap Extended, Travel Limits Raised [^upi-rules-2026-06-25]
 - 2026-06-24 — UPI 2026 Scale and Rule Overhaul [^upi2026-jun24]
 - 2026-06-24 — NPCI Verified Names, EPFO UPI Withdrawals [^npci-jun2026]
@@ -65,3 +69,4 @@ Simultaneously, EPFO has completed testing of instant provident fund withdrawals
 [^npci-jun2026]: raw/ambiguous/major-banking-tax-upi-transaction-rule-changes-kicking-in-from-june-2026-key-poi.md
 [^upi2026-jun24]: raw/ambiguous/upi-payments-in-2026-new-features-transaction-limits-future-of-digital-india.md
 [^upi-rules-2026-06-25]: raw/ambiguous/upi-payment-new-rules-2026-transaction-limits-guidelines.md
+[^india-cambodia-upi-2026-06-03]: raw/ambiguous/india-cambodia-upi-link-goes-live-enabling-qr-payments-for-indian-travellers.md
