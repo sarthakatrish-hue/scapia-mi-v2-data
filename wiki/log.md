@@ -157,3 +157,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-25] ingest | upi-rules-from-2026-new-limits-gst-qr-thresholds-key-compliance-points.md | Maker: 7/10, Checker: 6/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-25] ingest | upi-rules-from-2026-new-limits-gst-qr-thresholds-key-compliance-points.md → subjects/upi-rules-2026-compliance.md, sources/2026-06-25-upi-rules-from-2026-new-limits-gst-qr-thresholds-key-compliance-points.md | Auto-approved
+
+## [2026-06-25] update | entity-registry += american-express (competitor), bankbazaar (context), axis-etihad (competitor), sbi-card-elite (competitor), sbi-card-miles-elite (competitor) (from credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits.md)
+
+## [2026-06-25] ingest | credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-25] ingest | credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits.md → subjects/credit-card-devaluation-wave-2025-26.md, subjects/sbi-card.md, subjects/american-express.md, subjects/axis-bank.md, sources/2026-06-25-credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits.md | Auto-approved

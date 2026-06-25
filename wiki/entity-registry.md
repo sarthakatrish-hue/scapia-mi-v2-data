@@ -58,6 +58,14 @@ treated as context until promoted).
 
 ## Competitors
 
+- sbi-card-miles-elite | competitor | SBI Card Miles Elite | newly-surfaced · added_by: agent 2026-06-25 · source: credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits.md · airline-linked premium variant; discontinued as part of SBI portfolio rationalization
+
+- sbi-card-elite | competitor | SBI Card Elite | newly-surfaced · added_by: agent 2026-06-25 · source: credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits.md · premium card with withdrawn air accident insurance; premium travel card benchmark
+
+- axis-etihad | competitor | Axis Etihad | newly-surfaced · added_by: agent 2026-06-25 · source: credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits.md · co-branded airline card; mentioned as discontinued variant but signals ecosystem co-brand strategy
+
+- american-express | competitor | American Express India | domain: americanexpress.com | newly-surfaced · added_by: agent 2026-06-25 · source: credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits.md · operates co-branded and premium cards competing for high-value travel spenders
+
 - bank-of-baroda | competitor | Bank of Baroda | domain: bankofbaroda.in | newly-surfaced · added_by: agent 2026-06-24 · source: major-banking-tax-upi-transaction-rule-changes-kicking-in-from-june-2026-key-poi.md · operates credit card products and reward programs competing in Indian market
 
 - fi-money | competitor | Fi Money | domain: fi.money | added_by: agent 2026-06-22 · source: cash-strapped-fi-money-pivots-to-ai-led-b2b-play.md · Indian neobank founded 2019, pivoting from consumer lending to B2B/AI after funding burnout and ₹300 Cr FY23 losses
@@ -87,9 +95,9 @@ treated as context until promoted).
 - au-bank | competitor | Au Bank | added_by: foundation 2026-06-22
 - idfc-first-bank | competitor | Idfc First Bank | domain: idfcfirstbank.com | added_by: foundation 2026-06-22
 - rbl-bank | competitor | Rbl Bank | added_by: foundation 2026-06-22
-- sbi-card | competitor | Sbi Card | added_by: foundation 2026-06-22
+- sbi-card | competitor | Sbi Card | domain: sbicard.com | added_by: foundation 2026-06-22
 - icici-bank | competitor | Icici Bank | domain: icicibank.com | added_by: foundation 2026-06-22
-- axis-bank | competitor | Axis Bank | added_by: foundation 2026-06-22
+- axis-bank | competitor | Axis Bank | domain: axisbank.com | added_by: foundation 2026-06-22
 - bobcard-etihad-base | competitor | Bobcard Etihad Base | added_by: foundation 2026-06-22
 - axis-burgundy-private | competitor | Axis Burgundy Private | added_by: foundation 2026-06-22
 - uni-nxtwave | competitor | Uni Nxtwave | added_by: foundation 2026-06-22
@@ -109,6 +117,8 @@ treated as context until promoted).
 - hdfc-bank | competitor | HDFC Bank | domain: hdfcbank.com | added_by: agent 2026-06-22 · source: 2026-06-22-hdfc-regalia-gold-revamp.md · Indian systemically important bank; issuer of co-branded and proprietary premium travel credit cards (Regalia Gold, Regalia Platinum, etc.); major benchmark in India's premium segment.
 
 ## Context (never gets a page)
+
+- bankbazaar | context | BankBazaar | newly-surfaced · added_by: agent 2026-06-25 · source: credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits.md · fintech comparison platform; source of aggregated issuer intelligence
 
 - pine-labs | context | Pine Labs | newly-surfaced · added_by: agent 2026-06-24 · source: rbi-new-upi-rules-2026-2fa-afa-impact-benefits-explained.md · payments infrastructure provider and systems integrator
 

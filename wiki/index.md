@@ -3,6 +3,8 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/american-express]] — Amex India zeroes out reward points on fuel spends from June 2025
+- [[subjects/credit-card-devaluation-wave-2025-26]] — Incumbent card devaluations push users toward transparent, travel-first alternatives
 - [[subjects/upi-rules-2026-compliance]] — New UPI compliance rules tighten transaction limits and GST linkage from 2026
 - [[subjects/bank-of-baroda]] — Bank of Baroda raises interest rate on One co-branded card unpaid dues
 - [[subjects/npci]] — "UPI–Cambodia KHQR linkage live, covering 4.5 million merchants for Indian travellers"
@@ -43,8 +45,8 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/au-bank]]
 - [[subjects/idfc-first-bank]] — "IDFC First Bank named in RBI co-brand data-sharing scrutiny via OneCard partnership"
 - [[subjects/rbl-bank]]
-- [[subjects/sbi-card]]
+- [[subjects/sbi-card]] — SBI Card devalues benefits across premium and co-branded cards through 2025–26
 - [[subjects/icici-bank]] — ICICI trims Amazon Pay card rewards on rent payments from June 2026
-- [[subjects/axis-bank]]
+- [[subjects/axis-bank]] — Axis Bank tightens reward-point forfeiture rules via quiet MITC updates
 - [[subjects/hdfc-bank]] — HDFC Bank cuts SMS alerts for small transactions from June 25 2026
 - [[subjects/hdfc-regalia-gold]] — HDFC sharpens Regalia Gold for mass-premium salaried travelers with tighter rewards
