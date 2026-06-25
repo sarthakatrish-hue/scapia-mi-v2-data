@@ -6,7 +6,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/bank-of-baroda]] — Bank of Baroda raises interest rate on One co-branded card unpaid dues
 - [[subjects/npci]] — "UPI 2FA mandate, 30% market-share cap extension and new category limits reshape rails for 2026"
 - [[subjects/upi-evolution-2026]] — UPI grows into credit, global reach, and offline rails by 2026
-- [[subjects/authentication-mechanisms-for-digital-payment-transactions-directions-2025]] — RBI mandates two-factor authentication across all digital payments from April 2026
+- [[subjects/authentication-mechanisms-for-digital-payment-transactions-directions-2025]] — "RBI mandates two-factor authentication across all digital payments from April 2026"
 - [[subjects/upi-regulatory-framework-2026]] — "RBI and NPCI tighten UPI rules on interchange fees, limits, and payee name verification"
 - [[subjects/fi-money]] — "Cash-strapped Fi Money exits consumer neobanking for AI-driven B2B play"
 - [[subjects/revolut]] — "Revolut enters India with UPI and prepaid cards, targeting 20 million users by 2030"

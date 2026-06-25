@@ -145,3 +145,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-25] ingest | upi-payment-new-rules-2026-transaction-limits-guidelines.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-25] ingest | upi-payment-new-rules-2026-transaction-limits-guidelines.md → subjects/npci.md, subjects/phonepe.md, sources/2026-06-25-upi-payment-new-rules-2026-transaction-limits-guidelines.md | Auto-approved
+
+## [2026-06-25] ingest | rbi-s-new-digital-payment-rules-from-april-1-what-changes-for-upi-cards-and-e-wa.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-25] ingest | rbi-s-new-digital-payment-rules-from-april-1-what-changes-for-upi-cards-and-e-wa.md → subjects/authentication-mechanisms-for-digital-payment-transactions-directions-2025.md, sources/2026-06-25-rbi-s-new-digital-payment-rules-from-april-1-what-changes-for-upi-cards-and-e-wa.md | Auto-approved
