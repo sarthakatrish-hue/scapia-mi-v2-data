@@ -55,8 +55,8 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/au-bank]]
 - [[subjects/idfc-first-bank]] — "IDFC First Bank named in RBI co-brand data-sharing scrutiny via OneCard partnership"
 - [[subjects/rbl-bank]]
-- [[subjects/sbi-card]] — "SBI Card devalues PhonePe SELECT BLACK rewards with caps halved and new exclusions"
-- [[subjects/icici-bank]] — ICICI trims Amazon Pay card rewards on rent payments from June 2026
-- [[subjects/axis-bank]] — "Axis Bank's April 2026 sweeping devaluation removes transfer partners and lounge access overnight"
+- [[subjects/sbi-card]] — "SBI Card cuts rent rewards and slashes cashback cap from April 2026"
+- [[subjects/icici-bank]] — "ICICI Bank moves lounge access to spend-linked model from April 2026"
+- [[subjects/axis-bank]] — "Axis Bank caps rewards on insurance and utilities from April 2026"
 - [[subjects/hdfc-bank]] — "HDFC Bank devalues three mid-premium cards in May 2026, signalling portfolio tightening"
 - [[subjects/hdfc-regalia-gold]] — "Regalia Gold reward rate cut 6% and lounge access conditionalised from July 2026"

@@ -7,32 +7,40 @@ categories: [banks]
 domain_url: icicibank.com
 logo: null
 issuer: null
-keywords: [issuer, bank, amazon-pay, credit-card, rewards-devaluation]
+keywords: [issuer, bank, amazon-pay, credit-card, rewards-devaluation, lounge-access, spend-linked, april-2026]
 signal: watch
-headline: "ICICI trims Amazon Pay card rewards on rent payments from June 2026"
-vitals: []
-last_updated: 2026-06-24
+headline: "'ICICI Bank moves lounge access to spend-linked model from April 2026'"
+vitals: ["₹35,000|Quarterly spend threshold|Required for lounge access in next quarter"]
+scoreboard: ["Loyalty & Rewards|High|down", "Premium Segment|Medium|steady"]
+last_updated: 2026-06-26
 ---
 
 ## What we know
 
-**Rent reward removal** — ICICI Bank will discontinue the 1% reward-point benefit on rent payments made via the Amazon Pay credit card, effective June 18 2026[^icici-jun2026]
-**Rewards devaluation trend** — This follows a broader 2026 pattern of ICICI pruning edge-case reward categories rather than headline earn rates[^icici-jun2026]
+**Lounge access now spend-gated** — ICICI Bank moved complimentary domestic airport lounge access to a spend-linked model from April 2026; cardholders must spend ₹35,000 in the preceding calendar quarter to unlock access for the following quarter[^card-rules-apr2026]
 
 ## Competitor Intel
 
 ### Where we win
-**Zero-fee model** — Scapia's lifetime-free card bypasses the fee economics banks rely on.
-**No category carve-outs** — Scapia doesn't quietly remove earn categories post-launch; ICICI's rent-reward cut signals incumbent willingness to devalue quietly[^icici-jun2026]
+**Unconditional lounge access** — Scapia's lounge benefit is not gated by a quarterly spend threshold; ICICI's ₹35,000 condition penalises lower-frequency users and occasional travellers who may need lounges most[^card-rules-apr2026]
+**No category carve-outs** — Scapia doesn't quietly remove earn categories post-launch; ICICI's serial benefit restructuring signals incumbent willingness to devalue quietly[^icici-jun2026]
+**Zero-fee model** — Scapia's lifetime-free card bypasses the fee economics banks rely on to justify spend-linked benefit gating[^card-rules-apr2026]
 
 ### Where they're ahead
-**Distribution** — Branch network and pre-approved base dwarfs co-brand reach.
-**Co-brand breadth** — Amazon Pay partnership gives ICICI reach across a massive e-commerce base that Scapia lacks.
+**Distribution** — Branch network and pre-approved base dwarfs co-brand reach
+**Co-brand breadth** — Amazon Pay, travel, and other partnerships give ICICI reach across a massive consumer base that Scapia lacks
 
 ### What to do
-**Exploit devaluation fatigue** — Communicate Scapia's transparent, travel-first rewards structure to users burned by ICICI's quiet category cuts[^icici-jun2026]
+**Target lounge-access downgraders** — Cardholders who previously had unconditional ICICI lounge access and now face a ₹35,000/quarter hurdle are natural Scapia prospects; lead with lounge benefit clarity[^card-rules-apr2026]
+**Quantify the spend gap** — ₹35,000/quarter is ~₹11,667/month; message that Scapia's lounge access doesn't require hitting a monthly spend target to remain travel-ready [Inferred · High]
 
 ## Coverage
+
+### ICICI Spend-Links Lounge Access — 2026-04-01
+
+ICICI Bank converted its complimentary domestic airport lounge access to a spend-linked model from April 2026, requiring cardholders to spend at least ₹35,000 in the preceding calendar quarter to unlock lounge visits for the following quarter[^card-rules-apr2026]. The change follows the wider industry shift toward conditioning premium benefits on minimum spend, effectively rationing perks for lower-volume users.
+
+For ICICI cardholders who travel occasionally and may not consistently hit ₹35,000 per quarter, lounge access — previously a reliable benefit — now becomes contingent and potentially unreliable[^card-rules-apr2026]. For Scapia, whose lounge access carries no spend condition, this is a concrete differentiation point in acquisition conversations with travel-oriented users frustrated by benefit conditionality. [Inferred · High]
 
 ### ICICI Cuts Amazon Pay Rent Rewards — 2026-06-24
 
@@ -42,8 +50,10 @@ For Scapia, this is a minor but telling signal: large issuers are managing rewar
 
 ## Developments
 
+- 2026-04-01 — ICICI Spend-Links Lounge Access [^card-rules-apr2026]
 - 2026-06-24 — ICICI Cuts Amazon Pay Rent Rewards [^icici-jun2026]
 
 ## Sources
 
 [^icici-jun2026]: raw/ambiguous/major-banking-tax-upi-transaction-rule-changes-kicking-in-from-june-2026-key-poi.md
+[^card-rules-apr2026]: raw/ambiguous/9-major-credit-card-rule-changes-in-india-2026.md

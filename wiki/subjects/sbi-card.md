@@ -7,44 +7,44 @@ categories: [cards]
 domain_url: sbicard.com
 logo: null
 issuer: null
-keywords: [[issuer, cards, devaluation, lounge-access, etihad, co-brand, fee-hike, insurance, rewards, phonepe, select-black, exclusions]]
+keywords: [issuer, cards, devaluation, lounge-access, etihad, co-brand, fee-hike, insurance, rewards, phonepe, select-black, exclusions, rent, cashback-cap, april-2026]
 signal: threat
-headline: "'SBI Card devalues PhonePe SELECT BLACK rewards with caps halved and new exclusions'"
-vitals: ["[]"]
+headline: "'SBI Card cuts rent rewards and slashes cashback cap from April 2026'"
+vitals: ["₹4,000|Cashback cap (was ₹5,000)|Per statement cycle from Apr 2026", "₹2,000|Online sub-limit|New spend sub-category cap", "₹2,000|Offline sub-limit|New spend sub-category cap"]
 scoreboard: ["Loyalty & Rewards|High|down", "Partnerships|Medium|steady"]
 last_updated: 2026-06-26
 ---
 
 ## What we know
 
-**Lounge access tightened** — Domestic lounge benefits restricted on select SBI and Tata co-branded cards from January 10 2026[^sbi-deval-2026-06-25]
-**Reward point clawback accelerated** — Cashback-linked reversals now processed within 90 days; instant-discount-linked within 120 days, effective January 15 2026[^sbi-deval-2026-06-25]
-**Air accident insurance removed** — Rs 1 crore complimentary cover withdrawn from SBI Card Elite and Miles Elite from July 15 2025[^sbi-deval-2026-06-25]
-**Fee waiver threshold doubled** — BPCL SBI Credit Card annual fee waiver threshold raised from Rs 50,000 to Rs 1 lakh[^sbi-deval-2026-06-25]
-**Co-brand discontinuations** — Etihad Guest and OLA Money card variants discontinued as part of portfolio rationalisation[^sbi-deval-2026-06-25]
-**PhonePe SELECT BLACK online cap halved** — Eligible Online Spends monthly RP cap cut from 2,000 to 1,000 RPs, effective 1 July 2026[^sbi-phonepe-black-2026-06-26]
-**PhonePe spends cap split** — Combined 2,000 RP cap on PhonePe spends restructured into 500 RPs on Insurance + 1,500 RPs on Other PhonePe spends[^sbi-phonepe-black-2026-06-26]
-**Six new zero-RP exclusion categories** — Tolls & Bridges (4784), Gifts/Souvenir (5947), Jewellery (5094, 5944), Educational Institutions (8220) added to no-RP list; Utilities and Insurance earn 0 RPs unless paid via PhonePe app[^sbi-phonepe-black-2026-06-26]
-**UPI exclusivity enforced** — UPI spends earn 0 RPs unless made via the PhonePe app, killing RP accrual on Google Pay, Paytm, and other third-party UPI apps[^sbi-phonepe-black-2026-06-26]
+**Rent payments earn zero rewards** — SBI Card discontinued reward-point accrual on rent payments across several of its cards from April 1 2026[^card-rules-apr2026]
+**Cashback cap lowered to ₹4,000** — SBI Cashback Card monthly cashback ceiling revised down from ₹5,000 to ₹4,000 per statement cycle, split into ₹2,000 online and ₹2,000 offline sub-limits[^card-rules-apr2026]
+**New exclusion categories** — Government transactions, tolls, and digital gaming are excluded from cashback earning on the SBI Cashback Card from April 2026[^card-rules-apr2026]
 
 ## Competitor Intel
 
 ### Where we win
-**Rewards consistency** — Scapia does not quietly remove earn categories; SBI Card's fragmented benefit cuts signal incumbent willingness to devalue post-acquisition[^sbi-deval-2026-06-25]
-**No insurance illusion** — Scapia never bundled air accident insurance as a core value prop; SBI Card's removal of Rs 1 crore cover damages trust with premium users[^sbi-deval-2026-06-25]
-**Lower threshold to earn** — SBI Card's fee waiver threshold doubling (BPCL) shows rising cost-to-keep for users; Scapia's lifetime-free model sidesteps this entirely[^sbi-deval-2026-06-25]
-**Open UPI earn** — Scapia earns rewards regardless of which UPI app a customer uses; SBI Card's PhonePe-exclusivity rule punishes users of competing UPI apps[^sbi-phonepe-black-2026-06-26]
+**No rent-reward bait-and-switch** — Scapia never positioned rent payments as a reward category and then removed it; SBI Card's April 2026 rent exclusion damages trust with urban cardholders who structured spend around it[^card-rules-apr2026]
+**Simpler cashback structure** — SBI Cashback Card's new ₹4,000 cap split into sub-limits adds complexity and reduces value; Scapia's earn model has no sub-category caps[^card-rules-apr2026]
+**No exclusion creep** — Tolls, government, and gaming added to SBI's exclusion list signal ongoing reward erosion; Scapia's travel-first earn has not been subject to equivalent category stripping[^card-rules-apr2026]
+**Zero annual fee** — SBI Cashback Card carries an annual fee that must be weighed against a now-lower ₹4,000 monthly cap; Scapia's lifetime-free model offers better net value for moderate spenders[^card-rules-apr2026]
 
 ### Where they're ahead
 **Distribution** — Branch network, pre-approved base, and co-brand breadth still vastly outscale Scapia's reach
 **Cardholder base** — India's largest pure-play issuer; even after devaluations, absolute volume and brand recognition remain dominant advantages
 
 ### What to do
-**Target ex-Etihad users** — Etihad Guest SBI Card discontinuation leaves a segment of frequent-flyer-oriented users without a travel co-brand; Scapia should target this cohort directly with travel-first messaging[^sbi-deval-2026-06-25]
-**Amplify devaluation contrast** — Use SBI Card's serial benefit rollbacks as a competitive foil in acquisition campaigns highlighting Scapia's consistent, transparent reward structure[^sbi-phonepe-black-2026-06-26]
-**Own the "any UPI app" narrative** — SBI Card's PhonePe-only RP rule is a genuine pain point; Scapia should explicitly message that its rewards are not locked to any one payment app [Inferred · High]
+**Target rent-payers displaced from SBI** — Urban cardholders who used SBI cards for rent rewards are now without that benefit; Scapia should target this cohort with travel-first messaging highlighting no arbitrary category exclusions[^card-rules-apr2026]
+**Amplify cashback cap cut contrast** — The ₹5,000→₹4,000 reduction with new sub-limits is a concrete, quantifiable devaluation to use in acquisition messaging[^card-rules-apr2026]
+**Own the exclusion-free narrative** — As SBI adds tolls, government, and gaming to exclusion lists, Scapia should explicitly communicate which categories it does reward, building confidence in earn consistency [Inferred · High]
 
 ## Coverage
+
+### SBI Card Cuts Rent Rewards, Cashback — 2026-04-01
+
+SBI Card discontinued reward-point accrual on rent payments across several of its cards from April 1 2026, and simultaneously lowered the SBI Cashback Card's monthly ceiling from ₹5,000 to ₹4,000 per statement cycle[^card-rules-apr2026]. The revised cap is further fragmented into ₹2,000 online and ₹2,000 offline sub-limits, with government transactions, tolls, and digital gaming also excluded from cashback earning.
+
+The rent exclusion is the sharpest consumer-facing cut: a category many urban cardholders deliberately chose the SBI Cashback Card for has been removed without a compensating benefit[^card-rules-apr2026]. Combined with the lower cashback ceiling, this accelerates SBI Card's pattern of post-acquisition benefit erosion. For Scapia, rent-payers and cashback optimisers displaced by these changes are natural acquisition targets. [Inferred · High]
 
 ### PhonePe SELECT BLACK Devalued July 2026 — 2026-06-26
 
@@ -60,6 +60,7 @@ The Etihad discontinuation is the most tactically significant for Scapia: it orp
 
 ## Developments
 
+- 2026-04-01 — SBI Card Cuts Rent Rewards, Cashback [^card-rules-apr2026]
 - 2026-06-26 — PhonePe SELECT BLACK Devalued July 2026 [^sbi-phonepe-black-2026-06-26]
 - 2026-04-09 — SBI Card Devalues Premium Benefits [^sbi-deval-2026-06-25]
 
@@ -67,3 +68,4 @@ The Etihad discontinuation is the most tactically significant for Scapia: it orp
 
 [^sbi-deval-2026-06-25]: raw/ambiguous/credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits.md
 [^sbi-phonepe-black-2026-06-26]: raw/ambiguous/credit-card-updates-changes-2026.md
+[^card-rules-apr2026]: raw/ambiguous/9-major-credit-card-rule-changes-in-india-2026.md

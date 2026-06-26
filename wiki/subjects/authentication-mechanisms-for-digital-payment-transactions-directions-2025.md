@@ -7,23 +7,17 @@ categories: [upi, cards]
 domain_url: rbi.org.in
 logo: null
 issuer: null
-keywords: [2FA, AFA, UPI, two-factor authentication, RBI, digital payments, OTP, risk-based authentication, card security, fraud prevention, biometric, device-binding, passkeys, cross-border, CNP, wallets, NPCI, operational-limits]
+keywords: [2FA, AFA, UPI, two-factor authentication, RBI, digital payments, OTP, risk-based authentication, card security, fraud prevention, biometric, device-binding, passkeys, cross-border, CNP, wallets, NPCI, operational-limits, april-2026, POS, dynamic-factor]
 signal: watch
 headline: "'RBI mandates two-factor authentication across all digital payments from April 2026'"
 vitals: ["1 Apr 2026|Effective date|Full UPI + card compliance required", "1 Oct 2026|Card-not-present deadline|Cross-border non-recurring transactions", "2|Auth factors required|At least one must be dynamic"]
-last_updated: 2026-06-25
+last_updated: 2026-06-26
 ---
 
 ## What we know
 
-**OTP alone no longer sufficient** — SMS-based OTP as sole factor is prohibited; SIM-swap, phishing, and malware exploits drove the mandate effective 1 April 2026[^rbi-2fa-apr2026]
-**Dynamic factor required** — At least one authentication factor must be uniquely generated per transaction — biometric, device-bound passkey, app token, or hardware token all qualify[^rbi-2fa-apr2026]
-**Risk-based calibration** — Low-risk routine transactions on trusted devices authenticate silently; new devices, unusual geographies, or high-value amounts trigger stepped-up verification[^rbi-2fa-apr2026]
-**Wallets/PPIs in scope** — Prepaid Payment Instruments and mobile wallets must also implement 2FA with one dynamic factor; risk-based anomaly flagging required[^rbi-2fa-apr2026]
-**Cross-border CNP by Oct 2026** — Non-recurring cross-border card-not-present transactions have a separate compliance deadline of 1 October 2026[^rbi-2fa-apr2026]
-**Issuer liability shift confirmed** — Banks and card issuers are directly liable for fraud losses if authentication standards are unmet; burden does not fall on the consumer[^rbi-2fa-apr2026]
-**NPCI UPI operational limits** — Balance checks capped at 50/day per app; linked-account lookups at 25/day; pending transaction polls limited to 3 attempts with 90-second gaps; recurring payments restricted to off-peak windows[^rbi-2fa-apr2026]
-**30% UPI market-share cap extended** — NPCI extended the single-app 30% cap compliance deadline to 31 December 2026[^rbi-2fa-apr2026]
+**Applies at POS too** — The 2FA mandate covers all credit card transactions whether online or at point-of-sale; OTP remains a valid dynamic factor for card transactions[^card-rules-apr2026]
+**Low-risk transactions exempted** — RBI built in flexibility for small-value, low-risk transactions so not every card swipe triggers extra verification steps[^card-rules-apr2026]
 
 ## Regulatory Intel
 
@@ -36,6 +30,12 @@ last_updated: 2026-06-25
 **Implication:** For Scapia, as a co-branded credit card, card-issuer Federal Bank and network partners must ensure domestic transactions already meet the 2FA standard. Scapia's app-based UPI PIN + device binding model is broadly aligned [Inferred · Medium]. The liability-shift provision is positive for cardholders — any fraud attributable to inadequate bank/network authentication falls on the institution, reducing consumer dispute burden. The October 2026 cross-border deadline is the near-term watch point for Scapia's internationally-positioned travel card proposition[^afa-2026-06-24]
 
 ## Coverage
+
+### 2FA Rule In Force April 2026 — 2026-04-01
+
+India's RBI Authentication Directions, 2025 came into force on 1 April 2026, requiring all credit card transactions — online and at POS — to use at least two independent authentication factors, with at least one dynamic per transaction[^card-rules-apr2026]. OTP continues to qualify as a valid dynamic factor; low-risk, small-value transactions carry built-in exemptions to preserve checkout fluency[^card-rules-apr2026].
+
+The practical impact for most compliant cardholders is minimal friction on routine payments, with stepped-up verification reserved for high-value or unfamiliar transactions[^card-rules-apr2026]. For Scapia's Federal Bank issuer, domestic card compliance is already required; the cross-border card-not-present deadline of 1 October 2026 remains the live watch point for Scapia's internationally-used travel card proposition. [Inferred · Medium]
 
 ### RBI 2FA Rules Detailed, UPI Limits — 2026-06-25
 
@@ -51,6 +51,7 @@ The more consequential shift is on liability: institutions that fail to implemen
 
 ## Developments
 
+- 2026-04-01 — 2FA Rule In Force April 2026 [^card-rules-apr2026]
 - 2026-06-25 — RBI 2FA Rules Detailed, UPI Limits [^rbi-2fa-apr2026]
 - 2026-06-24 — RBI Mandates 2FA All Digital Payments [^afa-2026-06-24]
 
@@ -58,3 +59,4 @@ The more consequential shift is on liability: institutions that fail to implemen
 
 [^afa-2026-06-24]: raw/regulatory/rbi-new-upi-rules-2026-2fa-afa-impact-benefits-explained.md
 [^rbi-2fa-apr2026]: raw/regulatory/rbi-s-new-digital-payment-rules-from-april-1-what-changes-for-upi-cards-and-e-wa.md
+[^card-rules-apr2026]: raw/ambiguous/9-major-credit-card-rule-changes-in-india-2026.md

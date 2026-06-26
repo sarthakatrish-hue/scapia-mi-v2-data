@@ -227,3 +227,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-26] ingest | best-travel-credit-cards-in-india-2026-charges-rewards.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-26] ingest | best-travel-credit-cards-in-india-2026-charges-rewards.md → subjects/axis-atlas.md, subjects/american-express.md, subjects/hdfc-diners-black.md, subjects/hdfc-marriott-bonvoy.md, subjects/hsbc-travel-one.md, subjects/makemytrip-icici-bank.md, subjects/niyo-sbm.md, subjects/induslnd-bank.md, sources/2026-06-26-best-travel-credit-cards-in-india-2026-charges-rewards.md | Auto-approved
+
+## [2026-06-26] ingest | 9-major-credit-card-rule-changes-in-india-2026.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-26] ingest | 9-major-credit-card-rule-changes-in-india-2026.md → subjects/authentication-mechanisms-for-digital-payment-transactions-directions-2025.md, subjects/sbi-card.md, subjects/icici-bank.md, subjects/axis-bank.md, sources/2026-06-26-9-major-credit-card-rule-changes-in-india-2026.md | Auto-approved
