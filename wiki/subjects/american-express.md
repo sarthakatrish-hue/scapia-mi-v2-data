@@ -7,37 +7,44 @@ categories: [cards]
 domain_url: americanexpress.com
 logo: null
 issuer: null
-keywords: [amex, membership-rewards, fuel, devaluation, rewards-exclusion, premium, platinum, forex-3.5, income-25L, no-expiry-points]
+keywords: [amex, membership-rewards, fuel, devaluation, rewards-exclusion, premium, platinum, forex-3.5, income-25L, no-expiry-points, reward-structure-overhaul]
 signal: watch
-headline: "'Amex Platinum charges ₹66,000 fee and 3.5% forex targeting elite Indian travellers'"
-vitals: ["['₹66,000|Annual fee|vs ₹0/0%/unlimited Scapia', '3.5%|Forex markup|vs ₹0/0%/unlimited Scapia', 'Unlimited (multiple programmes)|Lounge|vs Scapia unlimited']"]
+headline: "'Amex restructures Membership Rewards so ₹4L spend yields 10,000 points vs 25,000 prior'"
+vitals: ["['₹66,000|Annual fee|vs ₹0/0%/unlimited Scapia', '3.5%|Forex markup|vs ₹0/0%/unlimited Scapia', '₹7L|New Taj voucher spend threshold|Was ₹4L']"]
 scoreboard: ["Loyalty & Rewards|High|down", "Premium Segment|High|steady"]
 last_updated: 2026-06-26
 ---
 
 ## What we know
 
-**Platinum annual fee ₹66,000** — Highest fee card in this roundup; positioned exclusively at elite segment[^bttc-2026-06-26]
-**3.5% forex markup** — Matches Axis Atlas on forex cost despite far higher fee tier[^bttc-2026-06-26]
-**Income threshold ₹25L salaried** — Highest income requirement in the comparison set; ₹15L for self-employed[^bttc-2026-06-26]
-**No points expiry** — Membership Rewards points do not expire, a structural advantage for long-term accumulators[^bttc-2026-06-26]
-**Welcome bonus up to ₹60,000** — Taj/Luxe/Postcard gift after ₹50,000 spend in welcome window[^bttc-2026-06-26]
-**3X on international spend** — Accelerated earn on overseas transactions; 5X via Reward Multiplier portal[^bttc-2026-06-26]
+**Membership Rewards points slashed ~60%** — The same ₹4 lakh annual spend that previously earned ~25,000 Membership Rewards points now earns only ~10,000 — a 60% reduction in point accumulation rate[^cc-tighten-amex-2026-06-26]
+**Taj Hotels voucher threshold raised 75%** — The Taj Hotels voucher previously unlocked at ₹4 lakh annual spend now requires ₹7 lakh, a ₹3 lakh higher bar for the same aspirational benefit[^cc-tighten-amex-2026-06-26]
+**Points-per-rupee economics deteriorating** — Even at Amex's premium ₹66,000 fee tier, the cost-per-point and redemption thresholds are moving against cardholders[^cc-tighten-amex-2026-06-26]
 
 ## Competitor Intel
 
 ### Where we win
-**No hidden exclusions** — Scapia does not strip earn categories from high-frequency spend post-launch; Amex's fuel exclusion signals premium-tier incumbents are not immune to devaluation[^amex-deval-2026-06-25]
-**Travel spend stays rewarded** — Scapia's core travel-spend reward structure is intact; Amex's move narrows its own everyday value proposition[^amex-deval-2026-06-25]
+**No post-launch reward dilution** — Scapia has not restructured its core earn rates downward after acquisition; Amex's 60% point-earn reduction signals that even premium-tier issuers are not immune to devaluation[^cc-tighten-amex-2026-06-26]
+**No aspirational-benefit bait-and-switch** — The Taj Hotels voucher threshold jump from ₹4L to ₹7L is a classic bait-and-switch on a milestone benefit; Scapia's rewards structure does not anchor value to shifting spend thresholds[^cc-tighten-amex-2026-06-26]
+**Zero fee, zero forex** — Amex's ₹66,000 fee and 3.5% forex markup are now paired with materially worse reward rates, widening the value gap for cost-conscious travellers[^cc-tighten-amex-2026-06-26]
 
 ### Where they're ahead
-**Global acceptance and prestige** — Amex's global brand, concierge, and Membership Rewards transfer ecosystem remain aspirationally ahead of Scapia's current offering
-**Premium positioning** — Amex commands high annual fees and premium customer demographics that Scapia is still working toward
+**Premium brand equity** — Amex's global prestige, concierge, and transfer ecosystem remain out of reach for Scapia's current positioning
+**No-expiry points** — Membership Rewards points still do not expire, preserving long-term accumulation value despite lower earn rates[^cc-tighten-amex-2026-06-26]
+**High-spend tier insulation** — Cardholders spending above ₹7L annually still access Taj vouchers; Amex's devaluation primarily hits the ₹4–7L band, not ultra-premium users
 
 ### What to do
-**Transparency contrast** — Position Scapia as the card that doesn't quietly exclude high-frequency categories; fuel-heavy urban commuters now earning zero Amex points are a potential target segment[^amex-deval-2026-06-25]
+**Target the ₹4–7L annual spend band** — Amex cardholders in this range are now earning 60% fewer points and locked out of the Taj voucher; they are actively reassessing value and represent a reachable premium-adjacent segment for Scapia
+**Lead on reward stability messaging** — "The card that doesn't cut your rewards after you sign up" is a direct contrast to Amex's restructuring; deploy in comparison content and travel creator channels
+**Contrast total cost of ownership** — ₹66,000 fee + 3.5% forex + 60% fewer points vs ₹0 fee + 0% forex + stable earn is a compelling three-line comparison for mid-premium travellers considering their next card
 
 ## Coverage
+
+### Amex Slashes Membership Rewards Earn — 2026-06-26
+
+American Express India has significantly restructured its Membership Rewards programme: the same ₹4 lakh annual spend that previously generated ~25,000 points now yields only ~10,000 — a 60% reduction — and the Taj Hotels voucher threshold has been raised from ₹4 lakh to ₹7 lakh annual spend[^cc-tighten-amex-2026-06-26]. The changes confirm that even India's most premium card issuer is tightening reward economics as the industry-wide cost-benefit equation deteriorates.
+
+For Scapia, this is the most strategically significant devaluation in this cycle outside the domestic bank incumbents. Amex's ₹4–7L annual spend cardholders — who now earn fewer points and can no longer access the Taj voucher — are a premium-adjacent, travel-aware segment who chose their card for aspirational benefits that have now been materially diluted[^cc-tighten-amex-2026-06-26]. Scapia's zero-fee, zero-forex, stable-earn model is a direct counter-narrative. [Inferred · High]
 
 ### Amex Platinum Specs Surfaced — 2026-06-26
 
@@ -53,6 +60,7 @@ For Scapia, this is a useful signal: even the premium end of the Indian card mar
 
 ## Developments
 
+- 2026-06-26 — Amex Slashes Membership Rewards Earn [^cc-tighten-amex-2026-06-26]
 - 2026-06-26 — Amex Platinum Specs Surfaced [^bttc-2026-06-26]
 - 2026-04-09 — Amex Zeros Fuel Rewards [^amex-deval-2026-06-25]
 
@@ -60,3 +68,4 @@ For Scapia, this is a useful signal: even the premium end of the Indian card mar
 
 [^amex-deval-2026-06-25]: raw/ambiguous/credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits.md
 [^bttc-2026-06-26]: raw/ambiguous/best-travel-credit-cards-in-india-2026-charges-rewards.md
+[^cc-tighten-amex-2026-06-26]: raw/ambiguous/credit-card-rewards-in-india-are-getting-tighter-what-is-changing.md

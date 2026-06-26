@@ -7,19 +7,19 @@ categories: [banks]
 domain_url: hdfcbank.com
 logo: null
 issuer: null
-keywords: [issuer, bank, credit-card, devaluation, cost-reduction, rewards-cut, lounge-conditional]
+keywords: [issuer, bank, credit-card, devaluation, cost-reduction, rewards-cut, lounge-conditional, industry-wide-tightening]
 signal: threat
-headline: "'HDFC Bank devalues three mid-premium cards in May 2026, signalling portfolio tightening'"
-vitals: ["[]"]
+headline: "'HDFC Bank joins industry-wide credit card reward tightening as costs rise'"
+vitals: ["['90%|Market share (top 5 banks)|Controls ~117.7M cards collectively']"]
 last_updated: 2026-06-26
 ---
 
 ## What we know
 
-**Three-card devaluation** — HDFC reduced reward rates on Regalia Gold, Diners Club Privilege, and BizPower from 15 May 2026, with lounge access made spend-conditional from 1 July 2026[^hdfc-deval-2026-06-26]
-**Conditional lounge trend** — Domestic lounge access now requires Rs 60,000 quarterly spend across Regalia Gold and Diners Club Privilege, a significant structural shift toward conditional benefits[^hdfc-deval-2026-06-26]
-**Business card IT/GST cap** — BizPower now caps reward-earning IT and GST transactions at 2 each per billing cycle, directly targeting cardholders who route tax payments for points[^hdfc-deval-2026-06-26]
-**Broader market pattern** — CNBC TV18 framed the devaluations as part of a wider trend of Indian banks moving to conditional benefits across credit card portfolios[^hdfc-deval-2026-06-26]
+**Industry-wide rewards squeeze** — HDFC joins ICICI, Axis, SBI, and Amex in cutting cashback, lounge access, and reward rates as reward programme costs become unsustainable[^cc-tighten-2026-06-26]
+**Spend-linked lounge now standard** — Lounge access requiring ₹60,000/quarter spend is now confirmed as part of a broader market-wide shift, not just HDFC-specific policy[^cc-tighten-2026-06-26]
+**Credit defaults rising** — Banks cite growing delinquency rates alongside a ~11% MoM drop in credit card spending to ₹1.78 lakh crore in February as dual cost pressures[^cc-tighten-2026-06-26]
+**Selective loyalty emerging** — Banks are explicitly moving to tiered reward systems that favour high spenders, reducing value for occasional or lower-volume cardholders[^cc-tighten-2026-06-26]
 
 ## Competitor Intel
 
@@ -41,6 +41,12 @@ last_updated: 2026-06-26
 
 ## Coverage
 
+### Industry Tightens Credit Card Rewards — 2026-06-26
+
+India's major card issuers — HDFC, ICICI, Axis, SBI, and Amex together controlling ~90% of 117.7 million credit cards — are systematically cutting rewards[^cc-tighten-2026-06-26]. SBI capped monthly cashback at ₹4,000 (down from ₹5,000); Axis removed Qatar Airways, Accor, and Marriott as transfer partners; Amex restructured Membership Rewards so ₹4 lakh annual spend now yields ~10,000 points instead of ~25,000, and the Taj Hotels voucher threshold jumped to ₹7 lakh[^cc-tighten-2026-06-26]. Credit card spending fell ~11% MoM to ₹1.78 lakh crore in February, compounding rising delinquency costs.
+
+The structural direction is clear: banks are moving to spend-tiered loyalty where high spenders keep premium benefits and lighter users are gradually priced out[^cc-tighten-2026-06-26]. For Scapia, this is a systemic tailwind — unconditional lounge access, zero forex markup, and a transparent earn structure contrast sharply with an industry pivoting to conditional, opaque benefit architectures. [Inferred · High] Cardholders who feel the "extra perks disappearing" are exactly the travel-oriented mid-market users Scapia targets.
+
 ### HDFC Devalues Three Mid-Premium Cards — 2026-06-26
 
 HDFC Bank quietly cut reward rates and conditionalised lounge access across Regalia Gold, Diners Club Privilege, and BizPower in May 2026, with changes phased across 15 May and 1 July[^hdfc-deval-2026-06-26]. Diners Club Privilege takes the steepest hit — a 25% reduction in base reward value — while all three cards now require Rs 60,000 quarterly spend to unlock domestic lounge visits that were previously unconditional. BizPower adds an IT/GST transaction cap that specifically targets business owners who were routing tax payments for points[^hdfc-deval-2026-06-26].
@@ -55,6 +61,7 @@ The move hands challengers like Scapia a small but concrete CX talking point: fu
 
 ## Developments
 
+- 2026-06-26 — Industry Tightens Credit Card Rewards [^cc-tighten-2026-06-26]
 - 2026-06-26 — HDFC Devalues Three Mid-Premium Cards [^hdfc-deval-2026-06-26]
 - 2026-06-24 — HDFC Drops Small-Transaction SMS Alerts [^hdfc-jun2026]
 
@@ -62,3 +69,4 @@ The move hands challengers like Scapia a small but concrete CX talking point: fu
 
 [^hdfc-jun2026]: raw/ambiguous/major-banking-tax-upi-transaction-rule-changes-kicking-in-from-june-2026-key-poi.md
 [^hdfc-deval-2026-06-26]: raw/ambiguous/hdfc-credit-card-devaluation-2026-what-changed.md
+[^cc-tighten-2026-06-26]: raw/ambiguous/credit-card-rewards-in-india-are-getting-tighter-what-is-changing.md

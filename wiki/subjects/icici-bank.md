@@ -7,17 +7,17 @@ categories: [banks]
 domain_url: icicibank.com
 logo: null
 issuer: null
-keywords: [issuer, bank, amazon-pay, credit-card, rewards-devaluation, lounge-access, spend-linked, april-2026]
+keywords: [issuer, bank, amazon-pay, credit-card, rewards-devaluation, lounge-access, spend-linked, april-2026, category-cuts]
 signal: watch
-headline: "'ICICI Bank moves lounge access to spend-linked model from April 2026'"
-vitals: ["₹35,000|Quarterly spend threshold|Required for lounge access in next quarter"]
+headline: "'ICICI Bank reduces category earn rates as industry-wide rewards tightening accelerates'"
+vitals: ["['₹35,000|Quarterly spend threshold|Required for lounge access in next quarter']"]
 scoreboard: ["Loyalty & Rewards|High|down", "Premium Segment|Medium|steady"]
 last_updated: 2026-06-26
 ---
 
 ## What we know
 
-**Lounge access now spend-gated** — ICICI Bank moved complimentary domestic airport lounge access to a spend-linked model from April 2026; cardholders must spend ₹35,000 in the preceding calendar quarter to unlock access for the following quarter[^card-rules-apr2026]
+**Extra category earn reduced** — ICICI cut additional reward earn rates on specific spend categories, part of the broader 2026 industry-wide tightening[^cc-tighten-icici-2026-06-26]
 
 ## Competitor Intel
 
@@ -36,6 +36,12 @@ last_updated: 2026-06-26
 
 ## Coverage
 
+### ICICI Joins Rewards Tightening Wave — 2026-06-26
+
+A 5paisa market overview confirms ICICI Bank has reduced extra reward earnings on certain spend categories, adding to its April 2026 lounge spend-gating and the June Amazon Pay rent rewards cut[^cc-tighten-icici-2026-06-26]. The article frames ICICI alongside HDFC, Axis, SBI, and Amex as part of a coordinated industry shift driven by rising reward programme costs, increasing delinquency rates, and falling credit card spending volumes.
+
+No specific new product details are disclosed beyond the category earn reduction already known. The article reinforces that ICICI's incremental devaluation pattern is not idiosyncratic but reflects a structural decision by all large issuers to ration rewards to high-spend customers[^cc-tighten-icici-2026-06-26]. [Inferred · High] For Scapia, this further validates the acquisition messaging around consistent, unconditional benefits.
+
 ### ICICI Spend-Links Lounge Access — 2026-04-01
 
 ICICI Bank converted its complimentary domestic airport lounge access to a spend-linked model from April 2026, requiring cardholders to spend at least ₹35,000 in the preceding calendar quarter to unlock lounge visits for the following quarter[^card-rules-apr2026]. The change follows the wider industry shift toward conditioning premium benefits on minimum spend, effectively rationing perks for lower-volume users.
@@ -50,6 +56,7 @@ For Scapia, this is a minor but telling signal: large issuers are managing rewar
 
 ## Developments
 
+- 2026-06-26 — ICICI Joins Rewards Tightening Wave [^cc-tighten-icici-2026-06-26]
 - 2026-04-01 — ICICI Spend-Links Lounge Access [^card-rules-apr2026]
 - 2026-06-24 — ICICI Cuts Amazon Pay Rent Rewards [^icici-jun2026]
 
@@ -57,3 +64,4 @@ For Scapia, this is a minor but telling signal: large issuers are managing rewar
 
 [^icici-jun2026]: raw/ambiguous/major-banking-tax-upi-transaction-rule-changes-kicking-in-from-june-2026-key-poi.md
 [^card-rules-apr2026]: raw/ambiguous/9-major-credit-card-rule-changes-in-india-2026.md
+[^cc-tighten-icici-2026-06-26]: raw/ambiguous/credit-card-rewards-in-india-are-getting-tighter-what-is-changing.md

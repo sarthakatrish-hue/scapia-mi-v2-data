@@ -7,19 +7,17 @@ categories: [cards, flights, stays]
 domain_url: sbicard.com
 logo: null
 issuer: null
-keywords: [issuer, cards, devaluation, lounge-access, etihad, co-brand, fee-hike, insurance, rewards, phonepe, select-black, exclusions, rent, cashback-cap, april-2026, air-india, club-vistara, vistara-merger, reward-rate-cut]
+keywords: [issuer, cards, devaluation, lounge-access, etihad, co-brand, fee-hike, insurance, rewards, phonepe, select-black, exclusions, rent, cashback-cap, april-2026, air-india, club-vistara, vistara-merger, reward-rate-cut, monthly-cap]
 signal: threat
 headline: "'SBI Card slashes Air India co-brand rewards and winds down Club Vistara cards'"
-vitals: ["['₹4,000|Cashback cap (was ₹5,000)|Per statement cycle from Apr 2026', '₹2,000|Online sub-limit|New spend sub-category cap', '₹2,000|Offline sub-limit|New spend sub-category cap']"]
+vitals: ["['₹4,000|Monthly cashback cap (was ₹5,000)|Per statement cycle from Apr 2026', '₹2,000|Online sub-limit|New spend sub-category cap', '₹2,000|Offline sub-limit|New spend sub-category cap']"]
 scoreboard: ["Loyalty & Rewards|High|down", "Partnerships|Medium|down"]
 last_updated: 2026-06-26
 ---
 
 ## What we know
 
-**Air India SBI rewards halved** — Air India Platinum SBI Card earn rate cut from 15 to 5 RPs per ₹100, Signature card from 30 to 10 RPs per ₹100 on Air India spends, effective 31 Mar 2025[^sbi-apr2025-cc]
-**Club Vistara SBI winding down** — Renewal fee waived but ticket vouchers and spend-based milestone bonuses discontinued from 1 Apr 2025; new issuance stopped, signalling phase-out[^sbi-apr2025-cc]
-**SimplyCLICK Swiggy halved** — SBI SimplyCLICK reward rate on Swiggy cut from 10X to 5X effective 1 Apr 2025[^sbi-apr2025-cc]
+**Cashback cap cut confirmed in mainstream media** — SBI's reduction of monthly cashback ceiling from ₹5,000 to ₹4,000 is now cited in broad market coverage as a leading example of India-wide rewards tightening[^cc-tighten-sbi-2026-06-26]
 
 ## Competitor Intel
 
@@ -38,6 +36,12 @@ last_updated: 2026-06-26
 **Own the "no programme collapse" narrative** — SBI's winding down of Vistara cards with fee waivers-but-no-benefits is a trust-damaging pattern Scapia can contrast against its stable, transparent programme[^sbi-apr2025-cc]
 
 ## Coverage
+
+### SBI Cashback Cap Reaches Mainstream Coverage — 2026-06-26
+
+A 5paisa market overview uses SBI Card's monthly cashback cap reduction — from ₹5,000 to ₹4,000 — as a headline example of the credit card rewards tightening underway across India's top issuers[^cc-tighten-sbi-2026-06-26]. The article attributes the cuts to three converging pressures: unsustainable reward programme costs, rising delinquency rates, and an ~11% MoM fall in credit card spending to ₹1.78 lakh crore in February 2026.
+
+No new product facts are added beyond what is already documented. The article's framing confirms that SBI's cashback ceiling cut — previously tracked as a specialist devaluation event — has entered general consumer financial media, broadening awareness among exactly the mass-market cardholders SBI Card targets[^cc-tighten-sbi-2026-06-26]. [Inferred · Medium] For Scapia, wider public awareness of these cuts is likely to trigger more active card comparison behaviour in the months ahead.
 
 ### SBI Devalues Air India, Vistara Cards — 2025-04-01
 
@@ -65,6 +69,7 @@ The Etihad discontinuation is the most tactically significant for Scapia: it orp
 
 ## Developments
 
+- 2026-06-26 — SBI Cashback Cap Reaches Mainstream Coverage [^cc-tighten-sbi-2026-06-26]
 - 2025-04-01 — SBI Devalues Air India, Vistara Cards [^sbi-apr2025-cc]
 - 2026-04-01 — SBI Card Cuts Rent Rewards, Cashback [^card-rules-apr2026]
 - 2026-06-26 — PhonePe SELECT BLACK Devalued July 2026 [^sbi-phonepe-black-2026-06-26]
@@ -76,3 +81,4 @@ The Etihad discontinuation is the most tactically significant for Scapia: it orp
 [^sbi-phonepe-black-2026-06-26]: raw/ambiguous/credit-card-updates-changes-2026.md
 [^card-rules-apr2026]: raw/ambiguous/9-major-credit-card-rule-changes-in-india-2026.md
 [^sbi-apr2025-cc]: raw/ambiguous/watch-out-major-changes-for-credit-cards-from-april-1-2025.md
+[^cc-tighten-sbi-2026-06-26]: raw/ambiguous/credit-card-rewards-in-india-are-getting-tighter-what-is-changing.md

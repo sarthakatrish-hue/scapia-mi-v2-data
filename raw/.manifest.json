@@ -164,6 +164,119 @@
    "content_hash": "0283b94d844e3b84a6cbe559",
    "autonomous": true,
    "at": "2026-06-25"
+  },
+  "d78f8e70e96a79f630160a2d": {
+   "url": "https://inc42.com/buzz/what-changes-with-rbis-new-directions-on-credit-on-upi/",
+   "status": "BORDERLINE",
+   "content_hash": "954db1aed0b56a9f41fbe639",
+   "autonomous": true,
+   "at": "2026-06-26"
+  },
+  "07b1a3b5aa180f7386ffb111": {
+   "url": "https://www.business-standard.com/finance/news/rbi-aligns-prudential-norms-for-upi-linked-credit-lines-with-base-loans-126062301202_1.html",
+   "status": "AUTO-APPROVE",
+   "content_hash": "360fca7fb591db7f4f92d854",
+   "autonomous": true,
+   "at": "2026-06-26"
+  },
+  "236c8cbc3f801826f1d7519d": {
+   "url": "https://www.pickmywork.com/hdfc-credit-card-devaluation-2026/",
+   "status": "AUTO-APPROVE",
+   "content_hash": "ae47fcf724866773361cd3d9",
+   "autonomous": true,
+   "at": "2026-06-26"
+  },
+  "7a556dcdb5cc4d806d3567ee": {
+   "url": "https://cardexpress.in/changelog",
+   "status": "AUTO-APPROVE",
+   "content_hash": "6d1c06d90c2bbf449d4011dc",
+   "autonomous": true,
+   "at": "2026-06-26"
+  },
+  "ccac57cce6f149ffc3a32b46": {
+   "url": "https://www.pickmywork.com/axis-bank-credit-card-devaluation-in-2026/",
+   "status": "AUTO-APPROVE",
+   "content_hash": "7bb99dfa2e46e77c92c2ae8d",
+   "autonomous": true,
+   "at": "2026-06-26"
+  },
+  "4944f5d3a3e9b116ff80dafa": {
+   "url": "https://honestmoney.in/credit-cards/best-rewards-credit-cards-india-after-devaluation/",
+   "status": "BORDERLINE",
+   "content_hash": "b2aaeab3fe76a7c1b770c440",
+   "autonomous": true,
+   "at": "2026-06-26"
+  },
+  "2f185fa9d331698cf815bc0c": {
+   "url": "https://www.cardexpert.in/best-credit-cards-india-2026/",
+   "status": "AUTO-REJECT",
+   "content_hash": "0ad08b805c07f55affa0ee94",
+   "autonomous": true,
+   "at": "2026-06-26"
+  },
+  "0a350a55e519d0f1f8ee8f33": {
+   "url": "https://www.paisabazaar.com/credit-card/travel-credit-cards/",
+   "status": "AUTO-REJECT",
+   "content_hash": "5316df64c4afabecf5015979",
+   "autonomous": true,
+   "at": "2026-06-26"
+  },
+  "e35a196032ae0007da28f136": {
+   "url": "https://tradebrains.in/money/scapia-federal-credit-card-faces-major-devaluation-in-2026-updated-rewards-benefits-and-impact/",
+   "status": "BORDERLINE",
+   "content_hash": "887a5aabf945ea12bfe2b1f0",
+   "autonomous": true,
+   "at": "2026-06-26"
+  },
+  "56578d6a13f321e6283c507e": {
+   "url": "https://wise.com/in/blog/best-travel-credit-card-india",
+   "status": "AUTO-APPROVE",
+   "content_hash": "71046c284ba31070d725694e",
+   "autonomous": true,
+   "at": "2026-06-26"
+  },
+  "5e1cc2f6896d6bdfec5bdc22": {
+   "url": "https://paytm.com/blog/credit-card/credit-card-rule-changes-2024/",
+   "status": "fetch-error",
+   "at": "2026-06-26"
+  },
+  "a84e60ed784f4ec5e028c3b5": {
+   "url": "https://1finance.co.in/blog/credit-card-rule-changes-what-you-need-to-know/",
+   "status": "AUTO-APPROVE",
+   "content_hash": "0ad3e36d55d43c6e9e7471ac",
+   "autonomous": true,
+   "at": "2026-06-26"
+  },
+  "cad1a32629d7f148c862cc5b": {
+   "url": "https://entri.app/blog/how-credit-card-rewards-are-being-cut-down-in-2026/",
+   "status": "no-relevant-article",
+   "at": "2026-06-26"
+  },
+  "72e74f208c4dd9be652063b3": {
+   "url": "https://www.bankbazaar.com/credit-card/rewards-credit-card-in-india.html",
+   "status": "no-relevant-article",
+   "at": "2026-06-26"
+  },
+  "87dbe9f582b26fafa9ba1ca7": {
+   "url": "https://moneyview.in/credit-card/best-rewards-credit-cards-in-india",
+   "status": "AUTO-REJECT",
+   "content_hash": "41d1a4fc994ebd7dc5806d0e",
+   "autonomous": true,
+   "at": "2026-06-26"
+  },
+  "d6d803476c1ac3e274f4f945": {
+   "url": "https://www.paisabazaar.com/credit-card/credit-card-changes-april-2025/",
+   "status": "AUTO-APPROVE",
+   "content_hash": "5e5db9ef4dbbb285012531f1",
+   "autonomous": true,
+   "at": "2026-06-26"
+  },
+  "4232aa73d3d7124fbf32a6f7": {
+   "url": "https://www.5paisa.com/blog/credit-card-rewards-india-changes",
+   "status": "AUTO-APPROVE",
+   "content_hash": "7d133e1e8ea4624cec970fe2",
+   "autonomous": true,
+   "at": "2026-06-26"
   }
  }
 }

@@ -239,3 +239,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-26] ingest | watch-out-major-changes-for-credit-cards-from-april-1-2025.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-26] ingest | watch-out-major-changes-for-credit-cards-from-april-1-2025.md → subjects/sbi-card.md, subjects/axis-bank.md, subjects/idfc-first-bank.md, subjects/amex-platinum-travel.md, sources/2026-06-26-watch-out-major-changes-for-credit-cards-from-april-1-2025.md | Auto-approved
+
+## [2026-06-26] ingest | credit-card-rewards-in-india-are-getting-tighter-what-is-changing.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-26] ingest | credit-card-rewards-in-india-are-getting-tighter-what-is-changing.md → subjects/hdfc-bank.md, subjects/icici-bank.md, subjects/axis-bank.md, subjects/sbi-card.md, subjects/american-express.md, sources/2026-06-26-credit-card-rewards-in-india-are-getting-tighter-what-is-changing.md | Auto-approved
+
+## [2026-06-26] crawl | autonomous | universe 71, 3 searches → 17 candidates | ingested 8/8 (vault 8, market-signal 0), dropped 6, queued 0, dupes 3, stale 0, irrelevant 2, errors 1

@@ -7,9 +7,9 @@ categories: [banks, flights, stays]
 domain_url: axisbank.com
 logo: null
 issuer: null
-keywords: [issuer, bank, devaluation, reward-points, forfeiture, fragmented-disclosure, transfer-partners, lounge-removal, april-2026, mitc-violation, insurance, utility, rent-fee, club-vistara, vistara-merger, co-brand-wind-down]
+keywords: [issuer, bank, devaluation, reward-points, forfeiture, fragmented-disclosure, transfer-partners, lounge-removal, april-2026, mitc-violation, insurance, utility, rent-fee, club-vistara, vistara-merger, co-brand-wind-down, partner-removal]
 signal: threat
-headline: "'Axis Bank winds down all Club Vistara co-brand cards from April 2025'"
+headline: "'Axis Bank removes Qatar Airways, Accor, and Marriott from cards without prior notice'"
 vitals: ["['1 Apr 2026|Reward cap date|Insurance and utility payments capped']"]
 scoreboard: ["Loyalty & Rewards|High|down", "Partnerships|Medium|down"]
 last_updated: 2026-06-26
@@ -17,8 +17,7 @@ last_updated: 2026-06-26
 
 ## What we know
 
-**Axis Vistara cards discontinued** — Axis Vistara, Axis Vistara Signature, and Axis Vistara Infinite had renewal fees, complimentary Club Maharaja memberships, and all ticket/upgrade vouchers discontinued from 18 April 2025[^axis-apr2025-cc]
-**Insurance and utility reward caps** — Axis Bank capped reward points on insurance premium and utility bill payments from April 2026[^card-rules-apr2026]
+**Partner removals confirmed market-wide** — Axis removing Qatar Airways, Accor, and Marriott from select cards — often without prior notice — is now cited in market-wide coverage as emblematic of the industry's devaluation approach[^cc-tighten-axis-2026-06-26]
 
 ## Competitor Intel
 
@@ -36,6 +35,12 @@ last_updated: 2026-06-26
 **Amplify the devaluation cadence** — Axis has now devalued in April 2025 (Vistara wind-down) and April 2026 (transfer partners, insurance caps); the frequency of cuts is itself a competitive narrative [Inferred · High]
 
 ## Coverage
+
+### Axis Partner Removals Cited Industry-Wide — 2026-06-26
+
+A broad market review singles out Axis Bank's removal of Qatar Airways, Accor, and Marriott Bonvoy as transfer partners from select cards — frequently without prior customer notice — as a concrete example of the systemic rewards tightening underway across India's top card issuers[^cc-tighten-axis-2026-06-26]. The article positions Axis alongside HDFC, ICICI, SBI, and Amex as collectively narrowing reward earn and redemption options as programme economics deteriorate.
+
+No new facts emerge beyond what is already tracked. The significance is corroborative: Axis's partner-removal pattern, previously documented in specialist coverage, is now reaching mainstream financial media[^cc-tighten-axis-2026-06-26]. Wider awareness of these cuts is likely to accelerate cardholder review behaviour — creating a broader window for Scapia to capture travel-focused users actively reassessing their card portfolios. [Inferred · Medium]
 
 ### Axis Winds Down Vistara Cards — 2025-04-18
 
@@ -63,6 +68,7 @@ The pattern matters for Scapia's positioning: the combination of tighter forfeit
 
 ## Developments
 
+- 2026-06-26 — Axis Partner Removals Cited Industry-Wide [^cc-tighten-axis-2026-06-26]
 - 2025-04-18 — Axis Winds Down Vistara Cards [^axis-apr2025-cc]
 - 2026-04-01 — Axis Caps Insurance, Utility Rewards [^card-rules-apr2026]
 - 2026-04-02 — Axis Bank's Sweeping April 2026 Devaluation [^axis-apr2026]
@@ -74,3 +80,4 @@ The pattern matters for Scapia's positioning: the combination of tighter forfeit
 [^axis-apr2026]: raw/ambiguous/axis-bank-credit-card-devaluation-in-2026-what-happened.md
 [^card-rules-apr2026]: raw/ambiguous/9-major-credit-card-rule-changes-in-india-2026.md
 [^axis-apr2025-cc]: raw/ambiguous/watch-out-major-changes-for-credit-cards-from-april-1-2025.md
+[^cc-tighten-axis-2026-06-26]: raw/ambiguous/credit-card-rewards-in-india-are-getting-tighter-what-is-changing.md

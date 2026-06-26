@@ -14,7 +14,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/rbi]] — RBI aligns UPI credit-line prudential norms with underlying loan product rules
 - [[subjects/air-india-maharaja-club-credit-card]] — "Maharaja Club deepens with Express redemption and improved award seat access"
 - [[subjects/bobcard]] — BOBCARD aggressively courts travel spenders with multi-OTA discount blitz
-- [[subjects/american-express]] — "Amex Platinum charges ₹66,000 fee and 3.5% forex targeting elite Indian travellers"
+- [[subjects/american-express]] — "Amex restructures Membership Rewards so ₹4L spend yields 10,000 points vs 25,000 prior"
 - [[subjects/credit-card-devaluation-wave-2025-26]] — Incumbent card devaluations push users toward transparent, travel-first alternatives
 - [[subjects/upi-rules-2026-compliance]] — New UPI compliance rules tighten transaction limits and GST linkage from 2026
 - [[subjects/bank-of-baroda]] — Bank of Baroda raises interest rate on One co-branded card unpaid dues
@@ -57,7 +57,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/idfc-first-bank]] — "IDFC First winds down Club Vistara card as merger forces benefit discontinuation"
 - [[subjects/rbl-bank]]
 - [[subjects/sbi-card]] — "SBI Card slashes Air India co-brand rewards and winds down Club Vistara cards"
-- [[subjects/icici-bank]] — "ICICI Bank moves lounge access to spend-linked model from April 2026"
-- [[subjects/axis-bank]] — "Axis Bank winds down all Club Vistara co-brand cards from April 2025"
-- [[subjects/hdfc-bank]] — "HDFC Bank devalues three mid-premium cards in May 2026, signalling portfolio tightening"
+- [[subjects/icici-bank]] — "ICICI Bank reduces category earn rates as industry-wide rewards tightening accelerates"
+- [[subjects/axis-bank]] — "Axis Bank removes Qatar Airways, Accor, and Marriott from cards without prior notice"
+- [[subjects/hdfc-bank]] — "HDFC Bank joins industry-wide credit card reward tightening as costs rise"
 - [[subjects/hdfc-regalia-gold]] — "Regalia Gold reward rate cut 6% and lounge access conditionalised from July 2026"
