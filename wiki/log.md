@@ -209,3 +209,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-26] ingest | axis-bank-credit-card-devaluation-in-2026-what-happened.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-26] ingest | axis-bank-credit-card-devaluation-in-2026-what-happened.md → subjects/axis-bank.md, subjects/axis-atlas.md, subjects/axis-burgundy-private.md, subjects/hdfc-regalia-gold.md, sources/2026-06-26-axis-bank-credit-card-devaluation-in-2026-what-happened.md | Auto-approved
+
+## [2026-06-26] update | entity-registry += amex-platinum-travel (competitor), bob-eterna (competitor), idfc-first-millennia (competitor) (from best-rewards-credit-cards-india-2026-real-return-per-rupee-after-devaluations.md)
+
+## [2026-06-26] crawl-drop | best-rewards-credit-cards-india-2026-real-return-per-rupee-after-devaluations.md | Maker: 8/10 BORDERLINE — dropped (autonomous, no queue)

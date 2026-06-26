@@ -58,6 +58,12 @@ treated as context until promoted).
 
 ## Competitors
 
+- idfc-first-millennia | competitor | IDFC FIRST Millennia | newly-surfaced · added_by: agent 2026-06-26 · source: best-rewards-credit-cards-india-2026-real-return-per-rupee-after-devaluations.md · lifetime-free cashback and rewards card
+
+- bob-eterna | competitor | Bank of Baroda Eterna | newly-surfaced · added_by: agent 2026-06-26 · source: best-rewards-credit-cards-india-2026-real-return-per-rupee-after-devaluations.md · lifetime-free rewards credit card competing on domestic travel and dining
+
+- amex-platinum-travel | competitor | American Express Platinum Travel Card | newly-surfaced · added_by: agent 2026-06-26 · source: best-rewards-credit-cards-india-2026-real-return-per-rupee-after-devaluations.md · premium travel rewards card in India
+
 - hdfc-pixel-play-credit-card | competitor | HDFC Pixel Play Credit Card | newly-surfaced · added_by: agent 2026-06-26 · source: axis-bank-credit-card-devaluation-in-2026-what-happened.md · zero-fee customizable category cashback card for young spenders
 
 - axis-ace-credit-card | competitor | Axis ACE Credit Card | newly-surfaced · added_by: agent 2026-06-26 · source: axis-bank-credit-card-devaluation-in-2026-what-happened.md · everyday utility and food delivery cashback card with lounge access
