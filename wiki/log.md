@@ -213,3 +213,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-26] update | entity-registry += amex-platinum-travel (competitor), bob-eterna (competitor), idfc-first-millennia (competitor) (from best-rewards-credit-cards-india-2026-real-return-per-rupee-after-devaluations.md)
 
 ## [2026-06-26] crawl-drop | best-rewards-credit-cards-india-2026-real-return-per-rupee-after-devaluations.md | Maker: 8/10 BORDERLINE — dropped (autonomous, no queue)
+
+## [2026-06-26] update | entity-registry += hsbc-live-plus (competitor), axis-cashback-card (competitor), equitas-selfe (competitor), hdfc-tata-neu-infinity (competitor), hsbc-travel-one (competitor), equitas-powermiles (competitor), hdfc-marriott-bonvoy (competitor), stan-chart-ultimate (competitor) (from 20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md)
+
+## [2026-06-26] filter-reject | 20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md | Maker: 3/10 AUTO-REJECT — Generic, undifferentiated listicle with no new strategic intelligence — restates published rewards, benefits, and positioning of known competitors without material facts (financials, launches, pivots, pricing moves, partnerships, exits). Scapia mention is incidental and carries no new intel. No substantive knowledge gain for the knowledge base.

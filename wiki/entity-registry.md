@@ -58,6 +58,22 @@ treated as context until promoted).
 
 ## Competitors
 
+- stan-chart-ultimate | competitor | Standard Chartered Ultimate | newly-surfaced · added_by: agent 2026-06-26 · source: 20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md · super-premium rewards card
+
+- hdfc-marriott-bonvoy | competitor | HDFC Marriott Bonvoy | newly-surfaced · added_by: agent 2026-06-26 · source: 20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md · hotel loyalty co-brand card
+
+- equitas-powermiles | competitor | Equitas Powermiles | newly-surfaced · added_by: agent 2026-06-26 · source: 20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md · international travel rewards card
+
+- hsbc-travel-one | competitor | HSBC Travel One | newly-surfaced · added_by: agent 2026-06-26 · source: 20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md · travel rewards card with Accor transfers
+
+- hdfc-tata-neu-infinity | competitor | HDFC Tata Neu Infinity | newly-surfaced · added_by: agent 2026-06-26 · source: 20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md · UPI credit card
+
+- equitas-selfe | competitor | Equitas Selfe | newly-surfaced · added_by: agent 2026-06-26 · source: 20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md · entry-level cashback card with category multipliers
+
+- axis-cashback-card | competitor | Axis Cashback Card | newly-surfaced · added_by: agent 2026-06-26 · source: 20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md · online spend cashback product
+
+- hsbc-live-plus | competitor | HSBC Live+ | newly-surfaced · added_by: agent 2026-06-26 · source: 20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md · dining and grocery cashback card
+
 - idfc-first-millennia | competitor | IDFC FIRST Millennia | newly-surfaced · added_by: agent 2026-06-26 · source: best-rewards-credit-cards-india-2026-real-return-per-rupee-after-devaluations.md · lifetime-free cashback and rewards card
 
 - bob-eterna | competitor | Bank of Baroda Eterna | newly-surfaced · added_by: agent 2026-06-26 · source: best-rewards-credit-cards-india-2026-real-return-per-rupee-after-devaluations.md · lifetime-free rewards credit card competing on domestic travel and dining

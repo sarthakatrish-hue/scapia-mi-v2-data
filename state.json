@@ -2,6 +2,18 @@
   "pending_queue": [],
   "rejection_log": [
     {
+      "id": "reject-e0f3b1e3",
+      "filename": "20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md",
+      "score": "3/10",
+      "checker_score": null,
+      "checker_reason": null,
+      "band": "AUTO-REJECT",
+      "outcome": null,
+      "reason": "Generic, undifferentiated listicle with no new strategic intelligence \u2014 restates published rewards, benefits, and positioning of known competitors without material facts (financials, launches, pivots, pricing moves, partnerships, exits). Scapia mention is incidental and carries no new intel. No substantive knowledge gain for the knowledge base.",
+      "maker_reason": "Generic, undifferentiated listicle with no new strategic intelligence \u2014 restates published rewards, benefits, and positioning of known competitors without material facts (financials, launches, pivots, pricing moves, partnerships, exits). Scapia mention is incidental and carries no new intel. No substantive knowledge gain for the knowledge base.",
+      "timestamp": "2026-06-26"
+    },
+    {
       "id": "reject-9ef18f9f",
       "filename": "june-2026-upi-and-lpg-rule-changes-key-financial-and-utility-updates-for-exam-pr.md",
       "score": "2/10",
