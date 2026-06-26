@@ -185,3 +185,5 @@ Append-only ingest/query/lint event log.
 ## [2026-06-25] crawl | autonomous | universe 60, 4 searches → 19 candidates | ingested 8/8 (vault 7, market-signal 1), dropped 0, queued 0, dupes 9, stale 0, irrelevant 1, errors 0
 
 ## [2026-06-25] query/brief_query | MMT vs scapia
+
+## [2026-06-26] crawl-drop | what-changes-with-rbi-s-new-directions-on-credit-on-upi.md | Maker: 9/10 BORDERLINE — dropped (autonomous, no queue)
