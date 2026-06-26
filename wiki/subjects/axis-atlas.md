@@ -7,20 +7,20 @@ categories: [cards, flights, stays]
 domain_url: axisbank.com
 logo: null
 issuer: axis-bank
-keywords: [miles, edge-miles, travel, transfer-partners, lounge-tiered, devaluation, milestone, group-a-group-b, april-2026, accor-removed, marriott-removed, ratio-reversal]
+keywords: [miles, edge-miles, travel, transfer-partners, lounge-tiered, devaluation, milestone, group-a-group-b, april-2026, accor-removed, marriott-removed, ratio-reversal, forex-3.5, income-12L]
 signal: threat
-headline: "'Axis Atlas April 2026 devaluation reverses transfer ratio and strips top hotel partners'"
-vitals: ["₹5,000 + GST|Annual fee|vs ₹0/0%/unlimited Scapia", "3.5%|Forex markup|vs ₹0/0%/unlimited Scapia", "Tiered: 4-12 intl, 8-18 dom (Priority Pass + DreamFolks)|Lounge|vs ₹0/0%/unlimited Scapia"]
+headline: "'Axis Atlas charges 3.5% forex and ₹5,000 fee with tiered lounge access'"
+vitals: ["['₹5,000 + GST|Annual fee|vs ₹0/0%/unlimited Scapia', '3.5%|Forex markup|vs ₹0/0%/unlimited Scapia', 'Tiered: 4-12 intl, 8-18 dom (Priority Pass + DreamFolks)|Lounge|vs ₹0/0%/unlimited Scapia']"]
 scoreboard: ["Loyalty & Rewards|High|down", "Travel Booking|Medium|down", "Pricing & Fees|Medium|down"]
 last_updated: 2026-06-26
 ---
 
 ## What we know
 
-**Transfer ratio dramatically reversed** — Atlas ratio changed from 1:2 (1 EDGE Mile = 2 partner points) to 2:1 (2 EDGE Miles = 1 partner point), effective 2 April 2026 — a 75% reduction in conversion value[^atlas-apr2026]
-**Accor, Marriott, Qatar Airways removed** — Accor Live Limitless (valued at ~₹2.2 per point), Marriott Bonvoy, and Qatar Airways Privilege Club removed from Travel Edge entirely, eliminating the most valuable redemption options[^atlas-apr2026]
-**New lower-value partners added** — British Airways Avios, Finnair Plus, and Vietnam Airlines Lotusmiles added as replacements, but these offer materially lower redemption value than the removed partners[^atlas-apr2026]
-**No advance notice given** — Changes implemented overnight on 2 April 2026 without the 30-day prior intimation required by Axis Bank's own MITC[^atlas-apr2026]
+**Annual fee confirmed ₹5,000** — Third-party roundup corroborates ₹5,000 annual fee and 3.5% forex markup[^bttc-2026-06-26]
+**Income thresholds restated** — Salaried ₹12L, self-employed ₹15L confirmed across sources[^bttc-2026-06-26]
+**Welcome bonus 2,500 EDGE Miles** — Awarded on first transaction within 37 days of card issuance[^bttc-2026-06-26]
+**Accelerated earn on travel** — 5 EDGE Miles per ₹100 on airlines, hotels, and Travel EDGE Portal; 2 EDGE Miles per ₹100 on other spends[^bttc-2026-06-26]
 
 ## Competitor Intel
 
@@ -58,6 +58,12 @@ last_updated: 2026-06-26
 
 ## Coverage
 
+### Atlas Specs Confirmed in Roundup — 2026-06-26
+
+A broad best-travel-cards-in-India comparison piece confirms Axis Atlas's standing fee structure: ₹5,000 annual fee, 3.5% forex markup, and income threshold of ₹12L salaried / ₹15L self-employed[^bttc-2026-06-26]. The accelerated earn rate of 5 EDGE Miles per ₹100 on travel (airlines, hotels, Travel EDGE Portal) and 2 EDGE Miles per ₹100 elsewhere is restated. No new product changes are present; existing devaluation analysis remains the primary competitive signal.
+
+This roundup adds no material change to the April 2026 devaluation story already on record, but corroborates specs from an independent source and reinforces Atlas's position as a high-fee, high-forex card — useful context for Scapia comparison content targeting Atlas's ₹12L+ salaried audience [Inferred · Medium][^bttc-2026-06-26].
+
 ### Atlas April 2026 Partner Purge — 2026-04-02
 
 Axis Atlas cardholders woke on 2 April 2026 to find Accor Live Limitless, Marriott Bonvoy, and Qatar Airways Privilege Club removed from the Travel Edge platform overnight — taking with them the highest-value redemption options on the card[^atlas-apr2026]. The transfer ratio simultaneously reversed from 1:2 to 2:1, meaning cardholders now need twice the EDGE Miles for the same partner points, a 75% reduction in conversion value. No 30-day notice was given, violating Axis's own MITC commitments[^atlas-apr2026].
@@ -66,6 +72,7 @@ This is Atlas's third material devaluation in three years and the most damaging 
 
 ## Developments
 
+- 2026-06-26 — Atlas Specs Confirmed in Roundup [^bttc-2026-06-26]
 - 2026-04-02 — Atlas April 2026 Partner Purge [^atlas-apr2026]
 - 2024-04-20 — Axis Atlas second devaluation effective: travel reward cap (₹2L/month), expanded exclusions, milestone benefit cut from 17,500 to 10,000 EDGE miles, annual benefit cut from 10,000 to 5,000 EDGE miles, transfer partners split into Group A/B with separate caps, concierge and airport pick-up discontinued [^atlas-deval1]
 
@@ -75,3 +82,4 @@ This is Atlas's third material devaluation in three years and the most damaging 
 [^atlas2]: Paisabazaar Axis Atlas 2026 — https://www.paisabazaar.com/axis-bank/atlas-credit-card/ (accessed 2026-06)
 [^atlas-deval1]: Axis Atlas devaluation analysis, April 2024 — raw/competitive/axis-atlas-devaluation-major-changes-effective-april-2024-is-it-still-rewarding-.md
 [^atlas-apr2026]: raw/ambiguous/axis-bank-credit-card-devaluation-in-2026-what-happened.md
+[^bttc-2026-06-26]: raw/ambiguous/best-travel-credit-cards-in-india-2026-charges-rewards.md

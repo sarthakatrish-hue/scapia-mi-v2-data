@@ -3,13 +3,17 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
-- [[subjects/induslnd-bank]] — "IndusInd Tiger adds Air India 1:1 transfer, sharpening no-fee travel value"
+- [[subjects/niyo-sbm]] — "Niyo SBM offers zero forex and near-zero fee with FD-backed credit issuance"
+- [[subjects/makemytrip-icici-bank]] — "MMT ICICI pairs 0.99% forex with dual network and Priority Pass at near-zero fee"
+- [[subjects/hsbc-travel-one]] — "HSBC TravelOne offers multi-airline transfers and duty-free discounts at ₹4,999 fee"
+- [[subjects/hdfc-marriott-bonvoy]] — "Marriott Bonvoy HDFC locks rewards into hotel stays at ₹3,000 fee and 3.5% forex"
+- [[subjects/induslnd-bank]] — "IndusInd Avios Infinite adds dual airline loyalty choice with preferred-destination forex discount"
 - [[subjects/hdfc-bizpower]] — "BizPower adds IT/GST transaction cap in May 2026, targeting tax-payment reward earners"
 - [[subjects/hdfc-diners-club-privilege]] — "Diners Club Privilege takes 25% reward rate cut with lounge now spend-gated from July 2026"
 - [[subjects/rbi]] — RBI aligns UPI credit-line prudential norms with underlying loan product rules
 - [[subjects/air-india-maharaja-club-credit-card]] — "Maharaja Club deepens with Express redemption and improved award seat access"
 - [[subjects/bobcard]] — BOBCARD aggressively courts travel spenders with multi-OTA discount blitz
-- [[subjects/american-express]] — Amex India zeroes out reward points on fuel spends from June 2025
+- [[subjects/american-express]] — "Amex Platinum charges ₹66,000 fee and 3.5% forex targeting elite Indian travellers"
 - [[subjects/credit-card-devaluation-wave-2025-26]] — Incumbent card devaluations push users toward transparent, travel-first alternatives
 - [[subjects/upi-rules-2026-compliance]] — New UPI compliance rules tighten transaction limits and GST linkage from 2026
 - [[subjects/bank-of-baroda]] — Bank of Baroda raises interest rate on One co-branded card unpaid dues
@@ -41,9 +45,9 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/rbl-world-safari]]
 - [[subjects/idfc-first-mayura]]
 - [[subjects/sbi-elite]]
-- [[subjects/axis-atlas]] — "Axis Atlas April 2026 devaluation reverses transfer ratio and strips top hotel partners"
+- [[subjects/axis-atlas]] — "Axis Atlas charges 3.5% forex and ₹5,000 fee with tiered lounge access"
 - [[subjects/icici-emeralde]]
-- [[subjects/hdfc-diners-black]]
+- [[subjects/hdfc-diners-black]] — "HDFC DCB Metal delivers unlimited lounge, 10X SmartBuy rewards and 2% forex at ₹10K fee"
 - [[subjects/hdfc-infinia]]
 - [[subjects/onecard-issuer]]
 - [[subjects/yes-bank]] — "Powers BharatPe and POP credit products; emerging fintech credit infrastructure bank"

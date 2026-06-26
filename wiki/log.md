@@ -221,3 +221,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-26] filter-reject | best-travel-credit-cards-in-india-for-june-2026.md | Maker: 2/10 AUTO-REJECT — Generic product comparison listicle with zero strategic signal — no launches, devaluations, pricing changes, financial data, partnerships, or competitive pivots; purely restated marketing copy of known cards.
 
 ## [2026-06-26] crawl-drop | scapia-federal-credit-card-faces-major-devaluation-in-2026-updated-rewards-benef.md | Maker: 9/10 BORDERLINE — dropped (autonomous, no queue)
+
+## [2026-06-26] update | entity-registry += niyo-sbm (competitor), makemytrip-icici-bank (competitor) (from best-travel-credit-cards-in-india-2026-charges-rewards.md)
+
+## [2026-06-26] ingest | best-travel-credit-cards-in-india-2026-charges-rewards.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-26] ingest | best-travel-credit-cards-in-india-2026-charges-rewards.md → subjects/axis-atlas.md, subjects/american-express.md, subjects/hdfc-diners-black.md, subjects/hdfc-marriott-bonvoy.md, subjects/hsbc-travel-one.md, subjects/makemytrip-icici-bank.md, subjects/niyo-sbm.md, subjects/induslnd-bank.md, sources/2026-06-26-best-travel-credit-cards-in-india-2026-charges-rewards.md | Auto-approved

@@ -7,9 +7,9 @@ categories: [banks]
 domain_url: indusind.com
 logo: null
 issuer: null
-keywords: [[bank, credit-cards, tiger, rewards, airline-transfer, lifetime-free, air-india]]
+keywords: [bank, credit-cards, tiger, rewards, airline-transfer, lifetime-free, air-india, avios, british-airways, qatar]
 signal: watch
-headline: "'IndusInd Tiger adds Air India 1:1 transfer, sharpening no-fee travel value'"
+headline: "'IndusInd Avios Infinite adds dual airline loyalty choice with preferred-destination forex discount'"
 vitals: ["[]"]
 scoreboard: ["Loyalty & Rewards|Medium|up", "Travel Booking|Medium|up"]
 last_updated: 2026-06-26
@@ -17,10 +17,14 @@ last_updated: 2026-06-26
 
 ## What we know
 
-**Tiger gets airline transfer** — IndusInd Bank announced Tiger reward points transfer to Air India Flying Returns at 1:1 ratio, effective June 2026[^indusind-tiger-2026-06-26]
-**Single transfer partner only** — Air India is the sole airline partner; no multi-airline diversification unlike Axis Atlas or HSBC TravelOne[^indusind-tiger-2026-06-26]
-**Lifetime-free card** — Tiger carries zero joining and annual fee with no spend-waiver criteria required[^indusind-tiger-2026-06-26]
-**No minimum transfer threshold** — Transfers processed directly via IndusInd's rewards portal with no minimum point requirement[^indusind-tiger-2026-06-26]
+**Avios Infinite annual fee ₹10,000** — Premium tier card; separate product from the lifetime-free Tiger[^bttc-2026-06-26]
+**Dual airline loyalty choice** — Cardholders select either Qatar Airways Privilege Club or British Airways Executive Club as their Avios earn programme[^bttc-2026-06-26]
+**Preferred destination forex discount** — 1.5% forex in chosen preferred international destination; 3.5% elsewhere — asymmetric pricing model[^bttc-2026-06-26]
+**Welcome bonus 20,000 Avios** — Awarded on card issuance[^bttc-2026-06-26]
+**Earn 6 Avios per ₹200 on POS in preferred destination** — Accelerated earn in user-selected geography; 3 Avios on online spend in preferred destination; 3 Avios on domestic or other international spend[^bttc-2026-06-26]
+**5 Avios per ₹200 on Qatar/British Airways purchases** — Direct airline spend accelerator[^bttc-2026-06-26]
+**Priority Pass membership included** — With 2 free domestic lounge visits[^bttc-2026-06-26]
+**Income threshold not specified** — Source does not cite income requirement for Avios Infinite[^bttc-2026-06-26]
 
 ## Competitor Intel
 
@@ -39,6 +43,12 @@ last_updated: 2026-06-26
 
 ## Coverage
 
+### IndusInd Avios Infinite Surfaced — 2026-06-26
+
+A 2026 travel-card roundup surfaces the IndusInd Bank Avios Visa Infinite Credit Card — distinct from the Tiger card already on record[^bttc-2026-06-26]. At ₹10,000 annual fee, it offers a dual airline loyalty choice (Qatar Airways or British Airways) and a tiered forex model: 1.5% in the cardholder's preferred international destination, 3.5% everywhere else. The 20,000 Avios welcome bonus and 6 Avios per ₹200 on preferred-destination POS spend are the headline earn rates.
+
+No material change to IndusInd Bank's overall competitive posture — this product extends the bank's travel card portfolio upmarket, complementing Tiger's no-fee positioning with a premium Avios-earning tier[^bttc-2026-06-26]. For Scapia, the Avios Infinite's 1.5% preferred-destination forex is still above Scapia's 0%, and its earn is locked into two specific airlines — a flexibility gap for multi-airline travellers [Inferred · Medium].
+
 ### IndusInd Tiger Adds Air India Miles — 2026-06-26
 
 IndusInd Bank announced that Tiger Credit Card reward points now transfer to Air India Flying Returns at a 1:1 ratio — a material upgrade for a card that already carried zero annual fee, eight domestic lounge accesses, and quarterly golf[^indusind-tiger-2026-06-26]. The move creates what is arguably India's strongest no-fee travel card value proposition, giving cardholders a direct path to Air India miles without any fee hurdle or minimum transfer threshold.
@@ -47,8 +57,10 @@ The single-partner constraint is the structural ceiling: Tiger's entire airline 
 
 ## Developments
 
+- 2026-06-26 — IndusInd Avios Infinite Surfaced [^bttc-2026-06-26]
 - 2026-06-26 — IndusInd Tiger Adds Air India Miles [^indusind-tiger-2026-06-26]
 
 ## Sources
 
 [^indusind-tiger-2026-06-26]: raw/ambiguous/credit-card-updates-changes-2026.md
+[^bttc-2026-06-26]: raw/ambiguous/best-travel-credit-cards-in-india-2026-charges-rewards.md

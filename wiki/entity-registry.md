@@ -58,13 +58,17 @@ treated as context until promoted).
 
 ## Competitors
 
+- makemytrip-icici-bank | competitor | MakeMyTrip ICICI Bank Credit Card | domain: icicibank.com | newly-surfaced · added_by: agent 2026-06-26 · source: best-travel-credit-cards-in-india-2026-charges-rewards.md · Co-branded ICICI travel card with 0.99% forex markup and Priority Pass membership
+
+- niyo-sbm | competitor | Niyo SBM Credit Card | domain: niyo.co | newly-surfaced · added_by: agent 2026-06-26 · source: best-travel-credit-cards-in-india-2026-charges-rewards.md · Co-branded credit card offering 0% forex markup and lounge access in India market
+
 - stan-chart-ultimate | competitor | Standard Chartered Ultimate | newly-surfaced · added_by: agent 2026-06-26 · source: 20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md · super-premium rewards card
 
-- hdfc-marriott-bonvoy | competitor | HDFC Marriott Bonvoy | newly-surfaced · added_by: agent 2026-06-26 · source: 20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md · hotel loyalty co-brand card
+- hdfc-marriott-bonvoy | competitor | HDFC Marriott Bonvoy | domain: hdfcbank.com | newly-surfaced · added_by: agent 2026-06-26 · source: 20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md · hotel loyalty co-brand card
 
 - equitas-powermiles | competitor | Equitas Powermiles | newly-surfaced · added_by: agent 2026-06-26 · source: 20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md · international travel rewards card
 
-- hsbc-travel-one | competitor | HSBC Travel One | newly-surfaced · added_by: agent 2026-06-26 · source: 20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md · travel rewards card with Accor transfers
+- hsbc-travel-one | competitor | HSBC Travel One | domain: hsbc.co.in | newly-surfaced · added_by: agent 2026-06-26 · source: 20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md · travel rewards card with Accor transfers
 
 - hdfc-tata-neu-infinity | competitor | HDFC Tata Neu Infinity | newly-surfaced · added_by: agent 2026-06-26 · source: 20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md · UPI credit card
 
@@ -159,7 +163,7 @@ treated as context until promoted).
 - sbi-elite | competitor | Sbi Elite | added_by: foundation 2026-06-22
 - axis-atlas | competitor | Axis Atlas | domain: axisbank.com | added_by: foundation 2026-06-22
 - icici-emeralde | competitor | Icici Emeralde | added_by: foundation 2026-06-22
-- hdfc-diners-black | competitor | Hdfc Diners Black | added_by: foundation 2026-06-22
+- hdfc-diners-black | competitor | Hdfc Diners Black | domain: hdfcbank.com | added_by: foundation 2026-06-22
 - hdfc-infinia | competitor | Hdfc Infinia | added_by: foundation 2026-06-22
 
 - hdfc-bank | competitor | HDFC Bank | domain: hdfcbank.com | added_by: agent 2026-06-22 · source: 2026-06-22-hdfc-regalia-gold-revamp.md · Indian systemically important bank; issuer of co-branded and proprietary premium travel credit cards (Regalia Gold, Regalia Platinum, etc.); major benchmark in India's premium segment.
