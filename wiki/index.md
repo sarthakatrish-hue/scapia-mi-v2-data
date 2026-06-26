@@ -31,7 +31,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/india-travel-ai-divide-2026]] — "Indian OTAs are diverging sharply on AI strategy, creating a window for Scapia"
 - [[subjects/tbo-tek]] — "TBO Tek treats AI as an internal efficiency tool, not a disruptive force yet"
 - [[subjects/bobcard-etihad-base]]
-- [[subjects/axis-burgundy-private]]
+- [[subjects/axis-burgundy-private]] — "Axis Burgundy Private Magnus ratio halved in April 2026 sweeping devaluation"
 - [[subjects/uni-nxtwave]]
 - [[subjects/onecard]] — "OneCard nears ₹2,000 cr revenue in FY25, losses shrink 26% but RBI scrutiny clouds growth"
 - [[subjects/niyo-global-sbm]] — "Niyo expands zero-forex distribution via Vodafone Idea telecom partnership and doorstep KYC"
@@ -41,7 +41,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/rbl-world-safari]]
 - [[subjects/idfc-first-mayura]]
 - [[subjects/sbi-elite]]
-- [[subjects/axis-atlas]] — "Axis Atlas devalued April 2024 — capped travel rewards, halved milestone miles, split transfer partners"
+- [[subjects/axis-atlas]] — "Axis Atlas April 2026 devaluation reverses transfer ratio and strips top hotel partners"
 - [[subjects/icici-emeralde]]
 - [[subjects/hdfc-diners-black]]
 - [[subjects/hdfc-infinia]]
@@ -53,6 +53,6 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/rbl-bank]]
 - [[subjects/sbi-card]] — "SBI Card devalues PhonePe SELECT BLACK rewards with caps halved and new exclusions"
 - [[subjects/icici-bank]] — ICICI trims Amazon Pay card rewards on rent payments from June 2026
-- [[subjects/axis-bank]] — Axis Bank tightens reward-point forfeiture rules via quiet MITC updates
+- [[subjects/axis-bank]] — "Axis Bank's April 2026 sweeping devaluation removes transfer partners and lounge access overnight"
 - [[subjects/hdfc-bank]] — "HDFC Bank devalues three mid-premium cards in May 2026, signalling portfolio tightening"
 - [[subjects/hdfc-regalia-gold]] — "Regalia Gold reward rate cut 6% and lounge access conditionalised from July 2026"

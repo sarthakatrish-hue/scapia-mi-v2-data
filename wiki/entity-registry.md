@@ -58,6 +58,10 @@ treated as context until promoted).
 
 ## Competitors
 
+- hdfc-pixel-play-credit-card | competitor | HDFC Pixel Play Credit Card | newly-surfaced · added_by: agent 2026-06-26 · source: axis-bank-credit-card-devaluation-in-2026-what-happened.md · zero-fee customizable category cashback card for young spenders
+
+- axis-ace-credit-card | competitor | Axis ACE Credit Card | newly-surfaced · added_by: agent 2026-06-26 · source: axis-bank-credit-card-devaluation-in-2026-what-happened.md · everyday utility and food delivery cashback card with lounge access
+
 - induslnd-bank | competitor | IndusInd Bank | domain: indusind.com | newly-surfaced · added_by: agent 2026-06-26 · source: credit-card-updates-changes-2026.md · operates IndusInd Tiger and other credit cards competing in the Indian card market
 
 - hdfc-bizpower | competitor | HDFC BizPower | domain: hdfcbank.com | newly-surfaced · added_by: agent 2026-06-26 · source: hdfc-credit-card-devaluation-2026-what-changed.md · business credit card devalued May 2026
@@ -121,7 +125,7 @@ treated as context until promoted).
 - icici-bank | competitor | Icici Bank | domain: icicibank.com | added_by: foundation 2026-06-22
 - axis-bank | competitor | Axis Bank | domain: axisbank.com | added_by: foundation 2026-06-22
 - bobcard-etihad-base | competitor | Bobcard Etihad Base | added_by: foundation 2026-06-22
-- axis-burgundy-private | competitor | Axis Burgundy Private | added_by: foundation 2026-06-22
+- axis-burgundy-private | competitor | Axis Burgundy Private | domain: axisbank.com | added_by: foundation 2026-06-22
 - uni-nxtwave | competitor | Uni Nxtwave | added_by: foundation 2026-06-22
 - onecard | competitor | Onecard | domain: getonecard.app | added_by: foundation 2026-06-22
 - niyo-global-sbm | competitor | Niyo Global Sbm | domain: sbmbank.co.in | added_by: foundation 2026-06-22
