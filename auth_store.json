@@ -14,6 +14,9 @@
     ],
     "sang@scapia.cards": [
       "leader"
+    ],
+    "karthik.r@scapia.cards": [
+      "leader"
     ]
   },
   "access_requests": [
@@ -23,7 +26,7 @@
       "email": "karthik.r@scapia.cards",
       "requested_role": "leader",
       "reason": "Platform access request",
-      "status": "pending",
+      "status": "granted",
       "ts": 1782451994366
     },
     {
