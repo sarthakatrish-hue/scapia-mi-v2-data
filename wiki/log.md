@@ -251,3 +251,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-26] ingest | hsbc-launches-rewards-marketplace-how-it-fares-against-hdfc-smartbuy-icici-ishop.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-26] ingest | hsbc-launches-rewards-marketplace-how-it-fares-against-hdfc-smartbuy-icici-ishop.md → subjects/hsbc-rewards-marketplace.md, subjects/hdfc-infinia.md, subjects/icici-emeralde.md, subjects/hopper.md, sources/2026-06-26-hsbc-launches-rewards-marketplace-how-it-fares-against-hdfc-smartbuy-icici-ishop.md | Auto-approved
+
+## [2026-06-26] ingest | icici-bank-unveils-ishop-earn-up-to-12x-rewards.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-26] ingest | icici-bank-unveils-ishop-earn-up-to-12x-rewards.md → subjects/icici-bank.md, subjects/icici-emeralde.md, sources/2026-06-26-icici-bank-unveils-ishop-earn-up-to-12x-rewards.md | Auto-approved
+
+## [2026-06-26] ingest | batch b_8750658571: 4 URLs — 1 error, 2 ingested, 1 no-article

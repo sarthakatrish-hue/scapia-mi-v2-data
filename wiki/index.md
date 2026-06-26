@@ -49,7 +49,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/idfc-first-mayura]]
 - [[subjects/sbi-elite]]
 - [[subjects/axis-atlas]] — "Axis Atlas charges 3.5% forex and ₹5,000 fee with tiered lounge access"
-- [[subjects/icici-emeralde]] — "ICICI Emeralde's iShop returns ₹43.8K on ₹1.8L spend, ahead of HSBC but trails SmartBuy"
+- [[subjects/icici-emeralde]] — "ICICI Emeralde's iShop delivers 36% hotel returns, making it a genuine SmartBuy rival"
 - [[subjects/hdfc-diners-black]] — "HDFC DCB Metal delivers unlimited lounge, 10X SmartBuy rewards and 2% forex at ₹10K fee"
 - [[subjects/hdfc-infinia]] — "HDFC Infinia's SmartBuy delivers ₹56K value-back on ₹1.8L spend — best in class"
 - [[subjects/onecard-issuer]]
@@ -59,7 +59,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/idfc-first-bank]] — "IDFC First winds down Club Vistara card as merger forces benefit discontinuation"
 - [[subjects/rbl-bank]]
 - [[subjects/sbi-card]] — "SBI Card slashes Air India co-brand rewards and winds down Club Vistara cards"
-- [[subjects/icici-bank]] — "ICICI Bank reduces category earn rates as industry-wide rewards tightening accelerates"
+- [[subjects/icici-bank]] — "ICICI Bank's iShop portal delivers 36% hotel returns, directly rivalling HDFC SmartBuy"
 - [[subjects/axis-bank]] — "Axis Bank removes Qatar Airways, Accor, and Marriott from cards without prior notice"
 - [[subjects/hdfc-bank]] — "HDFC Bank joins industry-wide credit card reward tightening as costs rise"
 - [[subjects/hdfc-regalia-gold]] — "Regalia Gold reward rate cut 6% and lounge access conditionalised from July 2026"
