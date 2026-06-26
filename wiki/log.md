@@ -187,3 +187,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-25] query/brief_query | MMT vs scapia
 
 ## [2026-06-26] crawl-drop | what-changes-with-rbi-s-new-directions-on-credit-on-upi.md | Maker: 9/10 BORDERLINE — dropped (autonomous, no queue)
+
+## [2026-06-26] ingest | rbi-aligns-prudential-norms-for-upi-linked-credit-lines-with-base-loans.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-26] ingest | rbi-aligns-prudential-norms-for-upi-linked-credit-lines-with-base-loans.md → subjects/rbi.md, sources/2026-06-26-rbi-aligns-prudential-norms-for-upi-linked-credit-lines-with-base-loans.md | Auto-approved

@@ -48,7 +48,7 @@ treated as context until promoted).
 
 - authentication-mechanisms-for-digital-payment-transactions-directions-2025 | regulator | RBI Authentication Mechanisms Directions 2025 | domain: rbi.org.in | newly-surfaced · added_by: agent 2026-06-24 · source: rbi-new-upi-rules-2026-2fa-afa-impact-benefits-explained.md · mandate requiring 2FA/AFA for UPI, cards and wallets effective 1 April 2026
 
-- rbi | regulator | Reserve Bank of India | aliases: reserve bank
+- rbi | regulator | Reserve Bank of India | aliases: reserve bank | domain: rbi.org.in
 - npci | regulator | NPCI | aliases: national payments corporation of india | domain: npci.org.in
 - dgca | regulator | DGCA | aliases: directorate general of civil aviation
 - sebi | regulator | SEBI |

@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/rbi]] — RBI aligns UPI credit-line prudential norms with underlying loan product rules
 - [[subjects/air-india-maharaja-club-credit-card]] — "Maharaja Club deepens with Express redemption and improved award seat access"
 - [[subjects/bobcard]] — BOBCARD aggressively courts travel spenders with multi-OTA discount blitz
 - [[subjects/american-express]] — Amex India zeroes out reward points on fuel spends from June 2025
