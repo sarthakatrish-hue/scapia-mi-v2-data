@@ -58,6 +58,10 @@ treated as context until promoted).
 
 ## Competitors
 
+- hsbc-rewards-marketplace | competitor | HSBC Rewards Marketplace | domain: hsbc.co.in | added_by: agent 2026-06-26 · source: hsbc-launches-rewards-marketplace-how-it-fares-against-hdfc-smartbuy-icici-ishop.md · travel rewards portal for select HSBC cardholders offering accelerated points on flights, hotels, car rentals with partner airline/hotel redemption
+
+- hopper | competitor | Hopper | domain: hopper.com | added_by: agent 2026-06-26 · source: hsbc-launches-rewards-marketplace-how-it-fares-against-hdfc-smartbuy-icici-ishop.md · travel platform and flight search engine providing booking infrastructure to HSBC Rewards Marketplace
+
 - club-vistara | competitor | Club Vistara | newly-surfaced · added_by: agent 2026-06-26 · source: watch-out-major-changes-for-credit-cards-from-april-1-2025.md · airline loyalty program and co-branded credit card partner, merged with Air India April 2025
 
 - makemytrip-icici-bank | competitor | MakeMyTrip ICICI Bank Credit Card | domain: icicibank.com | newly-surfaced · added_by: agent 2026-06-26 · source: best-travel-credit-cards-in-india-2026-charges-rewards.md · Co-branded ICICI travel card with 0.99% forex markup and Priority Pass membership
@@ -164,9 +168,9 @@ treated as context until promoted).
 - idfc-first-mayura | competitor | Idfc First Mayura | added_by: foundation 2026-06-22
 - sbi-elite | competitor | Sbi Elite | added_by: foundation 2026-06-22
 - axis-atlas | competitor | Axis Atlas | domain: axisbank.com | added_by: foundation 2026-06-22
-- icici-emeralde | competitor | Icici Emeralde | added_by: foundation 2026-06-22
+- icici-emeralde | competitor | Icici Emeralde | domain: icicibank.com | added_by: foundation 2026-06-22
 - hdfc-diners-black | competitor | Hdfc Diners Black | domain: hdfcbank.com | added_by: foundation 2026-06-22
-- hdfc-infinia | competitor | Hdfc Infinia | added_by: foundation 2026-06-22
+- hdfc-infinia | competitor | Hdfc Infinia | domain: hdfcbank.com | added_by: foundation 2026-06-22
 
 - hdfc-bank | competitor | HDFC Bank | domain: hdfcbank.com | added_by: agent 2026-06-22 · source: 2026-06-22-hdfc-regalia-gold-revamp.md · Indian systemically important bank; issuer of co-branded and proprietary premium travel credit cards (Regalia Gold, Regalia Platinum, etc.); major benchmark in India's premium segment.
 

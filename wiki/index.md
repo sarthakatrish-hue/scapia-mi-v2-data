@@ -3,6 +3,8 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/hopper]] — "Hopper powers HSBC's travel portal, deepening its India B2B travel infrastructure play"
+- [[subjects/hsbc-rewards-marketplace]] — "HSBC's Hopper-powered travel portal offers 12X hotels but trails SmartBuy on breadth"
 - [[subjects/amex-platinum-travel]] — "Amex Platinum Travel reshuffles redemption partners, cuts Taj MR value in April 2025"
 - [[subjects/niyo-sbm]] — "Niyo SBM offers zero forex and near-zero fee with FD-backed credit issuance"
 - [[subjects/makemytrip-icici-bank]] — "MMT ICICI pairs 0.99% forex with dual network and Priority Pass at near-zero fee"
@@ -47,9 +49,9 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/idfc-first-mayura]]
 - [[subjects/sbi-elite]]
 - [[subjects/axis-atlas]] — "Axis Atlas charges 3.5% forex and ₹5,000 fee with tiered lounge access"
-- [[subjects/icici-emeralde]]
+- [[subjects/icici-emeralde]] — "ICICI Emeralde's iShop returns ₹43.8K on ₹1.8L spend, ahead of HSBC but trails SmartBuy"
 - [[subjects/hdfc-diners-black]] — "HDFC DCB Metal delivers unlimited lounge, 10X SmartBuy rewards and 2% forex at ₹10K fee"
-- [[subjects/hdfc-infinia]]
+- [[subjects/hdfc-infinia]] — "HDFC Infinia's SmartBuy delivers ₹56K value-back on ₹1.8L spend — best in class"
 - [[subjects/onecard-issuer]]
 - [[subjects/yes-bank]] — "Powers BharatPe and POP credit products; emerging fintech credit infrastructure bank"
 - [[subjects/sbm-bank]] — "SBM Bank named in RBI co-brand data-sharing review via OneCard partnership"

@@ -245,3 +245,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-26] ingest | credit-card-rewards-in-india-are-getting-tighter-what-is-changing.md → subjects/hdfc-bank.md, subjects/icici-bank.md, subjects/axis-bank.md, subjects/sbi-card.md, subjects/american-express.md, sources/2026-06-26-credit-card-rewards-in-india-are-getting-tighter-what-is-changing.md | Auto-approved
 
 ## [2026-06-26] crawl | autonomous | universe 71, 3 searches → 17 candidates | ingested 8/8 (vault 8, market-signal 0), dropped 6, queued 0, dupes 3, stale 0, irrelevant 2, errors 1
+
+## [2026-06-26] update | entity-registry += hopper (competitor), hsbc-rewards-marketplace (competitor) (from hsbc-launches-rewards-marketplace-how-it-fares-against-hdfc-smartbuy-icici-ishop.md)
+
+## [2026-06-26] ingest | hsbc-launches-rewards-marketplace-how-it-fares-against-hdfc-smartbuy-icici-ishop.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-26] ingest | hsbc-launches-rewards-marketplace-how-it-fares-against-hdfc-smartbuy-icici-ishop.md → subjects/hsbc-rewards-marketplace.md, subjects/hdfc-infinia.md, subjects/icici-emeralde.md, subjects/hopper.md, sources/2026-06-26-hsbc-launches-rewards-marketplace-how-it-fares-against-hdfc-smartbuy-icici-ishop.md | Auto-approved
