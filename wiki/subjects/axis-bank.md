@@ -2,39 +2,46 @@
 subject: "Axis Bank"
 type: subject
 role: competitor
-domains: [fintech]
-categories: [banks]
+domains: [fintech, travel]
+categories: [banks, flights, stays]
 domain_url: axisbank.com
 logo: null
 issuer: null
-keywords: [issuer, bank, devaluation, reward-points, forfeiture, fragmented-disclosure, transfer-partners, lounge-removal, april-2026, mitc-violation, insurance, utility, rent-fee]
+keywords: [issuer, bank, devaluation, reward-points, forfeiture, fragmented-disclosure, transfer-partners, lounge-removal, april-2026, mitc-violation, insurance, utility, rent-fee, club-vistara, vistara-merger, co-brand-wind-down]
 signal: threat
-headline: "'Axis Bank caps rewards on insurance and utilities from April 2026'"
-vitals: ["1 Apr 2026|Reward cap date|Insurance and utility payments capped"]
-scoreboard: ["Loyalty & Rewards|High|down"]
+headline: "'Axis Bank winds down all Club Vistara co-brand cards from April 2025'"
+vitals: ["['1 Apr 2026|Reward cap date|Insurance and utility payments capped']"]
+scoreboard: ["Loyalty & Rewards|High|down", "Partnerships|Medium|down"]
 last_updated: 2026-06-26
 ---
 
 ## What we know
 
+**Axis Vistara cards discontinued** — Axis Vistara, Axis Vistara Signature, and Axis Vistara Infinite had renewal fees, complimentary Club Maharaja memberships, and all ticket/upgrade vouchers discontinued from 18 April 2025[^axis-apr2025-cc]
 **Insurance and utility reward caps** — Axis Bank capped reward points on insurance premium and utility bill payments from April 2026[^card-rules-apr2026]
 
 ## Competitor Intel
 
 ### Where we win
-**No overnight benefit removal** — Scapia does not strip core earn categories without notice; Axis's pattern of unannounced devaluations — now extending to insurance and utilities — is a repeated trust breach Scapia can directly contrast[^card-rules-apr2026]
-**No category-specific caps** — Scapia's travel-first earn structure does not impose separate caps on insurance or utility payments; Axis cardholders must now track per-category limits[^card-rules-apr2026]
-**Zero forex markup** — Scapia's 0% forex advantage compounds against Axis's devalued domestic earn, where reduced category rewards make points harder to accumulate[^card-rules-apr2026]
+**No co-brand programme collapse** — Axis is simultaneously winding down its Club Vistara portfolio (three card variants, all benefits discontinued) while also cutting rewards on domestic spend categories; Scapia has no equivalent structural vulnerability[^axis-apr2025-cc]
+**No overnight benefit removal** — Scapia does not strip core earn categories without notice; Axis's pattern of unannounced devaluations is a repeated trust breach[^card-rules-apr2026]
+**No category-specific caps** — Scapia's travel-first earn structure does not impose separate caps on insurance or utility payments[^card-rules-apr2026]
 
 ### Where they're ahead
 **Residual travel ecosystem** — Even post-devaluation, Axis Travel Edge retains airline and hotel transfer partners — a redemption network Scapia does not currently offer[^axis-apr2026]
 **Portfolio breadth** — Axis covers cashback, everyday spend, and premium travel — a full card ladder Scapia cannot yet match[^axis-apr2026]
 
 ### What to do
-**Target insurance and utility spenders** — Cardholders who concentrated Axis reward earn on insurance and utility bills now face caps; Scapia should message its earn consistency in these categories[^card-rules-apr2026]
-**Amplify the devaluation cadence** — Axis has now devalued in April 2026 (transfer partners, lounge) and again capped insurance/utilities; the frequency of cuts is itself a competitive narrative [Inferred · High]
+**Target Vistara Infinite holders** — The Axis Vistara Infinite was a premium travel card; holders losing Club Maharaja membership and upgrade vouchers are high-value prospects for Scapia's premium travel narrative[^axis-apr2025-cc]
+**Amplify the devaluation cadence** — Axis has now devalued in April 2025 (Vistara wind-down) and April 2026 (transfer partners, insurance caps); the frequency of cuts is itself a competitive narrative [Inferred · High]
 
 ## Coverage
+
+### Axis Winds Down Vistara Cards — 2025-04-18
+
+Axis Bank discontinued all meaningful benefits on its three Club Vistara co-branded cards — Axis Vistara, Axis Vistara Signature, and Axis Vistara Infinite — from 18 April 2025, removing renewal fees but simultaneously eliminating complimentary Club Maharaja memberships and all ticket and upgrade vouchers tied to renewal and spend-based milestones[^axis-apr2025-cc]. The decision flows from the Air India–Club Vistara merger, which rendered the loyalty programme infrastructure behind these cards redundant.
+
+For holders of the premium Infinite variant especially, the loss of Maharaja Club membership and upgrade vouchers is a meaningful devaluation — the fee waiver is a thin consolation for benefits that drove card selection[^axis-apr2025-cc]. Axis now joins SBI in orphaning a significant pool of travel-focused co-brand cardholders, and the simultaneous wind-down across both issuers concentrates acquisition opportunity for alternatives like Scapia that offer stable, airline-agnostic travel rewards. [Inferred · High]
 
 ### Axis Caps Insurance, Utility Rewards — 2026-04-01
 
@@ -56,6 +63,7 @@ The pattern matters for Scapia's positioning: the combination of tighter forfeit
 
 ## Developments
 
+- 2025-04-18 — Axis Winds Down Vistara Cards [^axis-apr2025-cc]
 - 2026-04-01 — Axis Caps Insurance, Utility Rewards [^card-rules-apr2026]
 - 2026-04-02 — Axis Bank's Sweeping April 2026 Devaluation [^axis-apr2026]
 - 2026-04-09 — Axis Quietly Tightens Reward Forfeiture [^axis-deval-2026-06-25]
@@ -65,3 +73,4 @@ The pattern matters for Scapia's positioning: the combination of tighter forfeit
 [^axis-deval-2026-06-25]: raw/ambiguous/credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits.md
 [^axis-apr2026]: raw/ambiguous/axis-bank-credit-card-devaluation-in-2026-what-happened.md
 [^card-rules-apr2026]: raw/ambiguous/9-major-credit-card-rule-changes-in-india-2026.md
+[^axis-apr2025-cc]: raw/ambiguous/watch-out-major-changes-for-credit-cards-from-april-1-2025.md

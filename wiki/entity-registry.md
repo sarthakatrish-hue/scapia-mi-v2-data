@@ -58,6 +58,8 @@ treated as context until promoted).
 
 ## Competitors
 
+- club-vistara | competitor | Club Vistara | newly-surfaced · added_by: agent 2026-06-26 · source: watch-out-major-changes-for-credit-cards-from-april-1-2025.md · airline loyalty program and co-branded credit card partner, merged with Air India April 2025
+
 - makemytrip-icici-bank | competitor | MakeMyTrip ICICI Bank Credit Card | domain: icicibank.com | newly-surfaced · added_by: agent 2026-06-26 · source: best-travel-credit-cards-in-india-2026-charges-rewards.md · Co-branded ICICI travel card with 0.99% forex markup and Priority Pass membership
 
 - niyo-sbm | competitor | Niyo SBM Credit Card | domain: niyo.co | newly-surfaced · added_by: agent 2026-06-26 · source: best-travel-credit-cards-in-india-2026-charges-rewards.md · Co-branded credit card offering 0% forex markup and lounge access in India market
@@ -82,7 +84,7 @@ treated as context until promoted).
 
 - bob-eterna | competitor | Bank of Baroda Eterna | newly-surfaced · added_by: agent 2026-06-26 · source: best-rewards-credit-cards-india-2026-real-return-per-rupee-after-devaluations.md · lifetime-free rewards credit card competing on domestic travel and dining
 
-- amex-platinum-travel | competitor | American Express Platinum Travel Card | newly-surfaced · added_by: agent 2026-06-26 · source: best-rewards-credit-cards-india-2026-real-return-per-rupee-after-devaluations.md · premium travel rewards card in India
+- amex-platinum-travel | competitor | American Express Platinum Travel Card | domain: americanexpress.com | newly-surfaced · added_by: agent 2026-06-26 · source: best-rewards-credit-cards-india-2026-real-return-per-rupee-after-devaluations.md · premium travel rewards card in India
 
 - hdfc-pixel-play-credit-card | competitor | HDFC Pixel Play Credit Card | newly-surfaced · added_by: agent 2026-06-26 · source: axis-bank-credit-card-devaluation-in-2026-what-happened.md · zero-fee customizable category cashback card for young spenders
 

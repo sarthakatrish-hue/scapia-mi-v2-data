@@ -2,43 +2,48 @@
 subject: "SBI Card"
 type: subject
 role: competitor
-domains: [fintech]
-categories: [cards]
+domains: [fintech, travel]
+categories: [cards, flights, stays]
 domain_url: sbicard.com
 logo: null
 issuer: null
-keywords: [issuer, cards, devaluation, lounge-access, etihad, co-brand, fee-hike, insurance, rewards, phonepe, select-black, exclusions, rent, cashback-cap, april-2026]
+keywords: [issuer, cards, devaluation, lounge-access, etihad, co-brand, fee-hike, insurance, rewards, phonepe, select-black, exclusions, rent, cashback-cap, april-2026, air-india, club-vistara, vistara-merger, reward-rate-cut]
 signal: threat
-headline: "'SBI Card cuts rent rewards and slashes cashback cap from April 2026'"
-vitals: ["₹4,000|Cashback cap (was ₹5,000)|Per statement cycle from Apr 2026", "₹2,000|Online sub-limit|New spend sub-category cap", "₹2,000|Offline sub-limit|New spend sub-category cap"]
-scoreboard: ["Loyalty & Rewards|High|down", "Partnerships|Medium|steady"]
+headline: "'SBI Card slashes Air India co-brand rewards and winds down Club Vistara cards'"
+vitals: ["['₹4,000|Cashback cap (was ₹5,000)|Per statement cycle from Apr 2026', '₹2,000|Online sub-limit|New spend sub-category cap', '₹2,000|Offline sub-limit|New spend sub-category cap']"]
+scoreboard: ["Loyalty & Rewards|High|down", "Partnerships|Medium|down"]
 last_updated: 2026-06-26
 ---
 
 ## What we know
 
-**Rent payments earn zero rewards** — SBI Card discontinued reward-point accrual on rent payments across several of its cards from April 1 2026[^card-rules-apr2026]
-**Cashback cap lowered to ₹4,000** — SBI Cashback Card monthly cashback ceiling revised down from ₹5,000 to ₹4,000 per statement cycle, split into ₹2,000 online and ₹2,000 offline sub-limits[^card-rules-apr2026]
-**New exclusion categories** — Government transactions, tolls, and digital gaming are excluded from cashback earning on the SBI Cashback Card from April 2026[^card-rules-apr2026]
+**Air India SBI rewards halved** — Air India Platinum SBI Card earn rate cut from 15 to 5 RPs per ₹100, Signature card from 30 to 10 RPs per ₹100 on Air India spends, effective 31 Mar 2025[^sbi-apr2025-cc]
+**Club Vistara SBI winding down** — Renewal fee waived but ticket vouchers and spend-based milestone bonuses discontinued from 1 Apr 2025; new issuance stopped, signalling phase-out[^sbi-apr2025-cc]
+**SimplyCLICK Swiggy halved** — SBI SimplyCLICK reward rate on Swiggy cut from 10X to 5X effective 1 Apr 2025[^sbi-apr2025-cc]
 
 ## Competitor Intel
 
 ### Where we win
-**No rent-reward bait-and-switch** — Scapia never positioned rent payments as a reward category and then removed it; SBI Card's April 2026 rent exclusion damages trust with urban cardholders who structured spend around it[^card-rules-apr2026]
-**Simpler cashback structure** — SBI Cashback Card's new ₹4,000 cap split into sub-limits adds complexity and reduces value; Scapia's earn model has no sub-category caps[^card-rules-apr2026]
-**No exclusion creep** — Tolls, government, and gaming added to SBI's exclusion list signal ongoing reward erosion; Scapia's travel-first earn has not been subject to equivalent category stripping[^card-rules-apr2026]
-**Zero annual fee** — SBI Cashback Card carries an annual fee that must be weighed against a now-lower ₹4,000 monthly cap; Scapia's lifetime-free model offers better net value for moderate spenders[^card-rules-apr2026]
+**No co-brand programme collapse risk** — Scapia's Federal Bank partnership is stable; SBI's Air India and Vistara co-brands are being wound down post-merger, stranding loyal cardholders[^sbi-apr2025-cc]
+**Earn rate consistency** — SBI Air India cards saw 67% reward rate cuts in a single step; Scapia has not imposed equivalent earn-rate reductions on its core travel spend[^sbi-apr2025-cc]
+**No milestone voucher dependency** — SBI Club Vistara cardholders lost ticket and upgrade vouchers entirely; Scapia's value is not contingent on airline-issued voucher programmes that can be withdrawn[^sbi-apr2025-cc]
+**No rent-reward bait-and-switch** — Scapia never positioned rent payments as a reward category and then removed it; SBI Card's April 2026 rent exclusion damages trust with urban cardholders[^card-rules-apr2026]
 
 ### Where they're ahead
 **Distribution** — Branch network, pre-approved base, and co-brand breadth still vastly outscale Scapia's reach
 **Cardholder base** — India's largest pure-play issuer; even after devaluations, absolute volume and brand recognition remain dominant advantages
 
 ### What to do
-**Target rent-payers displaced from SBI** — Urban cardholders who used SBI cards for rent rewards are now without that benefit; Scapia should target this cohort with travel-first messaging highlighting no arbitrary category exclusions[^card-rules-apr2026]
-**Amplify cashback cap cut contrast** — The ₹5,000→₹4,000 reduction with new sub-limits is a concrete, quantifiable devaluation to use in acquisition messaging[^card-rules-apr2026]
-**Own the exclusion-free narrative** — As SBI adds tolls, government, and gaming to exclusion lists, Scapia should explicitly communicate which categories it does reward, building confidence in earn consistency [Inferred · High]
+**Target displaced Air India co-brand holders** — Cardholders who earned 30 RPs/₹100 now earning 10 RPs are actively shopping for alternatives; Scapia's travel-first earn is a direct replacement pitch[^sbi-apr2025-cc]
+**Own the "no programme collapse" narrative** — SBI's winding down of Vistara cards with fee waivers-but-no-benefits is a trust-damaging pattern Scapia can contrast against its stable, transparent programme[^sbi-apr2025-cc]
 
 ## Coverage
+
+### SBI Devalues Air India, Vistara Cards — 2025-04-01
+
+SBI Card executed deep reward cuts across its airline co-brand portfolio from 31 March–1 April 2025, slashing Air India earn rates by 67% (Signature: 30→10 RPs/₹100; Platinum: 15→5 RPs/₹100) and discontinuing ticket vouchers and milestone bonuses on both Club Vistara SBI Card variants[^sbi-apr2025-cc]. Renewal fees were waived on the Vistara cards, but this concession does not compensate for the loss of aspirational benefits that drove co-brand adoption in the first place. New card issuance has also been stopped, signalling an eventual phase-out.
+
+The Air India–Club Vistara merger is the proximate cause, but the net effect is a sharp reduction in value for tens of thousands of co-brand cardholders with no equivalent replacement programme yet available[^sbi-apr2025-cc]. For Scapia, this is a concrete acquisition window: displaced Vistara and Air India SBI cardholders are travel-focused, points-aware consumers — the precise profile Scapia targets — and they are now in the market for a new home. [Inferred · High]
 
 ### SBI Card Cuts Rent Rewards, Cashback — 2026-04-01
 
@@ -60,6 +65,7 @@ The Etihad discontinuation is the most tactically significant for Scapia: it orp
 
 ## Developments
 
+- 2025-04-01 — SBI Devalues Air India, Vistara Cards [^sbi-apr2025-cc]
 - 2026-04-01 — SBI Card Cuts Rent Rewards, Cashback [^card-rules-apr2026]
 - 2026-06-26 — PhonePe SELECT BLACK Devalued July 2026 [^sbi-phonepe-black-2026-06-26]
 - 2026-04-09 — SBI Card Devalues Premium Benefits [^sbi-deval-2026-06-25]
@@ -69,3 +75,4 @@ The Etihad discontinuation is the most tactically significant for Scapia: it orp
 [^sbi-deval-2026-06-25]: raw/ambiguous/credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits.md
 [^sbi-phonepe-black-2026-06-26]: raw/ambiguous/credit-card-updates-changes-2026.md
 [^card-rules-apr2026]: raw/ambiguous/9-major-credit-card-rule-changes-in-india-2026.md
+[^sbi-apr2025-cc]: raw/ambiguous/watch-out-major-changes-for-credit-cards-from-april-1-2025.md

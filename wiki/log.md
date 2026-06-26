@@ -233,3 +233,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-26] ingest | 9-major-credit-card-rule-changes-in-india-2026.md → subjects/authentication-mechanisms-for-digital-payment-transactions-directions-2025.md, subjects/sbi-card.md, subjects/icici-bank.md, subjects/axis-bank.md, sources/2026-06-26-9-major-credit-card-rule-changes-in-india-2026.md | Auto-approved
 
 ## [2026-06-26] filter-reject | best-rewards-credit-cards-in-india.md | Maker: 4/10, Checker: 2/10 (Outcome B downgrade — Content-free listicle with no verifiable facts, strategy, or competitive signal — pure marketing puff repackaging commodity product information; only one dated news item (SBI PhonePe caps, June 2026) is concrete, but it addresses a single issuer's reward restructuring, not Scapia's positioning or market landscape.) AUTO-REJECT — Generic listicle with static product tables adds marginal value; the SBI Card PhonePe "PURPLE" and "SELECT BLACK" reward structure revision (July 1, 2026) is new and material, but embedded in largely duplicable feature lists.
+
+## [2026-06-26] update | entity-registry += club-vistara (competitor) (from watch-out-major-changes-for-credit-cards-from-april-1-2025.md)
+
+## [2026-06-26] ingest | watch-out-major-changes-for-credit-cards-from-april-1-2025.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-26] ingest | watch-out-major-changes-for-credit-cards-from-april-1-2025.md → subjects/sbi-card.md, subjects/axis-bank.md, subjects/idfc-first-bank.md, subjects/amex-platinum-travel.md, sources/2026-06-26-watch-out-major-changes-for-credit-cards-from-april-1-2025.md | Auto-approved
