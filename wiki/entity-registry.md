@@ -58,6 +58,8 @@ treated as context until promoted).
 
 ## Competitors
 
+- induslnd-bank | competitor | IndusInd Bank | domain: indusind.com | newly-surfaced · added_by: agent 2026-06-26 · source: credit-card-updates-changes-2026.md · operates IndusInd Tiger and other credit cards competing in the Indian card market
+
 - hdfc-bizpower | competitor | HDFC BizPower | domain: hdfcbank.com | newly-surfaced · added_by: agent 2026-06-26 · source: hdfc-credit-card-devaluation-2026-what-changed.md · business credit card devalued May 2026
 
 - hdfc-diners-club-privilege | competitor | HDFC Diners Club Privilege | domain: hdfcbank.com | newly-surfaced · added_by: agent 2026-06-26 · source: hdfc-credit-card-devaluation-2026-what-changed.md · mid-premium credit card devalued May 2026

@@ -197,3 +197,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-26] ingest | hdfc-credit-card-devaluation-2026-what-changed.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-26] ingest | hdfc-credit-card-devaluation-2026-what-changed.md → subjects/hdfc-bank.md, subjects/hdfc-regalia-gold.md, subjects/hdfc-diners-club-privilege.md, subjects/hdfc-bizpower.md, sources/2026-06-26-hdfc-credit-card-devaluation-2026-what-changed.md | Auto-approved
+
+## [2026-06-26] update | entity-registry += induslnd-bank (competitor) (from credit-card-updates-changes-2026.md)
+
+## [2026-06-26] ingest | credit-card-updates-changes-2026.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-26] ingest | credit-card-updates-changes-2026.md → subjects/induslnd-bank.md, subjects/sbi-card.md, sources/2026-06-26-credit-card-updates-changes-2026.md | Auto-approved

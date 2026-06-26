@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/induslnd-bank]] — "IndusInd Tiger adds Air India 1:1 transfer, sharpening no-fee travel value"
 - [[subjects/hdfc-bizpower]] — "BizPower adds IT/GST transaction cap in May 2026, targeting tax-payment reward earners"
 - [[subjects/hdfc-diners-club-privilege]] — "Diners Club Privilege takes 25% reward rate cut with lounge now spend-gated from July 2026"
 - [[subjects/rbi]] — RBI aligns UPI credit-line prudential norms with underlying loan product rules
@@ -50,7 +51,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/au-bank]]
 - [[subjects/idfc-first-bank]] — "IDFC First Bank named in RBI co-brand data-sharing scrutiny via OneCard partnership"
 - [[subjects/rbl-bank]]
-- [[subjects/sbi-card]] — SBI Card devalues benefits across premium and co-branded cards through 2025–26
+- [[subjects/sbi-card]] — "SBI Card devalues PhonePe SELECT BLACK rewards with caps halved and new exclusions"
 - [[subjects/icici-bank]] — ICICI trims Amazon Pay card rewards on rent payments from June 2026
 - [[subjects/axis-bank]] — Axis Bank tightens reward-point forfeiture rules via quiet MITC updates
 - [[subjects/hdfc-bank]] — "HDFC Bank devalues three mid-premium cards in May 2026, signalling portfolio tightening"
