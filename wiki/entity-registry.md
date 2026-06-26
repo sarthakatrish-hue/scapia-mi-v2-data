@@ -58,6 +58,12 @@ treated as context until promoted).
 
 ## Competitors
 
+- hdfc-bizpower | competitor | HDFC BizPower | domain: hdfcbank.com | newly-surfaced · added_by: agent 2026-06-26 · source: hdfc-credit-card-devaluation-2026-what-changed.md · business credit card devalued May 2026
+
+- hdfc-diners-club-privilege | competitor | HDFC Diners Club Privilege | domain: hdfcbank.com | newly-surfaced · added_by: agent 2026-06-26 · source: hdfc-credit-card-devaluation-2026-what-changed.md · mid-premium credit card devalued May 2026
+
+- hdfc-regalia-gold | competitor | HDFC Regalia Gold | domain: hdfcbank.com | newly-surfaced · added_by: agent 2026-06-26 · source: hdfc-credit-card-devaluation-2026-what-changed.md · mid-premium credit card devalued May 2026
+
 - air-india-express | competitor | Air India Express | newly-surfaced · added_by: agent 2026-06-25 · source: air-india-announces-key-enhancements-to-maharaja-club.md · Low-cost carrier within Air India Group, operates 50+ domestic and Gulf routes, integrating into Maharaja Club redemption network.
 
 - air-india-maharaja-club-credit-card | competitor | Air India Maharaja Club Co-Branded Credit Card | domain: airindia.com | newly-surfaced · added_by: agent 2026-06-25 · source: coming-soon-air-india-maharaja-club-co-branded-credit-cards.md · planned 2026 relaunch of Air India co-branded cards tied to loyalty program refresh and points accrual on Air India Express flights

@@ -191,3 +191,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-26] ingest | rbi-aligns-prudential-norms-for-upi-linked-credit-lines-with-base-loans.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-26] ingest | rbi-aligns-prudential-norms-for-upi-linked-credit-lines-with-base-loans.md → subjects/rbi.md, sources/2026-06-26-rbi-aligns-prudential-norms-for-upi-linked-credit-lines-with-base-loans.md | Auto-approved
+
+## [2026-06-26] update | entity-registry += hdfc-regalia-gold (competitor), hdfc-diners-club-privilege (competitor), hdfc-bizpower (competitor) (from hdfc-credit-card-devaluation-2026-what-changed.md)
+
+## [2026-06-26] ingest | hdfc-credit-card-devaluation-2026-what-changed.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-26] ingest | hdfc-credit-card-devaluation-2026-what-changed.md → subjects/hdfc-bank.md, subjects/hdfc-regalia-gold.md, subjects/hdfc-diners-club-privilege.md, subjects/hdfc-bizpower.md, sources/2026-06-26-hdfc-credit-card-devaluation-2026-what-changed.md | Auto-approved

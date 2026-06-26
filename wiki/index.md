@@ -3,6 +3,8 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/hdfc-bizpower]] — "BizPower adds IT/GST transaction cap in May 2026, targeting tax-payment reward earners"
+- [[subjects/hdfc-diners-club-privilege]] — "Diners Club Privilege takes 25% reward rate cut with lounge now spend-gated from July 2026"
 - [[subjects/rbi]] — RBI aligns UPI credit-line prudential norms with underlying loan product rules
 - [[subjects/air-india-maharaja-club-credit-card]] — "Maharaja Club deepens with Express redemption and improved award seat access"
 - [[subjects/bobcard]] — BOBCARD aggressively courts travel spenders with multi-OTA discount blitz
@@ -51,5 +53,5 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/sbi-card]] — SBI Card devalues benefits across premium and co-branded cards through 2025–26
 - [[subjects/icici-bank]] — ICICI trims Amazon Pay card rewards on rent payments from June 2026
 - [[subjects/axis-bank]] — Axis Bank tightens reward-point forfeiture rules via quiet MITC updates
-- [[subjects/hdfc-bank]] — HDFC Bank cuts SMS alerts for small transactions from June 25 2026
-- [[subjects/hdfc-regalia-gold]] — HDFC sharpens Regalia Gold for mass-premium salaried travelers with tighter rewards
+- [[subjects/hdfc-bank]] — "HDFC Bank devalues three mid-premium cards in May 2026, signalling portfolio tightening"
+- [[subjects/hdfc-regalia-gold]] — "Regalia Gold reward rate cut 6% and lounge access conditionalised from July 2026"
