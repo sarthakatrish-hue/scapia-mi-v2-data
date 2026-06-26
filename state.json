@@ -2,6 +2,18 @@
   "pending_queue": [],
   "rejection_log": [
     {
+      "id": "reject-86ee986a",
+      "filename": "best-rewards-credit-cards-in-india.md",
+      "score": "4/10",
+      "checker_score": 2,
+      "checker_reason": "Content-free listicle with no verifiable facts, strategy, or competitive signal \u2014 pure marketing puff repackaging commodity product information; only one dated news item (SBI PhonePe caps, June 2026) is concrete, but it addresses a single issuer's reward restructuring, not Scapia's positioning or market landscape.",
+      "band": "AUTO-REJECT",
+      "outcome": "B",
+      "reason": "Content-free listicle with no verifiable facts, strategy, or competitive signal \u2014 pure marketing puff repackaging commodity product information; only one dated news item (SBI PhonePe caps, June 2026) is concrete, but it addresses a single issuer's reward restructuring, not Scapia's positioning or market landscape.",
+      "maker_reason": "Generic listicle with static product tables adds marginal value; the SBI Card PhonePe \"PURPLE\" and \"SELECT BLACK\" reward structure revision (July 1, 2026) is new and material, but embedded in largely duplicable feature lists.",
+      "timestamp": "2026-06-26"
+    },
+    {
       "id": "reject-1c9471aa",
       "filename": "best-travel-credit-cards-in-india-for-june-2026.md",
       "score": "2/10",
