@@ -2,6 +2,18 @@
   "pending_queue": [],
   "rejection_log": [
     {
+      "id": "reject-1c9471aa",
+      "filename": "best-travel-credit-cards-in-india-for-june-2026.md",
+      "score": "2/10",
+      "checker_score": null,
+      "checker_reason": null,
+      "band": "AUTO-REJECT",
+      "outcome": null,
+      "reason": "Generic product comparison listicle with zero strategic signal \u2014 no launches, devaluations, pricing changes, financial data, partnerships, or competitive pivots; purely restated marketing copy of known cards.",
+      "maker_reason": "Generic product comparison listicle with zero strategic signal \u2014 no launches, devaluations, pricing changes, financial data, partnerships, or competitive pivots; purely restated marketing copy of known cards.",
+      "timestamp": "2026-06-26"
+    },
+    {
       "id": "reject-e0f3b1e3",
       "filename": "20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md",
       "score": "3/10",
