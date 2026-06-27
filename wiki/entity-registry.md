@@ -58,6 +58,8 @@ treated as context until promoted).
 
 ## Competitors
 
+- kotak-mahindra-bank | competitor | Kotak Mahindra Bank | newly-surfaced · added_by: agent 2026-06-27 · source: zero-forex-markup-credit-card-benefits-features-travel-perks.md · Issues credit cards including zero-forex-markup variants in the Indian market
+
 - wise-travel-card | competitor | Wise Travel Card | newly-surfaced · added_by: agent 2026-06-27 · source: best-zero-forex-credit-cards-in-india-2026-features-charges.md · a multi-currency debit card offering 40+ currencies and zero forex markup with interbank rates
 
 - suryoday-sfb | competitor | Suryoday Small Finance Bank | domain: suryodaybank.com | newly-surfaced · added_by: agent 2026-06-27 · source: prime-borrowers-emerge-as-key-users-of-credit-line-on-upi-suryoday-sfb.md · operates Credit Line on UPI (CLOU) product in partnership with Paytm, competing in embedded credit-on-UPI space
