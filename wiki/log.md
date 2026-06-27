@@ -279,3 +279,5 @@ Append-only ingest/query/lint event log.
 ## [2026-06-27] update | entity-registry += kotak-mahindra-bank (competitor) (from zero-forex-markup-credit-card-benefits-features-travel-perks.md)
 
 ## [2026-06-27] filter-reject | zero-forex-markup-credit-card-benefits-features-travel-perks.md | Maker: 3/10 AUTO-REJECT — Generic product education masked as thought leadership; no new competitive intelligence, no material facts about Kotak's card positioning, pricing, earn rates, or travel partnerships; entirely marketing copy with zero incremental strategic value for a market intelligence wiki.
+
+## [2026-06-27] crawl-drop | 7-best-zero-forex-markup-credit-cards-in-india-2026.md | Maker: 6/10, Checker: 2/10 BORDERLINE — dropped (autonomous, no queue)
