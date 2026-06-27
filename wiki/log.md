@@ -269,3 +269,5 @@ Append-only ingest/query/lint event log.
 ## [2026-06-27] crawl-drop | best-zero-forex-credit-cards-in-india-2026-features-charges.md | Maker: 5/10, Checker: 6/10 BORDERLINE — dropped (autonomous, no queue)
 
 ## [2026-06-27] crawl-drop | best-zero-forex-mark-up-fee-credit-cards-in-india.md | Maker: 7/10, Checker: 8/10 BORDERLINE — dropped (autonomous, no queue)
+
+## [2026-06-27] crawl-drop | a-complete-list-of-zero-forex-markup-credit-cards-in-india-in-2026.md | Maker: 4/10, Checker: 6/10 BORDERLINE — dropped (autonomous, no queue)
