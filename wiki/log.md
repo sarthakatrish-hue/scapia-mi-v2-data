@@ -299,3 +299,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-27] ingest | best-forex-cards-for-indians-travelling-abroad-in-2026-the-complete-guide.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-27] ingest | best-forex-cards-for-indians-travelling-abroad-in-2026-the-complete-guide.md → subjects/wise-travel-card.md, subjects/thomas-cook.md, subjects/hdfc-bank.md, subjects/rbi.md, sources/2026-06-27-best-forex-cards-for-indians-travelling-abroad-in-2026-the-complete-guide.md | Auto-approved
+
+## [2026-06-27] ingest | how-much-cash-can-you-legally-carry-while-traveling-abroad.md | Maker: 6/10, Checker: 2/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-27] ingest | how-much-cash-can-you-legally-carry-while-traveling-abroad.md → subjects/thomas-cook.md, subjects/rbi.md, sources/2026-06-27-how-much-cash-can-you-legally-carry-while-traveling-abroad.md | Auto-approved

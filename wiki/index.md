@@ -3,7 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
-- [[subjects/thomas-cook]] — "Thomas Cook Borderless card cited for multi-currency and same-day issuance in 2026 guides"
+- [[subjects/thomas-cook]] — "Thomas Cook guide details RBI cash and LRS rules shaping forex product choice"
 - [[subjects/wise-travel-card]] — "Wise Travel Card cited as best overall forex card for Indians in 2026 guides"
 - [[subjects/forex-credit-card-india-travel]] — "Zero-markup credit cards now match forex cards as Indians hit $31.7B LRS spend"
 - [[subjects/suryoday-sfb]] — Suryoday SFB scales embedded UPI credit to 530,000 prime borrowers via Paytm
@@ -18,7 +18,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/induslnd-bank]] — "IndusInd Avios Infinite adds dual airline loyalty choice with preferred-destination forex discount"
 - [[subjects/hdfc-bizpower]] — "BizPower adds IT/GST transaction cap in May 2026, targeting tax-payment reward earners"
 - [[subjects/hdfc-diners-club-privilege]] — "Diners Club Privilege takes 25% reward rate cut with lounge now spend-gated from July 2026"
-- [[subjects/rbi]] — "RBI's LRS framework governs TCS and forex card remittance limits for Indian travellers"
+- [[subjects/rbi]] — "RBI LRS cash and forex rules define the compliance envelope for all travel-card issuers"
 - [[subjects/air-india-maharaja-club-credit-card]] — "Maharaja Club deepens with Express redemption and improved award seat access"
 - [[subjects/bobcard]] — BOBCARD aggressively courts travel spenders with multi-OTA discount blitz
 - [[subjects/american-express]] — "Amex restructures Membership Rewards so ₹4L spend yields 10,000 points vs 25,000 prior"

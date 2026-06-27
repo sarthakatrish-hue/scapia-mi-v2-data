@@ -7,21 +7,21 @@ categories: [upi, banks, cards]
 domain_url: rbi.org.in
 logo: null
 issuer: null
-keywords: [[rbi, prudential norms, upi credit lines, pre-sanctioned credit, regulation, digital payments, tcs, lrs, liberalised remittance scheme, forex, foreign currency, gst, usd-250000-limit, cash-limit]]
+keywords: [rbi, prudential norms, upi credit lines, pre-sanctioned credit, regulation, digital payments, tcs, lrs, liberalised remittance scheme, forex, foreign currency, gst, usd-250000-limit, cash-limit, authorized-dealer, customs-declaration, cdf, rfc-account]
 signal: watch
-headline: "'RBI's LRS framework governs TCS and forex card remittance limits for Indian travellers'"
-vitals: ["USD 2,50,000|LRS annual limit|Per individual per FY", "₹10L|TCS-free threshold|Above = 20% TCS on general remittances", "USD 3,000|Max cash abroad|Balance must be on card/cheque"]
+headline: "'RBI LRS cash and forex rules define the compliance envelope for all travel-card issuers'"
+vitals: ["USD 2,50,000|LRS annual limit|Per individual per FY", "USD 3,000|Max cash abroad|Balance must be on card/cheque", "₹25,000|INR limit on return|Must declare above this at customs"]
 last_updated: 2026-06-27
 ---
 
 ## What we know
 
-**USD 2,50,000 annual LRS cap** — Indian residents can remit up to USD 2,50,000 per financial year under LRS for travel, education, and medical; forex card loading counts toward this limit[^rbi-lrs-forex-2026-06-27]
-**USD 3,000 cash limit abroad** — Maximum physical foreign currency allowed abroad; remainder must be on forex card, traveller's cheque, or bank transfer[^rbi-lrs-forex-2026-06-27]
-**TCS threshold revised to ₹10L** — From April 1 2025, no TCS on forex card loading/spending below ₹10 lakh per year; 20% TCS above threshold for general travel[^rbi-lrs-forex-2026-06-27]
-**TCS is reclaimable** — TCS credited to Form 26AS; adjustable against income tax liability or refundable via ITR — not a net tax cost[^rbi-lrs-forex-2026-06-27]
-**Credit cards excluded from LRS (2026)** — International credit card spending abroad was excluded from LRS applicability as of 2026, pending further Finance Ministry guidelines — key structural advantage for credit card holders vs forex card holders[^rbi-lrs-forex-2026-06-27]
-**LRS applies to debit and forex cards** — TCS rules apply to forex and debit cards; credit cards currently exempt, creating a meaningful product differentiation lever[^rbi-lrs-forex-2026-06-27]
+**CDF filing at USD 10,000** — Travellers carrying foreign currency above USD 10,000 (or USD 5,000 in notes alone) must file a Currency Declaration Form at customs on entry/exit[^rbi-cash-limits-2026-06-27]
+**INR return limit Rs 25,000** — Residents returning to India may bring up to Rs 25,000 in Indian currency notes; Nepal/Bhutan travel restricted to denominations not exceeding Rs 100[^rbi-cash-limits-2026-06-27]
+**Retain up to USD 2,000 post-trip** — Foreign currency up to USD 2,000 may be retained indefinitely; excess must be surrendered within 90 days (cash) or 180 days (traveller's cheques) or credited to RFC(D) account[^rbi-cash-limits-2026-06-27]
+**Purpose-based forex limits** — Education abroad: up to USD 30,000 per academic year; employment abroad: up to USD 5,000; medical treatment: up to USD 50,000 on self-certification, higher with hospital estimate[^rbi-cash-limits-2026-06-27]
+**Special country rules** — Russia, Iran, CIS Republics: entire USD 2,50,000 LRS limit only in currency notes; Libya and Iraq: up to USD 5,000 in currency notes per visit[^rbi-cash-limits-2026-06-27]
+**Rs 50,000 cash purchase cap** — Foreign exchange purchases above Rs 50,000 must be settled via cheque, demand draft, or card — not physical cash[^rbi-cash-limits-2026-06-27]
 
 ## Regulatory Intel
 
@@ -34,6 +34,12 @@ last_updated: 2026-06-27
 **Implication:** For Scapia and Federal Bank, any future UPI-linked credit or pay-later feature must be structured so its prudential treatment mirrors the equivalent credit card or loan product — there is no lighter-touch regulatory path via the UPI channel. [Inferred · High] This raises the compliance cost for new UPI credit-line product design but levels the playing field, preventing nimbler competitors from gaining an unfair regulatory edge by routing credit through UPI.
 
 ## Coverage
+
+### RBI Cash Rules Detailed in Guide — 2026-06-27
+
+A Thomas Cook consumer guide comprehensively documents RBI's cash-carrying rules for Indian international travellers, covering the USD 3,000 per-trip physical currency ceiling, the USD 2,50,000 annual LRS cap, customs declaration requirements at USD 10,000, and purpose-specific limits for education, employment, and medical travel[^rbi-cash-limits-2026-06-27]. The Rs 25,000 ceiling on INR notes for returning residents and the 90-day surrender rule for excess foreign currency are also cited as compliance obligations.
+
+For Scapia, the regulatory detail reinforces a structural advantage: credit cards avoid LRS applicability entirely, while prepaid forex cards and cash are subject to these layered limits and penalties[^rbi-cash-limits-2026-06-27]. The Rs 50,000 cap on cash purchases of foreign exchange further nudges high-spend travellers toward card-based solutions — a demand funnel that benefits zero-markup credit cards. [Inferred · High]
 
 ### LRS Rules Shape Forex Card Market — 2026-06-27
 
@@ -55,6 +61,7 @@ Critically, the RBI also barred banks from inventing new lending categories via 
 
 ## Developments
 
+- 2026-06-27 — RBI Cash Rules Detailed in Guide [^rbi-cash-limits-2026-06-27]
 - 2026-06-27 — LRS Rules Shape Forex Card Market [^rbi-lrs-forex-2026-06-27]
 - 2026-05-02 — LRS Tax Rules for Forex Cards [^rbi-forex-tcs-2026-05-02]
 - 2026-06-23 — RBI Equalises UPI Credit Norms [^rbi-upi-credit-2026-06-23]
@@ -64,3 +71,4 @@ Critically, the RBI also barred banks from inventing new lending categories via 
 [^rbi-upi-credit-2026-06-23]: raw/regulatory/rbi-aligns-prudential-norms-for-upi-linked-credit-lines-with-base-loans.md
 [^rbi-forex-tcs-2026-05-02]: raw/regulatory/is-purchase-of-foreign-currency-and-forex-cards-taxable-in-india.md
 [^rbi-lrs-forex-2026-06-27]: raw/ambiguous/best-forex-cards-for-indians-travelling-abroad-in-2026-the-complete-guide.md
+[^rbi-cash-limits-2026-06-27]: raw/ambiguous/how-much-cash-can-you-legally-carry-while-traveling-abroad.md

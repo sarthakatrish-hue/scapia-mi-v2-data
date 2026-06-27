@@ -7,19 +7,20 @@ categories: [cards, flights, stays, experiences]
 domain_url: thomascook.in
 logo: null
 issuer: null
-keywords: [[forex-card, prepaid, multi-currency, borderless, same-day-issuance, 9-currencies, consumer-guide, cross-currency-fee-waived]]
+keywords: [forex-card, prepaid, multi-currency, borderless, same-day-issuance, 9-currencies, consumer-guide, cross-currency-fee-waived, cash-limit, lrs, forex-notes, authorized-dealer]
 signal: watch
-headline: "'Thomas Cook Borderless card cited for multi-currency and same-day issuance in 2026 guides'"
-vitals: ["9|Max currencies loaded|vs single billing currency Scapia", "Same-day|Issuance speed|vs digital-only Scapia"]
+headline: "'Thomas Cook guide details RBI cash and LRS rules shaping forex product choice'"
+vitals: ["9|Max currencies loaded|vs single billing currency Scapia", "Same-day|Issuance speed|vs digital-only Scapia", "USD 3,000|Max cash per trip|RBI rule Thomas Cook must comply with"]
 last_updated: 2026-06-27
 ---
 
 ## What we know
 
-**Named in 2026 forex guide** — Thomas Cook Borderless Prepaid Multicurrency Card listed as "best for multi-destination trips" in a mainstream 2026 guide for Indian travellers[^tc-forex-2026-06-27]
-**Up to 9 currencies** — Single card supports loading up to 9 foreign currencies simultaneously with cross-currency fees waived[^tc-forex-2026-06-27]
-**Same-day issuance** — Physical card issued on the same day; targets last-minute travellers[^tc-forex-2026-06-27]
-**Established brand** — One of India's oldest forex services, providing distribution trust for travellers wary of digital-only fintechs[^tc-forex-2026-06-27]
+**RBI-authorized forex dealer** — Thomas Cook is explicitly positioned as an RBI-approved authorized dealer for foreign exchange, giving it regulatory standing to sell forex notes and prepaid cards[^tc-cash-limits-2026-06-27]
+**USD 3,000 cash ceiling applies** — Thomas Cook's own guide cites the RBI rule limiting physical foreign currency to USD 3,000 per trip; remainder must be on cards or cheques — directly shapes its product pitch[^tc-cash-limits-2026-06-27]
+**Cash-vs-card narrative** — Guide actively steers customers from cash toward Thomas Cook's Travel Forex Cards, citing ATM charge-free withdrawals and rate-lock as advantages over international debit/credit cards[^tc-cash-limits-2026-06-27]
+**Penalties for excess cash** — Thomas Cook warns of confiscation, heavy fines, and potential arrest for exceeding declared currency limits — reinforcing forex card as the compliant, safe alternative[^tc-cash-limits-2026-06-27]
+**Rs 50,000 cash purchase cap** — Foreign exchange under Rs 50,000 can be bought in cash; above that requires crossed cheque, demand draft, debit/credit card, or forex prepaid card[^tc-cash-limits-2026-06-27]
 
 ## Competitor Intel
 
@@ -40,6 +41,12 @@ last_updated: 2026-06-27
 
 ## Coverage
 
+### Thomas Cook Pitches Cards Over Cash — 2026-06-27
+
+Thomas Cook's own consumer guide on international cash limits doubles as a product funnel for its Travel Forex Cards, citing RBI's USD 3,000 per-trip physical currency ceiling and customs declaration requirements as reasons travellers should shift spending onto prepaid cards[^tc-cash-limits-2026-06-27]. The guide underscores Thomas Cook's RBI-authorized-dealer status as a trust signal, positioning it as the compliant, one-stop solution for forex needs.
+
+The implicit competitive argument against credit cards — that international debit/credit cards attract "high bank charges and ATM withdrawal charges" — is the most relevant signal for Scapia[^tc-cash-limits-2026-06-27]. Thomas Cook is actively seeding doubt about credit card economics at the top of the consumer research funnel, making Scapia's zero-forex-markup and no-ATM-charge messaging a direct counter-priority. [Inferred · High]
+
 ### Thomas Cook Card in 2026 Guide — 2026-06-27
 
 A 2026 consumer guide names Thomas Cook's Borderless Prepaid Multicurrency Card as the top pick for multi-destination trips, citing its ability to hold up to 9 currencies simultaneously with cross-currency fees waived and same-day physical issuance[^tc-forex-2026-06-27]. The positioning targets last-minute and multi-country travellers who value branch-backed issuance over digital-only options.
@@ -48,8 +55,10 @@ The guide's structural framing still favours zero-markup credit cards over prepa
 
 ## Developments
 
+- 2026-06-27 — Thomas Cook Pitches Cards Over Cash [^tc-cash-limits-2026-06-27]
 - 2026-06-27 — Thomas Cook Card in 2026 Guide [^tc-forex-2026-06-27]
 
 ## Sources
 
 [^tc-forex-2026-06-27]: raw/ambiguous/best-forex-cards-for-indians-travelling-abroad-in-2026-the-complete-guide.md
+[^tc-cash-limits-2026-06-27]: raw/ambiguous/how-much-cash-can-you-legally-carry-while-traveling-abroad.md
