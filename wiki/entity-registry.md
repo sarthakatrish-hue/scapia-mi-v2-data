@@ -58,6 +58,8 @@ treated as context until promoted).
 
 ## Competitors
 
+- thomas-cook | competitor | Thomas Cook Borderless Card | newly-surfaced · added_by: agent 2026-06-27 · source: best-forex-cards-for-indian-travelers-2026.md · Prepaid forex card with 20+ airport counters, zero markup, 9 currencies, partner YES Bank
+
 - kotak-mahindra-bank | competitor | Kotak Mahindra Bank | newly-surfaced · added_by: agent 2026-06-27 · source: zero-forex-markup-credit-card-benefits-features-travel-perks.md · Issues credit cards including zero-forex-markup variants in the Indian market
 
 - wise-travel-card | competitor | Wise Travel Card | newly-surfaced · added_by: agent 2026-06-27 · source: best-zero-forex-credit-cards-in-india-2026-features-charges.md · a multi-currency debit card offering 40+ currencies and zero forex markup with interbank rates
