@@ -257,3 +257,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-26] ingest | icici-bank-unveils-ishop-earn-up-to-12x-rewards.md → subjects/icici-bank.md, subjects/icici-emeralde.md, sources/2026-06-26-icici-bank-unveils-ishop-earn-up-to-12x-rewards.md | Auto-approved
 
 ## [2026-06-26] ingest | batch b_8750658571: 4 URLs — 1 error, 2 ingested, 1 no-article
+
+## [2026-06-27] update | entity-registry += suryoday-sfb (competitor), paytm (partner) (from prime-borrowers-emerge-as-key-users-of-credit-line-on-upi-suryoday-sfb.md)
+
+## [2026-06-27] ingest | prime-borrowers-emerge-as-key-users-of-credit-line-on-upi-suryoday-sfb.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-27] ingest | prime-borrowers-emerge-as-key-users-of-credit-line-on-upi-suryoday-sfb.md → subjects/credit-line-on-upi.md, subjects/suryoday-sfb.md, sources/2026-06-27-prime-borrowers-emerge-as-key-users-of-credit-line-on-upi-suryoday-sfb.md | Auto-approved

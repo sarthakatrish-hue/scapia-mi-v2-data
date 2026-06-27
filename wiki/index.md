@@ -3,6 +3,8 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/suryoday-sfb]] — Suryoday SFB scales embedded UPI credit to 530,000 prime borrowers via Paytm
+- [[subjects/credit-line-on-upi]] — Prime borrowers choose CLOU for convenience, validating embedded credit as mainstream fintech
 - [[subjects/hopper]] — "Hopper powers HSBC's travel portal, deepening its India B2B travel infrastructure play"
 - [[subjects/hsbc-rewards-marketplace]] — "HSBC's Hopper-powered travel portal offers 12X hotels but trails SmartBuy on breadth"
 - [[subjects/amex-platinum-travel]] — "Amex Platinum Travel reshuffles redemption partners, cuts Taj MR value in April 2025"

@@ -58,6 +58,8 @@ treated as context until promoted).
 
 ## Competitors
 
+- suryoday-sfb | competitor | Suryoday Small Finance Bank | domain: suryodaybank.com | newly-surfaced · added_by: agent 2026-06-27 · source: prime-borrowers-emerge-as-key-users-of-credit-line-on-upi-suryoday-sfb.md · operates Credit Line on UPI (CLOU) product in partnership with Paytm, competing in embedded credit-on-UPI space
+
 - hsbc-rewards-marketplace | competitor | HSBC Rewards Marketplace | domain: hsbc.co.in | added_by: agent 2026-06-26 · source: hsbc-launches-rewards-marketplace-how-it-fares-against-hdfc-smartbuy-icici-ishop.md · travel rewards portal for select HSBC cardholders offering accelerated points on flights, hotels, car rentals with partner airline/hotel redemption
 
 - hopper | competitor | Hopper | domain: hopper.com | added_by: agent 2026-06-26 · source: hsbc-launches-rewards-marketplace-how-it-fares-against-hdfc-smartbuy-icici-ishop.md · travel platform and flight search engine providing booking infrastructure to HSBC Rewards Marketplace
@@ -181,6 +183,8 @@ treated as context until promoted).
 - pine-labs | context | Pine Labs | newly-surfaced · added_by: agent 2026-06-24 · source: rbi-new-upi-rules-2026-2fa-afa-impact-benefits-explained.md · payments infrastructure provider and systems integrator
 
 ## Partner candidates (pending curator confirmation)
+
+- paytm | partner-candidate | Paytm | newly-surfaced · added_by: agent 2026-06-27 · source: prime-borrowers-emerge-as-key-users-of-credit-line-on-upi-suryoday-sfb.md · distribution/technology partner for Suryoday SFB's CLOU product
 
 - air-india | partner-candidate | Air India | newly-surfaced · added_by: agent 2026-06-25 · source: bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md · airline offering co-branded travel bookings and discounts
 
