@@ -58,6 +58,8 @@ treated as context until promoted).
 
 ## Competitors
 
+- wise-travel-card | competitor | Wise Travel Card | newly-surfaced · added_by: agent 2026-06-27 · source: best-zero-forex-credit-cards-in-india-2026-features-charges.md · a multi-currency debit card offering 40+ currencies and zero forex markup with interbank rates
+
 - suryoday-sfb | competitor | Suryoday Small Finance Bank | domain: suryodaybank.com | newly-surfaced · added_by: agent 2026-06-27 · source: prime-borrowers-emerge-as-key-users-of-credit-line-on-upi-suryoday-sfb.md · operates Credit Line on UPI (CLOU) product in partnership with Paytm, competing in embedded credit-on-UPI space
 
 - hsbc-rewards-marketplace | competitor | HSBC Rewards Marketplace | domain: hsbc.co.in | added_by: agent 2026-06-26 · source: hsbc-launches-rewards-marketplace-how-it-fares-against-hdfc-smartbuy-icici-ishop.md · travel rewards portal for select HSBC cardholders offering accelerated points on flights, hotels, car rentals with partner airline/hotel redemption

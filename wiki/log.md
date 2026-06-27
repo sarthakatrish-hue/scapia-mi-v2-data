@@ -263,3 +263,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-27] ingest | prime-borrowers-emerge-as-key-users-of-credit-line-on-upi-suryoday-sfb.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-27] ingest | prime-borrowers-emerge-as-key-users-of-credit-line-on-upi-suryoday-sfb.md → subjects/credit-line-on-upi.md, subjects/suryoday-sfb.md, sources/2026-06-27-prime-borrowers-emerge-as-key-users-of-credit-line-on-upi-suryoday-sfb.md | Auto-approved
+
+## [2026-06-27] update | entity-registry += wise-travel-card (competitor) (from best-zero-forex-credit-cards-in-india-2026-features-charges.md)
+
+## [2026-06-27] crawl-drop | best-zero-forex-credit-cards-in-india-2026-features-charges.md | Maker: 5/10, Checker: 6/10 BORDERLINE — dropped (autonomous, no queue)
