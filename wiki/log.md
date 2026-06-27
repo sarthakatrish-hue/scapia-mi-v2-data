@@ -303,3 +303,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-27] ingest | how-much-cash-can-you-legally-carry-while-traveling-abroad.md | Maker: 6/10, Checker: 2/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-27] ingest | how-much-cash-can-you-legally-carry-while-traveling-abroad.md → subjects/thomas-cook.md, subjects/rbi.md, sources/2026-06-27-how-much-cash-can-you-legally-carry-while-traveling-abroad.md | Auto-approved
+
+## [2026-06-27] ingest | simple-forex-rules-for-indians-to-travel-abroad.md | Maker: 6/10, Checker: 2/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-27] ingest | simple-forex-rules-for-indians-to-travel-abroad.md → subjects/rbi.md, sources/2026-06-27-simple-forex-rules-for-indians-to-travel-abroad.md | Auto-approved
+
+## [2026-06-27] crawl | autonomous | universe 93, 5 searches + 2 feeds → 22 candidates | ingested 6/8 (vault 3, market-signal 3, feeds 0), dropped 8, queued 0, dupes 6, stale 39, irrelevant 6, errors 2

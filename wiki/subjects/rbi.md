@@ -7,7 +7,7 @@ categories: [upi, banks, cards]
 domain_url: rbi.org.in
 logo: null
 issuer: null
-keywords: [rbi, prudential norms, upi credit lines, pre-sanctioned credit, regulation, digital payments, tcs, lrs, liberalised remittance scheme, forex, foreign currency, gst, usd-250000-limit, cash-limit, authorized-dealer, customs-declaration, cdf, rfc-account]
+keywords: [rbi, prudential norms, upi credit lines, pre-sanctioned credit, regulation, digital payments, tcs, lrs, liberalised remittance scheme, forex, foreign currency, gst, usd-250000-limit, cash-limit, authorized-dealer, customs-declaration, cdf, rfc-account, forex-purchase-cap, resident-eligibility, 60-day-advance, travellers-cheque]
 signal: watch
 headline: "'RBI LRS cash and forex rules define the compliance envelope for all travel-card issuers'"
 vitals: ["USD 2,50,000|LRS annual limit|Per individual per FY", "USD 3,000|Max cash abroad|Balance must be on card/cheque", "₹25,000|INR limit on return|Must declare above this at customs"]
@@ -16,12 +16,12 @@ last_updated: 2026-06-27
 
 ## What we know
 
-**CDF filing at USD 10,000** — Travellers carrying foreign currency above USD 10,000 (or USD 5,000 in notes alone) must file a Currency Declaration Form at customs on entry/exit[^rbi-cash-limits-2026-06-27]
-**INR return limit Rs 25,000** — Residents returning to India may bring up to Rs 25,000 in Indian currency notes; Nepal/Bhutan travel restricted to denominations not exceeding Rs 100[^rbi-cash-limits-2026-06-27]
-**Retain up to USD 2,000 post-trip** — Foreign currency up to USD 2,000 may be retained indefinitely; excess must be surrendered within 90 days (cash) or 180 days (traveller's cheques) or credited to RFC(D) account[^rbi-cash-limits-2026-06-27]
-**Purpose-based forex limits** — Education abroad: up to USD 30,000 per academic year; employment abroad: up to USD 5,000; medical treatment: up to USD 50,000 on self-certification, higher with hospital estimate[^rbi-cash-limits-2026-06-27]
-**Special country rules** — Russia, Iran, CIS Republics: entire USD 2,50,000 LRS limit only in currency notes; Libya and Iraq: up to USD 5,000 in currency notes per visit[^rbi-cash-limits-2026-06-27]
-**Rs 50,000 cash purchase cap** — Foreign exchange purchases above Rs 50,000 must be settled via cheque, demand draft, or card — not physical cash[^rbi-cash-limits-2026-06-27]
+**60-day advance forex purchase** — Residents may buy foreign exchange up to 60 days before travel date, provided all documents are in order[^rbi-forex-orient-2026-06-27]
+**Rs 50,000 cash purchase cap** — Foreign exchange purchases above Rs 50,000 must be settled via cheque, demand draft, or card — not physical cash[^rbi-forex-orient-2026-06-27]
+**USD 3,000 per-trip cash ceiling** — Residents may carry up to USD 3,000 in currency notes per trip; the remainder of the LRS limit must be in forex card, traveller's cheque, or demand draft[^rbi-forex-orient-2026-06-27]
+**180-day surrender rule** — Unused foreign exchange in notes or traveller's cheques must be surrendered within 180 days of return; up to USD 2,000 may be retained for future travel[^rbi-forex-orient-2026-06-27]
+**Rs 25,000 INR carry limit** — Residents may carry up to Rs 25,000 in Indian currency when travelling abroad, and bring back up to Rs 25,000 on return (Nepal/Bhutan excepted)[^rbi-forex-orient-2026-06-27]
+**Purpose-based eligibility** — Forex is released to residents (>182 days in India) with purpose documentation; for study, employment, and emigration, forex is released only on the initial trip[^rbi-forex-orient-2026-06-27]
 
 ## Regulatory Intel
 
@@ -34,6 +34,12 @@ last_updated: 2026-06-27
 **Implication:** For Scapia and Federal Bank, any future UPI-linked credit or pay-later feature must be structured so its prudential treatment mirrors the equivalent credit card or loan product — there is no lighter-touch regulatory path via the UPI channel. [Inferred · High] This raises the compliance cost for new UPI credit-line product design but levels the playing field, preventing nimbler competitors from gaining an unfair regulatory edge by routing credit through UPI.
 
 ## Coverage
+
+### Orient Exchange Forex Rules Summary — 2026-06-27
+
+A consumer-facing guide from Orient Exchange (an RBI-authorised dealer) restates core LRS cash-handling rules for Indian outbound travellers[^rbi-forex-orient-2026-06-27]. Key facts confirmed: the USD 3,000 per-trip cash ceiling, the USD 2,50,000 annual LRS cap, the Rs 50,000 cap on cash purchases of foreign exchange, and the 180-day surrender obligation for unused forex notes post-return. Eligibility is anchored to Indian residency (>182 days) and requires purpose documentation.
+
+For Scapia, the article reiterates the structural edge of zero-markup credit cards over forex cards and cash: credit card international spending remains outside LRS applicability, while these layered cash and surrender rules apply to every forex card or currency note product. The Rs 50,000 cash-purchase cap actively nudges high-spend travellers toward card solutions — a demand funnel Scapia is well-placed to capture. [Inferred · High]
 
 ### RBI Cash Rules Detailed in Guide — 2026-06-27
 
@@ -61,6 +67,7 @@ Critically, the RBI also barred banks from inventing new lending categories via 
 
 ## Developments
 
+- 2026-06-27 — Orient Exchange Forex Rules Summary [^rbi-forex-orient-2026-06-27]
 - 2026-06-27 — RBI Cash Rules Detailed in Guide [^rbi-cash-limits-2026-06-27]
 - 2026-06-27 — LRS Rules Shape Forex Card Market [^rbi-lrs-forex-2026-06-27]
 - 2026-05-02 — LRS Tax Rules for Forex Cards [^rbi-forex-tcs-2026-05-02]
@@ -72,3 +79,4 @@ Critically, the RBI also barred banks from inventing new lending categories via 
 [^rbi-forex-tcs-2026-05-02]: raw/regulatory/is-purchase-of-foreign-currency-and-forex-cards-taxable-in-india.md
 [^rbi-lrs-forex-2026-06-27]: raw/ambiguous/best-forex-cards-for-indians-travelling-abroad-in-2026-the-complete-guide.md
 [^rbi-cash-limits-2026-06-27]: raw/ambiguous/how-much-cash-can-you-legally-carry-while-traveling-abroad.md
+[^rbi-forex-orient-2026-06-27]: raw/ambiguous/simple-forex-rules-for-indians-to-travel-abroad.md
