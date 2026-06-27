@@ -7,19 +7,18 @@ categories: [banks]
 domain_url: hdfcbank.com
 logo: null
 issuer: null
-keywords: [issuer, bank, credit-card, devaluation, cost-reduction, rewards-cut, lounge-conditional, industry-wide-tightening]
+keywords: [[issuer, bank, credit-card, devaluation, cost-reduction, rewards-cut, lounge-conditional, industry-wide-tightening, forex-card, multicurrency, forexplus, consumer-guide]]
 signal: threat
 headline: "'HDFC Bank joins industry-wide credit card reward tightening as costs rise'"
-vitals: ["['90%|Market share (top 5 banks)|Controls ~117.7M cards collectively']"]
-last_updated: 2026-06-26
+vitals: ["90%|Market share (top 5 banks)|Controls ~117.7M cards collectively"]
+last_updated: 2026-06-27
 ---
 
 ## What we know
 
-**Industry-wide rewards squeeze** — HDFC joins ICICI, Axis, SBI, and Amex in cutting cashback, lounge access, and reward rates as reward programme costs become unsustainable[^cc-tighten-2026-06-26]
-**Spend-linked lounge now standard** — Lounge access requiring ₹60,000/quarter spend is now confirmed as part of a broader market-wide shift, not just HDFC-specific policy[^cc-tighten-2026-06-26]
-**Credit defaults rising** — Banks cite growing delinquency rates alongside a ~11% MoM drop in credit card spending to ₹1.78 lakh crore in February as dual cost pressures[^cc-tighten-2026-06-26]
-**Selective loyalty emerging** — Banks are explicitly moving to tiered reward systems that favour high spenders, reducing value for occasional or lower-volume cardholders[^cc-tighten-2026-06-26]
+**HDFC ForexPlus in 2026 guides** — HDFC Multicurrency Platinum ForexPlus Card named "best bank-issued forex card" in a 2026 mainstream guide; zero markup, 150+ countries, accepted by Indian residents aged 12+[^hdfc-forex-2026-06-27]
+**Eligibility broad** — Valid passport, PAN card, travel ticket or visa, and bank statement required; open to non-HDFC customers[^hdfc-forex-2026-06-27]
+**Reward points on international spend** — ForexPlus card earns points redeemable for travel or lifestyle; travel insurance for lost baggage, flight delays, and medical emergencies included[^hdfc-forex-2026-06-27]
 
 ## Competitor Intel
 
@@ -41,6 +40,12 @@ last_updated: 2026-06-26
 
 ## Coverage
 
+### HDFC ForexPlus Named Best Bank Card — 2026-06-27
+
+A 2026 consumer guide for Indian travellers singles out HDFC's Multicurrency Platinum ForexPlus Card as the best bank-issued forex card, noting zero markup across 150+ countries, broad eligibility from age 12, and bundled travel insurance[^hdfc-forex-2026-06-27]. The card is positioned as the trusted, branch-backed option for travellers who want a major-bank name on their forex product.
+
+For Scapia the read is contextual: the guide's own logic frames zero-markup credit cards as superior to forex cards for frequent travellers, meaning HDFC ForexPlus competes in the prepaid tier rather than directly against Scapia[^hdfc-forex-2026-06-27]. The ForexPlus mention does reinforce HDFC's broad product coverage — the bank addresses both the prepaid and credit card forex segments simultaneously — a distribution depth Scapia does not yet match. [Inferred · Medium]
+
 ### Industry Tightens Credit Card Rewards — 2026-06-26
 
 India's major card issuers — HDFC, ICICI, Axis, SBI, and Amex together controlling ~90% of 117.7 million credit cards — are systematically cutting rewards[^cc-tighten-2026-06-26]. SBI capped monthly cashback at ₹4,000 (down from ₹5,000); Axis removed Qatar Airways, Accor, and Marriott as transfer partners; Amex restructured Membership Rewards so ₹4 lakh annual spend now yields ~10,000 points instead of ~25,000, and the Taj Hotels voucher threshold jumped to ₹7 lakh[^cc-tighten-2026-06-26]. Credit card spending fell ~11% MoM to ₹1.78 lakh crore in February, compounding rising delinquency costs.
@@ -61,6 +66,7 @@ The move hands challengers like Scapia a small but concrete CX talking point: fu
 
 ## Developments
 
+- 2026-06-27 — HDFC ForexPlus Named Best Bank Card [^hdfc-forex-2026-06-27]
 - 2026-06-26 — Industry Tightens Credit Card Rewards [^cc-tighten-2026-06-26]
 - 2026-06-26 — HDFC Devalues Three Mid-Premium Cards [^hdfc-deval-2026-06-26]
 - 2026-06-24 — HDFC Drops Small-Transaction SMS Alerts [^hdfc-jun2026]
@@ -70,3 +76,4 @@ The move hands challengers like Scapia a small but concrete CX talking point: fu
 [^hdfc-jun2026]: raw/ambiguous/major-banking-tax-upi-transaction-rule-changes-kicking-in-from-june-2026-key-poi.md
 [^hdfc-deval-2026-06-26]: raw/ambiguous/hdfc-credit-card-devaluation-2026-what-changed.md
 [^cc-tighten-2026-06-26]: raw/ambiguous/credit-card-rewards-in-india-are-getting-tighter-what-is-changing.md
+[^hdfc-forex-2026-06-27]: raw/ambiguous/best-forex-cards-for-indians-travelling-abroad-in-2026-the-complete-guide.md
