@@ -267,3 +267,5 @@ Append-only ingest/query/lint event log.
 ## [2026-06-27] update | entity-registry += wise-travel-card (competitor) (from best-zero-forex-credit-cards-in-india-2026-features-charges.md)
 
 ## [2026-06-27] crawl-drop | best-zero-forex-credit-cards-in-india-2026-features-charges.md | Maker: 5/10, Checker: 6/10 BORDERLINE — dropped (autonomous, no queue)
+
+## [2026-06-27] crawl-drop | best-zero-forex-mark-up-fee-credit-cards-in-india.md | Maker: 7/10, Checker: 8/10 BORDERLINE — dropped (autonomous, no queue)
