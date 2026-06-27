@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/forex-credit-card-india-travel]] — "Zero-markup credit cards now match forex cards as Indians hit $31.7B LRS spend"
 - [[subjects/suryoday-sfb]] — Suryoday SFB scales embedded UPI credit to 530,000 prime borrowers via Paytm
 - [[subjects/credit-line-on-upi]] — Prime borrowers choose CLOU for convenience, validating embedded credit as mainstream fintech
 - [[subjects/hopper]] — "Hopper powers HSBC's travel portal, deepening its India B2B travel infrastructure play"
@@ -43,14 +44,14 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/axis-burgundy-private]] — "Axis Burgundy Private Magnus ratio halved in April 2026 sweeping devaluation"
 - [[subjects/uni-nxtwave]]
 - [[subjects/onecard]] — "OneCard nears ₹2,000 cr revenue in FY25, losses shrink 26% but RBI scrutiny clouds growth"
-- [[subjects/niyo-global-sbm]] — "Niyo expands zero-forex distribution via Vodafone Idea telecom partnership and doorstep KYC"
+- [[subjects/niyo-global-sbm]] — "Niyo Global cited as fintech forex-card option with tighter spreads in 2026 guides"
 - [[subjects/idfc-first-wow]]
 - [[subjects/bobcard-etihad-premium]]
 - [[subjects/ixigo-au]] — "Ixigo is rebuilding its app around conversational AI, deepening the co-brand moat"
 - [[subjects/rbl-world-safari]]
 - [[subjects/idfc-first-mayura]]
 - [[subjects/sbi-elite]]
-- [[subjects/axis-atlas]] — "Axis Atlas charges 3.5% forex and ₹5,000 fee with tiered lounge access"
+- [[subjects/axis-atlas]] — "Axis Atlas 3.5% forex confirmed as zero-markup tier widens the cost gap in 2026"
 - [[subjects/icici-emeralde]] — "ICICI Emeralde's iShop delivers 36% hotel returns, making it a genuine SmartBuy rival"
 - [[subjects/hdfc-diners-black]] — "HDFC DCB Metal delivers unlimited lounge, 10X SmartBuy rewards and 2% forex at ₹10K fee"
 - [[subjects/hdfc-infinia]] — "HDFC Infinia's SmartBuy delivers ₹56K value-back on ₹1.8L spend — best in class"

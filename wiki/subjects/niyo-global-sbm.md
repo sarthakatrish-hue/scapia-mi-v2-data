@@ -7,24 +7,21 @@ categories: [cards, experiences]
 domain_url: sbmbank.co.in
 logo: null
 issuer: sbm-bank
-keywords: [[zero-forex, fd-backed, neobank, international, telecom-partnership, vi, vodafone-idea, lounge, forex-card]]
+keywords: [[zero-forex, fd-backed, neobank, international, telecom-partnership, vi, vodafone-idea, lounge, forex-card, consumer-guide, bookmyforex, tighter-spreads]]
 signal: watch
-headline: "'Niyo expands zero-forex distribution via Vodafone Idea telecom partnership and doorstep KYC'"
+headline: "'Niyo Global cited as fintech forex-card option with tighter spreads in 2026 guides'"
 vitals: ["₹0|Annual fee|vs ₹0/0%/unlimited Scapia", "0%|Forex markup|vs ₹0/0%/unlimited Scapia", "1 intl / quarter (₹50K spend trigger)|Lounge|vs ₹0/0%/unlimited Scapia"]
 scoreboard: ["Partnerships|High|up", "Cards & Credit|Medium|steady"]
-last_updated: 2026-06-22
+last_updated: 2026-06-27
 ---
 
 ## What we know
 
-**Zero forex neobank** — 0% markup on international transactions; targets young travellers [^niyo1]
-**FD-backed card** — Secured against FD (min ₹5,000); no income proof needed [^niyo1]
-**Minimal lounge access** — 1 international lounge visit per quarter on ₹50K spend; no domestic lounge [^niyo1]
-**Telecom distribution deal** — Partnered with Vodafone Idea (Vi) to deliver Niyo Forex Cards to Vi customers within 24 hours via doorstep KYC, a first-of-its-kind telecom-fintech distribution play [^niyo-vi-2026-06-22]
-**Vi app as acquisition channel** — Vi customers can apply through the Vi App; a Niyo executive assists with KYC, card setup, and trial transaction at doorstep [^niyo-vi-2026-06-22]
-**Digital fallback available** — Customers outside the Niyo Express doorstep service area can activate the card digitally via the Niyo App [^niyo-vi-2026-06-22]
-**Introductory Premium membership** — Vi customers receive Niyo Premium (₹999/year value) free, including zero convenience fees on visa/flight bookings, 10% off international hotels, 1 complimentary airport lounge per quarter, and 1 free ATM withdrawal per quarter [^niyo-vi-2026-06-22]
-**Wide acceptance footprint** — Card accepted in 180+ countries at base exchange rates, avoiding the 3–5% forex markup typical of standard cards [^niyo-vi-2026-06-22]
+**Zero forex neobank** — 0% markup on international transactions; targets young travellers[^niyo1]
+**FD-backed card** — Secured against FD (min ₹5,000); no income proof needed[^niyo1]
+**Minimal lounge access** — 1 international lounge visit per quarter on ₹50K spend; no domestic lounge[^niyo1]
+**Telecom distribution deal** — Partnered with Vodafone Idea (Vi) to deliver Niyo Forex Cards within 24 hours via doorstep KYC[^niyo-vi-2026-06-22]
+**Cited in mainstream forex guide** — A 2026 consumer guide on forex cards vs credit cards names Niyo Global (alongside BookMyForex) as a fintech forex card option with tighter spreads than bank-issued forex cards[^forex-cc-2026-06-27]
 
 ## Competitor Intel
 
@@ -61,6 +58,12 @@ last_updated: 2026-06-22
 
 ## Coverage
 
+### Niyo Named in Forex Guide — 2026-06-27
+
+A 2026 consumer guide comparing forex cards and credit cards for Indian international travellers names Niyo Global alongside BookMyForex as a fintech-issued forex card option offering tighter exchange rate spreads than traditional bank forex cards[^forex-cc-2026-06-27]. The mention is brief and categorical — Niyo is positioned in the forex-card bucket (prepaid, rate-locked) rather than the zero-markup credit card tier, which is framed as the superior tool for frequent travellers.
+
+No new product or partnership facts are evidenced beyond what is already on record. The mainstream guide citation is a brand-awareness signal — Niyo continues to hold mindshare as the default fintech forex card name, even as zero-markup credit cards structurally outperform it for frequent travellers. For Scapia, the relevant read is that Niyo occupies the first-timer / budget-discipline segment of the market, while the guide's logic points frequent travellers toward zero-markup credit cards — Scapia's core territory. [Inferred · Medium][^forex-cc-2026-06-27]
+
 ### Niyo Scores Vi Telecom Distribution — 2026-06-22
 
 Vodafone Idea (Vi) and Niyo have announced a partnership to deliver Niyo Zero Forex Markup Cards to Vi customers within 24 hours, with doorstep KYC assistance from a Niyo executive [^niyo-vi-2026-06-22]. Vi calls this a first-of-its-kind telecom-fintech collaboration. Customers apply through the Vi App; those outside the doorstep zone activate digitally via the Niyo App. As an introductory offer, Vi customers receive Niyo Premium (₹999/year) free, including quarterly lounge access, zero convenience fees on visa and flight bookings, and 10% off international hotels [^niyo-vi-2026-06-22].
@@ -71,9 +74,11 @@ Scapia's 0% forex and unlimited lounge access remain structurally superior to Ni
 
 ## Developments
 
+- 2026-06-27 — Niyo Named in Forex Guide [^forex-cc-2026-06-27]
 - 2026-06-22 — Niyo Scores Vi Telecom Distribution [^niyo-vi-2026-06-22]
 
 ## Sources
 
 [^niyo1]: 1Finance zero-forex list 2026 — https://1finance.co.in/blog/best-zero-forex-markup-credit-card-india-complete-list/ (accessed 2026-06)
 [^niyo-vi-2026-06-22]: TelecomTalk — Vodafone Idea partners Niyo for zero markup forex card — raw/ambiguous/vodafone-idea-partners-with-niyo-to-offer-zero-markup-forex-card-for-internation.md
+[^forex-cc-2026-06-27]: raw/ambiguous/forex-card-vs-credit-card-for-international-travel-indian-guide-2026.md

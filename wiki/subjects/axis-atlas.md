@@ -7,12 +7,12 @@ categories: [cards, flights, stays]
 domain_url: axisbank.com
 logo: null
 issuer: axis-bank
-keywords: [miles, edge-miles, travel, transfer-partners, lounge-tiered, devaluation, milestone, group-a-group-b, april-2026, accor-removed, marriott-removed, ratio-reversal, forex-3.5, income-12L]
+keywords: [[miles, edge-miles, travel, transfer-partners, lounge-tiered, devaluation, milestone, group-a-group-b, april-2026, accor-removed, marriott-removed, ratio-reversal, forex-3.5, income-12L]]
 signal: threat
-headline: "'Axis Atlas charges 3.5% forex and ₹5,000 fee with tiered lounge access'"
-vitals: ["['₹5,000 + GST|Annual fee|vs ₹0/0%/unlimited Scapia', '3.5%|Forex markup|vs ₹0/0%/unlimited Scapia', 'Tiered: 4-12 intl, 8-18 dom (Priority Pass + DreamFolks)|Lounge|vs ₹0/0%/unlimited Scapia']"]
+headline: "'Axis Atlas 3.5% forex confirmed as zero-markup tier widens the cost gap in 2026'"
+vitals: ["₹5,000 + GST|Annual fee|vs ₹0/0%/unlimited Scapia", "3.5%|Forex markup|vs ₹0/0%/unlimited Scapia", "Tiered: 4-12 intl, 8-18 dom (Priority Pass + DreamFolks)|Lounge|vs ₹0/0%/unlimited Scapia"]
 scoreboard: ["Loyalty & Rewards|High|down", "Travel Booking|Medium|down", "Pricing & Fees|Medium|down"]
-last_updated: 2026-06-26
+last_updated: 2026-06-27
 ---
 
 ## What we know
@@ -21,6 +21,7 @@ last_updated: 2026-06-26
 **Income thresholds restated** — Salaried ₹12L, self-employed ₹15L confirmed across sources[^bttc-2026-06-26]
 **Welcome bonus 2,500 EDGE Miles** — Awarded on first transaction within 37 days of card issuance[^bttc-2026-06-26]
 **Accelerated earn on travel** — 5 EDGE Miles per ₹100 on airlines, hotels, and Travel EDGE Portal; 2 EDGE Miles per ₹100 on other spends[^bttc-2026-06-26]
+**3.5% forex in mainstream comparison** — A 2026 consumer guide on forex cards vs credit cards explicitly places Atlas in the "strong rewards on travel" but "3.5% forex" bucket — contrasted unfavourably against Axis Magnus Burgundy Private at 0%[^forex-cc-2026-06-27]
 
 ## Competitor Intel
 
@@ -58,6 +59,12 @@ last_updated: 2026-06-26
 
 ## Coverage
 
+### Atlas Flagged in Forex Guide — 2026-06-27
+
+A 2026 consumer guide benchmarking forex cards vs credit cards for Indian international travel explicitly names Axis Atlas as carrying 3.5% forex markup — framing it as a card with strong travel rewards but no forex-cost advantage, contrasted directly against its sibling Axis Magnus Burgundy Private at 0%[^forex-cc-2026-06-27]. The guide positions zero-markup cards as the recommended tool for frequent international travellers, structurally disadvantaging Atlas on the cost dimension even as its rewards programme remains intact.
+
+No new product changes are evidenced; the 3.5% markup and ₹5,000 annual fee remain as previously recorded. The significance is narrative: mainstream consumer guides in 2026 are now using Atlas's forex cost as an explicit negative data point in the zero-markup vs premium-card comparison — widening the perception gap between Atlas and newer zero-cost alternatives including Scapia. [Inferred · Medium][^forex-cc-2026-06-27]
+
 ### Atlas Specs Confirmed in Roundup — 2026-06-26
 
 A broad best-travel-cards-in-India comparison piece confirms Axis Atlas's standing fee structure: ₹5,000 annual fee, 3.5% forex markup, and income threshold of ₹12L salaried / ₹15L self-employed[^bttc-2026-06-26]. The accelerated earn rate of 5 EDGE Miles per ₹100 on travel (airlines, hotels, Travel EDGE Portal) and 2 EDGE Miles per ₹100 elsewhere is restated. No new product changes are present; existing devaluation analysis remains the primary competitive signal.
@@ -72,6 +79,7 @@ This is Atlas's third material devaluation in three years and the most damaging 
 
 ## Developments
 
+- 2026-06-27 — Atlas Flagged in Forex Guide [^forex-cc-2026-06-27]
 - 2026-06-26 — Atlas Specs Confirmed in Roundup [^bttc-2026-06-26]
 - 2026-04-02 — Atlas April 2026 Partner Purge [^atlas-apr2026]
 - 2024-04-20 — Axis Atlas second devaluation effective: travel reward cap (₹2L/month), expanded exclusions, milestone benefit cut from 17,500 to 10,000 EDGE miles, annual benefit cut from 10,000 to 5,000 EDGE miles, transfer partners split into Group A/B with separate caps, concierge and airport pick-up discontinued [^atlas-deval1]
@@ -83,3 +91,4 @@ This is Atlas's third material devaluation in three years and the most damaging 
 [^atlas-deval1]: Axis Atlas devaluation analysis, April 2024 — raw/competitive/axis-atlas-devaluation-major-changes-effective-april-2024-is-it-still-rewarding-.md
 [^atlas-apr2026]: raw/ambiguous/axis-bank-credit-card-devaluation-in-2026-what-happened.md
 [^bttc-2026-06-26]: raw/ambiguous/best-travel-credit-cards-in-india-2026-charges-rewards.md
+[^forex-cc-2026-06-27]: raw/ambiguous/forex-card-vs-credit-card-for-international-travel-indian-guide-2026.md

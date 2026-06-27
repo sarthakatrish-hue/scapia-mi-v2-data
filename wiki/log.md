@@ -285,3 +285,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-27] update | entity-registry += thomas-cook (competitor) (from best-forex-cards-for-indian-travelers-2026.md)
 
 ## [2026-06-27] crawl-drop | best-forex-cards-for-indian-travelers-2026.md | Maker: 8/10 BORDERLINE — dropped (autonomous, no queue)
+
+## [2026-06-27] update | entity-registry += bookmyforex (context), moneycontrol (context) (from forex-card-vs-credit-card-for-international-travel-indian-guide-2026.md)
+
+## [2026-06-27] ingest | forex-card-vs-credit-card-for-international-travel-indian-guide-2026.md | Maker: 7/10, Checker: 6/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-27] ingest | forex-card-vs-credit-card-for-international-travel-indian-guide-2026.md → subjects/forex-credit-card-india-travel.md, subjects/axis-atlas.md, subjects/niyo-global-sbm.md, sources/2026-06-27-forex-card-vs-credit-card-for-international-travel-indian-guide-2026.md | Auto-approved
