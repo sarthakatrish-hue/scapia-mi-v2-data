@@ -291,3 +291,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-27] ingest | forex-card-vs-credit-card-for-international-travel-indian-guide-2026.md | Maker: 7/10, Checker: 6/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-27] ingest | forex-card-vs-credit-card-for-international-travel-indian-guide-2026.md → subjects/forex-credit-card-india-travel.md, subjects/axis-atlas.md, subjects/niyo-global-sbm.md, sources/2026-06-27-forex-card-vs-credit-card-for-international-travel-indian-guide-2026.md | Auto-approved
+
+## [2026-06-27] ingest | is-purchase-of-foreign-currency-and-forex-cards-taxable-in-india.md | Maker: 6/10, Checker: 6/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-27] ingest | is-purchase-of-foreign-currency-and-forex-cards-taxable-in-india.md → subjects/rbi.md, sources/2026-06-27-is-purchase-of-foreign-currency-and-forex-cards-taxable-in-india.md | Auto-approved
