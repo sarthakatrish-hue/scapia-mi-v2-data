@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/india-fintech-2026-outlook]] — "India fintech matures into mainstream infrastructure as 2026 prioritises precision over speed"
 - [[subjects/yatra]] — "Yatra remains vague on AI strategy as rivals stake out clear positions"
 - [[subjects/makemytrip]] — "MakeMyTrip bets on measurable AI outcomes while rivals pitch vision over results"
 - [[subjects/dreamfolks-services]] — "DreamFolks lounge suspension leaves multiple bank card programmes scrambling for access"
@@ -42,7 +43,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/kiwi]] — "Kiwi lands first public-sector bank co-brand with PNB on RuPay-UPI credit"
 - [[subjects/amazon-pay]] — "Amazon Pay rounds out top 5 UPI apps on a 500M-user platform growing rapidly"
 - [[subjects/pop]] — "Razorpay-backed POP builds multi-brand UPI rewards loop with RuPay credit card"
-- [[subjects/razorpay]] — "Razorpay acquires majority stake in POP, entering consumer UPI rewards space"
+- [[subjects/razorpay]] — "Razorpay deepens payments ecosystem play with tokenisation, cross-border, and consumer rewards"
 - [[subjects/super-money]] — "Flipkart's fintech arm launches secured card + savings account to monetise UPI"
 - [[subjects/federal-bank]] — "Federal Bank co-brand freeze widens — RBI data-sharing concern confirmed across OneCard partnership too"
 - [[subjects/rbi-cobranded-card-scrutiny]] — "RBI halts co-brand card issuances, tightening fintech-bank partnership rules"

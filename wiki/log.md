@@ -347,3 +347,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-28] ingest | the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatra-s-earnings-ca.md → subjects/ixigo-au.md, subjects/tbo-tek.md, subjects/makemytrip.md, subjects/yatra.md, sources/2026-06-28-the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatra-s-earnings-ca.md | Auto-approved
 
 ## [2026-06-28] filter-reject | indian-startup-ipo-tracker-2026.md | Maker: 3/10 AUTO-REJECT — General macro trend reporting on startup IPO market conditions and investor sentiment; no specific mention of fintech competitors, travel platforms, card issuers, payment networks, or any tracked entity; off-domain for Scapia's core competitive and partnership landscape.
+
+## [2026-06-28] update | entity-registry += cashfree-payments (competitor), kreditbee (competitor), fibe (competitor), moneyview (competitor), cashrich (competitor) (from fintech-3-0-what-2026-holds-for-india-s-digital-money-machine.md)
+
+## [2026-06-28] ingest | fintech-3-0-what-2026-holds-for-india-s-digital-money-machine.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-28] ingest | fintech-3-0-what-2026-holds-for-india-s-digital-money-machine.md → subjects/india-fintech-2026-outlook.md, subjects/razorpay.md, sources/2026-06-28-fintech-3-0-what-2026-holds-for-india-s-digital-money-machine.md | Auto-approved

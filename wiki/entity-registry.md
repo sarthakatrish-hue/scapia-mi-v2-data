@@ -60,6 +60,16 @@ treated as context until promoted).
 
 ## Competitors
 
+- cashrich | competitor | CashRich | newly-surfaced · added_by: agent 2026-06-28 · source: fintech-3-0-what-2026-holds-for-india-s-digital-money-machine.md · wealthtech platform consolidating smaller players in mass-affluent and HNI segments
+
+- moneyview | competitor | MoneyView | newly-surfaced · added_by: agent 2026-06-28 · source: fintech-3-0-what-2026-holds-for-india-s-digital-money-machine.md · fintech lender expected to list in 2026
+
+- fibe | competitor | Fibe | newly-surfaced · added_by: agent 2026-06-28 · source: fintech-3-0-what-2026-holds-for-india-s-digital-money-machine.md · fintech lender expected to list in 2026
+
+- kreditbee | competitor | Kreditbee | newly-surfaced · added_by: agent 2026-06-28 · source: fintech-3-0-what-2026-holds-for-india-s-digital-money-machine.md · fintech lender expected to list in 2026
+
+- cashfree-payments | competitor | Cashfree Payments | newly-surfaced · added_by: agent 2026-06-28 · source: fintech-3-0-what-2026-holds-for-india-s-digital-money-machine.md · payments and cross-border remittance platform operating in credit-on-UPI and embedded finance
+
 - wise | competitor | Wise | newly-surfaced · added_by: agent 2026-06-28 · source: travel-planning-turns-into-strategic-finance-for-india-s-wealthy-travelers.md · Offers multi-currency accounts and forex optimization to Indian travelers; tracked in registry as wise-travel-card but source establishes broader fintech travel positioning beyond card product.
 
 - mobikwik | competitor | MobiKwik | newly-surfaced · added_by: agent 2026-06-28 · source: finance-committee-pushes-mdr-on-large-upi-merchants.md · fintech payments and wallet player with UPI exposure
