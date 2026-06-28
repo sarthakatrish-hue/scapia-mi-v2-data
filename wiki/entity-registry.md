@@ -122,13 +122,13 @@ treated as context until promoted).
 
 - flipkart-travel | competitor | Flipkart Travel | newly-surfaced · added_by: agent 2026-06-25 · source: bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md · e-commerce player offering travel booking and deals
 
-- yatra | competitor | Yatra | newly-surfaced · added_by: agent 2026-06-25 · source: bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md · online travel agency for flights, hotels, and experiences
+- yatra | competitor | Yatra | domain: yatra.com | newly-surfaced · added_by: agent 2026-06-25 · source: bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md · online travel agency for flights, hotels, and experiences
 
 - goibibo | competitor | Goibibo | newly-surfaced · added_by: agent 2026-06-25 · source: bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md · travel booking platform for flights, stays, and buses
 
 - easemytrip | competitor | EaseMyTrip | newly-surfaced · added_by: agent 2026-06-25 · source: bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md · domestic and international flight/hotel OTA
 
-- makemytrip | competitor | MakeMyTrip | newly-surfaced · added_by: agent 2026-06-25 · source: bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md · OTA and travel platform competing in flights, stays, and experiences
+- makemytrip | competitor | MakeMyTrip | domain: makemytrip.com | newly-surfaced · added_by: agent 2026-06-25 · source: bobcard-rolls-out-travel-deals-with-air-india-travel-websites-details.md · OTA and travel platform competing in flights, stays, and experiences
 
 - sbi-card-miles-elite | competitor | SBI Card Miles Elite | newly-surfaced · added_by: agent 2026-06-25 · source: credit-cards-on-a-devaluation-spree-how-to-still-maximise-benefits.md · airline-linked premium variant; discontinued as part of SBI portfolio rationalization
 

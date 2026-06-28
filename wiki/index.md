@@ -3,6 +3,8 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/yatra]] — "Yatra remains vague on AI strategy as rivals stake out clear positions"
+- [[subjects/makemytrip]] — "MakeMyTrip bets on measurable AI outcomes while rivals pitch vision over results"
 - [[subjects/dreamfolks-services]] — "DreamFolks lounge suspension leaves multiple bank card programmes scrambling for access"
 - [[subjects/affluent-india-travel-fintech-shift]] — "Affluent Indians now treat payment strategy as core to travel planning"
 - [[subjects/lrs-tcs-forex-2026]] — Budget 2026 cuts TCS on education and medical remittances from 5% to 2%

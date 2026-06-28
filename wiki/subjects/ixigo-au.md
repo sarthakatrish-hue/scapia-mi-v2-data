@@ -7,12 +7,12 @@ categories: [cards, flights, trains, buses]
 domain_url: aubank.in
 logo: null
 issuer: au-bank
-keywords: [[zero-forex, lifetime-free, co-brand, travel, trains, buses, ai, conversational-booking]]
+keywords: [zero-forex, lifetime-free, co-brand, travel, trains, buses, ai, conversational-booking]
 signal: threat
 headline: "'Ixigo is rebuilding its app around conversational AI, deepening the co-brand moat'"
-vitals: ["['₹0 (lifetime free)|Annual fee|vs ₹0/0%/unlimited Scapia', '0%|Forex markup|vs ₹0/0%/unlimited Scapia', '16 domestic (spend-triggered) + 1 intl / year|Lounge|vs ₹0/0%/unlimited Scapia']"]
+vitals: ["₹0 (lifetime free)|Annual fee|vs ₹0/0%/unlimited Scapia", "0%|Forex markup|vs 0% Scapia", "16 domestic (spend-triggered) + 1 intl / year|Lounge|vs Scapia unlimited"]
 scoreboard: ["AI|High|up", "Travel Booking|High|up"]
-last_updated: 2026-06-22
+last_updated: 2026-06-28
 ---
 
 ## What we know
@@ -20,8 +20,8 @@ last_updated: 2026-06-22
 **Direct Scapia competitor** — Lifetime free, zero forex, co-brand travel card aimed at the same user [^ixau1]
 **Travel co-brand** — 10% discount on ixigo bookings; strong in trains and buses [^ixau1]
 **Modest lounge** — 16 domestic (₹20K spend trigger) + 1 international / year via Priority Pass [^ixau1]
-**Aggressive AI platform pivot** — Ixigo relaunched its app as "Ixigo NEXT," framing AI as a full platform redesign, not a feature add-on [^skift1]
-**Conversational booking vision** — Users interact via natural language with an app that remembers preferences, replacing menus and filters [^skift1] [Inferred · High] this deepens the stickiness of the ixigo ecosystem that the co-brand card rides on
+**Aggressive AI platform pivot** — Ixigo relaunched its app as "Ixigo NEXT," framing AI as a full platform redesign, not a chatbot add-on [^skift-ai-div]
+**Conversational booking vision** — Users interact via natural language with an app that remembers preferences, replacing menus and filters [^skift-ai-div] [Inferred · High] this deepens the stickiness of the ixigo ecosystem that the co-brand card rides on
 
 ## Competitor Intel
 
@@ -52,11 +52,21 @@ last_updated: 2026-06-22
 | Lounge | 16 domestic (spend-triggered) + 1 intl / year |
 | Welcome benefit | 1,000 reward points + ₹1,000 ixigo Money |
 
+## Coverage
+
+### Ixigo NEXT AI pitch detailed — 2026-06-01
+
+At its May 21 earnings call, Ixigo Co-CEO Rajnish Kumar devoted substantial time to "Ixigo NEXT," positioning it as a ground-up AI platform redesign rather than a bolt-on chatbot [^skift-ai-div]. The vision — conversational booking with persistent user preferences — is the most ambitious AI transformation declared by any Indian OTA this cycle, and directly raises the engagement ceiling of the co-brand AU card.
+
+For Scapia, the read is clear: if NEXT drives measurable uplift in Ixigo app stickiness, the co-brand card's daily-touchpoint advantage over Scapia compounds [^skift-ai-div] [Inferred · Medium]. The near-term counter remains Scapia's international positioning — zero forex and global lounge access sit in a lane Ixigo NEXT is not yet targeting.
+
 ## Developments
 
+- 2026-06-01 — Ixigo NEXT AI pitch detailed [^skift-ai-div]
 - 2026-05-21 — Ixigo relaunched its app as "Ixigo NEXT" and Co-CEO Rajnish Kumar used the Q earnings call to pitch it as a full AI platform transformation, not a chatbot add-on [^skift1]
 
 ## Sources
 
 [^ixau1]: 1Finance zero-forex list 2026 — https://1finance.co.in/blog/best-zero-forex-markup-credit-card-india-complete-list/ (accessed 2026-06)
 [^skift1]: Skift — "The AI Divide in Indian Travel: What MakeMyTrip, Ixigo, TBO, and Yatra's Earnings Calls Reveal" — raw/ambiguous/the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatra-s-earnings-ca.md — https://skift.com/2026/06/01/the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatras-earnings-calls-reveal/
+[^skift-ai-div]: Skift — "The AI Divide in Indian Travel: What MakeMyTrip, Ixigo, TBO, and Yatra's Earnings Calls Reveal" — raw/ambiguous/the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatra-s-earnings-ca.md

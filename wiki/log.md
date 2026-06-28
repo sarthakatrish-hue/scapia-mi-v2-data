@@ -341,3 +341,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-28] ingest | airport-lounge-firm-ceases-india-services-will-your-card-still-get-you-in.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-28] ingest | airport-lounge-firm-ceases-india-services-will-your-card-still-get-you-in.md → subjects/dreamfolks-services.md, subjects/idfc-first-bank.md, subjects/induslnd-bank.md, sources/2026-06-28-airport-lounge-firm-ceases-india-services-will-your-card-still-get-you-in.md | Auto-approved
+
+## [2026-06-28] ingest | the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatra-s-earnings-ca.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-28] ingest | the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatra-s-earnings-ca.md → subjects/ixigo-au.md, subjects/tbo-tek.md, subjects/makemytrip.md, subjects/yatra.md, sources/2026-06-28-the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatra-s-earnings-ca.md | Auto-approved
