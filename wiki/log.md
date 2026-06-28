@@ -325,3 +325,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-28] ingest | indian-banks-battle-for-premium-travelers-with-travel-credit-cards.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-28] ingest | indian-banks-battle-for-premium-travelers-with-travel-credit-cards.md → subjects/premium-travel-cards-india-market.md, subjects/hdfc-bank.md, subjects/icici-bank.md, subjects/rbi.md, sources/2026-06-28-indian-banks-battle-for-premium-travelers-with-travel-credit-cards.md | Auto-approved
+
+## [2026-06-28] ingest | tcs-on-foreign-exchange-forex-under-lrs-budget-2026.md | Maker: 6/10, Checker: 6/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-28] ingest | tcs-on-foreign-exchange-forex-under-lrs-budget-2026.md → subjects/lrs-tcs-forex-2026.md, sources/2026-06-28-tcs-on-foreign-exchange-forex-under-lrs-budget-2026.md | Auto-approved

@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/lrs-tcs-forex-2026]] — Budget 2026 cuts TCS on education and medical remittances from 5% to 2%
 - [[subjects/premium-travel-cards-india-market]] — "Indian banks race for HNI travellers, sacrificing forex fees for long-term wallet share"
 - [[subjects/zero-forex-card-market-india-2026]] — "Zero-forex cards entering mass consumer awareness as 2026 guides rank real value"
 - [[subjects/idfc-first-millennia]] — "IDFC FIRST Select ranked best all-round zero-forex travel card in 2026 guide"
