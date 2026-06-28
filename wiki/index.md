@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/dreamfolks-services]] — "DreamFolks lounge suspension leaves multiple bank card programmes scrambling for access"
 - [[subjects/affluent-india-travel-fintech-shift]] — "Affluent Indians now treat payment strategy as core to travel planning"
 - [[subjects/lrs-tcs-forex-2026]] — Budget 2026 cuts TCS on education and medical remittances from 5% to 2%
 - [[subjects/premium-travel-cards-india-market]] — "Indian banks race for HNI travellers, sacrificing forex fees for long-term wallet share"
@@ -20,7 +21,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/makemytrip-icici-bank]] — "MMT ICICI pairs 0.99% forex with dual network and Priority Pass at near-zero fee"
 - [[subjects/hsbc-travel-one]] — "HSBC TravelOne offers multi-airline transfers and duty-free discounts at ₹4,999 fee"
 - [[subjects/hdfc-marriott-bonvoy]] — "Marriott Bonvoy HDFC locks rewards into hotel stays at ₹3,000 fee and 3.5% forex"
-- [[subjects/induslnd-bank]] — "IndusInd Avios Infinite adds dual airline loyalty choice with preferred-destination forex discount"
+- [[subjects/induslnd-bank]] — "IndusInd Bank lounge access at risk as DreamFolks suspension finds no announced replacement"
 - [[subjects/hdfc-bizpower]] — "BizPower adds IT/GST transaction cap in May 2026, targeting tax-payment reward earners"
 - [[subjects/hdfc-diners-club-privilege]] — "Diners Club Privilege takes 25% reward rate cut with lounge now spend-gated from July 2026"
 - [[subjects/rbi]] — "'RBI LRS cash and forex rules define the compliance envelope for all travel-card issuers'"
@@ -66,7 +67,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/yes-bank]] — "Powers BharatPe and POP credit products; emerging fintech credit infrastructure bank"
 - [[subjects/sbm-bank]] — "SBM Bank named in RBI co-brand data-sharing review via OneCard partnership"
 - [[subjects/au-bank]]
-- [[subjects/idfc-first-bank]] — "IDFC First winds down Club Vistara card as merger forces benefit discontinuation"
+- [[subjects/idfc-first-bank]] — "IDFC First winds down Club Vistara card and pivots lounge access to Elite Assist"
 - [[subjects/rbl-bank]]
 - [[subjects/sbi-card]] — "SBI Card slashes Air India co-brand rewards and winds down Club Vistara cards"
 - [[subjects/icici-bank]] — "'ICICI Bank's iShop portal delivers 36% hotel returns, directly rivalling HDFC SmartBuy'"

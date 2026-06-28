@@ -7,12 +7,12 @@ categories: [banks, flights, stays]
 domain_url: idfcfirstbank.com
 logo: null
 issuer: null
-keywords: [issuer, bank, co-brand, onecard, rbi, data-sharing, club-vistara, vistara-merger, co-brand-wind-down]
+keywords: [[issuer, bank, co-brand, onecard, rbi, data-sharing, club-vistara, vistara-merger, co-brand-wind-down, lounge-access, elite-assist, dreamfolks]]
 signal: threat
-headline: "'IDFC First winds down Club Vistara card as merger forces benefit discontinuation'"
-vitals: ["[]"]
-scoreboard: ["Loyalty & Rewards|Medium|down", "Partnerships|Medium|down"]
-last_updated: 2026-06-26
+headline: "'IDFC First winds down Club Vistara card and pivots lounge access to Elite Assist'"
+vitals: ["45+|Domestic lounges via Elite Assist|Access maintained post-DreamFolks switch"]
+scoreboard: ["Loyalty & Rewards|Medium|down", "Partnerships|Medium|steady"]
+last_updated: 2026-06-28
 ---
 
 ## What we know
@@ -21,6 +21,7 @@ last_updated: 2026-06-26
 **OneCard primary issuer** — IDFC First Bank is one of three issuing partners for OneCard (FPL Technologies); described as a key co-brand partner[^oc-fy25-idfc-2026-06-22]
 **RBI scrutiny via OneCard** — RBI reportedly asked OneCard's partner banks — including IDFC First Bank — to halt new co-branded card issuances pending clarity on data-sharing practices[^oc-fy25-idfc-2026-06-22]
 **Club Vistara IDFC First discontinued** — Renewal fee, complimentary Club Vistara membership, and all ticket/upgrade vouchers discontinued from 1 April 2025 due to Air India–Club Vistara merger[^idfc-apr2025-cc]
+**DreamFolks replaced by Elite Assist** — IDFC First Bank proactively migrated debit card lounge access from DreamFolks to Elite Assist following DreamFolks' suspension; 45+ domestic lounges and quarterly visit entitlements unchanged; web pre-booking temporarily unavailable[^df-lounge-idfc-2026-06-18]
 
 ## Competitor Intel
 
@@ -38,6 +39,12 @@ last_updated: 2026-06-26
 
 ## Coverage
 
+### IDFC First Swaps Lounge Provider — 2026-06-18
+
+IDFC First Bank moved swiftly following DreamFolks Services' domestic lounge suspension, announcing Elite Assist as its new lounge access partner for debit card holders[^df-lounge-idfc-2026-06-18]. The bank maintained the same number of complimentary visits per quarter and walk-in access across 45+ domestic lounges, though web-based pre-bookings are temporarily unavailable during the transition.
+
+The rapid pivot contrasts with peers IndusInd, Kotak, and YES Bank, which remained on DreamFolks with no announced replacement at the time of reporting[^df-lounge-idfc-2026-06-18]. IDFC First's proactive communication and continuity of benefit terms limits cardholder disruption — but the episode underscores the fragility of aggregator-dependent lounge models across India's card ecosystem. [Inferred · Medium]
+
 ### IDFC First Kills Vistara Benefits — 2025-04-01
 
 IDFC First Bank discontinued the renewal fee, complimentary Club Vistara membership, and all ticket and upgrade vouchers on its Club Vistara IDFC FIRST Credit Card from 1 April 2025, citing the Air India–Club Vistara merger as the trigger[^idfc-apr2025-cc]. The card is effectively reduced to a bare credit facility — the three benefits that defined its travel value proposition are gone simultaneously.
@@ -52,6 +59,7 @@ The read for Scapia is contextual rather than direct: IDFC First Bank is a compe
 
 ## Developments
 
+- 2026-06-18 — IDFC First Swaps Lounge Provider [^df-lounge-idfc-2026-06-18]
 - 2025-04-01 — IDFC First Kills Vistara Benefits [^idfc-apr2025-cc]
 - 2026-06-22 — IDFC First Named in RBI Co-brand Probe [^oc-fy25-idfc-2026-06-22]
 
@@ -59,3 +67,4 @@ The read for Scapia is contextual rather than direct: IDFC First Bank is a compe
 
 [^oc-fy25-idfc-2026-06-22]: Entrackr/Fintrackr — OneCard FY25 financials, RBI co-brand scrutiny — raw/ambiguous/onecard-posts-rs-1-878-cr-revenue-in-fy25-cuts-losses-by-26.md
 [^idfc-apr2025-cc]: raw/ambiguous/watch-out-major-changes-for-credit-cards-from-april-1-2025.md
+[^df-lounge-idfc-2026-06-18]: raw/ambiguous/airport-lounge-firm-ceases-india-services-will-your-card-still-get-you-in.md

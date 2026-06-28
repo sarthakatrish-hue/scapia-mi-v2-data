@@ -2,29 +2,26 @@
 subject: "IndusInd Bank"
 type: subject
 role: competitor
-domains: [fintech]
-categories: [banks]
+domains: [fintech, travel]
+categories: [banks, flights, stays]
 domain_url: indusind.com
 logo: null
 issuer: null
-keywords: [bank, credit-cards, tiger, rewards, airline-transfer, lifetime-free, air-india, avios, british-airways, qatar]
+keywords: [[bank, credit-cards, tiger, rewards, airline-transfer, lifetime-free, air-india, avios, british-airways, qatar, lounge-access, dreamfolks, exposure]]
 signal: watch
-headline: "'IndusInd Avios Infinite adds dual airline loyalty choice with preferred-destination forex discount'"
-vitals: ["[]"]
+headline: "'IndusInd Bank lounge access at risk as DreamFolks suspension finds no announced replacement'"
+vitals: ["No replacement announced|DreamFolks dependency|Access at risk during festive travel peak"]
 scoreboard: ["Loyalty & Rewards|Medium|up", "Travel Booking|Medium|up"]
-last_updated: 2026-06-26
+last_updated: 2026-06-28
 ---
 
 ## What we know
 
 **Avios Infinite annual fee ₹10,000** — Premium tier card; separate product from the lifetime-free Tiger[^bttc-2026-06-26]
 **Dual airline loyalty choice** — Cardholders select either Qatar Airways Privilege Club or British Airways Executive Club as their Avios earn programme[^bttc-2026-06-26]
-**Preferred destination forex discount** — 1.5% forex in chosen preferred international destination; 3.5% elsewhere — asymmetric pricing model[^bttc-2026-06-26]
+**Preferred destination forex discount** — 1.5% forex in chosen preferred international destination; 3.5% elsewhere[^bttc-2026-06-26]
 **Welcome bonus 20,000 Avios** — Awarded on card issuance[^bttc-2026-06-26]
-**Earn 6 Avios per ₹200 on POS in preferred destination** — Accelerated earn in user-selected geography; 3 Avios on online spend in preferred destination; 3 Avios on domestic or other international spend[^bttc-2026-06-26]
-**5 Avios per ₹200 on Qatar/British Airways purchases** — Direct airline spend accelerator[^bttc-2026-06-26]
-**Priority Pass membership included** — With 2 free domestic lounge visits[^bttc-2026-06-26]
-**Income threshold not specified** — Source does not cite income requirement for Avios Infinite[^bttc-2026-06-26]
+**DreamFolks dependency unresolved** — IndusInd still relies on DreamFolks for domestic lounge access; no suspension notice or replacement partner announced as of June 2026[^df-lounge-induslnd-2026-06-18]
 
 ## Competitor Intel
 
@@ -43,6 +40,12 @@ last_updated: 2026-06-26
 
 ## Coverage
 
+### IndusInd Lounge Gap Exposed — 2026-06-18
+
+IndusInd Bank is among the issuers most exposed to DreamFolks' domestic lounge suspension, with no replacement partner announced and no customer communication reported at the time of publication[^df-lounge-induslnd-2026-06-18]. This leaves cardholders — including Tiger card holders who receive eight domestic lounge accesses as a core benefit — potentially unable to access lounges at airports where DreamFolks-linked venues have suspended entry.
+
+The gap is particularly visible because Tiger's lounge access is one of its headline value propositions; a prolonged disruption erodes a key differentiator[^df-lounge-induslnd-2026-06-18]. For Scapia, any IndusInd cardholder denied lounge entry during the festive travel period is a natural acquisition conversation — especially if Scapia's own access remains unaffected. [Inferred · Medium]
+
 ### IndusInd Avios Infinite Surfaced — 2026-06-26
 
 A 2026 travel-card roundup surfaces the IndusInd Bank Avios Visa Infinite Credit Card — distinct from the Tiger card already on record[^bttc-2026-06-26]. At ₹10,000 annual fee, it offers a dual airline loyalty choice (Qatar Airways or British Airways) and a tiered forex model: 1.5% in the cardholder's preferred international destination, 3.5% everywhere else. The 20,000 Avios welcome bonus and 6 Avios per ₹200 on preferred-destination POS spend are the headline earn rates.
@@ -57,6 +60,7 @@ The single-partner constraint is the structural ceiling: Tiger's entire airline 
 
 ## Developments
 
+- 2026-06-18 — IndusInd Lounge Gap Exposed [^df-lounge-induslnd-2026-06-18]
 - 2026-06-26 — IndusInd Avios Infinite Surfaced [^bttc-2026-06-26]
 - 2026-06-26 — IndusInd Tiger Adds Air India Miles [^indusind-tiger-2026-06-26]
 
@@ -64,3 +68,4 @@ The single-partner constraint is the structural ceiling: Tiger's entire airline 
 
 [^indusind-tiger-2026-06-26]: raw/ambiguous/credit-card-updates-changes-2026.md
 [^bttc-2026-06-26]: raw/ambiguous/best-travel-credit-cards-in-india-2026-charges-rewards.md
+[^df-lounge-induslnd-2026-06-18]: raw/ambiguous/airport-lounge-firm-ceases-india-services-will-your-card-still-get-you-in.md

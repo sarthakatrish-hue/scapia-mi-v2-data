@@ -190,6 +190,8 @@ treated as context until promoted).
 
 ## Context (never gets a page)
 
+- dreamfolks-services | context | DreamFolks Services | domain: dreamfolks.in | newly-surfaced · added_by: agent 2026-06-28 · source: airport-lounge-firm-ceases-india-services-will-your-card-still-get-you-in.md · India's largest airport service aggregator providing lounge access to banks and card issuers
+
 - moneycontrol | context | MoneyControl | newly-surfaced · added_by: agent 2026-06-27 · source: forex-card-vs-credit-card-for-international-travel-indian-guide-2026.md · personal finance media / analysis platform
 
 - bookmyforex | context | BookMyForex | newly-surfaced · added_by: agent 2026-06-27 · source: forex-card-vs-credit-card-for-international-travel-indian-guide-2026.md · fintech forex / travel money operator
@@ -199,6 +201,10 @@ treated as context until promoted).
 - pine-labs | context | Pine Labs | newly-surfaced · added_by: agent 2026-06-24 · source: rbi-new-upi-rules-2026-2fa-afa-impact-benefits-explained.md · payments infrastructure provider and systems integrator
 
 ## Partner candidates (pending curator confirmation)
+
+- priority-pass | partner-candidate | Priority Pass | newly-surfaced · added_by: agent 2026-06-28 · source: airport-lounge-firm-ceases-india-services-will-your-card-still-get-you-in.md · Third-party lounge network used by SBI Card and others as alternative to DreamFolks
+
+- elite-assist | partner-candidate | Elite Assist | newly-surfaced · added_by: agent 2026-06-28 · source: airport-lounge-firm-ceases-india-services-will-your-card-still-get-you-in.md · Airport lounge access partner replacing DreamFolks for IDFC FIRST Bank
 
 - paytm | partner-candidate | Paytm | newly-surfaced · added_by: agent 2026-06-27 · source: prime-borrowers-emerge-as-key-users-of-credit-line-on-upi-suryoday-sfb.md · distribution/technology partner for Suryoday SFB's CLOU product
 

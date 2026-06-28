@@ -335,3 +335,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-28] ingest | travel-planning-turns-into-strategic-finance-for-india-s-wealthy-travelers.md | Maker: 7/10, Checker: 5/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-28] ingest | travel-planning-turns-into-strategic-finance-for-india-s-wealthy-travelers.md → subjects/affluent-india-travel-fintech-shift.md, subjects/wise-travel-card.md, subjects/revolut.md, sources/2026-06-28-travel-planning-turns-into-strategic-finance-for-india-s-wealthy-travelers.md | Auto-approved
+
+## [2026-06-28] update | entity-registry += dreamfolks-services (context), elite-assist (partner), priority-pass (partner) (from airport-lounge-firm-ceases-india-services-will-your-card-still-get-you-in.md)
+
+## [2026-06-28] ingest | airport-lounge-firm-ceases-india-services-will-your-card-still-get-you-in.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-28] ingest | airport-lounge-firm-ceases-india-services-will-your-card-still-get-you-in.md → subjects/dreamfolks-services.md, subjects/idfc-first-bank.md, subjects/induslnd-bank.md, sources/2026-06-28-airport-lounge-firm-ceases-india-services-will-your-card-still-get-you-in.md | Auto-approved
