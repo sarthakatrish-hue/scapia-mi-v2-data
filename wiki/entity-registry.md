@@ -38,6 +38,8 @@ treated as context until promoted).
 
 ## Regulators
 
+- parliamentary-standing-committee-on-finance | regulator | Parliamentary Standing Committee on Finance | newly-surfaced · added_by: agent 2026-06-28 · source: finance-committee-pushes-mdr-on-large-upi-merchants.md · India's parliamentary oversight body reviewing UPI and digital payments policy
+
 - project-nexus | regulator | Project Nexus | newly-surfaced · added_by: agent 2026-06-24 · source: upi-payments-in-2026-new-features-transaction-limits-future-of-digital-india.md · multilateral cross-border payment initiative to interlink fast payment systems, expected live by 2026
 
 - aadhaar-face-authentication | regulator | Aadhaar Face Authentication | newly-surfaced · added_by: agent 2026-06-24 · source: upi-payments-in-2026-new-features-transaction-limits-future-of-digital-india.md · biometric authentication mechanism for UPI transactions piloted in 2026
@@ -57,6 +59,8 @@ treated as context until promoted).
 
 
 ## Competitors
+
+- mobikwik | competitor | MobiKwik | newly-surfaced · added_by: agent 2026-06-28 · source: finance-committee-pushes-mdr-on-large-upi-merchants.md · fintech payments and wallet player with UPI exposure
 
 - thomas-cook | competitor | Thomas Cook Borderless Card | domain: thomascook.in | newly-surfaced · added_by: agent 2026-06-27 · source: best-forex-cards-for-indian-travelers-2026.md · Prepaid forex card with 20+ airport counters, zero markup, 9 currencies, partner YES Bank
 

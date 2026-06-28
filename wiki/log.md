@@ -311,3 +311,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-27] crawl | autonomous | universe 93, 5 searches + 2 feeds → 22 candidates | ingested 6/8 (vault 3, market-signal 3, feeds 0), dropped 8, queued 0, dupes 6, stale 39, irrelevant 6, errors 2
 
 ## [2026-06-28] filter-reject | bhim-payments-app-transaction-volumes-treble-in-less-than-a-year.md | Maker: 5/10, Checker: 3/10 (Outcome B downgrade — BHIM Payments App is a UPI-rail public digital payment infrastructure service (NPCI's mass-market offering), not a card product, travel service, or fintech competitor in Scapia's domain; transaction volume statistics for a non-card, non-travel payment rail lack material relevance to co-branded travel credit card positioning, competitive threat assessment, or market signal in the card-travel ecosystem.) AUTO-REJECT — Relevant to UPI ecosystem and payment-network benchmarking, but limited direct competitive or partnership signal — BHIM is a regulator-backed app (NPCI), not a tracked competitor or partner; the data is aggregate market health rather than a specific product, pricing, or partnership move that reshapes Scapia's landscape.
+
+## [2026-06-28] update | entity-registry += parliamentary-standing-committee-on-finance (regulator), mobikwik (competitor) (from finance-committee-pushes-mdr-on-large-upi-merchants.md)
+
+## [2026-06-28] crawl-drop | finance-committee-pushes-mdr-on-large-upi-merchants.md | Maker: 9/10 BORDERLINE — dropped (autonomous, no queue)
