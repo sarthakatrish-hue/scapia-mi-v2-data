@@ -2,23 +2,23 @@
 subject: "HDFC Bank"
 type: subject
 role: competitor
-domains: [fintech]
-categories: [banks]
+domains: [fintech, travel]
+categories: [banks, flights, stays]
 domain_url: hdfcbank.com
 logo: null
 issuer: null
-keywords: [[issuer, bank, credit-card, devaluation, cost-reduction, rewards-cut, lounge-conditional, industry-wide-tightening, forex-card, multicurrency, forexplus, consumer-guide]]
+keywords: [issuer, bank, credit-card, devaluation, cost-reduction, rewards-cut, lounge-conditional, industry-wide-tightening, forex-card, multicurrency, forexplus, consumer-guide, smartbuy, premium-travel, hni, share-of-wallet, booking-portal]
 signal: threat
-headline: "'HDFC Bank joins industry-wide credit card reward tightening as costs rise'"
-vitals: ["90%|Market share (top 5 banks)|Controls ~117.7M cards collectively"]
-last_updated: 2026-06-27
+headline: "''HDFC Bank joins industry-wide credit card reward tightening as costs rise''"
+vitals: ["90%|Market share (top 5 banks)|Controls ~117.7M cards collectively", "SmartBuy|Proprietary booking portal|Offers higher reward multipliers for in-ecosystem travel bookings"]
+scoreboard: ["Travel Booking|High|up", "Loyalty & Rewards|High|down", "Premium Segment|High|steady"]
+last_updated: 2026-06-28
 ---
 
 ## What we know
 
-**HDFC ForexPlus in 2026 guides** — HDFC Multicurrency Platinum ForexPlus Card named "best bank-issued forex card" in a 2026 mainstream guide; zero markup, 150+ countries, accepted by Indian residents aged 12+[^hdfc-forex-2026-06-27]
-**Eligibility broad** — Valid passport, PAN card, travel ticket or visa, and bank statement required; open to non-HDFC customers[^hdfc-forex-2026-06-27]
-**Reward points on international spend** — ForexPlus card earns points redeemable for travel or lifestyle; travel insurance for lost baggage, flight delays, and medical emergencies included[^hdfc-forex-2026-06-27]
+**SmartBuy closed-loop confirmed industry-wide** — HDFC SmartBuy is cited alongside ICICI iShop and Kotak Unbox as part of a deliberate bank strategy to keep premium travellers in-ecosystem and earn travel booking commissions alongside interchange[^prem-travel-hdfc-2026-06-28]
+**Forex markup reduced to ~2% as HNI acquisition tactic** — HDFC's ~2% forex markup on travel cards is framed as a strategic trade-off: sacrificing short-term fee income to acquire high-net-worth customers who cross-sell into savings, investments, and insurance[^prem-travel-hdfc-2026-06-28]
 
 ## Competitor Intel
 
@@ -39,6 +39,12 @@ last_updated: 2026-06-27
 **Monitor community sentiment** — Track credit card forums and Reddit for devaluation-driven churn intent; respond fast with targeted win-back creative[^hdfc-deval-2026-06-26]
 
 ## Coverage
+
+### HDFC SmartBuy Cited in HNI Battle — 2026-06-28
+
+A market overview of India's premium travel card competition confirms HDFC SmartBuy is a deliberate closed-loop strategy — offering higher reward multipliers for in-ecosystem bookings to capture not just interchange but also travel commissions and HNI customer engagement[^prem-travel-hdfc-2026-06-28]. HDFC's ~2% forex markup reduction is framed as a calculated acquisition subsidy, trading short-term fee income for long-term wallet share across banking products.
+
+For Scapia, the significance is twofold: first, SmartBuy's strategic intent is now explicitly documented as a travel-booking lock-in mechanism, confirming HDFC competes directly on the travel booking surface[^prem-travel-hdfc-2026-06-28]. Second, the article's own framing — banks sacrificing fee income to retain HNIs — validates that Scapia's zero-fee, zero-markup model is not underpriced but structurally differentiated from incumbents whose premium propositions are under simultaneous acquisition-cost and regulatory pressure. [Inferred · Medium]
 
 ### HDFC ForexPlus Named Best Bank Card — 2026-06-27
 
@@ -66,6 +72,7 @@ The move hands challengers like Scapia a small but concrete CX talking point: fu
 
 ## Developments
 
+- 2026-06-28 — HDFC SmartBuy Cited in HNI Battle [^prem-travel-hdfc-2026-06-28]
 - 2026-06-27 — HDFC ForexPlus Named Best Bank Card [^hdfc-forex-2026-06-27]
 - 2026-06-26 — Industry Tightens Credit Card Rewards [^cc-tighten-2026-06-26]
 - 2026-06-26 — HDFC Devalues Three Mid-Premium Cards [^hdfc-deval-2026-06-26]
@@ -77,3 +84,4 @@ The move hands challengers like Scapia a small but concrete CX talking point: fu
 [^hdfc-deval-2026-06-26]: raw/ambiguous/hdfc-credit-card-devaluation-2026-what-changed.md
 [^cc-tighten-2026-06-26]: raw/ambiguous/credit-card-rewards-in-india-are-getting-tighter-what-is-changing.md
 [^hdfc-forex-2026-06-27]: raw/ambiguous/best-forex-cards-for-indians-travelling-abroad-in-2026-the-complete-guide.md
+[^prem-travel-hdfc-2026-06-28]: raw/ambiguous/indian-banks-battle-for-premium-travelers-with-travel-credit-cards.md

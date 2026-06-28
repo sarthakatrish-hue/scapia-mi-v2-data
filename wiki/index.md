@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/premium-travel-cards-india-market]] — "Indian banks race for HNI travellers, sacrificing forex fees for long-term wallet share"
 - [[subjects/zero-forex-card-market-india-2026]] — "Zero-forex cards entering mass consumer awareness as 2026 guides rank real value"
 - [[subjects/idfc-first-millennia]] — "IDFC FIRST Select ranked best all-round zero-forex travel card in 2026 guide"
 - [[subjects/thomas-cook]] — "Thomas Cook guide details RBI cash and LRS rules shaping forex product choice"
@@ -20,7 +21,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/induslnd-bank]] — "IndusInd Avios Infinite adds dual airline loyalty choice with preferred-destination forex discount"
 - [[subjects/hdfc-bizpower]] — "BizPower adds IT/GST transaction cap in May 2026, targeting tax-payment reward earners"
 - [[subjects/hdfc-diners-club-privilege]] — "Diners Club Privilege takes 25% reward rate cut with lounge now spend-gated from July 2026"
-- [[subjects/rbi]] — "RBI LRS cash and forex rules define the compliance envelope for all travel-card issuers"
+- [[subjects/rbi]] — "'RBI LRS cash and forex rules define the compliance envelope for all travel-card issuers'"
 - [[subjects/air-india-maharaja-club-credit-card]] — "Maharaja Club deepens with Express redemption and improved award seat access"
 - [[subjects/bobcard]] — BOBCARD aggressively courts travel spenders with multi-OTA discount blitz
 - [[subjects/american-express]] — "Amex restructures Membership Rewards so ₹4L spend yields 10,000 points vs 25,000 prior"
@@ -66,7 +67,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/idfc-first-bank]] — "IDFC First winds down Club Vistara card as merger forces benefit discontinuation"
 - [[subjects/rbl-bank]]
 - [[subjects/sbi-card]] — "SBI Card slashes Air India co-brand rewards and winds down Club Vistara cards"
-- [[subjects/icici-bank]] — "ICICI Bank's iShop portal delivers 36% hotel returns, directly rivalling HDFC SmartBuy"
+- [[subjects/icici-bank]] — "'ICICI Bank's iShop portal delivers 36% hotel returns, directly rivalling HDFC SmartBuy'"
 - [[subjects/axis-bank]] — "Axis Bank removes Qatar Airways, Accor, and Marriott from cards without prior notice"
-- [[subjects/hdfc-bank]] — "HDFC Bank joins industry-wide credit card reward tightening as costs rise"
+- [[subjects/hdfc-bank]] — "'HDFC Bank joins industry-wide credit card reward tightening as costs rise'"
 - [[subjects/hdfc-regalia-gold]] — "Regalia Gold reward rate cut 6% and lounge access conditionalised from July 2026"

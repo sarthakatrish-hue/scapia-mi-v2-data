@@ -2,29 +2,23 @@
 subject: "ICICI Bank"
 type: subject
 role: competitor
-domains: [fintech]
-categories: [banks]
+domains: [fintech, travel]
+categories: [banks, flights, stays]
 domain_url: icicibank.com
 logo: null
 issuer: null
-keywords: [issuer, bank, amazon-pay, credit-card, rewards-devaluation, lounge-access, spend-linked, april-2026, category-cuts, ishop, accelerated-rewards, shopping-portal, smartbuy-rival]
+keywords: [issuer, bank, amazon-pay, credit-card, rewards-devaluation, lounge-access, spend-linked, april-2026, category-cuts, ishop, accelerated-rewards, shopping-portal, smartbuy-rival, premium-travel, hni, share-of-wallet, booking-portal]
 signal: watch
-headline: "'ICICI Bank's iShop portal delivers 36% hotel returns, directly rivalling HDFC SmartBuy'"
-vitals: ["₹35,000|Quarterly spend threshold|Required for lounge access in next quarter"]
-scoreboard: ["Loyalty & Rewards|High|down", "Premium Segment|Medium|steady"]
-last_updated: 2026-06-26
+headline: "''ICICI Bank's iShop portal delivers 36% hotel returns, directly rivalling HDFC SmartBuy''"
+vitals: ["₹35,000|Quarterly spend threshold|Required for lounge access in next quarter", "iShop|Proprietary booking portal|Up to 12X rewards on hotels and flights for premium cardholders"]
+scoreboard: ["Travel Booking|High|up", "Loyalty & Rewards|High|down", "Premium Segment|Medium|steady"]
+last_updated: 2026-06-28
 ---
 
 ## What we know
 
-**Extra category earn reduced** — ICICI cut additional reward earn rates on specific spend categories, part of the broader 2026 industry-wide tightening[^cc-tighten-icici-2026-06-26]
-**iShop portal launched** — ICICI's new shopping and travel booking portal offers up to 12X accelerated rewards on hotel spends (36% return on Emeralde Private Metal), directly rivalling HDFC SmartBuy[^ishop-2026-06-26]
-**Earn multipliers by tier** — iShop gives 6X on flights/vouchers and 12X on hotels; top-tier Emeralde Private Metal earns 18% and 36% respectively on these categories[^ishop-2026-06-26]
-**Monthly caps introduced** — After initial uncapped launch, ICICI imposed a cap of ₹12,000/month on Flipkart, Amazon Pay & Amazon Shopping Vouchers within ~2 weeks[^ishop-2026-06-26]
-**Bonus point caps by card** — Emeralde Private Metal capped at 18,000 bonus points/month; Times Black at 15,000; Emeralde PVC at 12,000; other cards at 9,000[^ishop-2026-06-26]
-**Redemption rates confirmed** — iShop redemption: flights at 95% points (1pt = ₹1), hotels at 90% (1pt = ₹1), eVouchers at 50% (1pt = ₹0.60)[^ishop-2026-06-26]
-**No transfer partners yet** — iShop does not yet include airline/hotel transfer partners; Air India transfer (1:1) remains on the separate regular rewards portal[^ishop-2026-06-26]
-**Soft launch, no formal comms** — ICICI PR confirmed no formal launch announcement; the portal is live but targeted at maximisers without public promotion[^ishop-2026-06-26]
+**iShop confirmed as closed-loop strategy** — ICICI iShop is cited alongside HDFC SmartBuy and Kotak Unbox as part of an explicit bank strategy to earn travel booking commissions and keep HNI travellers in-ecosystem[^prem-travel-icici-2026-06-28]
+**Forex markup ~2% as acquisition lever** — ICICI's forex markup reduction is framed as a deliberate trade-off: short-term fee sacrifice for long-term HNI cross-sell into savings, investments, and insurance[^prem-travel-icici-2026-06-28]
 
 ## Competitor Intel
 
@@ -42,6 +36,12 @@ last_updated: 2026-06-26
 **Quantify the spend gap** — ₹35,000/quarter is ~₹11,667/month; message that Scapia's lounge access doesn't require hitting a monthly spend target to remain travel-ready [Inferred · High]
 
 ## Coverage
+
+### ICICI iShop in HNI Race — 2026-06-28
+
+A market overview of India's premium travel card competition places ICICI iShop alongside HDFC SmartBuy and Kotak Unbox as a deliberate closed-loop ecosystem play — offering elevated reward multipliers for in-portal bookings to capture both interchange and travel commissions while locking in high-net-worth cardholders[^prem-travel-icici-2026-06-28]. ICICI's ~2% forex markup is similarly framed as a strategic acquisition subsidy rather than a pricing concession.
+
+The article adds strategic context to ICICI's iShop investment: the portal is not simply a loyalty feature but a direct revenue and engagement mechanism targeting the same HNI traveller segment Scapia pursues[^prem-travel-icici-2026-06-28]. For Scapia, this confirms ICICI is investing on the travel booking surface — but the simultaneous devaluation pressure, spend-linked lounge gating, and rising acquisition costs documented elsewhere signal that ICICI's HNI proposition is increasingly conditional and margin-constrained. [Inferred · Medium]
 
 ### ICICI Launches iShop Rewards Portal — 2026-06-26
 
@@ -69,6 +69,7 @@ For Scapia, this is a minor but telling signal: large issuers are managing rewar
 
 ## Developments
 
+- 2026-06-28 — ICICI iShop in HNI Race [^prem-travel-icici-2026-06-28]
 - 2026-06-26 — ICICI Launches iShop Rewards Portal [^ishop-2026-06-26]
 - 2026-06-26 — ICICI Joins Rewards Tightening Wave [^cc-tighten-icici-2026-06-26]
 - 2026-04-01 — ICICI Spend-Links Lounge Access [^card-rules-apr2026]
@@ -80,3 +81,4 @@ For Scapia, this is a minor but telling signal: large issuers are managing rewar
 [^card-rules-apr2026]: raw/ambiguous/9-major-credit-card-rule-changes-in-india-2026.md
 [^cc-tighten-icici-2026-06-26]: raw/ambiguous/credit-card-rewards-in-india-are-getting-tighter-what-is-changing.md
 [^ishop-2026-06-26]: raw/competitive/icici-bank-unveils-ishop-earn-up-to-12x-rewards.md
+[^prem-travel-icici-2026-06-28]: raw/ambiguous/indian-banks-battle-for-premium-travelers-with-travel-credit-cards.md

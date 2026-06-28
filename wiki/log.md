@@ -321,3 +321,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-28] ingest | best-zero-forex-markup-credit-cards-india-2026-ranked-by-real-value.md → subjects/niyo-global-sbm.md, subjects/idfc-first-wow.md, subjects/idfc-first-millennia.md, subjects/zero-forex-card-market-india-2026.md, sources/2026-06-28-best-zero-forex-markup-credit-cards-india-2026-ranked-by-real-value.md | Auto-approved
 
 ## [2026-06-28] crawl-drop | zero-forex-credit-cards-for-your-next-international-travel-2026-guide.md | Maker: 6/10, Checker: 6/10 BORDERLINE — dropped (autonomous, no queue)
+
+## [2026-06-28] ingest | indian-banks-battle-for-premium-travelers-with-travel-credit-cards.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-28] ingest | indian-banks-battle-for-premium-travelers-with-travel-credit-cards.md → subjects/premium-travel-cards-india-market.md, subjects/hdfc-bank.md, subjects/icici-bank.md, subjects/rbi.md, sources/2026-06-28-indian-banks-battle-for-premium-travelers-with-travel-credit-cards.md | Auto-approved

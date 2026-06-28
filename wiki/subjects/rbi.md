@@ -7,21 +7,17 @@ categories: [upi, banks, cards]
 domain_url: rbi.org.in
 logo: null
 issuer: null
-keywords: [rbi, prudential norms, upi credit lines, pre-sanctioned credit, regulation, digital payments, tcs, lrs, liberalised remittance scheme, forex, foreign currency, gst, usd-250000-limit, cash-limit, authorized-dealer, customs-declaration, cdf, rfc-account, forex-purchase-cap, resident-eligibility, 60-day-advance, travellers-cheque]
+keywords: [rbi, prudential norms, upi credit lines, pre-sanctioned credit, regulation, digital payments, tcs, lrs, liberalised remittance scheme, forex, foreign currency, gst, usd-250000-limit, cash-limit, authorized-dealer, customs-declaration, cdf, rfc-account, forex-purchase-cap, resident-eligibility, 60-day-advance, travellers-cheque, unsecured-credit, premium-card, credit-growth-monitoring, fee-structure]
 signal: watch
-headline: "'RBI LRS cash and forex rules define the compliance envelope for all travel-card issuers'"
+headline: "''RBI LRS cash and forex rules define the compliance envelope for all travel-card issuers''"
 vitals: ["USD 2,50,000|LRS annual limit|Per individual per FY", "USD 3,000|Max cash abroad|Balance must be on card/cheque", "₹25,000|INR limit on return|Must declare above this at customs"]
-last_updated: 2026-06-27
+last_updated: 2026-06-28
 ---
 
 ## What we know
 
-**60-day advance forex purchase** — Residents may buy foreign exchange up to 60 days before travel date, provided all documents are in order[^rbi-forex-orient-2026-06-27]
-**Rs 50,000 cash purchase cap** — Foreign exchange purchases above Rs 50,000 must be settled via cheque, demand draft, or card — not physical cash[^rbi-forex-orient-2026-06-27]
-**USD 3,000 per-trip cash ceiling** — Residents may carry up to USD 3,000 in currency notes per trip; the remainder of the LRS limit must be in forex card, traveller's cheque, or demand draft[^rbi-forex-orient-2026-06-27]
-**180-day surrender rule** — Unused foreign exchange in notes or traveller's cheques must be surrendered within 180 days of return; up to USD 2,000 may be retained for future travel[^rbi-forex-orient-2026-06-27]
-**Rs 25,000 INR carry limit** — Residents may carry up to Rs 25,000 in Indian currency when travelling abroad, and bring back up to Rs 25,000 on return (Nepal/Bhutan excepted)[^rbi-forex-orient-2026-06-27]
-**Purpose-based eligibility** — Forex is released to residents (>182 days in India) with purpose documentation; for study, employment, and emigration, forex is released only on the initial trip[^rbi-forex-orient-2026-06-27]
+**RBI monitoring unsecured credit growth** — The RBI's consistent monitoring of unsecured credit — which includes credit cards — is flagged as a regulatory risk for premium card portfolios; future changes to fee structures, issuance norms, or credit limits could compress profitability for issuers pursuing aggressive HNI card growth[^prem-travel-rbi-2026-06-28]
+**Fee-structure caps a live risk** — Market commentary identifies regulatory caps on credit card fees as a plausible outcome if borrower profile quality slips or if the RBI determines that promotional forex fee reductions create systemic risk[^prem-travel-rbi-2026-06-28]
 
 ## Regulatory Intel
 
@@ -34,6 +30,12 @@ last_updated: 2026-06-27
 **Implication:** For Scapia and Federal Bank, any future UPI-linked credit or pay-later feature must be structured so its prudential treatment mirrors the equivalent credit card or loan product — there is no lighter-touch regulatory path via the UPI channel. [Inferred · High] This raises the compliance cost for new UPI credit-line product design but levels the playing field, preventing nimbler competitors from gaining an unfair regulatory edge by routing credit through UPI.
 
 ## Coverage
+
+### RBI Flagged as Premium Card Risk — 2026-06-28
+
+A market overview of India's premium travel card competition explicitly identifies the RBI's oversight of unsecured credit growth as a material risk for banks building large premium card portfolios[^prem-travel-rbi-2026-06-28]. The article warns that regulatory changes to fee structures, card issuance norms, or credit limits could affect the profitability of premium card books — particularly for banks that rely on aggressive card growth strategies where borrower quality may be uneven.
+
+For Scapia and Federal Bank, this is a shared regulatory environment, but the risk profile differs: a focused travel-first card with a defined HNI target is less exposed to portfolio-quality concerns than a broad-market card stack[^prem-travel-rbi-2026-06-28]. The RBI's posture reinforces that any product expansion — particularly into new credit categories or UPI-linked credit — must be designed to full prudential standards from the outset. [Inferred · Medium]
 
 ### Orient Exchange Forex Rules Summary — 2026-06-27
 
@@ -67,6 +69,7 @@ Critically, the RBI also barred banks from inventing new lending categories via 
 
 ## Developments
 
+- 2026-06-28 — RBI Flagged as Premium Card Risk [^prem-travel-rbi-2026-06-28]
 - 2026-06-27 — Orient Exchange Forex Rules Summary [^rbi-forex-orient-2026-06-27]
 - 2026-06-27 — RBI Cash Rules Detailed in Guide [^rbi-cash-limits-2026-06-27]
 - 2026-06-27 — LRS Rules Shape Forex Card Market [^rbi-lrs-forex-2026-06-27]
@@ -80,3 +83,4 @@ Critically, the RBI also barred banks from inventing new lending categories via 
 [^rbi-lrs-forex-2026-06-27]: raw/ambiguous/best-forex-cards-for-indians-travelling-abroad-in-2026-the-complete-guide.md
 [^rbi-cash-limits-2026-06-27]: raw/ambiguous/how-much-cash-can-you-legally-carry-while-traveling-abroad.md
 [^rbi-forex-orient-2026-06-27]: raw/ambiguous/simple-forex-rules-for-indians-to-travel-abroad.md
+[^prem-travel-rbi-2026-06-28]: raw/ambiguous/indian-banks-battle-for-premium-travelers-with-travel-credit-cards.md
