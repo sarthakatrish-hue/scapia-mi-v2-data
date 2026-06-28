@@ -329,3 +329,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-28] ingest | tcs-on-foreign-exchange-forex-under-lrs-budget-2026.md | Maker: 6/10, Checker: 6/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-28] ingest | tcs-on-foreign-exchange-forex-under-lrs-budget-2026.md → subjects/lrs-tcs-forex-2026.md, sources/2026-06-28-tcs-on-foreign-exchange-forex-under-lrs-budget-2026.md | Auto-approved
+
+## [2026-06-28] update | entity-registry += wise (competitor) (from travel-planning-turns-into-strategic-finance-for-india-s-wealthy-travelers.md)
+
+## [2026-06-28] ingest | travel-planning-turns-into-strategic-finance-for-india-s-wealthy-travelers.md | Maker: 7/10, Checker: 5/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-28] ingest | travel-planning-turns-into-strategic-finance-for-india-s-wealthy-travelers.md → subjects/affluent-india-travel-fintech-shift.md, subjects/wise-travel-card.md, subjects/revolut.md, sources/2026-06-28-travel-planning-turns-into-strategic-finance-for-india-s-wealthy-travelers.md | Auto-approved

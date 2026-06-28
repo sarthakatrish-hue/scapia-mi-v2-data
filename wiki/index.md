@@ -3,12 +3,13 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/affluent-india-travel-fintech-shift]] — "Affluent Indians now treat payment strategy as core to travel planning"
 - [[subjects/lrs-tcs-forex-2026]] — Budget 2026 cuts TCS on education and medical remittances from 5% to 2%
 - [[subjects/premium-travel-cards-india-market]] — "Indian banks race for HNI travellers, sacrificing forex fees for long-term wallet share"
 - [[subjects/zero-forex-card-market-india-2026]] — "Zero-forex cards entering mass consumer awareness as 2026 guides rank real value"
 - [[subjects/idfc-first-millennia]] — "IDFC FIRST Select ranked best all-round zero-forex travel card in 2026 guide"
 - [[subjects/thomas-cook]] — "Thomas Cook guide details RBI cash and LRS rules shaping forex product choice"
-- [[subjects/wise-travel-card]] — "Wise Travel Card cited as best overall forex card for Indians in 2026 guides"
+- [[subjects/wise-travel-card]] — "Wise named preferred fintech tool among India's affluent international travellers"
 - [[subjects/forex-credit-card-india-travel]] — "Zero-markup credit cards now match forex cards as Indians hit $31.7B LRS spend"
 - [[subjects/suryoday-sfb]] — Suryoday SFB scales embedded UPI credit to 530,000 prime borrowers via Paytm
 - [[subjects/credit-line-on-upi]] — Prime borrowers choose CLOU for convenience, validating embedded credit as mainstream fintech
@@ -34,7 +35,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/authentication-mechanisms-for-digital-payment-transactions-directions-2025]] — "RBI mandates two-factor authentication across all digital payments from April 2026"
 - [[subjects/upi-regulatory-framework-2026]] — "RBI and NPCI tighten UPI rules on interchange fees, limits, and payee name verification"
 - [[subjects/fi-money]] — "Cash-strapped Fi Money exits consumer neobanking for AI-driven B2B play"
-- [[subjects/revolut]] — "Revolut enters India with UPI and prepaid cards, targeting 20 million users by 2030"
+- [[subjects/revolut]] — "Revolut enters India beta and is named as preferred HNI travel fintech tool"
 - [[subjects/kiwi]] — "Kiwi lands first public-sector bank co-brand with PNB on RuPay-UPI credit"
 - [[subjects/amazon-pay]] — "Amazon Pay rounds out top 5 UPI apps on a 500M-user platform growing rapidly"
 - [[subjects/pop]] — "Razorpay-backed POP builds multi-brand UPI rewards loop with RuPay credit card"

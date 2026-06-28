@@ -7,24 +7,18 @@ categories: [upi, cards, others]
 domain_url: revolut.com
 logo: null
 issuer: null
-keywords: [revolut, prepaid, upi, multi-currency, ppi, fintech, beta, india-launch, digital-wallet, forex]
+keywords: [revolut, prepaid, upi, multi-currency, ppi, fintech, beta, india-launch, digital-wallet, forex, affluent-india, hni, rewards-optimisation]
 signal: threat
-headline: "'Revolut enters India with UPI and prepaid cards, targeting 20 million users by 2030'"
-vitals: ["450,000 waitlisters|Beta pool size|Scapia has no equivalent waitlist moat", "~820K downloads|App store installs since listing|Growing demand signal", "20M users by 2030|Stated India target|Scapia's cardholder base not disclosed publicly"]
+headline: "'Revolut enters India beta and is named as preferred HNI travel fintech tool'"
+vitals: ["'450,000 waitlisters|Beta pool size|Scapia has no equivalent waitlist moat", "~820K downloads|App store installs since listing|Growing demand signal", "20M users by 2030|Stated India target|Scapia's cardholder base not disclosed publicly'"]
 scoreboard: ["UPI & Payments|High|up", "Cards & Credit|Medium|up", "Pricing & Fees|Medium|up"]
-last_updated: 2026-06-22
+last_updated: 2026-06-28
 ---
 
 ## What we know
 
-**Beta rollout underway** — Revolut has begun controlled onboarding of waitlisted Indian users, with a few thousand already active on the platform [^rev-tc-2026-06-01]
-**PPI license secured** — Revolut holds a prepaid payment instrument license from the RBI, allowing it to issue prepaid cards, run digital wallets, and connect to UPI [^rev-tc-2026-06-01]
-**Products live in beta** — UPI payments, e-money wallets, domestic prepaid cards, multi-currency cards, virtual cards, and disposable cards are all available in the beta [^rev-tc-2026-06-01]
-**No banking license** — Family/joint accounts will not be offered; Revolut is constrained to PPI-tier products unless it acquires a banking license [^rev-tc-2026-06-01]
-**450K waitlist, ~820K downloads** — Consumer interest is substantial ahead of full launch; over a third of downloads occurred in 2025 and early 2026 [^rev-tc-2026-06-01]
-**India build since 2021** — Revolut hired a local CEO (Paroma Chatterjee), acquired Arvog Forex for regulatory presence, and has been building infrastructure for five years [^rev-tc-2026-06-01]
-**Ambitious growth targets** — The company is targeting 150 million "globally aspiring, digitally native" Indians aged 25–45, with 20 million users by 2030 and $7B in transactions [^rev-tc-2026-06-01]
-**RevPoints and Lifestyle coming** — Revolut's loyalty and lifestyle layers are not yet live in India; planned as pre-scale additions before broader rollout [^rev-tc-2026-06-01]
+**Named in affluent-traveller research** — Revolut is cited alongside Wise as a preferred fintech platform for forex optimisation among Indian travellers spending ₹8L-₹20L annually[^revolut-affluent-2026-06-28]
+**Recommended for rate comparison** — The affluent-traveller guide advises opening accounts on multiple platforms including Revolut to compare exchange rates 30-45 days before travel[^revolut-affluent-2026-06-28]
 
 ## Competitor Intel
 
@@ -46,6 +40,12 @@ last_updated: 2026-06-22
 
 ## Coverage
 
+### Revolut Named in HNI Research — 2026-06-28
+
+Consumer research on affluent Indian travellers names Revolut alongside Wise as a recommended fintech platform for pre-travel forex optimisation, targeting the segment spending ₹8L-₹20L annually on international trips[^revolut-affluent-2026-06-28]. The guide explicitly advises users to open Revolut accounts and compare rates across platforms 30-45 days before departure — confirming Revolut is gaining mindshare in the HNI planning phase even before its full India launch.
+
+This is corroborative rather than a new competitive development: Revolut's HNI targeting was already documented in the beta-launch coverage. The significance is that Revolut is achieving brand recognition in affluent-traveller research content without yet being fully live — compounding the competitive pressure it will exert once RevPoints and a full launch activate [Inferred · Medium].
+
 ### Revolut Enters India in Beta — 2026-06-01
 
 British fintech Revolut has quietly begun a controlled beta rollout in India, with a few thousand users already active and ~450,000 on the waitlist [^rev-tc-2026-06-01]. Operating under an RBI prepaid payment instrument (PPI) license obtained after acquiring Arvog Forex in 2022, Revolut is offering UPI payments, e-money wallets, domestic prepaid cards, multi-currency cards, virtual cards, and disposable cards [^rev-tc-2026-06-01]. RevPoints loyalty and Lifestyle features are planned but not yet live.
@@ -56,8 +56,10 @@ For Scapia, this is a material competitive arrival. Revolut's target demographic
 
 ## Developments
 
+- 2026-06-28 — Revolut Named in HNI Research [^revolut-affluent-2026-06-28]
 - 2026-06-01 — Revolut Enters India in Beta [^rev-tc-2026-06-01]
 
 ## Sources
 
 [^rev-tc-2026-06-01]: TechCrunch — "Revolut rolls out services to thousands of users in India ahead of broader launch" — raw/ambiguous/revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launc.md — https://techcrunch.com/2026/06/01/revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launch/
+[^revolut-affluent-2026-06-28]: raw/ambiguous/travel-planning-turns-into-strategic-finance-for-india-s-wealthy-travelers.md

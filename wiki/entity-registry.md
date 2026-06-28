@@ -60,6 +60,8 @@ treated as context until promoted).
 
 ## Competitors
 
+- wise | competitor | Wise | newly-surfaced · added_by: agent 2026-06-28 · source: travel-planning-turns-into-strategic-finance-for-india-s-wealthy-travelers.md · Offers multi-currency accounts and forex optimization to Indian travelers; tracked in registry as wise-travel-card but source establishes broader fintech travel positioning beyond card product.
+
 - mobikwik | competitor | MobiKwik | newly-surfaced · added_by: agent 2026-06-28 · source: finance-committee-pushes-mdr-on-large-upi-merchants.md · fintech payments and wallet player with UPI exposure
 
 - thomas-cook | competitor | Thomas Cook Borderless Card | domain: thomascook.in | newly-surfaced · added_by: agent 2026-06-27 · source: best-forex-cards-for-indian-travelers-2026.md · Prepaid forex card with 20+ airport counters, zero markup, 9 currencies, partner YES Bank
