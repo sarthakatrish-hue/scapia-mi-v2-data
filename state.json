@@ -2,6 +2,18 @@
   "pending_queue": [],
   "rejection_log": [
     {
+      "id": "reject-bdd29bd5",
+      "filename": "indian-startup-ipo-tracker-2026.md",
+      "score": "3/10",
+      "checker_score": null,
+      "checker_reason": null,
+      "band": "AUTO-REJECT",
+      "outcome": null,
+      "reason": "General macro trend reporting on startup IPO market conditions and investor sentiment; no specific mention of fintech competitors, travel platforms, card issuers, payment networks, or any tracked entity; off-domain for Scapia's core competitive and partnership landscape.",
+      "maker_reason": "General macro trend reporting on startup IPO market conditions and investor sentiment; no specific mention of fintech competitors, travel platforms, card issuers, payment networks, or any tracked entity; off-domain for Scapia's core competitive and partnership landscape.",
+      "timestamp": "2026-06-28"
+    },
+    {
       "id": "reject-7e92763e",
       "filename": "bhim-payments-app-transaction-volumes-treble-in-less-than-a-year.md",
       "score": "5/10",
