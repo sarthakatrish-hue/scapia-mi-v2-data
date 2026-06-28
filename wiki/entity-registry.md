@@ -96,7 +96,7 @@ treated as context until promoted).
 
 - hsbc-live-plus | competitor | HSBC Live+ | newly-surfaced · added_by: agent 2026-06-26 · source: 20-best-credit-cards-in-india-for-2026-for-beginners-to-high-spenders.md · dining and grocery cashback card
 
-- idfc-first-millennia | competitor | IDFC FIRST Millennia | newly-surfaced · added_by: agent 2026-06-26 · source: best-rewards-credit-cards-india-2026-real-return-per-rupee-after-devaluations.md · lifetime-free cashback and rewards card
+- idfc-first-millennia | competitor | IDFC FIRST Millennia | domain: idfcfirstbank.com | newly-surfaced · added_by: agent 2026-06-26 · source: best-rewards-credit-cards-india-2026-real-return-per-rupee-after-devaluations.md · lifetime-free cashback and rewards card
 
 - bob-eterna | competitor | Bank of Baroda Eterna | newly-surfaced · added_by: agent 2026-06-26 · source: best-rewards-credit-cards-india-2026-real-return-per-rupee-after-devaluations.md · lifetime-free rewards credit card competing on domestic travel and dining
 
@@ -173,7 +173,7 @@ treated as context until promoted).
 - uni-nxtwave | competitor | Uni Nxtwave | added_by: foundation 2026-06-22
 - onecard | competitor | Onecard | domain: getonecard.app | added_by: foundation 2026-06-22
 - niyo-global-sbm | competitor | Niyo Global Sbm | domain: sbmbank.co.in | added_by: foundation 2026-06-22
-- idfc-first-wow | competitor | Idfc First Wow | added_by: foundation 2026-06-22
+- idfc-first-wow | competitor | Idfc First Wow | domain: idfcfirstbank.com | added_by: foundation 2026-06-22
 - bobcard-etihad-premium | competitor | Bobcard Etihad Premium | added_by: foundation 2026-06-22
 - ixigo-au | competitor | Ixigo Au | domain: aubank.in | added_by: foundation 2026-06-22
 - rbl-world-safari | competitor | Rbl World Safari | added_by: foundation 2026-06-22

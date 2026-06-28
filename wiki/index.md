@@ -3,6 +3,8 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/zero-forex-card-market-india-2026]] — "Zero-forex cards entering mass consumer awareness as 2026 guides rank real value"
+- [[subjects/idfc-first-millennia]] — "IDFC FIRST Select ranked best all-round zero-forex travel card in 2026 guide"
 - [[subjects/thomas-cook]] — "Thomas Cook guide details RBI cash and LRS rules shaping forex product choice"
 - [[subjects/wise-travel-card]] — "Wise Travel Card cited as best overall forex card for Indians in 2026 guides"
 - [[subjects/forex-credit-card-india-travel]] — "Zero-markup credit cards now match forex cards as Indians hit $31.7B LRS spend"
@@ -46,8 +48,8 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/axis-burgundy-private]] — "Axis Burgundy Private Magnus ratio halved in April 2026 sweeping devaluation"
 - [[subjects/uni-nxtwave]]
 - [[subjects/onecard]] — "OneCard nears ₹2,000 cr revenue in FY25, losses shrink 26% but RBI scrutiny clouds growth"
-- [[subjects/niyo-global-sbm]] — "Niyo Global cited as fintech forex-card option with tighter spreads in 2026 guides"
-- [[subjects/idfc-first-wow]]
+- [[subjects/niyo-global-sbm]] — "Niyo Global ranked top budget zero-forex card in 2026 guide, no rewards edge"
+- [[subjects/idfc-first-wow]] — "IDFC WOW! Black positioned as credit-builder zero-forex card with MakeMyTrip perks"
 - [[subjects/bobcard-etihad-premium]]
 - [[subjects/ixigo-au]] — "Ixigo is rebuilding its app around conversational AI, deepening the co-brand moat"
 - [[subjects/rbl-world-safari]]

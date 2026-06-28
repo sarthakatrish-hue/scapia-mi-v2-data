@@ -315,3 +315,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-28] update | entity-registry += parliamentary-standing-committee-on-finance (regulator), mobikwik (competitor) (from finance-committee-pushes-mdr-on-large-upi-merchants.md)
 
 ## [2026-06-28] crawl-drop | finance-committee-pushes-mdr-on-large-upi-merchants.md | Maker: 9/10 BORDERLINE — dropped (autonomous, no queue)
+
+## [2026-06-28] ingest | best-zero-forex-markup-credit-cards-india-2026-ranked-by-real-value.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-28] ingest | best-zero-forex-markup-credit-cards-india-2026-ranked-by-real-value.md → subjects/niyo-global-sbm.md, subjects/idfc-first-wow.md, subjects/idfc-first-millennia.md, subjects/zero-forex-card-market-india-2026.md, sources/2026-06-28-best-zero-forex-markup-credit-cards-india-2026-ranked-by-real-value.md | Auto-approved
