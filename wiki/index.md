@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/openai]] — OpenAI embeds AI into India's payments stack via Pine Labs deal
 - [[subjects/india-fintech-2026-outlook]] — "India fintech matures into mainstream infrastructure as 2026 prioritises precision over speed"
 - [[subjects/yatra]] — "Yatra remains vague on AI strategy as rivals stake out clear positions"
 - [[subjects/makemytrip]] — "MakeMyTrip bets on measurable AI outcomes while rivals pitch vision over results"

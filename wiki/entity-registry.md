@@ -60,6 +60,8 @@ treated as context until promoted).
 
 ## Competitors
 
+- setu | competitor | Setu (Pine Labs unit) | newly-surfaced · added_by: agent 2026-06-28 · source: openai-deepens-india-push-with-pine-labs-fintech-partnership.md · Bill-payment and embedded-finance unit experimenting with AI-driven chatbot payments; agent-led commerce signal
+
 - cashrich | competitor | CashRich | newly-surfaced · added_by: agent 2026-06-28 · source: fintech-3-0-what-2026-holds-for-india-s-digital-money-machine.md · wealthtech platform consolidating smaller players in mass-affluent and HNI segments
 
 - moneyview | competitor | MoneyView | newly-surfaced · added_by: agent 2026-06-28 · source: fintech-3-0-what-2026-holds-for-india-s-digital-money-machine.md · fintech lender expected to list in 2026
@@ -199,6 +201,8 @@ treated as context until promoted).
 - hdfc-bank | competitor | HDFC Bank | domain: hdfcbank.com | added_by: agent 2026-06-22 · source: 2026-06-22-hdfc-regalia-gold-revamp.md · Indian systemically important bank; issuer of co-branded and proprietary premium travel credit cards (Regalia Gold, Regalia Platinum, etc.); major benchmark in India's premium segment.
 
 ## Context (never gets a page)
+
+- openai | context | OpenAI | domain: openai.com | newly-surfaced · added_by: agent 2026-06-28 · source: openai-deepens-india-push-with-pine-labs-fintech-partnership.md · AI research and deployment company, global model provider; no payments or card product, no direct India fintech competitor but sets AI-fintech benchmark
 
 - dreamfolks-services | context | DreamFolks Services | domain: dreamfolks.in | newly-surfaced · added_by: agent 2026-06-28 · source: airport-lounge-firm-ceases-india-services-will-your-card-still-get-you-in.md · India's largest airport service aggregator providing lounge access to banks and card issuers
 

@@ -415,6 +415,120 @@
    "content_hash": "335572d05d425e7a446f676d",
    "autonomous": true,
    "at": "2026-06-27"
+  },
+  "9a5d8108836ab67ca027d4ab": {
+   "url": "https://www.business-standard.com/topic/upi",
+   "status": "AUTO-REJECT",
+   "content_hash": "8c4195a86b807cc6808c6e6a",
+   "autonomous": true,
+   "at": "2026-06-28"
+  },
+  "5c1837fa9688c3694acf2708": {
+   "url": "https://www.rbi.org.in/commonman/english/Scripts/Notification.aspx?Id=1574",
+   "status": "fetch-error",
+   "at": "2026-06-28"
+  },
+  "722792bae6c2e7c52f01b4cf": {
+   "url": "https://www.rbi.org.in/commonman/english/scripts/PressReleases.aspx?Id=2609",
+   "status": "fetch-error",
+   "at": "2026-06-28"
+  },
+  "301a322df5d6707041914ad3": {
+   "url": "https://www.medianama.com/2026/03/223-parliamentary-committee-calls-return-mdr-upi-implications-users-small-merchants/",
+   "status": "BORDERLINE",
+   "content_hash": "85e6190b3bdd713ad0f34ca0",
+   "autonomous": true,
+   "at": "2026-06-28"
+  },
+  "c31c0126a2f5b75d5f72f744": {
+   "url": "https://www.idfcfirst.bank.in/finfirst-blogs/credit-card/why-zero-forex-credit-card-smart-travel-2026",
+   "status": "no-relevant-article",
+   "at": "2026-06-28"
+  },
+  "e9d7a1991589fc1e759b1229": {
+   "url": "https://cardtrail.in/travel/best-zero-forex-cards-2026/",
+   "status": "AUTO-APPROVE",
+   "content_hash": "1feee6f54f9dcbd50bdae264",
+   "autonomous": true,
+   "at": "2026-06-28"
+  },
+  "cfeb158f96973b45c38c1138": {
+   "url": "https://www.pickmywork.com/zero-forex-credit-cards-india-2026/",
+   "status": "BORDERLINE",
+   "content_hash": "ad2e93d1b1aa4b954aabf5c5",
+   "autonomous": true,
+   "at": "2026-06-28"
+  },
+  "5c92fef8165bfb055914639a": {
+   "url": "https://www.whalesbook.com/news/English/bankingfinance/Indian-Banks-Battle-for-Premium-Travelers-with-Travel-Credit-Cards/6a3e9fa71ea2458e09603c3b",
+   "status": "AUTO-APPROVE",
+   "content_hash": "0d36e13bbf39c8a892240c83",
+   "autonomous": true,
+   "at": "2026-06-28"
+  },
+  "855ebae8ea2357a35975dd6d": {
+   "url": "https://www.bookmyforex.com/blog/everything-need-know-new-tcs-rule-liberalized-remittance-scheme-lrs-transactions/",
+   "status": "AUTO-APPROVE",
+   "content_hash": "907d2924ee8344c31d3d4598",
+   "autonomous": true,
+   "at": "2026-06-28"
+  },
+  "37221e7c821756430fe1012c": {
+   "url": "https://sbi.bank.in/documents/16012/1400784/FOREX_CARD_RATES.pdf",
+   "status": "no-relevant-article",
+   "at": "2026-06-28"
+  },
+  "55d4e71077ba652eaaa9f828": {
+   "url": "https://nomadlawyer.org/travel-planning-turns-money-game-june-2026",
+   "status": "AUTO-APPROVE",
+   "content_hash": "246e54d647d2710fc03059ff",
+   "autonomous": true,
+   "at": "2026-06-28"
+  },
+  "56fa1bdf666be4caac9d646b": {
+   "url": "https://bankofindia.bank.in/forexcard-rate",
+   "status": "fetch-error",
+   "at": "2026-06-28"
+  },
+  "9a5ba52fc27ac47ed2124e74": {
+   "url": "https://www.canarabank.bank.in/pages/forex-card-rates",
+   "status": "no-relevant-article",
+   "at": "2026-06-28"
+  },
+  "c3799cadce4417e62f6bb83e": {
+   "url": "https://www.business-standard.com/finance/personal-finance/airport-lounge-firm-ceases-india-services-will-your-card-still-get-you-in-125091800668_1.html",
+   "status": "AUTO-APPROVE",
+   "content_hash": "ba8b04705ee420e0a9e1d745",
+   "autonomous": true,
+   "at": "2026-06-28"
+  },
+  "43b40dbc19e5093dde6d53f1": {
+   "url": "https://skift.com/2026/06/01/the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatras-earnings-calls-reveal/",
+   "status": "AUTO-APPROVE",
+   "content_hash": "a22e68cf3a773729fa2a7baf",
+   "autonomous": true,
+   "at": "2026-06-28"
+  },
+  "a96034e3b308d93a13b36912": {
+   "url": "https://inc42.com/features/indian-startup-ipo-tracker-2026/",
+   "status": "AUTO-REJECT",
+   "content_hash": "c831653d4c07f8e9e30f358e",
+   "autonomous": true,
+   "at": "2026-06-28"
+  },
+  "da8db1655ad070b0d3e0a367": {
+   "url": "https://inc42.com/features/fintech-3-0-2026-preview-indias-digital-payments-ai/",
+   "status": "AUTO-APPROVE",
+   "content_hash": "acb666100c16dacd18065049",
+   "autonomous": true,
+   "at": "2026-06-28"
+  },
+  "62e4988405dfaff952cf8f15": {
+   "url": "https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/",
+   "status": "AUTO-APPROVE",
+   "content_hash": "1e94b3cf0d8d0af9d486c2d8",
+   "autonomous": true,
+   "at": "2026-06-28"
   }
  }
 }

@@ -353,3 +353,11 @@ Append-only ingest/query/lint event log.
 ## [2026-06-28] ingest | fintech-3-0-what-2026-holds-for-india-s-digital-money-machine.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-28] ingest | fintech-3-0-what-2026-holds-for-india-s-digital-money-machine.md → subjects/india-fintech-2026-outlook.md, subjects/razorpay.md, sources/2026-06-28-fintech-3-0-what-2026-holds-for-india-s-digital-money-machine.md | Auto-approved
+
+## [2026-06-28] update | entity-registry += openai (context), setu (competitor) (from openai-deepens-india-push-with-pine-labs-fintech-partnership.md)
+
+## [2026-06-28] ingest | openai-deepens-india-push-with-pine-labs-fintech-partnership.md | Maker: 7/10, Checker: 6/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-28] ingest | openai-deepens-india-push-with-pine-labs-fintech-partnership.md → subjects/openai.md, sources/2026-06-28-openai-deepens-india-push-with-pine-labs-fintech-partnership.md | Auto-approved
+
+## [2026-06-28] crawl | autonomous | universe 97, 7 searches + 2 feeds → 18 candidates | ingested 8/8 (vault 2, market-signal 6, feeds 0), dropped 4, queued 0, dupes 12, stale 39, irrelevant 3, errors 3
