@@ -45,7 +45,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/amazon-pay]] — "Amazon Pay rounds out top 5 UPI apps on a 500M-user platform growing rapidly"
 - [[subjects/pop]] — "Razorpay-backed POP builds multi-brand UPI rewards loop with RuPay credit card"
 - [[subjects/razorpay]] — "Razorpay deepens payments ecosystem play with tokenisation, cross-border, and consumer rewards"
-- [[subjects/super-money]] — "Flipkart's fintech arm launches secured card + savings account to monetise UPI"
+- [[subjects/super-money]] — "Flipkart's SuperCoins expands into mobility via Uber, deepening loyalty moat"
 - [[subjects/federal-bank]] — "Federal Bank co-brand freeze widens — RBI data-sharing concern confirmed across OneCard partnership too"
 - [[subjects/rbi-cobranded-card-scrutiny]] — "RBI halts co-brand card issuances, tightening fintech-bank partnership rules"
 - [[subjects/atlys]] — Atlys raises $36M Series C to accelerate AI-driven global visa platform

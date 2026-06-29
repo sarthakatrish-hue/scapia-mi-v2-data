@@ -374,4 +374,16 @@ Append-only ingest/query/lint event log.
 
 ## [2026-06-29] crawl | autonomous | universe 106, 10 searches + 2 feeds → 17 candidates | ingested 2/8 (vault 1, market-signal 1, feeds 0), dropped 1, queued 0, dupes 20, stale 39, irrelevant 0, errors 14
 
+<<<<<<< HEAD
 ## [2026-06-29] ingest | batch b_d7ab79c072: 1 URLs — 1 no-article
+=======
+## [2026-06-29] update | entity-registry += uber (context) (from flipkart-uber-tie-up-to-offer-supercoins-rewards-on-rides-to-boost-loyalty.md)
+
+## [2026-06-29] ingest | flipkart-uber-tie-up-to-offer-supercoins-rewards-on-rides-to-boost-loyalty.md | Maker: 6/10, Checker: 5/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-29] ingest | flipkart-uber-tie-up-to-offer-supercoins-rewards-on-rides-to-boost-loyalty.md → subjects/super-money.md, sources/2026-06-29-flipkart-uber-tie-up-to-offer-supercoins-rewards-on-rides-to-boost-loyalty.md | Auto-approved
+
+## [2026-06-29] update | entity-registry += nykaa (competitor) (from nykaa-bets-on-brand-loyalty-pass-to-combat-rising-competition.md)
+
+## [2026-06-29] ingest | nykaa-bets-on-brand-loyalty-pass-to-combat-rising-competition.md | Maker: 6/10, Checker: 2/10 AUTO-APPROVE — bypassing queue
+>>>>>>> 145a02a (ingest: flipkart-uber-tie-up-to-offer-supercoins-rewards-on-rides-to-boost-loyalty.md [AUTO-APPROVE])
