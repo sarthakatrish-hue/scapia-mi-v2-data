@@ -2,6 +2,18 @@
   "pending_queue": [],
   "rejection_log": [
     {
+      "id": "reject-719813c0",
+      "filename": "best-forex-cards-in-india-features-benefits-how-to-choose-one.md",
+      "score": "2/10",
+      "checker_score": null,
+      "checker_reason": null,
+      "band": "AUTO-REJECT",
+      "outcome": null,
+      "reason": "Listicle with no new strategic signal \u2014 restates generic features and known products without material facts (pricing changes, launches, pivots, financials, partnerships) about any competitor; educational content on forex mechanics and RBI rules is off-domain context, not market intelligence.",
+      "maker_reason": "Listicle with no new strategic signal \u2014 restates generic features and known products without material facts (pricing changes, launches, pivots, financials, partnerships) about any competitor; educational content on forex mechanics and RBI rules is off-domain context, not market intelligence.",
+      "timestamp": "2026-06-29"
+    },
+    {
       "id": "reject-bdd29bd5",
       "filename": "indian-startup-ipo-tracker-2026.md",
       "score": "3/10",
