@@ -365,3 +365,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-29] ingest | thomas-cook-india-s-outbound-tourism-sector-witnesses-a-historic-transition-towa.md | Maker: 7/10, Checker: 6/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-29] ingest | thomas-cook-india-s-outbound-tourism-sector-witnesses-a-historic-transition-towa.md → subjects/thomas-cook.md, sources/2026-06-29-thomas-cook-india-s-outbound-tourism-sector-witnesses-a-historic-transition-towa.md | Auto-approved
+
+## [2026-06-29] ingest | the-smart-guide-to-the-best-forex-cards-in-india-2026.md | Maker: 6/10, Checker: 2/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-29] ingest | the-smart-guide-to-the-best-forex-cards-in-india-2026.md → subjects/wise-travel-card.md, subjects/hdfc-bank.md, subjects/niyo-global-sbm.md, subjects/thomas-cook.md, sources/2026-06-29-the-smart-guide-to-the-best-forex-cards-in-india-2026.md | Auto-approved

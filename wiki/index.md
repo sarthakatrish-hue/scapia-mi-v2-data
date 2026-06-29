@@ -14,7 +14,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/zero-forex-card-market-india-2026]] — "Zero-forex cards entering mass consumer awareness as 2026 guides rank real value"
 - [[subjects/idfc-first-millennia]] — "IDFC FIRST Select ranked best all-round zero-forex travel card in 2026 guide"
 - [[subjects/thomas-cook]] — "Thomas Cook launches industry-first cross-border rewards on forex cards abroad"
-- [[subjects/wise-travel-card]] — "Wise named preferred fintech tool among India's affluent international travellers"
+- [[subjects/wise-travel-card]] — "Wise Travel Card named best overall forex card in India for 2026"
 - [[subjects/forex-credit-card-india-travel]] — "Zero-markup credit cards now match forex cards as Indians hit $31.7B LRS spend"
 - [[subjects/suryoday-sfb]] — Suryoday SFB scales embedded UPI credit to 530,000 prime borrowers via Paytm
 - [[subjects/credit-line-on-upi]] — Prime borrowers choose CLOU for convenience, validating embedded credit as mainstream fintech
@@ -76,5 +76,5 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/sbi-card]] — "SBI Card slashes Air India co-brand rewards and winds down Club Vistara cards"
 - [[subjects/icici-bank]] — "'ICICI Bank's iShop portal delivers 36% hotel returns, directly rivalling HDFC SmartBuy'"
 - [[subjects/axis-bank]] — "Axis Bank removes Qatar Airways, Accor, and Marriott from cards without prior notice"
-- [[subjects/hdfc-bank]] — "'HDFC Bank joins industry-wide credit card reward tightening as costs rise'"
+- [[subjects/hdfc-bank]] — "HDFC Bank joins industry-wide credit card reward tightening as costs rise"
 - [[subjects/hdfc-regalia-gold]] — "Regalia Gold reward rate cut 6% and lounge access conditionalised from July 2026"

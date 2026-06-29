@@ -7,21 +7,19 @@ categories: [cards, experiences]
 domain_url: sbmbank.co.in
 logo: null
 issuer: sbm-bank
-keywords: [zero-forex, fd-backed, neobank, international, telecom-partnership, vi, vodafone-idea, lounge, forex-card, consumer-guide, bookmyforex, tighter-spreads, cardtrail, no-annual-fee, budget-traveller, student]
+keywords: [[zero-forex, fd-backed, neobank, international, telecom-partnership, vi, vodafone-idea, lounge, forex-card, consumer-guide, bookmyforex, tighter-spreads, cardtrail, no-annual-fee, budget-traveller, student, inr-only, visa-rate]]
 signal: watch
 headline: "'Niyo Global ranked top budget zero-forex card in 2026 guide, no rewards edge'"
 vitals: ["['₹0|Annual fee|vs ₹0/0%/unlimited Scapia', '0%|Forex markup|vs ₹0/0%/unlimited Scapia', 'None|Lounge|vs unlimited Scapia']"]
-scoreboard: ["Partnerships|High|up", "Cards & Credit|Medium|steady"]
-last_updated: 2026-06-28
+scoreboard: ["['Pricing & Fees|Medium|steady', 'Cards & Credit|Medium|steady']"]
+last_updated: 2026-06-29
 ---
 
 ## What we know
 
-**Ranked top budget card** — Cardtrail 2026 guide places Niyo Global first in its zero-forex ranking, recommending it for budget travellers and students[^niyo-cardtrail-2026-06-28]
-**No lounge, no rewards** — Guide confirms no lounge access and no meaningful rewards programme; the card's sole pitch is zero cost[^niyo-cardtrail-2026-06-28]
-**Prepaid-style, not credit** — Cardtrail explicitly notes no credit line and no credit score building, limiting its appeal vs full credit cards[^niyo-cardtrail-2026-06-28]
-**ATM withdrawal limits flag** — Guide warns of ATM withdrawal limits abroad as a watch-out for Niyo Global[^niyo-cardtrail-2026-06-28]
-**Genuinely zero conversion fees** — Cardtrail verified Niyo's terms: no hidden cross-currency conversion charge on top of zero markup[^niyo-cardtrail-2026-06-28]
+**INR-only balance hold confirmed** — May 2026 guide confirms Niyo Global (DCB Debit Variant) holds balances in INR only; Visa exchange rate applies at point of transaction with no additional forex fee[^niyo-forex2-2026-05-07]
+**₹499 + GST annual fee with AMB waiver** — Annual maintenance charge of ₹499 + GST applies unless customer maintains ₹5,000 average monthly balance; ATM withdrawal fee is ₹425 + GST[^niyo-forex2-2026-05-07]
+**No issuance fee** — No card issuance charge documented for DCB Debit Variant[^niyo-forex2-2026-05-07]
 
 ## Competitor Intel
 
@@ -58,6 +56,12 @@ last_updated: 2026-06-28
 
 ## Coverage
 
+### Niyo Listed in Forex Benchmark Guide — 2026-05-07
+
+A May 2026 consumer guide to India's best forex cards includes Niyo Global's DCB Debit Variant, noting its INR-only balance model (Visa rate at checkout, no extra forex fee), ₹499 + GST annual fee waivable at ₹5,000 AMB, and ₹425 + GST ATM withdrawal charge[^niyo-forex2-2026-05-07]. The guide positions Niyo as a fee-minimising option for travellers comfortable with INR-hold and Visa network conversion — not as a full multi-currency pre-loading solution.
+
+No new strategic facts beyond existing record. The guide's structure reinforces Niyo's segment ceiling: INR-only hold and no rewards programme limit its appeal to first-timers and budget travellers, while the annual fee and ATM charge erode its "zero-cost" narrative for light users[^niyo-forex2-2026-05-07]. Scapia's zero-markup credit card with rewards and lounge access remains structurally superior for frequent travellers. [Inferred · High]
+
 ### Niyo Tops Budget Forex Ranking — 2026-06-28
 
 Cardtrail's 2026 zero-forex card guide ranks Niyo Global first among budget options, calling it the "no-brainer starter" for travellers who only want zero markup and nothing else[^niyo-cardtrail-2026-06-28]. The guide verifies Niyo's terms as genuinely fee-free with no hidden currency conversion charge — a point of differentiation even within the zero-markup segment[^niyo-cardtrail-2026-06-28].
@@ -80,6 +84,7 @@ Scapia's 0% forex and unlimited lounge access remain structurally superior to Ni
 
 ## Developments
 
+- 2026-05-07 — Niyo Listed in Forex Benchmark Guide [^niyo-forex2-2026-05-07]
 - 2026-06-28 — Niyo Tops Budget Forex Ranking [^niyo-cardtrail-2026-06-28]
 - 2026-06-27 — Niyo Named in Forex Guide [^forex-cc-2026-06-27]
 - 2026-06-22 — Niyo Scores Vi Telecom Distribution [^niyo-vi-2026-06-22]
@@ -90,3 +95,4 @@ Scapia's 0% forex and unlimited lounge access remain structurally superior to Ni
 [^niyo-vi-2026-06-22]: TelecomTalk — Vodafone Idea partners Niyo for zero markup forex card — raw/ambiguous/vodafone-idea-partners-with-niyo-to-offer-zero-markup-forex-card-for-internation.md
 [^forex-cc-2026-06-27]: raw/ambiguous/forex-card-vs-credit-card-for-international-travel-indian-guide-2026.md
 [^niyo-cardtrail-2026-06-28]: raw/ambiguous/best-zero-forex-markup-credit-cards-india-2026-ranked-by-real-value.md
+[^niyo-forex2-2026-05-07]: raw/ambiguous/the-smart-guide-to-the-best-forex-cards-in-india-2026.md

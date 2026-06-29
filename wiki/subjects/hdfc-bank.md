@@ -7,18 +7,17 @@ categories: [banks, flights, stays]
 domain_url: hdfcbank.com
 logo: null
 issuer: null
-keywords: [issuer, bank, credit-card, devaluation, cost-reduction, rewards-cut, lounge-conditional, industry-wide-tightening, forex-card, multicurrency, forexplus, consumer-guide, smartbuy, premium-travel, hni, share-of-wallet, booking-portal]
+keywords: [[issuer, bank, credit-card, devaluation, cost-reduction, rewards-cut, lounge-conditional, industry-wide-tightening, forex-card, multicurrency, forexplus, consumer-guide, smartbuy, premium-travel, hni, share-of-wallet, booking-portal]]
 signal: threat
-headline: "''HDFC Bank joins industry-wide credit card reward tightening as costs rise''"
-vitals: ["90%|Market share (top 5 banks)|Controls ~117.7M cards collectively", "SmartBuy|Proprietary booking portal|Offers higher reward multipliers for in-ecosystem travel bookings"]
-scoreboard: ["Travel Booking|High|up", "Loyalty & Rewards|High|down", "Premium Segment|High|steady"]
-last_updated: 2026-06-28
+headline: "'HDFC Bank joins industry-wide credit card reward tightening as costs rise'"
+vitals: ["['90%|Market share (top 5 banks)|Controls ~117.7M cards collectively', 'SmartBuy|Proprietary booking portal|Offers higher reward multipliers for in-ecosystem travel bookings']"]
+scoreboard: ["['Travel Booking|High|up', 'Loyalty & Rewards|High|down', 'Premium Segment|High|steady']"]
+last_updated: 2026-06-29
 ---
 
 ## What we know
 
-**SmartBuy closed-loop confirmed industry-wide** — HDFC SmartBuy is cited alongside ICICI iShop and Kotak Unbox as part of a deliberate bank strategy to keep premium travellers in-ecosystem and earn travel booking commissions alongside interchange[^prem-travel-hdfc-2026-06-28]
-**Forex markup reduced to ~2% as HNI acquisition tactic** — HDFC's ~2% forex markup on travel cards is framed as a strategic trade-off: sacrificing short-term fee income to acquire high-net-worth customers who cross-sell into savings, investments, and insurance[^prem-travel-hdfc-2026-06-28]
+**ForexPlus card benchmarked at 2% cross-currency fee** — HDFC Multicurrency Platinum ForexPlus Chip Card is listed in a May 2026 consumer guide at a 2% cross-currency fee, ₹500 + GST issuance fee, 22 currencies, and variable ATM fees (2 USD, 1 GBP)[^hdfc-forex2-2026-05-07]
 
 ## Competitor Intel
 
@@ -39,6 +38,12 @@ last_updated: 2026-06-28
 **Monitor community sentiment** — Track credit card forums and Reddit for devaluation-driven churn intent; respond fast with targeted win-back creative[^hdfc-deval-2026-06-26]
 
 ## Coverage
+
+### HDFC ForexPlus in Broad Comparison Guide — 2026-05-07
+
+A May 2026 consumer guide to India's best forex cards benchmarks HDFC's Multicurrency Platinum ForexPlus Chip Card against six competitors, noting a 2% cross-currency fee, ₹500 + GST issuance charge, and 22 supported currencies[^hdfc-forex2-2026-05-07]. HDFC's product lands in the middle tier — behind Wise (interbank rate, 40+ currencies, no fee) and slightly ahead of SBI (3% fee, 7 currencies) and ICICI (3.5% fee, 15 currencies). The guide does not position any bank forex card as a clear overall winner, with Wise leading on cost and currency breadth.
+
+No change to HDFC's broader competitive stance. The benchmarking confirms that HDFC's forex card proposition — while respectable on currency count — carries a meaningful fee premium against fintech alternatives, consistent with the pattern of bank-issued forex products yielding ground on price to specialist providers. [Inferred · Medium]
 
 ### HDFC SmartBuy Cited in HNI Battle — 2026-06-28
 
@@ -72,6 +77,7 @@ The move hands challengers like Scapia a small but concrete CX talking point: fu
 
 ## Developments
 
+- 2026-05-07 — HDFC ForexPlus in Broad Comparison Guide [^hdfc-forex2-2026-05-07]
 - 2026-06-28 — HDFC SmartBuy Cited in HNI Battle [^prem-travel-hdfc-2026-06-28]
 - 2026-06-27 — HDFC ForexPlus Named Best Bank Card [^hdfc-forex-2026-06-27]
 - 2026-06-26 — Industry Tightens Credit Card Rewards [^cc-tighten-2026-06-26]
@@ -85,3 +91,4 @@ The move hands challengers like Scapia a small but concrete CX talking point: fu
 [^cc-tighten-2026-06-26]: raw/ambiguous/credit-card-rewards-in-india-are-getting-tighter-what-is-changing.md
 [^hdfc-forex-2026-06-27]: raw/ambiguous/best-forex-cards-for-indians-travelling-abroad-in-2026-the-complete-guide.md
 [^prem-travel-hdfc-2026-06-28]: raw/ambiguous/indian-banks-battle-for-premium-travelers-with-travel-credit-cards.md
+[^hdfc-forex2-2026-05-07]: raw/ambiguous/the-smart-guide-to-the-best-forex-cards-in-india-2026.md
