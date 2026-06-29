@@ -21,6 +21,15 @@
   },
   "access_requests": [
     {
+      "id": "req_1782758992160_36699",
+      "name": "Sarthak Sarin",
+      "email": "sarthak@scapia.cards",
+      "requested_role": "leader",
+      "reason": "Platform access request",
+      "status": "pending",
+      "ts": 1782758992160
+    },
+    {
       "id": "req_1782451994366_24980",
       "name": "Karthik Rajeshwaran",
       "email": "karthik.r@scapia.cards",
