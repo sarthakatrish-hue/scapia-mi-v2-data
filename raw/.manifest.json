@@ -529,6 +529,32 @@
    "content_hash": "1e94b3cf0d8d0af9d486c2d8",
    "autonomous": true,
    "at": "2026-06-28"
+  },
+  "6a1524a76bf707469205eb3b": {
+   "url": "https://www.rbi.org.in/commonman/english/scripts/Notification.aspx?Id=1574",
+   "status": "fetch-error",
+   "at": "2026-06-29"
+  },
+  "97291bd5a7abad18a0908fc5": {
+   "url": "https://www.travelandtourworld.com/news/article/8pksb18ict36/",
+   "status": "AUTO-APPROVE",
+   "content_hash": "84dca0108fa9605edaf392c1",
+   "autonomous": true,
+   "at": "2026-06-29"
+  },
+  "61f9c17b6e7449420a70c84f": {
+   "url": "https://wise.com/in/blog/best-forex-cards",
+   "status": "AUTO-APPROVE",
+   "content_hash": "6274c602a48fb5f634d194c2",
+   "autonomous": true,
+   "at": "2026-06-29"
+  },
+  "2845ef58b3df81d6b9006e15": {
+   "url": "https://www.thomascook.in/blog/default-category/best-forex-cards-in-india",
+   "status": "AUTO-REJECT",
+   "content_hash": "038f618d05fdd13b663c0a6b",
+   "autonomous": true,
+   "at": "2026-06-29"
   }
  }
 }

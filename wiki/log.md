@@ -371,3 +371,5 @@ Append-only ingest/query/lint event log.
 ## [2026-06-29] ingest | the-smart-guide-to-the-best-forex-cards-in-india-2026.md → subjects/wise-travel-card.md, subjects/hdfc-bank.md, subjects/niyo-global-sbm.md, subjects/thomas-cook.md, sources/2026-06-29-the-smart-guide-to-the-best-forex-cards-in-india-2026.md | Auto-approved
 
 ## [2026-06-29] filter-reject | best-forex-cards-in-india-features-benefits-how-to-choose-one.md | Maker: 2/10 AUTO-REJECT — Listicle with no new strategic signal — restates generic features and known products without material facts (pricing changes, launches, pivots, financials, partnerships) about any competitor; educational content on forex mechanics and RBI rules is off-domain context, not market intelligence.
+
+## [2026-06-29] crawl | autonomous | universe 106, 10 searches + 2 feeds → 17 candidates | ingested 2/8 (vault 1, market-signal 1, feeds 0), dropped 1, queued 0, dupes 20, stale 39, irrelevant 0, errors 14
