@@ -403,3 +403,5 @@ Append-only ingest/query/lint event log.
 ## [2026-06-29] ingest | thomas-cook-forex-card-vs-wise-comparing-fees-for-travel-expenses-2025.md → subjects/thomas-cook.md, sources/2026-06-29-thomas-cook-forex-card-vs-wise-comparing-fees-for-travel-expenses-2025.md | Auto-approved
 
 ## [2026-06-29] ingest | batch b_c3e367cac1: 1 URLs — 1 ingested
+
+## [2026-06-29] query/deepdive | deepdive: HDFC Regalia Gold
