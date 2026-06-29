@@ -7,18 +7,21 @@ categories: [cards, store]
 domain_url: thomascook.in
 logo: null
 issuer: null
-keywords: [[forex-card, prepaid, multi-currency, borderless, cross-border-rewards, amazon-vouchers, rewards-programme, contactless, visa, mastercard, grab, starbucks, 28-currencies, 12-currencies, lounge-access, travel-insurance, consumer-guide]]
+keywords: [forex-card, prepaid, multi-currency, borderless, wise, fee-comparison, mid-market-rate, atm-withdrawal, cross-currency, LRS, backup-card, insurance, 9-currencies]
 signal: watch
-headline: "'Thomas Cook launches industry-first cross-border rewards on forex cards abroad'"
-vitals: ["['10%|Rewards-back on eligible POS/online spend|vs Scapia's travel-coin earn on every transaction', 'USD 10|Daily rewards cap per customer|vs Scapia's uncapped earn', '12|Currencies supported in May 2026 guide|vs 28 cited in June launch']"]
-scoreboard: ["['Loyalty & Rewards|Medium|up', 'Travel Booking|Medium|steady', 'Pricing & Fees|Medium|steady']"]
+headline: "'Thomas Cook Forex Card benchmarked against Wise on fees and travel utility'"
+vitals: ["9|Currencies (Borderless card)|vs Wise's 40+; 0|Issuance/reload fee|both zero; 3–3.5%|Cross-currency fee (non-loaded)|vs Wise's 0.43–1.36%"]
+scoreboard: ["Pricing & Fees|Medium|steady", "Travel Booking|Medium|steady"]
 last_updated: 2026-06-29
 ---
 
 ## What we know
 
-**12 currencies in May 2026 guide** — May 2026 consumer benchmark lists Thomas Cook Borderless Travel Card at 12 currencies with Thomas Cook exchange rate; no stated issuance or annual fee; one complimentary ATM withdrawal monthly then variable fees (2 USD, 1.5 GBP)[^tc-forex2-2026-05-07]
-**Travel extras confirmed** — Guide specifically notes Thomas Cook card offers extras including complimentary lounge access, subject to eligibility conditions[^tc-forex2-2026-05-07]
+**9-currency Borderless Card** — Thomas Cook's Borderless Prepaid Card supports up to nine currencies (USD, EUR, GBP and others) with fixed rates at load; One Currency Card eliminates cross-currency fees for USD[^tc-wise-2025]
+**Free ATM at Allpoint network** — Withdrawals are free at 55,000 Allpoint ATMs in USA, Canada, UK, Mexico, Australia; non-partner ATMs may incur bank fees[^tc-wise-2025]
+**Cross-currency fee applies** — Non-loaded currency transactions attract 3–3.5% cross-currency fee, a meaningful cost for unplanned multi-currency spending[^tc-wise-2025]
+**Insurance and backup card** — Card includes USD 10,000 insurance cover and a complimentary backup card; 24/7 toll-free support confirmed[^tc-wise-2025]
+**Wise mid-market advantage** — Wise converts at mid-market rate plus 0.43–1.36% per currency pair; free ATM withdrawals up to £200/month, then 1.75% + £0.50 per transaction[^tc-wise-2025]
 
 ## Competitor Intel
 
@@ -39,6 +42,12 @@ last_updated: 2026-06-29
 **Own the no-LRS credit narrative** — As Thomas Cook escalates its card marketing, Scapia should double down on "no capital lock-in, no LRS hassle, earn from rupee one" as the cleaner proposition [Inferred · Medium]
 
 ## Coverage
+
+### Thomas Cook vs Wise Fee Breakdown — 2026-06-29
+
+A 2025-focused comparison article pits Thomas Cook's Borderless Prepaid Card (nine currencies, fixed rates, free Allpoint ATM withdrawals, zero issuance/reload fees) against Wise (40+ currencies, mid-market rate, 0.43–1.36% conversion fee, £200 free ATM monthly)[^tc-wise-2025]. Thomas Cook wins on cash-heavy, structured itineraries with predictable currency needs; Wise wins on digital-payment-first trips with frequent small conversions. Neither is a travel credit card, so the piece indirectly affirms Scapia's uncapped-earn, no-capital-lockup positioning as a third, superior option.
+
+For Scapia, the competitive read is structural: both Thomas Cook and Wise compete in the prepaid/digital-debit layer, leaving the credit-card value story — no LRS obligation, earn travel coins on every rupee spent, zero forex markup — largely uncontested in this comparison frame[^tc-wise-2025]. The article confirms Thomas Cook's continued brand authority in the forex-card segment and its offline issuance advantage, but its 3–3.5% cross-currency fee on non-loaded currencies is a persistent weakness Scapia's content can exploit. [Inferred · High]
 
 ### Thomas Cook Card in Forex Benchmark — 2026-05-07
 
@@ -66,6 +75,7 @@ The guide's structural framing still favours zero-markup credit cards over prepa
 
 ## Developments
 
+- 2026-06-29 — Thomas Cook vs Wise Fee Breakdown [^tc-wise-2025]
 - 2026-05-07 — Thomas Cook Card in Forex Benchmark [^tc-forex2-2026-05-07]
 - 2026-06-29 — Thomas Cook Launches Cross-Border Rewards [^tc-rewards-2026-06-29]
 - 2026-06-27 — Thomas Cook Pitches Cards Over Cash [^tc-cash-limits-2026-06-27]
@@ -77,3 +87,4 @@ The guide's structural framing still favours zero-markup credit cards over prepa
 [^tc-cash-limits-2026-06-27]: raw/ambiguous/how-much-cash-can-you-legally-carry-while-traveling-abroad.md
 [^tc-rewards-2026-06-29]: raw/ambiguous/thomas-cook-india-s-outbound-tourism-sector-witnesses-a-historic-transition-towa.md
 [^tc-forex2-2026-05-07]: raw/ambiguous/the-smart-guide-to-the-best-forex-cards-in-india-2026.md
+[^tc-wise-2025]: raw/ambiguous/thomas-cook-forex-card-vs-wise-comparing-fees-for-travel-expenses-2025.md
