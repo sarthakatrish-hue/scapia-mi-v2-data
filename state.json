@@ -2,6 +2,18 @@
   "pending_queue": [],
   "rejection_log": [
     {
+      "id": "reject-244b7411",
+      "filename": "zomato-adds-amazon-pay-rewards-on-food-orders.md",
+      "score": "4/10",
+      "checker_score": 2,
+      "checker_reason": "Source fails relevance \u2014 Zomato is a food-delivery platform (off-domain), Amazon Pay is a general payments wallet (not a travel/fintech card player Scapia tracks or competes with), and the partnership concerns food-order rewards, not travel credit cards, co-branded cards, or any product/market Scapia operates in or benchmarks against.",
+      "band": "AUTO-REJECT",
+      "outcome": "B",
+      "reason": "Source fails relevance \u2014 Zomato is a food-delivery platform (off-domain), Amazon Pay is a general payments wallet (not a travel/fintech card player Scapia tracks or competes with), and the partnership concerns food-order rewards, not travel credit cards, co-branded cards, or any product/market Scapia operates in or benchmarks against.",
+      "maker_reason": "The partnership is a legitimate market-signal about how non-travel commerce (food delivery) and payments platforms are bundling loyalty with payment methods, but Zomato and Amazon Pay sit outside Scapia's core travel-fintech-card domain; the insight is incremental and does not directly benchmark or threaten Scapia's positioning.",
+      "timestamp": "2026-06-29"
+    },
+    {
       "id": "reject-719813c0",
       "filename": "best-forex-cards-in-india-features-benefits-how-to-choose-one.md",
       "score": "2/10",

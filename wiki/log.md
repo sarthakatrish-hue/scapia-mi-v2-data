@@ -387,3 +387,11 @@ Append-only ingest/query/lint event log.
 
 ## [2026-06-29] ingest | nykaa-bets-on-brand-loyalty-pass-to-combat-rising-competition.md | Maker: 6/10, Checker: 2/10 AUTO-APPROVE — bypassing queue
 >>>>>>> 145a02a (ingest: flipkart-uber-tie-up-to-offer-supercoins-rewards-on-rides-to-boost-loyalty.md [AUTO-APPROVE])
+
+## [2026-06-29] ingest | nykaa-bets-on-brand-loyalty-pass-to-combat-rising-competition.md → subjects/nykaa.md, sources/2026-06-29-nykaa-bets-on-brand-loyalty-pass-to-combat-rising-competition.md | Auto-approved
+
+## [2026-06-29] update | entity-registry += zomato (context) (from zomato-adds-amazon-pay-rewards-on-food-orders.md)
+
+## [2026-06-29] filter-reject | zomato-adds-amazon-pay-rewards-on-food-orders.md | Maker: 4/10, Checker: 2/10 (Outcome B downgrade — Source fails relevance — Zomato is a food-delivery platform (off-domain), Amazon Pay is a general payments wallet (not a travel/fintech card player Scapia tracks or competes with), and the partnership concerns food-order rewards, not travel credit cards, co-branded cards, or any product/market Scapia operates in or benchmarks against.) AUTO-REJECT — The partnership is a legitimate market-signal about how non-travel commerce (food delivery) and payments platforms are bundling loyalty with payment methods, but Zomato and Amazon Pay sit outside Scapia's core travel-fintech-card domain; the insight is incremental and does not directly benchmark or threaten Scapia's positioning.
+
+## [2026-06-29] ingest | batch b_c45e7ec2c1: 3 URLs — 2 ingested, 1 rejected

@@ -60,7 +60,7 @@ treated as context until promoted).
 
 ## Competitors
 
-- nykaa | competitor | Nykaa Fashion Ltd. | added_by: agent 2026-06-29 · source: nykaa-bets-on-brand-loyalty-pass-to-combat-rising-competition.md · E-commerce beauty and fashion retailer with loyalty and rewards offerings
+- nykaa | competitor | Nykaa Fashion Ltd. | domain: nykaa.com | added_by: agent 2026-06-29 · source: nykaa-bets-on-brand-loyalty-pass-to-combat-rising-competition.md · E-commerce beauty and fashion retailer with loyalty and rewards offerings
 
 - setu | competitor | Setu (Pine Labs unit) | newly-surfaced · added_by: agent 2026-06-28 · source: openai-deepens-india-push-with-pine-labs-fintech-partnership.md · Bill-payment and embedded-finance unit experimenting with AI-driven chatbot payments; agent-led commerce signal
 
@@ -203,6 +203,8 @@ treated as context until promoted).
 - hdfc-bank | competitor | HDFC Bank | domain: hdfcbank.com | added_by: agent 2026-06-22 · source: 2026-06-22-hdfc-regalia-gold-revamp.md · Indian systemically important bank; issuer of co-branded and proprietary premium travel credit cards (Regalia Gold, Regalia Platinum, etc.); major benchmark in India's premium segment.
 
 ## Context (never gets a page)
+
+- zomato | context | Zomato | added_by: agent 2026-06-29 · source: zomato-adds-amazon-pay-rewards-on-food-orders.md · food-delivery platform; not in travel, fintech, or card ecosystem
 
 - uber | context | Uber | added_by: agent 2026-06-29 · source: flipkart-uber-tie-up-to-offer-supercoins-rewards-on-rides-to-boost-loyalty.md · Global mobility platform (India ride-hailing and delivery); outside fintech/travel/cards ecosystem but signals loyalty-reward consolidation trends.
 
