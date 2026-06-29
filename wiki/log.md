@@ -361,3 +361,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-28] ingest | openai-deepens-india-push-with-pine-labs-fintech-partnership.md → subjects/openai.md, sources/2026-06-28-openai-deepens-india-push-with-pine-labs-fintech-partnership.md | Auto-approved
 
 ## [2026-06-28] crawl | autonomous | universe 97, 7 searches + 2 feeds → 18 candidates | ingested 8/8 (vault 2, market-signal 6, feeds 0), dropped 4, queued 0, dupes 12, stale 39, irrelevant 3, errors 3
+
+## [2026-06-29] ingest | thomas-cook-india-s-outbound-tourism-sector-witnesses-a-historic-transition-towa.md | Maker: 7/10, Checker: 6/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-29] ingest | thomas-cook-india-s-outbound-tourism-sector-witnesses-a-historic-transition-towa.md → subjects/thomas-cook.md, sources/2026-06-29-thomas-cook-india-s-outbound-tourism-sector-witnesses-a-historic-transition-towa.md | Auto-approved

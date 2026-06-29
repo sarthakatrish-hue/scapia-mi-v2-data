@@ -13,7 +13,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/premium-travel-cards-india-market]] — "Indian banks race for HNI travellers, sacrificing forex fees for long-term wallet share"
 - [[subjects/zero-forex-card-market-india-2026]] — "Zero-forex cards entering mass consumer awareness as 2026 guides rank real value"
 - [[subjects/idfc-first-millennia]] — "IDFC FIRST Select ranked best all-round zero-forex travel card in 2026 guide"
-- [[subjects/thomas-cook]] — "Thomas Cook guide details RBI cash and LRS rules shaping forex product choice"
+- [[subjects/thomas-cook]] — "Thomas Cook launches industry-first cross-border rewards on forex cards abroad"
 - [[subjects/wise-travel-card]] — "Wise named preferred fintech tool among India's affluent international travellers"
 - [[subjects/forex-credit-card-india-travel]] — "Zero-markup credit cards now match forex cards as Indians hit $31.7B LRS spend"
 - [[subjects/suryoday-sfb]] — Suryoday SFB scales embedded UPI credit to 530,000 prime borrowers via Paytm

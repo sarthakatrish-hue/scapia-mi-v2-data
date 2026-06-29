@@ -3,43 +3,53 @@ subject: "Thomas Cook India"
 type: subject
 role: competitor
 domains: [fintech, travel]
-categories: [cards, flights, stays, experiences]
+categories: [cards, store]
 domain_url: thomascook.in
 logo: null
 issuer: null
-keywords: [forex-card, prepaid, multi-currency, borderless, same-day-issuance, 9-currencies, consumer-guide, cross-currency-fee-waived, cash-limit, lrs, forex-notes, authorized-dealer]
+keywords: [forex-card, prepaid, multi-currency, borderless, cross-border-rewards, amazon-vouchers, rewards-programme, contactless, visa, mastercard, grab, starbucks, 28-currencies]
 signal: watch
-headline: "'Thomas Cook guide details RBI cash and LRS rules shaping forex product choice'"
-vitals: ["9|Max currencies loaded|vs single billing currency Scapia", "Same-day|Issuance speed|vs digital-only Scapia", "USD 3,000|Max cash per trip|RBI rule Thomas Cook must comply with"]
-last_updated: 2026-06-27
+headline: "'Thomas Cook launches industry-first cross-border rewards on forex cards abroad'"
+vitals: ["10%|Rewards-back on eligible POS/online spend|vs Scapia's travel-coin earn on every transaction", "USD 10|Daily rewards cap per customer|vs Scapia's uncapped earn", "28|Currencies supported|vs Scapia's zero-markup on any currency"]
+scoreboard: ["Loyalty & Rewards|Medium|up", "Travel Booking|Medium|steady", "Pricing & Fees|Medium|steady"]
+last_updated: 2026-06-29
 ---
 
 ## What we know
 
-**RBI-authorized forex dealer** — Thomas Cook is explicitly positioned as an RBI-approved authorized dealer for foreign exchange, giving it regulatory standing to sell forex notes and prepaid cards[^tc-cash-limits-2026-06-27]
-**USD 3,000 cash ceiling applies** — Thomas Cook's own guide cites the RBI rule limiting physical foreign currency to USD 3,000 per trip; remainder must be on cards or cheques — directly shapes its product pitch[^tc-cash-limits-2026-06-27]
-**Cash-vs-card narrative** — Guide actively steers customers from cash toward Thomas Cook's Travel Forex Cards, citing ATM charge-free withdrawals and rate-lock as advantages over international debit/credit cards[^tc-cash-limits-2026-06-27]
-**Penalties for excess cash** — Thomas Cook warns of confiscation, heavy fines, and potential arrest for exceeding declared currency limits — reinforcing forex card as the compliant, safe alternative[^tc-cash-limits-2026-06-27]
-**Rs 50,000 cash purchase cap** — Foreign exchange under Rs 50,000 can be bought in cash; above that requires crossed cheque, demand draft, debit/credit card, or forex prepaid card[^tc-cash-limits-2026-06-27]
+**10% cross-border rewards launched** — Thomas Cook India's new programme rewards 10% back on eligible POS, contactless, and online forex card transactions at international brands including Grab, 7-Eleven, Starbucks, McDonald's, KFC, Careem, and Burger King[^tc-rewards-2026-06-29]
+**USD 25 minimum, USD 10 daily cap** — Each qualifying transaction must be at least USD 25; rewards are capped at USD 10 per customer per day across all participating merchants[^tc-rewards-2026-06-29]
+**Amazon voucher redemption** — Rewards are issued as Amazon vouchers, providing a tangible but indirect redemption path (not travel credit or forex top-up)[^tc-rewards-2026-06-29]
+**Visa and Mastercard enabled** — Programme applies across all Visa and Mastercard-enabled forex cards issued by Thomas Cook India, ensuring broad merchant acceptance globally[^tc-rewards-2026-06-29]
+**28 currencies now supported** — CBO Deepesh Varma cited recent expansion to 28 currencies alongside the rewards launch, strengthening the Borderless Card's multi-destination appeal[^tc-rewards-2026-06-29]
+**Cash-to-card behavioural push** — Programme explicitly aims to shift travellers from ATM cash withdrawals to contactless card-based retail transactions, reducing fee leakage and improving traceability[^tc-rewards-2026-06-29]
+**Google Pay integration active** — Forex cards are integrated with Google Pay for contactless and mobile-first usage at international merchants[^tc-rewards-2026-06-29]
 
 ## Competitor Intel
 
 ### Where we win
-**Credit card model** — Thomas Cook Borderless is a prepaid card requiring upfront capital lock-in under LRS; Scapia is a credit card with no pre-loading required[^tc-forex-2026-06-27]
-**Rewards on every transaction** — Prepaid forex cards earn no travel rewards; Scapia earns travel coins on international and domestic spend alike[^tc-forex-2026-06-27]
-**No lounge access** — Thomas Cook's card carries no lounge benefit; Scapia's unlimited domestic lounge access is unchallenged in this comparison[^tc-forex-2026-06-27]
-**Digital-first convenience** — Scapia issues instantly via app; Thomas Cook requires in-person or counter interaction even for same-day issuance[^tc-forex-2026-06-27]
+**Credit, not pre-loaded cash** — Scapia is a credit card requiring no capital lock-in under LRS; Thomas Cook's forex card still demands upfront loading and subjects travellers to LRS compliance[^tc-rewards-2026-06-29]
+**Uncapped, auto-earn rewards** — Scapia earns travel coins on every transaction without a daily USD 10 cap, a USD 25 minimum, or the friction of Amazon-voucher redemption[^tc-rewards-2026-06-29]
+**Lounge + travel ecosystem** — Scapia's unlimited domestic lounge access and native travel booking remain unmatched by Thomas Cook's card-only offer[^tc-rewards-2026-06-29]
+**Simpler earn mechanics** — Thomas Cook's programme is merchant-specific and capped; Scapia's rewards apply universally — easier to understand and more valuable for high spenders[^tc-rewards-2026-06-29]
 
 ### Where they're ahead
-**Physical distribution** — Thomas Cook's branch and counter network enables same-day issuance for last-minute travellers, including those without strong digital fluency[^tc-forex-2026-06-27]
-**Multi-currency rate locking** — 9-currency card lets travellers pre-lock rates across destinations; credit cards convert at time of transaction[^tc-forex-2026-06-27]
-**Brand trust for cautious travellers** — Decades of forex heritage lends credibility with older or first-time international travellers not yet comfortable with fintech apps[^tc-forex-2026-06-27]
+**Rewards now on daily categories abroad** — 10% back at Grab, Starbucks, McDonald's, and similar brands fills a real gap that prepaid cards historically lacked; this directly competes with Scapia's value narrative for frequent international spenders[^tc-rewards-2026-06-29]
+**28-currency rate locking** — Pre-loading at a fixed rate across 28 currencies hedges forex volatility in a way credit cards, which convert at transaction time, cannot match[^tc-rewards-2026-06-29]
+**Physical branch network** — Same-day issuance at counters serves last-minute and digitally hesitant travellers Scapia's app-only model does not yet reach[^tc-rewards-2026-06-29]
 
 ### What to do
-**Target the last-minute traveller** — Thomas Cook's same-day issuance is its key hook; Scapia should highlight instant digital issuance and immediate card-in-app usability as equally fast for digital-native travellers[^tc-forex-2026-06-27]
-**Counter the multi-currency narrative** — Publish content explaining why zero-forex-markup on any currency at transaction time is equivalent or better than pre-loading 9 currencies for most travel patterns [Inferred · Medium]
+**Highlight uncapped vs capped** — Thomas Cook's USD 10/day ceiling becomes a liability for moderate-to-heavy spenders; Scapia content should quantify the gap on a typical ₹1–2L international trip [Inferred · High]
+**Counter the Amazon-voucher friction** — Scapia's travel coins redeem directly against bookings; Thomas Cook's rewards require an extra Amazon step — make this contrast explicit in comparison content[^tc-rewards-2026-06-29]
+**Own the no-LRS credit narrative** — As Thomas Cook escalates its card marketing, Scapia should double down on "no capital lock-in, no LRS hassle, earn from rupee one" as the cleaner proposition [Inferred · Medium]
 
 ## Coverage
+
+### Thomas Cook Launches Cross-Border Rewards — 2026-06-29
+
+Thomas Cook India has introduced what it claims is an industry-first cross-border rewards programme on its prepaid forex cards, offering 10% rewards-back on eligible transactions at high-frequency international merchants — Grab, Starbucks, 7-Eleven, McDonald's, KFC, Careem, and Burger King — across POS, contactless, and online channels[^tc-rewards-2026-06-29]. A USD 25 per-transaction minimum and a USD 10 daily cap apply, with rewards paid as Amazon vouchers. CBO Deepesh Varma framed the launch as part of a deliberate push to accelerate the shift from ATM cash withdrawals to contactless card spending abroad[^tc-rewards-2026-06-29].
+
+The move materially closes the reward-gap that historically made prepaid forex cards inferior to travel credit cards on value[^tc-rewards-2026-06-29]. For Scapia, the immediate implication is that Thomas Cook's Borderless Card now competes more credibly on the "earn while you travel" axis — but the daily USD 10 cap and Amazon-only redemption leave meaningful space for Scapia's uncapped, travel-native coin model to differentiate, particularly for higher-spend travellers [Inferred · High].
 
 ### Thomas Cook Pitches Cards Over Cash — 2026-06-27
 
@@ -55,6 +65,7 @@ The guide's structural framing still favours zero-markup credit cards over prepa
 
 ## Developments
 
+- 2026-06-29 — Thomas Cook Launches Cross-Border Rewards [^tc-rewards-2026-06-29]
 - 2026-06-27 — Thomas Cook Pitches Cards Over Cash [^tc-cash-limits-2026-06-27]
 - 2026-06-27 — Thomas Cook Card in 2026 Guide [^tc-forex-2026-06-27]
 
@@ -62,3 +73,4 @@ The guide's structural framing still favours zero-markup credit cards over prepa
 
 [^tc-forex-2026-06-27]: raw/ambiguous/best-forex-cards-for-indians-travelling-abroad-in-2026-the-complete-guide.md
 [^tc-cash-limits-2026-06-27]: raw/ambiguous/how-much-cash-can-you-legally-carry-while-traveling-abroad.md
+[^tc-rewards-2026-06-29]: raw/ambiguous/thomas-cook-india-s-outbound-tourism-sector-witnesses-a-historic-transition-towa.md
