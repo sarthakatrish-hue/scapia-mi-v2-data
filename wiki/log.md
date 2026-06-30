@@ -413,3 +413,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-30] ingest | sbi-card-s-new-lounge-access-rules-from-2026-key-changes-for-flyers.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-30] ingest | sbi-card-s-new-lounge-access-rules-from-2026-key-changes-for-flyers.md → subjects/sbi-card.md, sources/2026-06-30-sbi-card-s-new-lounge-access-rules-from-2026-key-changes-for-flyers.md | Auto-approved
+
+## [2026-06-30] update | entity-registry += benepik (context) (from gift-cards-become-the-new-currency-of-rewards-loyalty-in-india-benepik-drives-th.md)
+
+## [2026-06-30] filter-reject | gift-cards-become-the-new-currency-of-rewards-loyalty-in-india-benepik-drives-th.md | Maker: 4/10, Checker: 2/10 (Outcome B downgrade — Source is pure promotional content about Benepik (a rewards/loyalty vendor with no card, payment, or travel product) — no verifiable facts about tracked Scapia competitors, partners, regulators, or the fintech/travel/card ecosystem Scapia operates in.) AUTO-REJECT — The source is promotional content about Benepik's gift-card platform and market position in India's loyalty space, which touches Scapia's store and redemption categories, but carries no competitive intelligence about Scapia's rivals, no material financials or pivots, and no strategic market signals beyond vendor marketing.

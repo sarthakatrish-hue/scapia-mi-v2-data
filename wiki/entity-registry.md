@@ -204,6 +204,8 @@ treated as context until promoted).
 
 ## Context (never gets a page)
 
+- benepik | context | Benepik | newly-surfaced · added_by: agent 2026-06-30 · source: gift-cards-become-the-new-currency-of-rewards-loyalty-in-india-benepik-drives-th.md · India rewards and loyalty platform with 350+ gift cards and 800+ enterprise clients
+
 - zomato | context | Zomato | added_by: agent 2026-06-29 · source: zomato-adds-amazon-pay-rewards-on-food-orders.md · food-delivery platform; not in travel, fintech, or card ecosystem
 
 - uber | context | Uber | added_by: agent 2026-06-29 · source: flipkart-uber-tie-up-to-offer-supercoins-rewards-on-rides-to-boost-loyalty.md · Global mobility platform (India ride-hailing and delivery); outside fintech/travel/cards ecosystem but signals loyalty-reward consolidation trends.

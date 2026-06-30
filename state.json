@@ -2,6 +2,18 @@
   "pending_queue": [],
   "rejection_log": [
     {
+      "id": "reject-296ef301",
+      "filename": "gift-cards-become-the-new-currency-of-rewards-loyalty-in-india-benepik-drives-th.md",
+      "score": "4/10",
+      "checker_score": 2,
+      "checker_reason": "Source is pure promotional content about Benepik (a rewards/loyalty vendor with no card, payment, or travel product) \u2014 no verifiable facts about tracked Scapia competitors, partners, regulators, or the fintech/travel/card ecosystem Scapia operates in.",
+      "band": "AUTO-REJECT",
+      "outcome": "B",
+      "reason": "Source is pure promotional content about Benepik (a rewards/loyalty vendor with no card, payment, or travel product) \u2014 no verifiable facts about tracked Scapia competitors, partners, regulators, or the fintech/travel/card ecosystem Scapia operates in.",
+      "maker_reason": "The source is promotional content about Benepik's gift-card platform and market position in India's loyalty space, which touches Scapia's store and redemption categories, but carries no competitive intelligence about Scapia's rivals, no material financials or pivots, and no strategic market signals beyond vendor marketing.",
+      "timestamp": "2026-06-30"
+    },
+    {
       "id": "reject-244b7411",
       "filename": "zomato-adds-amazon-pay-rewards-on-food-orders.md",
       "score": "4/10",
