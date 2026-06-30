@@ -2,6 +2,18 @@
   "pending_queue": [],
   "rejection_log": [
     {
+      "id": "reject-66d545b8",
+      "filename": "axis-bank-s-burgundy-private-expands-its-footprint-to-15-new-cities.md",
+      "score": "2/10",
+      "checker_score": null,
+      "checker_reason": null,
+      "band": "AUTO-REJECT",
+      "outcome": null,
+      "reason": "The source describes a private banking expansion with no connection to credit cards, travel, payments, fintech, UPI, or commerce-loyalty ecosystems; Axis Bank is a tracked competitor, but only for its card products (Axis Atlas, Axis Ace, etc.), not private wealth management.",
+      "maker_reason": "The source describes a private banking expansion with no connection to credit cards, travel, payments, fintech, UPI, or commerce-loyalty ecosystems; Axis Bank is a tracked competitor, but only for its card products (Axis Atlas, Axis Ace, etc.), not private wealth management.",
+      "timestamp": "2026-06-30"
+    },
+    {
       "id": "reject-141a1150",
       "filename": "axis-bank-s-burgundy-private-and-hurun-india-release-the-fifth-edition-of-the-50.md",
       "score": "3/10",
