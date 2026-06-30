@@ -555,6 +555,122 @@
    "content_hash": "038f618d05fdd13b663c0a6b",
    "autonomous": true,
    "at": "2026-06-29"
+  },
+  "03db98b1e61bdd4892a3055b": {
+   "url": "https://technofino.in/community/threads/new-air-india-co-branded-credit-cards.42801/",
+   "status": "no-relevant-article",
+   "at": "2026-06-30"
+  },
+  "a7d6dd2379924759fc0a1791": {
+   "url": "https://www.rbi.org.in/commonman/english/scripts/FAQs.aspx?Id=829",
+   "status": "fetch-error",
+   "at": "2026-06-30"
+  },
+  "a715571d99017b4f6d1646c0": {
+   "url": "https://www.business-standard.com/finance/personal-finance/no-more-hidden-forex-charges-wise-opens-waitlist-for-travel-card-in-india-125120800575_1.html",
+   "status": "AUTO-APPROVE",
+   "content_hash": "a3dc60506cd3edc253deb989",
+   "autonomous": true,
+   "at": "2026-06-30"
+  },
+  "84ce302d81ada8ae48fba52d": {
+   "url": "https://www.business-standard.com/finance/personal-finance/sbi-card-s-new-lounge-access-rules-from-2026-key-changes-for-flyers-125121000540_1.html",
+   "status": "AUTO-APPROVE",
+   "content_hash": "c8aa53f511304b2438b2aa76",
+   "autonomous": true,
+   "at": "2026-06-30"
+  },
+  "84a3ece5aa1dc33ff2e4c699": {
+   "url": "https://www.business-standard.com/content/press-releases-ani/gift-cards-become-the-new-currency-of-rewards-loyalty-in-india-benepik-drives-the-shift-125112001076_1.html",
+   "status": "AUTO-REJECT",
+   "content_hash": "e15d9182b253e779361f4350",
+   "autonomous": true,
+   "at": "2026-06-30"
+  },
+  "2fa339ce88b19bcad33961ea": {
+   "url": "https://www.business-standard.com/finance/personal-finance/big-cashback-for-flipkart-myntra-shoppers-new-sbi-co-branded-card-decoded-125082700102_1.html",
+   "status": "AUTO-APPROVE",
+   "content_hash": "f51a717c5420e87d36f14459",
+   "autonomous": true,
+   "at": "2026-06-30"
+  },
+  "428055db173eecefc162aba6": {
+   "url": "https://www.business-standard.com/companies/news/axis-bank-raises-800-million-through-dual-tranche-dollar-bonds-126062400317_1.html",
+   "status": "LAYER2",
+   "content_hash": "13997c3c56012ccc5bab0f05",
+   "autonomous": true,
+   "at": "2026-06-30"
+  },
+  "3470b924ff71304dc81deaf7": {
+   "url": "https://www.cardexpert.in/bobcard-etihad-guest-premium-credit-card-review/",
+   "status": "AUTO-APPROVE",
+   "content_hash": "6f6a46f5c79fd76a329e9eae",
+   "autonomous": true,
+   "at": "2026-06-30"
+  },
+  "74a9731dc62de693db79728b": {
+   "url": "https://hubbis.com/news/axis-bank-s-burgundy-private-and-hurun-india-release-the-fourth-edition-of-the-500-most-valuable-non-state-run-companies-in-india",
+   "status": "AUTO-REJECT",
+   "content_hash": "86aebda5e3364ae879f907e5",
+   "autonomous": true,
+   "at": "2026-06-30"
+  },
+  "fec03febb3d3000a509b453e": {
+   "url": "https://www.hubbis.com/news/axis-bank-s-burgundy-private-expands-its-footprint-to-15-new-cities",
+   "status": "LAYER2",
+   "content_hash": "75d1bfe081c5aa82717b6d5c",
+   "autonomous": true,
+   "at": "2026-06-30"
+  },
+  "f859e2ab47ee94b15590defd": {
+   "url": "https://indiaeducationdiary.in/axis-banks-burgundy-private-and-hurun-india-release-the-fifth-edition-of-the-500-most-valuable-non-state-run-companies-in-india/",
+   "status": "AUTO-REJECT",
+   "content_hash": "ea942b7190ba9286fbe18ff0",
+   "autonomous": true,
+   "at": "2026-06-30"
+  },
+  "6a0924154c203fabe9d66952": {
+   "url": "https://www.axis.bank.in/about-us/press-releases/axis-bank-s-burgundy-private-expands-its-footprint-to-15-new-cities",
+   "status": "AUTO-REJECT",
+   "content_hash": "812267f3c3deeb302c0dcfb6",
+   "autonomous": true,
+   "at": "2026-06-30"
+  },
+  "babdff85170701cff90154f4": {
+   "url": "https://smestreet.in/banking/axis-banks-burgundy-private-and-hurun-india-release-the-5-edition-of-the-500-most-valuable-non-state-run-companies-in-india-12068535",
+   "status": "AUTO-APPROVE",
+   "content_hash": "15ee83085613bd65e9b3e105",
+   "autonomous": true,
+   "at": "2026-06-30"
+  },
+  "c993c9c9b10b0c8f1eae7e10": {
+   "url": "https://www.axisbank.com/about-us/press-releases/axis-bank-s-burgundy-private-expands-its-footprint-to-15-new-cities",
+   "status": "AUTO-APPROVE",
+   "content_hash": "e3b9161bfef265e67ecdb51c",
+   "autonomous": true,
+   "at": "2026-06-30"
+  },
+  "7be03e9658e5c518266933f6": {
+   "url": "https://www.axis.bank.in/burgundy-private/our-insights",
+   "status": "no-relevant-article",
+   "at": "2026-06-30"
+  },
+  "ba511b88575ec092f7208eee": {
+   "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/why-axis-bank-burgundy-private-is-pushing-wealth-banking-into-living-rooms/69570423",
+   "status": "AUTO-APPROVE",
+   "content_hash": "d5cea638d40b48bdb88fe42c",
+   "autonomous": true,
+   "at": "2026-06-30"
+  },
+  "ca2a51c3830ba1bbcc2aa46e": {
+   "url": "https://www.axis.bank.in/about-us/press-releases",
+   "status": "no-relevant-article",
+   "at": "2026-06-30"
+  },
+  "cc9e625554322eb57ed413ba": {
+   "url": "https://www.axis.bank.in/burgundy",
+   "status": "no-relevant-article",
+   "at": "2026-06-30"
   }
  }
 }
