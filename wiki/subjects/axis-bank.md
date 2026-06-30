@@ -3,38 +3,50 @@ subject: "Axis Bank"
 type: subject
 role: competitor
 domains: [fintech, travel]
-categories: [banks, flights, stays]
+categories: [banks, cards]
 domain_url: axisbank.com
 logo: null
 issuer: null
-keywords: [issuer, bank, devaluation, reward-points, forfeiture, fragmented-disclosure, transfer-partners, lounge-removal, april-2026, mitc-violation, insurance, utility, rent-fee, club-vistara, vistara-merger, co-brand-wind-down, partner-removal]
+keywords: [[issuer, bank, devaluation, reward-points, forfeiture, fragmented-disclosure, transfer-partners, lounge-removal, april-2026, mitc-violation, insurance, utility, rent-fee, club-vistara, vistara-merger, co-brand-wind-down, partner-removal, private-banking, wealth-management, burgundy-private, hurun-india-500, aum, hnwi]]
 signal: threat
-headline: "'Axis Bank removes Qatar Airways, Accor, and Marriott from cards without prior notice'"
-vitals: ["['1 Apr 2026|Reward cap date|Insurance and utility payments capped']"]
-scoreboard: ["Loyalty & Rewards|High|down", "Partnerships|Medium|down"]
-last_updated: 2026-06-26
+headline: "'Axis Bank's Burgundy Private AUM hits $27bn as wealth segment accelerates'"
+vitals: ["['['1 Apr 2026|Reward cap date|Insurance and utility payments capped']', '['US$27bn|Burgundy Private AUM|15% YoY growth as of May 2026']']"]
+scoreboard: ["Loyalty & Rewards|High|down", "Partnerships|Medium|down", "Premium Segment|High|up"]
+last_updated: 2026-06-30
 ---
 
 ## What we know
 
-**Partner removals confirmed market-wide** — Axis removing Qatar Airways, Accor, and Marriott from select cards — often without prior notice — is now cited in market-wide coverage as emblematic of the industry's devaluation approach[^cc-tighten-axis-2026-06-26]
+**Burgundy Private AUM surges** — Axis Bank's private banking arm reached US$27bn AUM as of May 2026, up 15% YoY, underscoring deep HNWI penetration[^burgundy-2026-06-30]
+**Fifth Hurun list released** — The 2025 Burgundy Private Hurun India 500 ranks India's 500 most valuable companies at a combined $3.4 trillion; 95 new entrants, the highest ever[^burgundy-2026-06-30]
+**Entry threshold rising** — Minimum valuation to qualify grew 7% YoY to INR 10,230 crore (~$1.1bn), reflecting market-wide capital appreciation[^burgundy-2026-06-30]
+**AI and defence featured prominently** — Four AI pure-plays and five new Aerospace & Defence companies debuted, signalling where Axis's HNWI clients are allocating capital[^burgundy-2026-06-30]
+**Financial services leads by value** — 83 companies valued at INR 69.2 lakh crore, 22% of cumulative list value; Groww's 430% surge cited as democratisation of retail investing[^burgundy-2026-06-30]
 
 ## Competitor Intel
 
 ### Where we win
-**No co-brand programme collapse** — Axis is simultaneously winding down its Club Vistara portfolio (three card variants, all benefits discontinued) while also cutting rewards on domestic spend categories; Scapia has no equivalent structural vulnerability[^axis-apr2025-cc]
-**No overnight benefit removal** — Scapia does not strip core earn categories without notice; Axis's pattern of unannounced devaluations is a repeated trust breach[^card-rules-apr2026]
-**No category-specific caps** — Scapia's travel-first earn structure does not impose separate caps on insurance or utility payments[^card-rules-apr2026]
+**No co-brand programme collapse** — Axis is winding down Club Vistara cards and cutting rewards portfolio-wide; Scapia has no equivalent structural vulnerability[^axis-apr2025-cc]
+**No overnight benefit removal** — Scapia does not strip core earn categories without notice; Axis's MITC-violation devaluations are a repeated trust breach[^card-rules-apr2026]
+**No category-specific caps** — Scapia's travel-first earn structure imposes no separate caps on insurance or utility payments[^card-rules-apr2026]
 
 ### Where they're ahead
-**Residual travel ecosystem** — Even post-devaluation, Axis Travel Edge retains airline and hotel transfer partners — a redemption network Scapia does not currently offer[^axis-apr2026]
+**Massive HNWI wealth ecosystem** — Burgundy Private's $27bn AUM and co-branded Hurun report cement Axis as the default bank for India's wealthiest families — a relationship moat Scapia cannot currently match[^burgundy-2026-06-30]
+**Residual travel ecosystem** — Even post-devaluation, Axis Travel Edge retains airline and hotel transfer partners — a redemption network Scapia does not yet offer[^axis-apr2026]
 **Portfolio breadth** — Axis covers cashback, everyday spend, and premium travel — a full card ladder Scapia cannot yet match[^axis-apr2026]
 
 ### What to do
-**Target Vistara Infinite holders** — The Axis Vistara Infinite was a premium travel card; holders losing Club Maharaja membership and upgrade vouchers are high-value prospects for Scapia's premium travel narrative[^axis-apr2025-cc]
-**Amplify the devaluation cadence** — Axis has now devalued in April 2025 (Vistara wind-down) and April 2026 (transfer partners, insurance caps); the frequency of cuts is itself a competitive narrative [Inferred · High]
+**Target new-wealth entrepreneurs** — The Hurun list highlights wealth creation beyond Mumbai/Bengaluru in 50 cities, 18 states; Scapia's mobile-native travel card can reach these emerging HNWIs before Burgundy Private's relationship managers do [Inferred · Medium]
+**Amplify the devaluation cadence** — Axis has devalued in April 2025 (Vistara wind-down) and April 2026 (transfer partners, insurance caps); the frequency of cuts is itself a competitive narrative [Inferred · High]
+**Target Vistara Infinite holders** — Premium travel cardholders losing Club Maharaja membership and upgrade vouchers are high-value Scapia acquisition prospects[^axis-apr2025-cc]
 
 ## Coverage
+
+### Burgundy Private Wealth Arm Grows Fast — 2026-06-30
+
+Axis Bank's private banking unit, Burgundy Private, released the fifth edition of its Hurun India 500 report, ranking India's 500 most valuable private companies at a combined $3.4 trillion[^burgundy-2026-06-30]. The occasion doubled as a platform for Axis to announce that Burgundy Private AUM has grown to US$27bn as of May 2026 — a 15% YoY rise — reinforcing its position as the dominant private bank for India's wealthiest families[^burgundy-2026-06-30]. The report itself flags 95 new entrants (the most ever), four AI pure-plays, and a mainstreaming of renewable energy on the list.
+
+For Scapia, the signal is strategic context rather than direct threat: Axis is investing heavily in the HNWI wealth relationship layer precisely as it devalues its card products[^axis-apr2026]. New wealth is emerging in 50 cities across 18 states — entrepreneurs and founders who may not yet have a Burgundy relationship but do travel internationally and seek a modern travel card. That is Scapia's opening [Inferred · Medium].
 
 ### Axis Partner Removals Cited Industry-Wide — 2026-06-26
 
@@ -68,6 +80,7 @@ The pattern matters for Scapia's positioning: the combination of tighter forfeit
 
 ## Developments
 
+- 2026-06-30 — Burgundy Private Wealth Arm Grows Fast [^burgundy-2026-06-30]
 - 2026-06-26 — Axis Partner Removals Cited Industry-Wide [^cc-tighten-axis-2026-06-26]
 - 2025-04-18 — Axis Winds Down Vistara Cards [^axis-apr2025-cc]
 - 2026-04-01 — Axis Caps Insurance, Utility Rewards [^card-rules-apr2026]
@@ -81,3 +94,4 @@ The pattern matters for Scapia's positioning: the combination of tighter forfeit
 [^card-rules-apr2026]: raw/ambiguous/9-major-credit-card-rule-changes-in-india-2026.md
 [^axis-apr2025-cc]: raw/ambiguous/watch-out-major-changes-for-credit-cards-from-april-1-2025.md
 [^cc-tighten-axis-2026-06-26]: raw/ambiguous/credit-card-rewards-in-india-are-getting-tighter-what-is-changing.md
+[^burgundy-2026-06-30]: raw/ambiguous/axis-bank-s-burgundy-private-and-hurun-india-release-the-5-edition-of-the-500-mo.md
