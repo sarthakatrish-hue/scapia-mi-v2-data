@@ -433,3 +433,5 @@ Append-only ingest/query/lint event log.
 ## [2026-06-30] ingest | bobcard-etihad-guest-premium-credit-card-review-cardexpert.md → subjects/bobcard-etihad-guest-premium-credit-card.md, subjects/bobcard.md, subjects/sbi-card.md, sources/2026-06-30-bobcard-etihad-guest-premium-credit-card-review-cardexpert.md | Auto-approved
 
 ## [2026-06-30] filter-reject | axis-bank-s-burgundy-private-and-hurun-india-release-the-fourth-edition-of-the-5.md | Maker: 2/10 AUTO-REJECT — The source is a co-brand marketing announcement about a corporate ranking list with no substantive intelligence about travel, cards, payments, credit, or AI-driven commerce — Axis Bank's Burgundy Private is a wealth-management arm, not a card or travel competitor, and the ranking itself is generic business/macro context unrelated to Scapia's domains.
+
+## [2026-06-30] crawl-drop | axis-bank-s-burgundy-private-expands-its-footprint-to-15-new-cities.md | Maker: 5/10, Checker: 5/10 LAYER2 — dropped (autonomous, no queue)
