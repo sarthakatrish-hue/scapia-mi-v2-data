@@ -423,3 +423,5 @@ Append-only ingest/query/lint event log.
 ## [2026-06-30] ingest | big-cashback-for-flipkart-myntra-shoppers-new-sbi-co-branded-card-decoded.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-30] ingest | big-cashback-for-flipkart-myntra-shoppers-new-sbi-co-branded-card-decoded.md → subjects/flipkart-sbi-card.md, sources/2026-06-30-big-cashback-for-flipkart-myntra-shoppers-new-sbi-co-branded-card-decoded.md | Auto-approved
+
+## [2026-06-30] crawl-drop | axis-bank-raises-800-million-through-dual-tranche-dollar-bond-sale.md | Maker: 4/10, Checker: 5/10 LAYER2 — dropped (autonomous, no queue)
