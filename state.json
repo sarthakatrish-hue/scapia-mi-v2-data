@@ -2,6 +2,18 @@
   "pending_queue": [],
   "rejection_log": [
     {
+      "id": "reject-141a1150",
+      "filename": "axis-bank-s-burgundy-private-and-hurun-india-release-the-fifth-edition-of-the-50.md",
+      "score": "3/10",
+      "checker_score": null,
+      "checker_reason": null,
+      "band": "AUTO-REJECT",
+      "outcome": null,
+      "reason": "While Axis Bank (a tracked competitor) is featured, the source is primarily a corporate wealth-ranking announcement with limited fintech-domain specificity \u2014 it mentions Groww's valuation surge and financial services sector leadership, but contains no material intelligence about cards, credit, payments, travel bookings, loyalty, earn rates, or competitive positioning vs. Scapia or other travel/card players. The source reads as corporate PR for Burgundy Private and Hurun India's partnership rather than market intelligence on Scapia's competitive or partner ecosystem.",
+      "maker_reason": "While Axis Bank (a tracked competitor) is featured, the source is primarily a corporate wealth-ranking announcement with limited fintech-domain specificity \u2014 it mentions Groww's valuation surge and financial services sector leadership, but contains no material intelligence about cards, credit, payments, travel bookings, loyalty, earn rates, or competitive positioning vs. Scapia or other travel/card players. The source reads as corporate PR for Burgundy Private and Hurun India's partnership rather than market intelligence on Scapia's competitive or partner ecosystem.",
+      "timestamp": "2026-06-30"
+    },
+    {
       "id": "reject-ac7bc1ea",
       "filename": "axis-bank-s-burgundy-private-and-hurun-india-release-the-fourth-edition-of-the-5.md",
       "score": "2/10",

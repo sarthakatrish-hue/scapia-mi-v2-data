@@ -228,6 +228,8 @@ treated as context until promoted).
 
 ## Partner candidates (pending curator confirmation)
 
+- burgundy-private-hurun-india-500 | partner-candidate | Burgundy Private Hurun India 500 | newly-surfaced · added_by: agent 2026-06-30 · source: axis-bank-s-burgundy-private-and-hurun-india-release-the-fifth-edition-of-the-50.md · Annual ranking of India's 500 most valuable companies by market cap / enterprise value, published by Axis Bank's Burgundy Private and Hurun India.
+
 - bob-financial-solutions | partner-candidate | BOB Financial Solutions | newly-surfaced · added_by: agent 2026-06-30 · source: bobcard-etihad-guest-premium-credit-card-review-cardexpert.md · Issuer and operator of BOBCard co-brand credit cards
 
 - priority-pass | partner-candidate | Priority Pass | newly-surfaced · added_by: agent 2026-06-28 · source: airport-lounge-firm-ceases-india-services-will-your-card-still-get-you-in.md · Third-party lounge network used by SBI Card and others as alternative to DreamFolks
