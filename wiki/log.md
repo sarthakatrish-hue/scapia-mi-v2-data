@@ -445,3 +445,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-30] ingest | axis-bank-s-burgundy-private-and-hurun-india-release-the-5-edition-of-the-500-mo.md | Maker: 6/10, Checker: 3/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-30] ingest | axis-bank-s-burgundy-private-and-hurun-india-release-the-5-edition-of-the-500-mo.md → subjects/axis-bank.md, sources/2026-06-30-axis-bank-s-burgundy-private-and-hurun-india-release-the-5-edition-of-the-500-mo.md | Auto-approved
+
+## [2026-06-30] ingest | axis-bank-s-burgundy-private-expands-presence-to-15-new-cities.md | Maker: 6/10, Checker: 5/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-30] ingest | axis-bank-s-burgundy-private-expands-presence-to-15-new-cities.md → subjects/axis-burgundy-private.md, sources/2026-06-30-axis-bank-s-burgundy-private-expands-presence-to-15-new-cities.md | Auto-approved

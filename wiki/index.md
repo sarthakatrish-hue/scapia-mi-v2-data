@@ -56,7 +56,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/india-travel-ai-divide-2026]] — "Indian OTAs are diverging sharply on AI strategy, creating a window for Scapia"
 - [[subjects/tbo-tek]] — "TBO Tek treats AI as an internal efficiency tool, not a disruptive force yet"
 - [[subjects/bobcard-etihad-base]]
-- [[subjects/axis-burgundy-private]] — "Axis Burgundy Private Magnus ratio halved in April 2026 sweeping devaluation"
+- [[subjects/axis-burgundy-private]] — "Burgundy Private expands to 42 cities as AUM nears ₹2.07 trillion on 33% growth"
 - [[subjects/uni-nxtwave]]
 - [[subjects/onecard]] — "OneCard nears ₹2,000 cr revenue in FY25, losses shrink 26% but RBI scrutiny clouds growth"
 - [[subjects/niyo-global-sbm]] — "Niyo Global ranked top budget zero-forex card in 2026 guide, no rewards edge"
