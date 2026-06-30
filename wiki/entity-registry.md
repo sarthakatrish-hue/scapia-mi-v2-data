@@ -60,6 +60,8 @@ treated as context until promoted).
 
 ## Competitors
 
+- flipkart-sbi-card | competitor | Flipkart SBI Credit Card | domain: sbicard.com | newly-surfaced · added_by: agent 2026-06-30 · source: big-cashback-for-flipkart-myntra-shoppers-new-sbi-co-branded-card-decoded.md · Co-branded card with 7.5% Myntra, 5% Flipkart/Cleartrip cashback, ₹500 annual fee
+
 - nykaa | competitor | Nykaa Fashion Ltd. | domain: nykaa.com | added_by: agent 2026-06-29 · source: nykaa-bets-on-brand-loyalty-pass-to-combat-rising-competition.md · E-commerce beauty and fashion retailer with loyalty and rewards offerings
 
 - setu | competitor | Setu (Pine Labs unit) | newly-surfaced · added_by: agent 2026-06-28 · source: openai-deepens-india-push-with-pine-labs-fintech-partnership.md · Bill-payment and embedded-finance unit experimenting with AI-driven chatbot payments; agent-led commerce signal
