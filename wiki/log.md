@@ -449,3 +449,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-30] ingest | axis-bank-s-burgundy-private-expands-presence-to-15-new-cities.md | Maker: 6/10, Checker: 5/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-30] ingest | axis-bank-s-burgundy-private-expands-presence-to-15-new-cities.md → subjects/axis-burgundy-private.md, sources/2026-06-30-axis-bank-s-burgundy-private-expands-presence-to-15-new-cities.md | Auto-approved
+
+## [2026-06-30] ingest | why-axis-bank-burgundy-private-is-pushing-wealth-banking-into-living-rooms.md | Maker: 6/10, Checker: 7/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-30] ingest | why-axis-bank-burgundy-private-is-pushing-wealth-banking-into-living-rooms.md → subjects/axis-burgundy-private.md, sources/2026-06-30-why-axis-bank-burgundy-private-is-pushing-wealth-banking-into-living-rooms.md | Auto-approved
