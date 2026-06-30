@@ -425,3 +425,9 @@ Append-only ingest/query/lint event log.
 ## [2026-06-30] ingest | big-cashback-for-flipkart-myntra-shoppers-new-sbi-co-branded-card-decoded.md → subjects/flipkart-sbi-card.md, sources/2026-06-30-big-cashback-for-flipkart-myntra-shoppers-new-sbi-co-branded-card-decoded.md | Auto-approved
 
 ## [2026-06-30] crawl-drop | axis-bank-raises-800-million-through-dual-tranche-dollar-bond-sale.md | Maker: 4/10, Checker: 5/10 LAYER2 — dropped (autonomous, no queue)
+
+## [2026-06-30] update | entity-registry += bob-financial-solutions (partner), etihad-airways (competitor) (from bobcard-etihad-guest-premium-credit-card-review-cardexpert.md)
+
+## [2026-06-30] ingest | bobcard-etihad-guest-premium-credit-card-review-cardexpert.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-30] ingest | bobcard-etihad-guest-premium-credit-card-review-cardexpert.md → subjects/bobcard-etihad-guest-premium-credit-card.md, subjects/bobcard.md, subjects/sbi-card.md, sources/2026-06-30-bobcard-etihad-guest-premium-credit-card-review-cardexpert.md | Auto-approved

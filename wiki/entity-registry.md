@@ -60,6 +60,8 @@ treated as context until promoted).
 
 ## Competitors
 
+- etihad-airways | competitor | Etihad Airways | newly-surfaced · added_by: agent 2026-06-30 · source: bobcard-etihad-guest-premium-credit-card-review-cardexpert.md · Middle Eastern airline and Etihad Guest loyalty program operator; recently ended SBI Card partnership to launch BOBCard co-brands
+
 - flipkart-sbi-card | competitor | Flipkart SBI Credit Card | domain: sbicard.com | newly-surfaced · added_by: agent 2026-06-30 · source: big-cashback-for-flipkart-myntra-shoppers-new-sbi-co-branded-card-decoded.md · Co-branded card with 7.5% Myntra, 5% Flipkart/Cleartrip cashback, ₹500 annual fee
 
 - nykaa | competitor | Nykaa Fashion Ltd. | domain: nykaa.com | added_by: agent 2026-06-29 · source: nykaa-bets-on-brand-loyalty-pass-to-combat-rising-competition.md · E-commerce beauty and fashion retailer with loyalty and rewards offerings
@@ -225,6 +227,8 @@ treated as context until promoted).
 - pine-labs | context | Pine Labs | newly-surfaced · added_by: agent 2026-06-24 · source: rbi-new-upi-rules-2026-2fa-afa-impact-benefits-explained.md · payments infrastructure provider and systems integrator
 
 ## Partner candidates (pending curator confirmation)
+
+- bob-financial-solutions | partner-candidate | BOB Financial Solutions | newly-surfaced · added_by: agent 2026-06-30 · source: bobcard-etihad-guest-premium-credit-card-review-cardexpert.md · Issuer and operator of BOBCard co-brand credit cards
 
 - priority-pass | partner-candidate | Priority Pass | newly-surfaced · added_by: agent 2026-06-28 · source: airport-lounge-firm-ceases-india-services-will-your-card-still-get-you-in.md · Third-party lounge network used by SBI Card and others as alternative to DreamFolks
 

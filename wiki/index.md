@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/bobcard-etihad-guest-premium-credit-card]] — "BOBCARD's metal Etihad co-brand pairs Gold status with zero forex markup"
 - [[subjects/flipkart-sbi-card]] — "SBI Card and Flipkart launch cashback card targeting digital-first lifestyle shoppers"
 - [[subjects/nykaa]] — Nykaa launches brand-linked Glam Pass to defend beauty market share
 - [[subjects/openai]] — OpenAI embeds AI into India's payments stack via Pine Labs deal
@@ -32,7 +33,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/hdfc-diners-club-privilege]] — "Diners Club Privilege takes 25% reward rate cut with lounge now spend-gated from July 2026"
 - [[subjects/rbi]] — "'RBI LRS cash and forex rules define the compliance envelope for all travel-card issuers'"
 - [[subjects/air-india-maharaja-club-credit-card]] — "Maharaja Club deepens with Express redemption and improved award seat access"
-- [[subjects/bobcard]] — BOBCARD aggressively courts travel spenders with multi-OTA discount blitz
+- [[subjects/bobcard]] — "BOBCARD raises its travel game with a metal Etihad co-brand and Gold status hook"
 - [[subjects/american-express]] — "Amex restructures Membership Rewards so ₹4L spend yields 10,000 points vs 25,000 prior"
 - [[subjects/credit-card-devaluation-wave-2025-26]] — Incumbent card devaluations push users toward transparent, travel-first alternatives
 - [[subjects/upi-rules-2026-compliance]] — New UPI compliance rules tighten transaction limits and GST linkage from 2026
@@ -75,7 +76,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/au-bank]]
 - [[subjects/idfc-first-bank]] — "IDFC First winds down Club Vistara card and pivots lounge access to Elite Assist"
 - [[subjects/rbl-bank]]
-- [[subjects/sbi-card]] — "SBI Card revamps lounge access in two-tier system from January 2026"
+- [[subjects/sbi-card]] — "SBI Card's Etihad exit hands a ready-made co-brand base to BOBCARD"
 - [[subjects/icici-bank]] — "'ICICI Bank's iShop portal delivers 36% hotel returns, directly rivalling HDFC SmartBuy'"
 - [[subjects/axis-bank]] — "Axis Bank removes Qatar Airways, Accor, and Marriott from cards without prior notice"
 - [[subjects/hdfc-bank]] — "HDFC Bank joins industry-wide credit card reward tightening as costs rise"

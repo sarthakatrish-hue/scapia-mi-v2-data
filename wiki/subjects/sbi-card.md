@@ -7,26 +7,24 @@ categories: [cards, flights, stays]
 domain_url: sbicard.com
 logo: null
 issuer: null
-keywords: [issuer, cards, devaluation, lounge-access, etihad, co-brand, fee-hike, insurance, rewards, phonepe, select-black, exclusions, rent, cashback-cap, april-2026, air-india, club-vistara, vistara-merger, reward-rate-cut, monthly-cap, set-a, set-b, authorisation-fee, visa, rupay, mastercard, domestic-lounge, international-lounge]
+keywords: [[issuer, cards, devaluation, lounge-access, etihad, co-brand, fee-hike, insurance, rewards, phonepe, select-black, exclusions, rent, cashback-cap, april-2026, air-india, club-vistara, vistara-merger, reward-rate-cut, monthly-cap, set-a, set-b, authorisation-fee, visa, rupay, mastercard, domestic-lounge, international-lounge, partnership-ended, bobcard]]
 signal: threat
-headline: "'SBI Card revamps lounge access in two-tier system from January 2026'"
-vitals: ["['₹4,000|Monthly cashback cap (was ₹5,000)|Per statement cycle from Apr 2026", "₹2|Visa/RuPay authorisation fee|Non-refundable per lounge visit from Jan 10", "₹25|Mastercard auth hold|Temporary, not debited']"]
+headline: "'SBI Card's Etihad exit hands a ready-made co-brand base to BOBCARD'"
+vitals: ["['₹4,000|Monthly cashback cap (was ₹5,000)|Per statement cycle from Apr 2026', '₹2|Visa/RuPay authorisation fee|Non-refundable per lounge visit from Jan 10', 'Discontinued|Etihad Guest SBI Card|Partnership migrated to BOBCARD']"]
 scoreboard: ["Loyalty & Rewards|High|down", "Partnerships|Medium|down"]
 last_updated: 2026-06-30
 ---
 
 ## What we know
 
-**Two-tier lounge system live** — From 10 January 2026, SBI Card splits domestic (and some international) lounges into Set A (premium co-brands) and Set B (PRIME and Platinum cards), expanding network coverage with clearer eligibility rules[^sbi-lounge-2026-06-30]
-**Authorisation fee introduced** — Visa and RuPay cardholders pay a non-refundable ₹2 auth fee per lounge visit; Mastercard holders face a ₹25 temporary hold that is not debited[^sbi-lounge-2026-06-30]
-**Club Vistara and PhonePe SELECT in Set A** — Club Vistara SBI Card, Paytm SBI Card SELECT, and PhonePe SBI Card SELECT are classified as higher-tier Set A cards, accessing the fuller lounge list[^sbi-lounge-2026-06-30]
-**Lounge extras remain chargeable** — Meals, alcohol, nap rooms, spa, and any spend beyond complimentary limits incur charges per lounge policy; the programme applies to cards with annual fees of ₹1,499 and ₹2,999[^sbi-lounge-2026-06-30]
+**Etihad Partnership Terminated** — Etihad Airways ended its five-year co-brand partnership with SBI Card (which included the SBI Etihad Guest Premier Card) and moved exclusively to BOBCARD via BOB Financial Solutions[^sbi-etihad-exit-2026-06-30]
+**Co-brand Cardholder Base Orphaned** — SBI Etihad Guest cardholders are now without a successor product from SBI Card; the Etihad programme has fully migrated, not been wound down[^sbi-etihad-exit-2026-06-30]
 
 ## Competitor Intel
 
 ### Where we win
-**No co-brand programme collapse risk** — Scapia's Federal Bank partnership is stable; SBI's Air India and Vistara co-brands are being wound down post-merger, stranding loyal cardholders[^sbi-apr2025-cc]
-**Earn rate consistency** — SBI Air India cards saw 67% reward rate cuts in a single step; Scapia has not imposed equivalent earn-rate reductions on its core travel spend[^sbi-apr2025-cc]
+**No co-brand programme collapse risk** — Scapia's Federal Bank partnership is stable; SBI's Air India, Vistara, and Etihad co-brands have all been discontinued or migrated, stranding loyal cardholders[^sbi-etihad-exit-2026-06-30]
+**Earn rate consistency** — SBI Air India cards saw 67% reward rate cuts; SBI Etihad was discontinued outright; Scapia has not imposed equivalent earn-rate reductions on its core travel spend[^sbi-etihad-exit-2026-06-30]
 **No lounge authorisation friction** — SBI now charges a non-refundable ₹2 fee per visit on Visa/RuPay; a small but real friction signal that erodes the premium lounge promise[^sbi-lounge-2026-06-30]
 **No rent-reward bait-and-switch** — Scapia never positioned rent payments as a reward category and then removed it; SBI Card's April 2026 rent exclusion damages trust with urban cardholders[^card-rules-apr2026]
 
@@ -36,11 +34,17 @@ last_updated: 2026-06-30
 **Cardholder base** — India's largest pure-play issuer; even after devaluations, absolute volume and brand recognition remain dominant advantages
 
 ### What to do
-**Target displaced Air India co-brand holders** — Cardholders who earned 30 RPs/₹100 now earning 10 RPs are actively shopping for alternatives; Scapia's travel-first earn is a direct replacement pitch[^sbi-apr2025-cc]
+**Target displaced SBI Etihad cardholders** — Former SBI Etihad Guest Premier holders are travel-focused, loyalty-aware, and now without a home at SBI Card; Scapia's zero-fee travel proposition is a natural pitch[^sbi-etihad-exit-2026-06-30]
+**Own the "no programme collapse" narrative** — SBI has now wound down or lost Air India, Vistara, and Etihad co-brands in quick succession; Scapia should surface its stable, single-programme clarity as a direct contrast[^sbi-etihad-exit-2026-06-30]
 **Contrast frictionless lounge access** — SBI's new ₹2 non-refundable auth fee and tiered eligibility add mental overhead; Scapia should surface its lounge experience as simpler and transparent[^sbi-lounge-2026-06-30]
-**Own the "no programme collapse" narrative** — SBI's winding down of Vistara cards with fee waivers-but-no-benefits is a trust-damaging pattern Scapia can contrast against its stable, transparent programme[^sbi-apr2025-cc]
 
 ## Coverage
+
+### SBI Card Loses Etihad Partnership — 2026-06-30
+
+The review of the new BOBCARD Etihad Guest Premium Credit Card confirms that Etihad Airways terminated its five-year partnership with SBI Card — which included the SBI Etihad Guest Premier Card — and has exclusively migrated to BOBCARD via BOB Financial Solutions[^sbi-etihad-exit-2026-06-30]. This follows SBI Card's earlier discontinuation of its Air India and Club Vistara co-brands, completing a near-total collapse of SBI's airline co-brand portfolio.
+
+For Scapia, this accelerates the acquisition opportunity among SBI Card's travel-loyal co-brand holders: Etihad, Vistara, and Air India SBI cardholders are all now orphaned in quick succession, and none have a like-for-like SBI Card replacement[^sbi-etihad-exit-2026-06-30]. The pattern of programme instability at SBI Card is now broad enough to support a "stable, transparent travel rewards" counter-narrative from Scapia [Inferred · High].
 
 ### SBI Card Revamps Lounge Access — 2025-12-10
 
@@ -80,6 +84,7 @@ The Etihad discontinuation is the most tactically significant for Scapia: it orp
 
 ## Developments
 
+- 2026-06-30 — SBI Card Loses Etihad Partnership [^sbi-etihad-exit-2026-06-30]
 - 2025-12-10 — SBI Card Revamps Lounge Access [^sbi-lounge-2026-06-30]
 - 2026-06-26 — SBI Cashback Cap Reaches Mainstream Coverage [^cc-tighten-sbi-2026-06-26]
 - 2025-04-01 — SBI Devalues Air India, Vistara Cards [^sbi-apr2025-cc]
@@ -95,3 +100,4 @@ The Etihad discontinuation is the most tactically significant for Scapia: it orp
 [^sbi-apr2025-cc]: raw/ambiguous/watch-out-major-changes-for-credit-cards-from-april-1-2025.md
 [^cc-tighten-sbi-2026-06-26]: raw/ambiguous/credit-card-rewards-in-india-are-getting-tighter-what-is-changing.md
 [^sbi-lounge-2026-06-30]: raw/competitive/sbi-card-s-new-lounge-access-rules-from-2026-key-changes-for-flyers.md
+[^sbi-etihad-exit-2026-06-30]: raw/competitive/bobcard-etihad-guest-premium-credit-card-review-cardexpert.md
