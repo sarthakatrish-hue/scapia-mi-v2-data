@@ -409,3 +409,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-30] ingest | no-more-hidden-forex-charges-wise-opens-waitlist-for-travel-card-in-india.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-06-30] ingest | no-more-hidden-forex-charges-wise-opens-waitlist-for-travel-card-in-india.md → subjects/wise-travel-card.md, sources/2026-06-30-no-more-hidden-forex-charges-wise-opens-waitlist-for-travel-card-in-india.md | Auto-approved
+
+## [2026-06-30] ingest | sbi-card-s-new-lounge-access-rules-from-2026-key-changes-for-flyers.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-30] ingest | sbi-card-s-new-lounge-access-rules-from-2026-key-changes-for-flyers.md → subjects/sbi-card.md, sources/2026-06-30-sbi-card-s-new-lounge-access-rules-from-2026-key-changes-for-flyers.md | Auto-approved

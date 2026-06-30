@@ -7,35 +7,46 @@ categories: [cards, flights, stays]
 domain_url: sbicard.com
 logo: null
 issuer: null
-keywords: [issuer, cards, devaluation, lounge-access, etihad, co-brand, fee-hike, insurance, rewards, phonepe, select-black, exclusions, rent, cashback-cap, april-2026, air-india, club-vistara, vistara-merger, reward-rate-cut, monthly-cap]
+keywords: [issuer, cards, devaluation, lounge-access, etihad, co-brand, fee-hike, insurance, rewards, phonepe, select-black, exclusions, rent, cashback-cap, april-2026, air-india, club-vistara, vistara-merger, reward-rate-cut, monthly-cap, set-a, set-b, authorisation-fee, visa, rupay, mastercard, domestic-lounge, international-lounge]
 signal: threat
-headline: "'SBI Card slashes Air India co-brand rewards and winds down Club Vistara cards'"
-vitals: ["['₹4,000|Monthly cashback cap (was ₹5,000)|Per statement cycle from Apr 2026', '₹2,000|Online sub-limit|New spend sub-category cap', '₹2,000|Offline sub-limit|New spend sub-category cap']"]
+headline: "'SBI Card revamps lounge access in two-tier system from January 2026'"
+vitals: ["['₹4,000|Monthly cashback cap (was ₹5,000)|Per statement cycle from Apr 2026", "₹2|Visa/RuPay authorisation fee|Non-refundable per lounge visit from Jan 10", "₹25|Mastercard auth hold|Temporary, not debited']"]
 scoreboard: ["Loyalty & Rewards|High|down", "Partnerships|Medium|down"]
-last_updated: 2026-06-26
+last_updated: 2026-06-30
 ---
 
 ## What we know
 
-**Cashback cap cut confirmed in mainstream media** — SBI's reduction of monthly cashback ceiling from ₹5,000 to ₹4,000 is now cited in broad market coverage as a leading example of India-wide rewards tightening[^cc-tighten-sbi-2026-06-26]
+**Two-tier lounge system live** — From 10 January 2026, SBI Card splits domestic (and some international) lounges into Set A (premium co-brands) and Set B (PRIME and Platinum cards), expanding network coverage with clearer eligibility rules[^sbi-lounge-2026-06-30]
+**Authorisation fee introduced** — Visa and RuPay cardholders pay a non-refundable ₹2 auth fee per lounge visit; Mastercard holders face a ₹25 temporary hold that is not debited[^sbi-lounge-2026-06-30]
+**Club Vistara and PhonePe SELECT in Set A** — Club Vistara SBI Card, Paytm SBI Card SELECT, and PhonePe SBI Card SELECT are classified as higher-tier Set A cards, accessing the fuller lounge list[^sbi-lounge-2026-06-30]
+**Lounge extras remain chargeable** — Meals, alcohol, nap rooms, spa, and any spend beyond complimentary limits incur charges per lounge policy; the programme applies to cards with annual fees of ₹1,499 and ₹2,999[^sbi-lounge-2026-06-30]
 
 ## Competitor Intel
 
 ### Where we win
 **No co-brand programme collapse risk** — Scapia's Federal Bank partnership is stable; SBI's Air India and Vistara co-brands are being wound down post-merger, stranding loyal cardholders[^sbi-apr2025-cc]
 **Earn rate consistency** — SBI Air India cards saw 67% reward rate cuts in a single step; Scapia has not imposed equivalent earn-rate reductions on its core travel spend[^sbi-apr2025-cc]
-**No milestone voucher dependency** — SBI Club Vistara cardholders lost ticket and upgrade vouchers entirely; Scapia's value is not contingent on airline-issued voucher programmes that can be withdrawn[^sbi-apr2025-cc]
+**No lounge authorisation friction** — SBI now charges a non-refundable ₹2 fee per visit on Visa/RuPay; a small but real friction signal that erodes the premium lounge promise[^sbi-lounge-2026-06-30]
 **No rent-reward bait-and-switch** — Scapia never positioned rent payments as a reward category and then removed it; SBI Card's April 2026 rent exclusion damages trust with urban cardholders[^card-rules-apr2026]
 
 ### Where they're ahead
+**Lounge network breadth** — Set A and Set B together cover 20+ airports across domestic and international terminals; Scapia's lounge access is still narrower in absolute footprint[^sbi-lounge-2026-06-30]
 **Distribution** — Branch network, pre-approved base, and co-brand breadth still vastly outscale Scapia's reach
 **Cardholder base** — India's largest pure-play issuer; even after devaluations, absolute volume and brand recognition remain dominant advantages
 
 ### What to do
 **Target displaced Air India co-brand holders** — Cardholders who earned 30 RPs/₹100 now earning 10 RPs are actively shopping for alternatives; Scapia's travel-first earn is a direct replacement pitch[^sbi-apr2025-cc]
+**Contrast frictionless lounge access** — SBI's new ₹2 non-refundable auth fee and tiered eligibility add mental overhead; Scapia should surface its lounge experience as simpler and transparent[^sbi-lounge-2026-06-30]
 **Own the "no programme collapse" narrative** — SBI's winding down of Vistara cards with fee waivers-but-no-benefits is a trust-damaging pattern Scapia can contrast against its stable, transparent programme[^sbi-apr2025-cc]
 
 ## Coverage
+
+### SBI Card Revamps Lounge Access — 2025-12-10
+
+SBI Card is restructuring its domestic lounge programme effective 10 January 2026, splitting participating lounges into Set A (for premium co-brands including Club Vistara SBI Card, Paytm SELECT, and PhonePe SELECT) and Set B (for PRIME and Platinum variants), covering 20-plus airports including Mumbai, Delhi, Bengaluru, Hyderabad, and Chennai[^sbi-lounge-2026-06-30]. The overhaul is framed as an expansion, but it also formalises a new per-visit authorisation fee — ₹2 non-refundable for Visa and RuPay cards — and limits complimentary access to defined visit quotas, after which entry is denied or charged at walk-in rates.
+
+For Scapia, the read is instructive: SBI Card is tidying up lounge economics by layering in fees and segmenting access, adding friction to what cardholders previously treated as a seamless benefit[^sbi-lounge-2026-06-30]. The ₹2 charge is small in isolation but symbolically significant — it signals that even SBI is feeling cost pressure on lounge subsidies. Combined with the ongoing wave of reward devaluations across SBI's co-brand portfolio, this reinforces Scapia's opportunity to position on transparency and simplicity for the travel-first segment [Inferred · Medium].
 
 ### SBI Cashback Cap Reaches Mainstream Coverage — 2026-06-26
 
@@ -69,6 +80,7 @@ The Etihad discontinuation is the most tactically significant for Scapia: it orp
 
 ## Developments
 
+- 2025-12-10 — SBI Card Revamps Lounge Access [^sbi-lounge-2026-06-30]
 - 2026-06-26 — SBI Cashback Cap Reaches Mainstream Coverage [^cc-tighten-sbi-2026-06-26]
 - 2025-04-01 — SBI Devalues Air India, Vistara Cards [^sbi-apr2025-cc]
 - 2026-04-01 — SBI Card Cuts Rent Rewards, Cashback [^card-rules-apr2026]
@@ -82,3 +94,4 @@ The Etihad discontinuation is the most tactically significant for Scapia: it orp
 [^card-rules-apr2026]: raw/ambiguous/9-major-credit-card-rule-changes-in-india-2026.md
 [^sbi-apr2025-cc]: raw/ambiguous/watch-out-major-changes-for-credit-cards-from-april-1-2025.md
 [^cc-tighten-sbi-2026-06-26]: raw/ambiguous/credit-card-rewards-in-india-are-getting-tighter-what-is-changing.md
+[^sbi-lounge-2026-06-30]: raw/competitive/sbi-card-s-new-lounge-access-rules-from-2026-key-changes-for-flyers.md
