@@ -3,43 +3,54 @@ subject: "Wise Travel Card"
 type: subject
 role: competitor
 domains: [fintech, travel]
-categories: [cards]
+categories: [cards, stays, flights]
 domain_url: wise.com
 logo: null
 issuer: null
-keywords: [[forex-card, multicurrency, zero-markup, interbank-rate, prepaid, consumer-guide, 40-currencies, no-annual-fee, atm-withdrawal, digital-card, international-spend]]
-signal: watch
-headline: "'Wise Travel Card named best overall forex card in India for 2026'"
-vitals: ["['40+|Currencies supported|Most of any forex card in India', '0%|Forex markup|Interbank rate with small variable conversion fee', 'USD 200/mo|Free ATM withdrawal limit|1.40 USD + 3.25% thereafter']"]
-scoreboard: ["['Pricing & Fees|High|steady', 'Cards & Credit|Medium|steady']"]
-last_updated: 2026-06-29
+keywords: [forex card, mid-market rate, travel card, multi-currency, zero markup, India launch, waitlist, digilocker, KYC]
+signal: threat
+headline: "Wise enters India travel payments with zero-markup multi-currency card on waitlist"
+vitals: ["40+|Currencies supported|Scapia is INR-only spend", "Mid-market|Exchange rate|Scapia charges 1% forex markup", "₹17B|Indian intl. travel spend targeted|Core Scapia TAO"]
+scoreboard: ["Travel Booking|Medium|up", "Cards & Credit|High|up", "Pricing & Fees|High|up"]
+last_updated: 2026-06-30
 ---
 
 ## What we know
 
-**40+ currencies, interbank rate** — Wise offers the highest number of supported currencies among forex card providers in India, with interbank rates and small variable conversion fee rather than a markup[^wise-forex-2026-05-07]
-**No annual or inactivity fee** — Wise carries no maintenance or inactivity fee; physical card issuance was free until 10 February 2026[^wise-forex-2026-05-07]
-**Free ATM up to USD 200/month** — Unlimited free withdrawals up to USD 200 equivalent monthly; 1.40 USD + 3.25% applies beyond that[^wise-forex-2026-05-07]
-**Digital card available** — Separate digital card details allow online/mobile spend with independent disposal if compromised[^wise-forex-2026-05-07]
-**Fully app-managed** — Apply, load, reload, and monitor balance entirely via phone — no branch visit required[^wise-forex-2026-05-07]
+**Waitlist now open** — Wise opened the India waitlist for its Travel Card at Global Fintech Fest, Mumbai; early sign-ups get priority access[^wise-waitlist-2025-12-08]
+**Mid-market rate promise** — card offers the real mid-market (Google) exchange rate with a small transparent conversion fee and no hidden markups[^wise-waitlist-2025-12-08]
+**40+ currency support** — widest currency range claimed for any forex card in India; covers UAE, Thailand, Singapore, USA, UK and dozens more[^wise-waitlist-2025-12-08]
+**Fully digital onboarding** — account opening via DigiLocker and video KYC; no branch visit or paperwork required[^wise-waitlist-2025-12-08]
+**Instant digital card** — up to 3 digital card numbers available immediately on the app, ahead of physical card delivery; usable for online flight/hotel bookings[^wise-waitlist-2025-12-08]
+**IMPS/NEFT/RTGS top-up** — loads money through standard Indian rails; in-app currency switching, card freeze and real-time transaction tracking[^wise-waitlist-2025-12-08]
+**UK–India fintech angle** — UK PM Keir Starmer cited the India launch at Global Fintech Fest as part of broader UK–India fintech collaboration[^wise-waitlist-2025-12-08]
+**TAM framing** — Indians spent ~$17 billion on international travel last year per RBI data; Wise's pitch is that hidden charges drain a large share of that[^wise-waitlist-2025-12-08]
 
 ## Competitor Intel
 
 ### Where we win
-**Credit vs prepaid capital lock-in** — Scapia requires no upfront INR loading or LRS compliance; Wise's prepaid model ties up customer capital before travel begins[^wise-forex-2026-05-07]
-**Lounge + travel ecosystem** — Scapia's unlimited domestic lounge access and native travel coin rewards have no equivalent in Wise's card-only offer[^wise-forex-2026-05-07]
-**Reward earn on every spend** — Scapia earns travel coins on all transactions; Wise has no rewards programme[^wise-forex-2026-05-07]
+**Co-branded rewards ecosystem** — Scapia earns Scapia Coins redeemable for flights/hotels; Wise is a spending tool with no loyalty layer, making Scapia stickier for reward-seeking travellers [Inferred · High]
+**Credit access** — Scapia is a credit card (Federal Bank co-branded); Wise Travel Card is a prepaid/debit-style forex card — Scapia customers spend now and pay later, a major behavioural preference[^wise-waitlist-2025-12-08] [Inferred · High]
+**Domestic utility** — Scapia works on every domestic INR transaction; Wise card's value proposition is almost entirely international, limiting everyday stickiness[^wise-waitlist-2025-12-08]
 
 ### Where they're ahead
-**Currency breadth** — 40+ currencies with genuine interbank rates is unmatched; Scapia converts at transaction time with 0% markup but cannot pre-lock rates across 40 currencies[^wise-forex-2026-05-07]
-**Consumer guide mindshare** — Wise leads the 2026 forex card guide rankings ahead of every Indian bank product, establishing strong top-of-funnel brand presence with internationally-oriented Indian travellers[^wise-forex-2026-05-07]
-**ATM withdrawal utility** — Free up to USD 200/month covers most leisure travellers' cash needs; Scapia's credit card ATM cash advance typically carries fees and interest[^wise-forex-2026-05-07]
+**Zero forex markup** — Wise's mid-market rate with a small transparent fee will almost certainly be cheaper than Scapia's 1% forex markup for heavy international spenders[^wise-waitlist-2025-12-08]
+**Multi-currency holding** — ability to hold and spend in 40+ currencies natively is a feature Scapia does not offer; appeals to frequent multi-destination travellers and students abroad[^wise-waitlist-2025-12-08]
+**UK–India brand credibility** — UK PM endorsement and global brand recognition give Wise outsized trust with premium international travellers[^wise-waitlist-2025-12-08]
+**No FX surprises narrative** — Wise's ₹17,500 loss example on a ₹5 lakh trip is a compelling, concrete story that directly attacks the credit-card-abroad segment Scapia occupies[^wise-waitlist-2025-12-08]
 
 ### What to do
-**Counter the prepaid-vs-credit framing** — Wise guides frequently don't compare prepaid forex cards against zero-markup credit cards on total cost; Scapia should publish content showing the capital opportunity cost and LRS friction of prepaid loading vs a credit card that earns on every rupee spent[^wise-forex-2026-05-07]
-**Own the rewards-plus-zero-markup position** — Wise is the best option for someone who only wants zero markup; Scapia is the best option for someone who wants zero markup AND lounge access AND rewards — make this layered value explicit in comparison content [Inferred · High]
+**Sharpen the rewards-vs-rate story** — quantify when Scapia's coin earn-back offsets the forex markup; build a comparison tool for frequent travellers
+**Target the credit-vs-prepaid gap** — lean into "earn as you spend abroad, pay later" messaging that Wise structurally cannot replicate
+**Watch waitlist conversion velocity** — if Wise converts students and frequent flyers fast, accelerate Scapia's own international spend promotions before loyalty transfers
 
 ## Coverage
+
+### Wise Opens India Travel Card Waitlist — 2025-12-08
+
+Wise unveiled its India waitlist for the Wise Travel Card at the Global Fintech Fest in Mumbai, marking its formal push into the Indian consumer forex and travel payments market[^wise-waitlist-2025-12-08]. The card promises the mid-market exchange rate — the same shown on Google — with a small transparent conversion fee, no hidden markups, support for 40+ currencies, and fully digital onboarding via DigiLocker and video KYC. UK PM Keir Starmer cited the launch as part of the UK–India fintech partnership, amplifying the announcement's reach[^wise-waitlist-2025-12-08].
+
+For Scapia, this is a direct competitive signal in the international travel spend space. Wise targets the same high-intent traveller — frequent flyers, students abroad, business travellers — but comes in as a prepaid forex card rather than a credit card[^wise-waitlist-2025-12-08]. Scapia's structural moats are its credit facility and rewards loyalty loop; the risk is that cost-conscious travellers comparison-shop on forex rates alone, where Wise will likely win on transparency [Inferred · High].
 
 ### Wise Tops India Forex Guide — 2026-05-07
 
@@ -61,6 +72,7 @@ The guide's broader logic, however, points frequent travellers toward zero-marku
 
 ## Developments
 
+- 2025-12-08 — Wise Opens India Travel Card Waitlist [^wise-waitlist-2025-12-08]
 - 2026-05-07 — Wise Tops India Forex Guide [^wise-forex-2026-05-07]
 - 2026-06-28 — Wise Named HNI Travel Default [^wise-affluent-2026-06-28]
 - 2026-06-27 — Wise Named Top Forex Card 2026 [^wise-forex-2026-06-27]
@@ -70,3 +82,4 @@ The guide's broader logic, however, points frequent travellers toward zero-marku
 [^wise-forex-2026-06-27]: raw/ambiguous/best-forex-cards-for-indians-travelling-abroad-in-2026-the-complete-guide.md
 [^wise-affluent-2026-06-28]: raw/ambiguous/travel-planning-turns-into-strategic-finance-for-india-s-wealthy-travelers.md
 [^wise-forex-2026-05-07]: raw/ambiguous/the-smart-guide-to-the-best-forex-cards-in-india-2026.md
+[^wise-waitlist-2025-12-08]: raw/ambiguous/no-more-hidden-forex-charges-wise-opens-waitlist-for-travel-card-in-india.md

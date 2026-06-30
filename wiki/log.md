@@ -405,3 +405,7 @@ Append-only ingest/query/lint event log.
 ## [2026-06-29] ingest | batch b_c3e367cac1: 1 URLs — 1 ingested
 
 ## [2026-06-29] query/deepdive | deepdive: HDFC Regalia Gold
+
+## [2026-06-30] ingest | no-more-hidden-forex-charges-wise-opens-waitlist-for-travel-card-in-india.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-06-30] ingest | no-more-hidden-forex-charges-wise-opens-waitlist-for-travel-card-in-india.md → subjects/wise-travel-card.md, sources/2026-06-30-no-more-hidden-forex-charges-wise-opens-waitlist-for-travel-card-in-india.md | Auto-approved

@@ -15,7 +15,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/zero-forex-card-market-india-2026]] — "Zero-forex cards entering mass consumer awareness as 2026 guides rank real value"
 - [[subjects/idfc-first-millennia]] — "IDFC FIRST Select ranked best all-round zero-forex travel card in 2026 guide"
 - [[subjects/thomas-cook]] — "Thomas Cook Forex Card benchmarked against Wise on fees and travel utility"
-- [[subjects/wise-travel-card]] — "Wise Travel Card named best overall forex card in India for 2026"
+- [[subjects/wise-travel-card]] — Wise enters India travel payments with zero-markup multi-currency card on waitlist
 - [[subjects/forex-credit-card-india-travel]] — "Zero-markup credit cards now match forex cards as Indians hit $31.7B LRS spend"
 - [[subjects/suryoday-sfb]] — Suryoday SFB scales embedded UPI credit to 530,000 prime borrowers via Paytm
 - [[subjects/credit-line-on-upi]] — Prime borrowers choose CLOU for convenience, validating embedded credit as mainstream fintech
