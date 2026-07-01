@@ -495,3 +495,7 @@ Append-only ingest/query/lint event log.
 ## [2026-07-01] ingest | whatsapp-gets-new-chief-as-meta-taps-india-s-cred-founder-kunal-shah-and-invests.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-07-01] ingest | whatsapp-gets-new-chief-as-meta-taps-india-s-cred-founder-kunal-shah-and-invests.md → subjects/cred.md, sources/2026-07-01-whatsapp-gets-new-chief-as-meta-taps-india-s-cred-founder-kunal-shah-and-invests.md | Auto-approved
+
+## [2026-07-01] ingest | meta-taps-kunal-shah-to-head-whatsapp-as-part-of-900-mn-cred-investment.md | Maker: 7/10, Checker: 2/10 AUTO-APPROVE — bypassing queue
+
+## [2026-07-01] ingest | meta-taps-kunal-shah-to-head-whatsapp-as-part-of-900-mn-cred-investment.md → subjects/cred.md, sources/2026-07-01-meta-taps-kunal-shah-to-head-whatsapp-as-part-of-900-mn-cred-investment.md | Auto-approved

@@ -17,13 +17,12 @@ last_updated: 2026-07-01
 
 ## What we know
 
-**Meta invests $900M in CRED** — Meta led a primary+secondary financing round valuing CRED at ~$4.5B post-money, making Meta a minority investor[^cred-meta-2026-06-22]
-**Kunal Shah exits CEO role** — Shah steps down as CRED CEO (retaining his shareholding) to lead WhatsApp globally, succeeding Will Cathcart[^cred-meta-2026-06-22]
-**Miten Sampat named interim CEO** — Sampat, CRED's strategy and finance head since 2020, assumes day-to-day leadership immediately[^cred-meta-2026-06-22]
-**IPO preparation underway** — CRED's board is working on a longer-term management structure ahead of an eventual public offering[^cred-meta-2026-06-22]
-**Fresh capital targets payments, lending, insurance, wealth** — CRED's four business lines will receive growth funding from the round[^cred-meta-2026-06-22]
-**WhatsApp Pay context** — WhatsApp Pay gained traction in India but trailed PhonePe and Google Pay; Shah's appointment is explicitly aimed at closing that gap[^cred-meta-2026-06-22]
-**CRED valuation recovery** — Current $4.5B post-money is above the May 2025 mark of $3.6B, though still below the 2022 peak of $6.4B[^cred-meta-2026-06-22]
+**Meta invests $900M in CRED** — Meta led a primary+secondary financing round valuing CRED at ~$4.5B post-money, acquiring roughly 20% stake[^cred-bs-2026-06-22]
+**Kunal Shah exits CEO role** — Shah steps down as CRED CEO (retaining shareholding) to lead WhatsApp globally, succeeding Will Cathcart[^cred-bs-2026-06-22]
+**Miten Sampat named interim CEO** — Sampat, CRED's strategy head, assumes day-to-day leadership while board reviews structure ahead of eventual IPO[^cred-bs-2026-06-22]
+**WhatsApp surpasses 3B monthly users** — Shah inherits a platform that crossed 3 billion MAUs in 2025 with early-stage advertising and subscription revenue lines[^cred-bs-2026-06-22]
+**Meta's investment-recruitment playbook** — Meta employed the same approach with Scale AI founder Alexandr Wang ($14B+ investment, new AI lab) before doing so with Shah[^cred-bs-2026-06-22]
+**No board seat, no data access** — Meta will not take a CRED board seat and will not receive access to CRED customer information[^cred-bs-2026-06-22]
 
 ## Competitor Intel
 
@@ -56,6 +55,12 @@ last_updated: 2026-07-01
 
 ### Meta Backs CRED, Shah Leads WhatsApp — 2026-06-22
 
+Meta has led a $900 million financing round in CRED at a ~$4.5 billion post-money valuation — giving Meta roughly a 20% stake — while simultaneously appointing CRED founder Kunal Shah as the new global head of WhatsApp, replacing Will Cathcart[^cred-bs-2026-06-22]. Shah will step away from day-to-day CRED leadership (retaining equity) as Miten Sampat takes over as interim CEO, with the board eyeing an eventual IPO[^cred-bs-2026-06-22]. Mark Zuckerberg cited Shah's "builder mentality and global perspective" as the rationale[^cred-bs-2026-06-22].
+
+For Scapia, this is a material escalation: Meta's explicit goal is closing WhatsApp Pay's gap with PhonePe and Google Pay in India, and a CRED-WhatsApp combination could create a super-app payments and rewards surface reaching 500 million Indian users[^cred-bs-2026-06-22]. The $900M war chest funds CRED's payments, lending, insurance, and wealth verticals, broadening CRED's competitive moat well beyond card rewards [Inferred · High].
+
+### Meta Backs CRED, Shah Leads WhatsApp — 2026-06-22
+
 Meta has led a $900 million financing round in CRED at a ~$4.5 billion post-money valuation, simultaneously appointing CRED founder Kunal Shah as the new global head of WhatsApp[^cred-meta-2026-06-22]. Shah will step down as CRED CEO — retaining his equity — while Miten Sampat takes over as interim chief as the company prepares for an eventual IPO[^cred-meta-2026-06-22]. Mark Zuckerberg cited Shah's "builder mentality and global perspective" as the rationale for the WhatsApp appointment[^cred-meta-2026-06-22].
 
 For Scapia, this is a material escalation in the competitive landscape. Meta's bet is explicitly on closing WhatsApp Pay's gap with PhonePe and Google Pay in India — and a CRED-WhatsApp combination could create a super-app payments and rewards surface reaching 500 million Indian users[^cred-meta-2026-06-22]. With fresh capital funding CRED's payments, lending, insurance, and wealth businesses, CRED's threat extends well beyond the card-rewards competition it already poses [Inferred · High].
@@ -67,6 +72,7 @@ Founder Kunal Shah frames the launch as a response to forced-loyalty co-branded 
 
 ## Developments
 
+- 2026-06-22 — Meta Backs CRED, Shah Leads WhatsApp [^cred-bs-2026-06-22]
 - 2026-06-22 — Meta Backs CRED, Shah Leads WhatsApp [^cred-meta-2026-06-22]
 - CRED Launches Gold Card, RuPay [^cred-sovereign-2026-07-01]
 
@@ -74,3 +80,4 @@ Founder Kunal Shah frames the launch as a response to forced-loyalty co-branded 
 
 [^cred-sovereign-2026-07-01]: raw/ambiguous/cred-unveils-invite-only-18k-gold-credit-card-for-india-s-elite-partners-with-in.md
 [^cred-meta-2026-06-22]: raw/ambiguous/whatsapp-gets-new-chief-as-meta-taps-india-s-cred-founder-kunal-shah-and-invests.md
+[^cred-bs-2026-06-22]: raw/ambiguous/meta-taps-kunal-shah-to-head-whatsapp-as-part-of-900-mn-cred-investment.md
