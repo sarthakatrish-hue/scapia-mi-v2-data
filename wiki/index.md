@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/cred]] — "CRED launches invite-only gold card and flexible RuPay card targeting premium digital spenders"
 - [[subjects/indigo-airlines]] — "IndiGo launches two co-branded Axis Bank credit cards via BluChip loyalty"
 - [[subjects/bobcard-etihad-guest-premium-credit-card]] — "BOBCARD's metal Etihad co-brand pairs Gold status with zero forex markup"
 - [[subjects/flipkart-sbi-card]] — "SBI Card and Flipkart launch cashback card targeting digital-first lifestyle shoppers"
@@ -29,7 +30,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/makemytrip-icici-bank]] — "MMT ICICI pairs 0.99% forex with dual network and Priority Pass at near-zero fee"
 - [[subjects/hsbc-travel-one]] — "HSBC TravelOne offers multi-airline transfers and duty-free discounts at ₹4,999 fee"
 - [[subjects/hdfc-marriott-bonvoy]] — "Marriott Bonvoy HDFC locks rewards into hotel stays at ₹3,000 fee and 3.5% forex"
-- [[subjects/induslnd-bank]] — "IndusInd Bank lounge access at risk as DreamFolks suspension finds no announced replacement"
+- [[subjects/induslnd-bank]] — "IndusInd Bank deepens fintech partnerships, co-issuing CRED's new RuPay credit card"
 - [[subjects/hdfc-bizpower]] — "BizPower adds IT/GST transaction cap in May 2026, targeting tax-payment reward earners"
 - [[subjects/hdfc-diners-club-privilege]] — "Diners Club Privilege takes 25% reward rate cut with lounge now spend-gated from July 2026"
 - [[subjects/rbi]] — "'RBI LRS cash and forex rules define the compliance envelope for all travel-card issuers'"

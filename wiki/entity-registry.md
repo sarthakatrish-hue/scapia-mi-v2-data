@@ -60,6 +60,8 @@ treated as context until promoted).
 
 ## Competitors
 
+- cred | competitor | CRED | domain: cred.club | added_by: agent 2026-07-01 · source: cred-unveils-invite-only-18k-gold-credit-card-for-india-s-elite-partners-with-in.md · Fintech unicorn; credit card platform and UPI app serving creditworthy consumers; launched Sovereign gold card and IndusInd RuPay card with flexible, e-commerce-focused rewards.
+
 - indigo-airlines | competitor | IndiGo Airlines | domain: goindigo.in | added_by: agent 2026-07-01 · source: indigo-and-axis-bank-launch-bluchip-co-brand-credit-cards.md · India's largest low-cost carrier operating co-branded credit cards and loyalty programs (BluChip) competing for travel-fintech customer wallet.
 
 - etihad-airways | competitor | Etihad Airways | newly-surfaced · added_by: agent 2026-06-30 · source: bobcard-etihad-guest-premium-credit-card-review-cardexpert.md · Middle Eastern airline and Etihad Guest loyalty program operator; recently ended SBI Card partnership to launch BOBCard co-brands
@@ -128,7 +130,7 @@ treated as context until promoted).
 
 - axis-ace-credit-card | competitor | Axis ACE Credit Card | newly-surfaced · added_by: agent 2026-06-26 · source: axis-bank-credit-card-devaluation-in-2026-what-happened.md · everyday utility and food delivery cashback card with lounge access
 
-- induslnd-bank | competitor | IndusInd Bank | domain: indusind.com | newly-surfaced · added_by: agent 2026-06-26 · source: credit-card-updates-changes-2026.md · operates IndusInd Tiger and other credit cards competing in the Indian card market
+- induslnd-bank | competitor | IndusInd Bank | aliases: indusind-bank | domain: indusind.com | newly-surfaced · added_by: agent 2026-06-26 · source: credit-card-updates-changes-2026.md · operates IndusInd Tiger and other credit cards competing in the Indian card market
 
 - hdfc-bizpower | competitor | HDFC BizPower | domain: hdfcbank.com | newly-surfaced · added_by: agent 2026-06-26 · source: hdfc-credit-card-devaluation-2026-what-changed.md · business credit card devalued May 2026
 

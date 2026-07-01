@@ -471,3 +471,9 @@ Append-only ingest/query/lint event log.
 ## [2026-07-01] ingest | makemytrip-and-cleartrip-both-just-launched-creator-programs-the-models-are-diff.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-07-01] ingest | makemytrip-and-cleartrip-both-just-launched-creator-programs-the-models-are-diff.md → subjects/makemytrip.md, sources/2026-07-01-makemytrip-and-cleartrip-both-just-launched-creator-programs-the-models-are-diff.md | Auto-approved
+
+## [2026-07-01] update | entity-registry += cred (competitor), indusind-bank (partner) (from cred-unveils-invite-only-18k-gold-credit-card-for-india-s-elite-partners-with-in.md)
+
+## [2026-07-01] ingest | cred-unveils-invite-only-18k-gold-credit-card-for-india-s-elite-partners-with-in.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
+
+## [2026-07-01] ingest | cred-unveils-invite-only-18k-gold-credit-card-for-india-s-elite-partners-with-in.md → subjects/cred.md, subjects/induslnd-bank.md, sources/2026-07-01-cred-unveils-invite-only-18k-gold-credit-card-for-india-s-elite-partners-with-in.md | Auto-approved
