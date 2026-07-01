@@ -459,3 +459,11 @@ Append-only ingest/query/lint event log.
 ## [2026-06-30] query/brief_query | How is Axis bank performing in this market
 
 ## [2026-07-01] crawl | autonomous | universe 110, 20 searches + 2 feeds → 0 candidates | ingested 0/8 (vault 0, market-signal 0, feeds 0), dropped 0, queued 0, dupes 0, stale 39, irrelevant 0, errors 0
+
+## [2026-07-01] update | entity-registry += indigo-airlines (competitor) (from indigo-and-axis-bank-launch-bluchip-co-brand-credit-cards.md)
+
+## [2026-07-01] ingest | indigo-and-axis-bank-launch-bluchip-co-brand-credit-cards.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-07-01] ingest | indigo-and-axis-bank-launch-bluchip-co-brand-credit-cards.md → subjects/indigo-airlines.md, subjects/axis-bank.md, sources/2026-07-01-indigo-and-axis-bank-launch-bluchip-co-brand-credit-cards.md | Auto-approved
+
+## [2026-07-01] update | entity-registry += meta (context) (from makemytrip-and-cleartrip-both-just-launched-creator-programs-the-models-are-diff.md)

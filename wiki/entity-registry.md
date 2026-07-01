@@ -60,6 +60,8 @@ treated as context until promoted).
 
 ## Competitors
 
+- indigo-airlines | competitor | IndiGo Airlines | domain: goindigo.in | added_by: agent 2026-07-01 · source: indigo-and-axis-bank-launch-bluchip-co-brand-credit-cards.md · India's largest low-cost carrier operating co-branded credit cards and loyalty programs (BluChip) competing for travel-fintech customer wallet.
+
 - etihad-airways | competitor | Etihad Airways | newly-surfaced · added_by: agent 2026-06-30 · source: bobcard-etihad-guest-premium-credit-card-review-cardexpert.md · Middle Eastern airline and Etihad Guest loyalty program operator; recently ended SBI Card partnership to launch BOBCard co-brands
 
 - flipkart-sbi-card | competitor | Flipkart SBI Credit Card | domain: sbicard.com | newly-surfaced · added_by: agent 2026-06-30 · source: big-cashback-for-flipkart-myntra-shoppers-new-sbi-co-branded-card-decoded.md · Co-branded card with 7.5% Myntra, 5% Flipkart/Cleartrip cashback, ₹500 annual fee
@@ -207,6 +209,8 @@ treated as context until promoted).
 - hdfc-bank | competitor | HDFC Bank | domain: hdfcbank.com | added_by: agent 2026-06-22 · source: 2026-06-22-hdfc-regalia-gold-revamp.md · Indian systemically important bank; issuer of co-branded and proprietary premium travel credit cards (Regalia Gold, Regalia Platinum, etc.); major benchmark in India's premium segment.
 
 ## Context (never gets a page)
+
+- meta | context | Meta Platforms Inc. | added_by: agent 2026-07-01 · source: makemytrip-and-cleartrip-both-just-launched-creator-programs-the-models-are-diff.md · social-media platform and advertising partner to travel commerce players
 
 - benepik | context | Benepik | newly-surfaced · added_by: agent 2026-06-30 · source: gift-cards-become-the-new-currency-of-rewards-loyalty-in-india-benepik-drives-th.md · India rewards and loyalty platform with 350+ gift cards and 800+ enterprise clients
 

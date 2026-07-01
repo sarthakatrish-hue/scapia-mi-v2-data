@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/indigo-airlines]] — "IndiGo launches two co-branded Axis Bank credit cards via BluChip loyalty"
 - [[subjects/bobcard-etihad-guest-premium-credit-card]] — "BOBCARD's metal Etihad co-brand pairs Gold status with zero forex markup"
 - [[subjects/flipkart-sbi-card]] — "SBI Card and Flipkart launch cashback card targeting digital-first lifestyle shoppers"
 - [[subjects/nykaa]] — Nykaa launches brand-linked Glam Pass to defend beauty market share
@@ -78,6 +79,6 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/rbl-bank]]
 - [[subjects/sbi-card]] — "SBI Card's Etihad exit hands a ready-made co-brand base to BOBCARD"
 - [[subjects/icici-bank]] — "'ICICI Bank's iShop portal delivers 36% hotel returns, directly rivalling HDFC SmartBuy'"
-- [[subjects/axis-bank]] — "Axis Bank's Burgundy Private AUM hits $27bn as wealth segment accelerates"
+- [[subjects/axis-bank]] — "Axis Bank extends co-brand travel card reach with IndiGo BluChip partnership"
 - [[subjects/hdfc-bank]] — "HDFC Bank joins industry-wide credit card reward tightening as costs rise"
 - [[subjects/hdfc-regalia-gold]] — "Regalia Gold reward rate cut 6% and lounge access conditionalised from July 2026"
