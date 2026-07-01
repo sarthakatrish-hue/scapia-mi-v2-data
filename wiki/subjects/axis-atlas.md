@@ -59,8 +59,7 @@ last_updated: 2026-06-27
 
 ## Coverage
 
-### Atlas Flagged in Forex Guide — 2026-06-27
-
+### Atlas Flagged in Forex Guide
 A 2026 consumer guide benchmarking forex cards vs credit cards for Indian international travel explicitly names Axis Atlas as carrying 3.5% forex markup — framing it as a card with strong travel rewards but no forex-cost advantage, contrasted directly against its sibling Axis Magnus Burgundy Private at 0%[^forex-cc-2026-06-27]. The guide positions zero-markup cards as the recommended tool for frequent international travellers, structurally disadvantaging Atlas on the cost dimension even as its rewards programme remains intact.
 
 No new product changes are evidenced; the 3.5% markup and ₹5,000 annual fee remain as previously recorded. The significance is narrative: mainstream consumer guides in 2026 are now using Atlas's forex cost as an explicit negative data point in the zero-markup vs premium-card comparison — widening the perception gap between Atlas and newer zero-cost alternatives including Scapia. [Inferred · Medium][^forex-cc-2026-06-27]
@@ -79,7 +78,7 @@ This is Atlas's third material devaluation in three years and the most damaging 
 
 ## Developments
 
-- 2026-06-27 — Atlas Flagged in Forex Guide [^forex-cc-2026-06-27]
+- Atlas Flagged in Forex Guide [^forex-cc-2026-06-27]
 - 2026-06-26 — Atlas Specs Confirmed in Roundup [^bttc-2026-06-26]
 - 2026-04-02 — Atlas April 2026 Partner Purge [^atlas-apr2026]
 - 2024-04-20 — Axis Atlas second devaluation effective: travel reward cap (₹2L/month), expanded exclusions, milestone benefit cut from 17,500 to 10,000 EDGE miles, annual benefit cut from 10,000 to 5,000 EDGE miles, transfer partners split into Group A/B with separate caps, concierge and airport pick-up discontinued [^atlas-deval1]

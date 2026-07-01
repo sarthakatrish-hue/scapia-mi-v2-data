@@ -39,15 +39,14 @@ last_updated: 2026-06-26
 
 ## Coverage
 
-### BizPower IT/GST Cap Targets Tax Earners — 2026-06-26
-
+### BizPower IT/GST Cap Targets Tax Earners
 HDFC Bank's BizPower business card absorbed a dual devaluation in May 2026: the base reward rate was cut from 4 points per Rs 150 to 5 points per Rs 200 (a 6% effective reduction), and a new IT/GST transaction cap limits reward-earning tax payments to just 2 income tax and 2 GST transactions per billing cycle[^bizpower-deval-2026-06-26]. Additional tax payments in the same month earn nothing. The cap directly targets a known cardholder behaviour — routing large quarterly advance tax and GST payments through the card to accumulate points — and represents a structural closure of that optimisation[^bizpower-deval-2026-06-26].
 
 HDFC partially offset the change by raising the monthly 5X accelerated rewards cap from 5,000 to 7,500 points, softening the blow for high-spend business users concentrated on partner categories. For Scapia, the more interesting opportunity is the self-employed and business-traveller segment now facing new earning ceilings on their largest controllable expense categories — a cohort that values both travel benefits and reward maximisation without complexity. [Inferred · Medium]
 
 ## Developments
 
-- 2026-06-26 — BizPower IT/GST Cap Targets Tax Earners [^bizpower-deval-2026-06-26]
+- BizPower IT/GST Cap Targets Tax Earners [^bizpower-deval-2026-06-26]
 
 ## Sources
 

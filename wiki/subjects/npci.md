@@ -39,8 +39,7 @@ India and Cambodia launched a live UPI–KHQR cross-border payment linkage on 2 
 
 For Scapia, the read is structural: as UPI acceptance spreads to Southeast Asian tourist destinations, Indian outbound travellers gain a cash-free, card-free option abroad — but only for P2M QR payments[^india-cambodia-upi-2026-06-03]. Scapia's zero-forex credit card still captures spend where UPI acceptance is absent (hotels, airlines, aggregated bookings) and earns rewards UPI cannot offer, keeping the card proposition complementary rather than threatened [Inferred · Medium][^india-cambodia-upi-2026-06-03].
 
-### UPI Market-Cap Extended, Travel Limits Raised — 2026-06-25
-
+### UPI Market-Cap Extended, Travel Limits Raised
 NPCI and RBI have released a consolidated set of 2026 UPI rule updates covering operational limits, enhanced category thresholds, and the 2FA mandate[^upi-rules-2026-06-25]. The most commercially significant change for Scapia's market is the travel category receiving an enhanced ₹5 lakh per-transaction and ₹10 lakh per-day limit from 15 September 2025, putting high-value trip payments firmly within UPI's reach. The 30% single-app market-share cap deadline has been pushed to 31 December 2026, extending a compliance runway that primarily benefits PhonePe and Google Pay — together holding over 85% of UPI volume — while smaller apps gain more time to compete[^upi-rules-2026-06-25].
 
 The operational guidelines (effective 1 August 2025) introduce API rate limits — 50 balance checks and 25 linked-account lookups per app per day — alongside AutoPay off-peak scheduling and a 3-poll cap on pending transaction status checks[^upi-rules-2026-06-25]. These are system-stability measures rather than user-facing friction, but they signal NPCI tightening the rails as transaction volumes scale. For Scapia, the interchange framework is worth watching: wallet-based UPI now carries 0.5–1.1% merchant interchange, structurally favouring card rails — where rewards fund engagement — over wallet-UPI for discretionary spend [Inferred · Medium][^upi-rules-2026-06-25].
@@ -60,7 +59,7 @@ Simultaneously, EPFO has completed testing of instant provident fund withdrawals
 ## Developments
 
 - 2026-06-03 — India–Cambodia UPI QR Goes Live [^india-cambodia-upi-2026-06-03]
-- 2026-06-25 — UPI Market-Cap Extended, Travel Limits Raised [^upi-rules-2026-06-25]
+- UPI Market-Cap Extended, Travel Limits Raised [^upi-rules-2026-06-25]
 - 2026-06-24 — UPI 2026 Scale and Rule Overhaul [^upi2026-jun24]
 - 2026-06-24 — NPCI Verified Names, EPFO UPI Withdrawals [^npci-jun2026]
 

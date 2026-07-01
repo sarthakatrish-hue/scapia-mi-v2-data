@@ -53,15 +53,14 @@ last_updated: 2026-06-26
 
 ## Coverage
 
-### MMT ICICI Card First Profiled — 2026-06-26
-
+### MMT ICICI Card First Profiled
 A 2026 travel-card roundup introduces the MakeMyTrip ICICI Bank Credit Card to this wiki: ₹999 annual fee, 0.99% forex markup, ₹2.4L income threshold, and Priority Pass-backed lounge access at 1 international + 2 domestic visits[^bttc-2026-06-26]. The dual-network feature and MakeMyTrip co-brand integration position this as the lowest-barrier travel card in the comparison set.
 
 The card's competitive threat to Scapia is real in the mass-accessible segment: 0.99% forex and a ₹999 fee make the cost case tight, though Scapia's 0% forex and unlimited lounge access remain decisive for frequent travellers[^bttc-2026-06-26]. The OTA co-brand lock-in is the structural concern — cardholders optimising for MMT rewards have less reason to hold a second travel card [Inferred · High].
 
 ## Developments
 
-- 2026-06-26 — MMT ICICI Card First Profiled [^bttc-2026-06-26]
+- MMT ICICI Card First Profiled [^bttc-2026-06-26]
 
 ## Sources
 

@@ -31,8 +31,7 @@ last_updated: 2026-06-28
 
 ## Coverage
 
-### RBI Flagged as Premium Card Risk — 2026-06-28
-
+### RBI Flagged as Premium Card Risk
 A market overview of India's premium travel card competition explicitly identifies the RBI's oversight of unsecured credit growth as a material risk for banks building large premium card portfolios[^prem-travel-rbi-2026-06-28]. The article warns that regulatory changes to fee structures, card issuance norms, or credit limits could affect the profitability of premium card books — particularly for banks that rely on aggressive card growth strategies where borrower quality may be uneven.
 
 For Scapia and Federal Bank, this is a shared regulatory environment, but the risk profile differs: a focused travel-first card with a defined HNI target is less exposed to portfolio-quality concerns than a broad-market card stack[^prem-travel-rbi-2026-06-28]. The RBI's posture reinforces that any product expansion — particularly into new credit categories or UPI-linked credit — must be designed to full prudential standards from the outset. [Inferred · Medium]
@@ -69,7 +68,7 @@ Critically, the RBI also barred banks from inventing new lending categories via 
 
 ## Developments
 
-- 2026-06-28 — RBI Flagged as Premium Card Risk [^prem-travel-rbi-2026-06-28]
+- RBI Flagged as Premium Card Risk [^prem-travel-rbi-2026-06-28]
 - 2026-06-27 — Orient Exchange Forex Rules Summary [^rbi-forex-orient-2026-06-27]
 - 2026-06-27 — RBI Cash Rules Detailed in Guide [^rbi-cash-limits-2026-06-27]
 - 2026-06-27 — LRS Rules Shape Forex Card Market [^rbi-lrs-forex-2026-06-27]

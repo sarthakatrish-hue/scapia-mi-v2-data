@@ -1,1 +1,18 @@
-{"entries": [{"id": "ld_90df8e2f6c", "subject_slug": "thomas-cook", "leader_name": "Deepesh Varma", "role": "Chief Business Officer – Foreign Exchange, Thomas Cook India", "date": "2026-06-29", "quote": "International travellers today expect their payment solutions to be as seamless and rewarding as the travel experience itself… Our industry-first cross-border rewards programme has been designed to encourage customers to actively transact using their Borderless Travel Card across transport, dining, retail and lifestyle categories while earning meaningful benefits in return.", "signal": "Thomas Cook is deliberately repositioning its forex card from a pure currency-management tool to a rewards-and-engagement platform, signalling an intent to compete in the loyalty layer of international payments.", "belief": "[Inferred · High] Management believes reward-linked everyday spending is the primary lever to shift Indian outbound travellers away from ATM cash withdrawals and onto the Borderless Card as their default overseas payment instrument.", "source_type": "article", "source_url": "raw/ambiguous/thomas-cook-india-s-outbound-tourism-sector-witnesses-a-historic-transition-towa.md", "photo": "/media/leaders/deepesh-varma.jpg", "ts": 1782700373540}]}
+{
+  "entries": [
+    {
+      "id": "ld_90df8e2f6c",
+      "subject_slug": "thomas-cook",
+      "leader_name": "Deepesh Varma",
+      "role": "Chief Business Officer – Foreign Exchange, Thomas Cook India",
+      "date": "",
+      "quote": "International travellers today expect their payment solutions to be as seamless and rewarding as the travel experience itself… Our industry-first cross-border rewards programme has been designed to encourage customers to actively transact using their Borderless Travel Card across transport, dining, retail and lifestyle categories while earning meaningful benefits in return.",
+      "signal": "Thomas Cook is deliberately repositioning its forex card from a pure currency-management tool to a rewards-and-engagement platform, signalling an intent to compete in the loyalty layer of international payments.",
+      "belief": "[Inferred · High] Management believes reward-linked everyday spending is the primary lever to shift Indian outbound travellers away from ATM cash withdrawals and onto the Borderless Card as their default overseas payment instrument.",
+      "source_type": "article",
+      "source_url": "raw/ambiguous/thomas-cook-india-s-outbound-tourism-sector-witnesses-a-historic-transition-towa.md",
+      "photo": "/media/leaders/deepesh-varma.jpg",
+      "ts": 1782700373540
+    }
+  ]
+}

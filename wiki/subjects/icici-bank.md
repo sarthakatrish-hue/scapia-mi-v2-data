@@ -37,8 +37,7 @@ last_updated: 2026-06-28
 
 ## Coverage
 
-### ICICI iShop in HNI Race — 2026-06-28
-
+### ICICI iShop in HNI Race
 A market overview of India's premium travel card competition places ICICI iShop alongside HDFC SmartBuy and Kotak Unbox as a deliberate closed-loop ecosystem play — offering elevated reward multipliers for in-portal bookings to capture both interchange and travel commissions while locking in high-net-worth cardholders[^prem-travel-icici-2026-06-28]. ICICI's ~2% forex markup is similarly framed as a strategic acquisition subsidy rather than a pricing concession.
 
 The article adds strategic context to ICICI's iShop investment: the portal is not simply a loyalty feature but a direct revenue and engagement mechanism targeting the same HNI traveller segment Scapia pursues[^prem-travel-icici-2026-06-28]. For Scapia, this confirms ICICI is investing on the travel booking surface — but the simultaneous devaluation pressure, spend-linked lounge gating, and rising acquisition costs documented elsewhere signal that ICICI's HNI proposition is increasingly conditional and margin-constrained. [Inferred · Medium]
@@ -69,7 +68,7 @@ For Scapia, this is a minor but telling signal: large issuers are managing rewar
 
 ## Developments
 
-- 2026-06-28 — ICICI iShop in HNI Race [^prem-travel-icici-2026-06-28]
+- ICICI iShop in HNI Race [^prem-travel-icici-2026-06-28]
 - 2026-06-26 — ICICI Launches iShop Rewards Portal [^ishop-2026-06-26]
 - 2026-06-26 — ICICI Joins Rewards Tightening Wave [^cc-tighten-icici-2026-06-26]
 - 2026-04-01 — ICICI Spend-Links Lounge Access [^card-rules-apr2026]

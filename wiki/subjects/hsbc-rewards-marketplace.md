@@ -43,15 +43,14 @@ last_updated: 2026-06-26
 
 ## Coverage
 
-### HSBC Launches Hopper Travel Portal — 2026-06-26
-
+### HSBC Launches Hopper Travel Portal
 HSBC has launched its Rewards Marketplace in partnership with travel platform Hopper, offering select cardholders up to 12X reward points on hotel bookings and 6X on flights [^hsbc-rm-2026-06-26]. The portal supports 1:1 point redemption with major airlines (Air India, Singapore Airlines, British Airways) and hotel chains (Marriott, IHG, Accor), with protective features including price drop refunds and cancel-for-any-reason — positioning it as HSBC's answer to HDFC SmartBuy and ICICI iShop.
 
 However, the platform's reach is limited to five card tiers and redemption is restricted to travel bookings only — no vouchers or shopping — leaving it trailing SmartBuy's ₹56,668 vs its ₹39,900 total value-back on an equal ₹1.8L spend comparison [^hsbc-rm-2026-06-26]. For Scapia, the key attack vectors remain: zero convenience fees, 0% forex, and no earn caps — all areas where HSBC Rewards Marketplace introduces friction that Scapia can credibly exploit in positioning.
 
 ## Developments
 
-- 2026-06-26 — HSBC Launches Hopper Travel Portal [^hsbc-rm-2026-06-26]
+- HSBC Launches Hopper Travel Portal [^hsbc-rm-2026-06-26]
 
 ## Sources
 

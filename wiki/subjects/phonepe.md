@@ -32,8 +32,7 @@ last_updated: 2026-06-25
 
 ## Coverage
 
-### UPI Cap Extension Benefits PhonePe — 2026-06-25
-
+### UPI Cap Extension Benefits PhonePe
 NPCI's extension of the 30% market-share cap to 31 December 2026 is an unambiguous near-term relief for PhonePe, which holds roughly 48% of UPI transaction volume[^upi-rules-pe-2026-06-25]. Rather than being forced to shed share or face penalties, PhonePe retains its dominant position through the end of the year while regulators allow smaller apps more runway to grow. The parallel clarification that wallet-based UPI transactions carry merchant interchange of 0.5–1.1% is notable: it formalises a revenue mechanism for the wallet layer that PhonePe operates, subtly improving the economics of its non-bank-linked UPI flows[^upi-rules-pe-2026-06-25].
 
 For Scapia, the read remains structural — PhonePe's dominance is not under near-term regulatory pressure, and the interchange framework makes wallet-UPI slightly more expensive for merchants than card rails, preserving one of Scapia's ecosystem advantages. The 2FA mandate adds compliance overhead across all UPI apps including PhonePe, but PhonePe's engineering scale means it absorbs this more easily than smaller competitors [Inferred · High][^upi-rules-pe-2026-06-25].
@@ -52,7 +51,7 @@ For Scapia, the read is that regulatory tailwinds are now actively supporting Ph
 
 ## Developments
 
-- 2026-06-25 — UPI Cap Extension Benefits PhonePe [^upi-rules-pe-2026-06-25]
+- UPI Cap Extension Benefits PhonePe [^upi-rules-pe-2026-06-25]
 - 2026-06-24 — PhonePe Dominant as UPI Scales [^upi2026-pep-jun24]
 - 2026-06-24 — NPCI Rules Touch PhonePe UPI [^upi-phonepe-2026-06-24]
 - 2026-06-22 — PhonePe launched Credit Line on UPI, enabling bank-approved credit lines to be linked and used for merchant payments on UPI rails[^clonupi]

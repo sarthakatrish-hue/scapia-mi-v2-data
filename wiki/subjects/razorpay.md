@@ -45,8 +45,7 @@ last_updated: 2026-06-28
 
 ## Coverage
 
-### Razorpay Expands Beyond Payments Rails — 2026-06-28
-
+### Razorpay Expands Beyond Payments Rails
 A 2026 fintech outlook piece positions Razorpay as one of the payments players actively widening its canvas beyond domestic rails [^fintech2026-2026-06-28]. Alongside its POP acquisition, Razorpay is expanding into cross-border remittances (India's outward market: $29B+ in FY25) and co-launched CardSync with CRED and Visa — India's first ecosystem-wide saved card tokenisation solution — to address the ~40% card payment failure rate caused by checkout friction [^fintech2026-2026-06-28]. COO Rahul Kothari is publicly advocating for a shared fraud intelligence network with universal tokenisation and device/SIM-to-account linking as the next infrastructure layer [^fintech2026-2026-06-28].
 
 The CardSync initiative is notable for Scapia specifically: if tokenisation completion rates rise, card-on-file transactions improve across all co-branded cards including Scapia's [Inferred · High]. But Razorpay's central position in that infrastructure — combined with its merchant distribution and POP's consumer rewards loop — means it is building a closed ecosystem where everyday and travel spend can be captured end-to-end, before users reach a dedicated travel card [Inferred · Medium].
@@ -61,7 +60,7 @@ For Scapia, the signal is indirect but meaningful. Razorpay's merchant distribut
 
 ## Developments
 
-- 2026-06-28 — Razorpay Expands Beyond Payments Rails [^fintech2026-2026-06-28]
+- Razorpay Expands Beyond Payments Rails [^fintech2026-2026-06-28]
 - 2026-06-22 — Razorpay Bets Big on Consumer Rewards [^razorpay-pop-2026-06-22]
 
 ## Sources

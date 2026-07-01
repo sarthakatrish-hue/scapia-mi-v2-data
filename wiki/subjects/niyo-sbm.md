@@ -53,15 +53,14 @@ last_updated: 2026-06-26
 
 ## Coverage
 
-### Niyo SBM Zero-Forex Card Profiled — 2026-06-26
-
+### Niyo SBM Zero-Forex Card Profiled
 A 2026 travel-card roundup introduces the Niyo SBM Credit Card to this wiki: effectively zero annual fee (₹500 waived), 0% forex markup, and issuance backed by a minimum ₹5,000 fixed deposit rather than income documentation[^bttc-2026-06-26]. The 10% Niyo Coins on domestic spend and spend-gated lounge access round out the offer. No income threshold is required, making this the most accessible card in the comparison by entry barrier.
 
 The zero-forex match with Scapia is the key competitive signal: Niyo SBM removes Scapia's primary cost differentiator for a segment that needs the FD-backed route[^bttc-2026-06-26]. However, the secured-credit model, conditional lounge, and domestic-spend-weighted rewards mean Niyo SBM targets a structurally different user — credit-history builders and new-to-banking customers — rather than Scapia's established travel-first audience [Inferred · High].
 
 ## Developments
 
-- 2026-06-26 — Niyo SBM Zero-Forex Card Profiled [^bttc-2026-06-26]
+- Niyo SBM Zero-Forex Card Profiled [^bttc-2026-06-26]
 
 ## Sources
 

@@ -34,15 +34,14 @@ last_updated: 2026-06-28
 
 ## Coverage
 
-### Budget 2026 Eases LRS TCS — 2026-06-28
-
+### Budget 2026 Eases LRS TCS
 Budget 2026 delivers targeted relief on outward remittances: TCS on education and medical remittances under LRS drops from 5% to 2% above the ₹10 lakh threshold, effective April 1, 2026[^lrs-tcs-2026]. The ₹10L threshold itself is unchanged — it was already raised from ₹7L in Budget 2025[^lrs-tcs-2026]. General forex card purchases and non-education outward remittances remain at the stiff 20% TCS above ₹10L, a rate that has consistently pressured the forex-card category.
 
 For Scapia, the status quo on travel forex TCS is quietly favorable[^lrs-tcs-2026]. International credit card spends are not classified as LRS forex purchases [Inferred · High], so Scapia's zero-markup card sidesteps the 20% TCS friction that burdens forex cards — a competitive moat the Budget leaves intact. High-volume leisure travelers rationally prefer credit cards over forex cards precisely because of this TCS asymmetry [Inferred · Medium].
 
 ## Developments
 
-- 2026-06-28 — Budget 2026 Eases LRS TCS [^lrs-tcs-2026]
+- Budget 2026 Eases LRS TCS [^lrs-tcs-2026]
 
 ## Sources
 

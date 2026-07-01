@@ -47,8 +47,7 @@ last_updated: 2026-06-25
 
 ## Coverage
 
-### Maharaja Club Expands, Card Confirmed — 2026-06-25
-
+### Maharaja Club Expands, Card Confirmed
 Air India announced its most substantive evolution of Maharaja Club since the November 2024 launch: Maharaja Points will become redeemable on Air India Express flights covering 50+ destinations — including Tier-2 Indian cities and Gulf ports the mainline carrier never served — with earning to follow in a second phase once Navitaire-GDS and Tata Neu integration issues are resolved[^aimc-2026-06-25]. Separately, Air India confirmed a co-branded credit card is in development targeting everyday spend accumulation, though no issuer, fee structure, or earn rates have been disclosed[^aimc-2026-06-25].
 
 The programme also committed to closing a damaging credibility gap: the same Air India business class seat currently costs up to 55% more in Maharaja Points than when booked via partner programmes like United MileagePlus or Singapore KrisFlyer[^aimc-2026-06-25]. For Scapia, the Express redemption expansion narrows one of the programme's most visible weaknesses, while the card announcement signals that the market gap created by the Vistara wind-down is about to be filled — tightening the acquisition window for travel card seekers currently without an Air India loyalty option [Inferred · High].
@@ -61,7 +60,7 @@ The new cards are expected to serve both Air India and Star Alliance loyalists, 
 
 ## Developments
 
-- 2026-06-25 — Maharaja Club Expands, Card Confirmed [^aimc-2026-06-25]
+- Maharaja Club Expands, Card Confirmed [^aimc-2026-06-25]
 - 2025-12-01 — Air India Maharaja Club Cards Coming [^aicc-2026-06-25]
 
 ## Sources

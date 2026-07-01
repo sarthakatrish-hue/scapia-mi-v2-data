@@ -33,8 +33,7 @@ last_updated: 2026-07-01
 
 ## Coverage
 
-### OpenAI Anchors India's Travel AI — 2026-07-01
-
+### OpenAI Anchors India's Travel AI
 In a single week, OpenAI announced partnerships with both MakeMyTrip and Ixigo — India's top two OTAs — cementing its position as the foundational AI layer for Indian travel commerce [^openai-ota-2026-07-01]. MMT is using OpenAI APIs to evolve Myra into a discovery-to-booking assistant; Ixigo is deploying enterprise APIs and agentic AI across its entire multi-modal stack including ConfirmTkt (trains) and AbhiBus (buses) [^openai-ota-2026-07-01].
 
 The signal for the broader fintech-travel intersection — where Scapia operates — is structural: AI is collapsing the booking funnel and, eventually, may initiate transactions autonomously [^openai-ota-2026-07-01]. Combined with OpenAI's earlier Pine Labs deal embedding AI in payment settlement infrastructure [^openai-pinelabs-2026-02-18], the picture is of an AI layer forming across both the travel-discovery and the payments-execution stack simultaneously. Cards that are not top-of-mind — or top-of-file — in these AI flows risk becoming invisible at the transaction moment [Inferred · Medium].
@@ -47,7 +46,7 @@ The deal marks OpenAI's deepening push into India's regulated fintech layer, mir
 
 ## Developments
 
-- 2026-07-01 — OpenAI Anchors India's Travel AI [^openai-ota-2026-07-01]
+- OpenAI Anchors India's Travel AI [^openai-ota-2026-07-01]
 - 2026-02-18 — OpenAI Meets India's Payments Stack [^openai-pinelabs-2026-02-18]
 
 ## Sources

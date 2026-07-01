@@ -36,15 +36,14 @@ last_updated: 2026-06-28
 
 ## Coverage
 
-### Fintech 3.0 — India's 2026 Outlook — 2026-06-28
-
+### Fintech 3.0 — India's 2026 Outlook
 India's fintech sector enters 2026 in a markedly different posture than the hypergrowth years — more profitable, more regulated, and more embedded in mainstream infrastructure [^fintech2026-2026-06-28]. UPI crossed 14 billion monthly transactions by late 2025, payments banks are pursuing full banking licences, and Groww and Pine Labs have already validated the public-market thesis [^fintech2026-2026-06-28]. Capital is flowing selectively: lending (affordable housing, MSME, embedded consumer credit) leads, while payments funding skews early-stage. Kreditbee, Fibe, and Moneyview are flagged as 2026 IPO candidates [^fintech2026-2026-06-28].
 
 For Scapia, two signals stand out. First, tokenisation remains broken — only 40% of users complete the process and ~40% of card failures stem from checkout friction — creating a real conversion opportunity that CardSync (Razorpay + CRED + Visa) is beginning to address [^fintech2026-2026-06-28]. Second, credit-on-UPI is expected to unlock a new bank-fintech partnership stack, expanding the pool of creditworthy users reachable via co-branded card models [^fintech2026-2026-06-28] [Inferred · High]. The 2026 environment rewards precision: fintechs with clear profit-pool visibility and strong product-market fit will attract capital; those without will consolidate or exit.
 
 ## Developments
 
-- 2026-06-28 — Fintech 3.0 — India's 2026 Outlook [^fintech2026-2026-06-28]
+- Fintech 3.0 — India's 2026 Outlook [^fintech2026-2026-06-28]
 
 ## Sources
 

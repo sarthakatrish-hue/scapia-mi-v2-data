@@ -54,15 +54,14 @@ last_updated: 2026-07-01
 
 ## Coverage
 
-### CRED Launches Gold Card, RuPay — 2026-07-01
-
+### CRED Launches Gold Card, RuPay
 CRED has launched two new credit products: Sovereign, an invite-only 18-karat gold card with guilloché engraving positioned as rare privilege, and the CRED IndusInd Bank RuPay Credit Card, a zero-joining-fee product co-issued with IndusInd Bank[^cred-sovereign-2026-07-01]. The RuPay card earns 5% on all e-commerce and 1% on offline and UPI spends — deliberately platform-agnostic, with redemption spanning 500+ CRED Pay merchants, ixigo flights, and 8 lakh Expedia hotels[^cred-sovereign-2026-07-01].
 
 Founder Kunal Shah frames the launch as a response to forced-loyalty co-branded cards, citing that 60–65% of card spending has already shifted to e-commerce[^cred-sovereign-2026-07-01]. The move is a material escalation: CRED now competes directly on the travel-rewards redemption surface (ixigo + Expedia) and on premium card aspiration (Sovereign), making it a more direct threat to Scapia's target audience of affluent, digital-first travellers [Inferred · High].
 
 ## Developments
 
-- 2026-07-01 — CRED Launches Gold Card, RuPay [^cred-sovereign-2026-07-01]
+- CRED Launches Gold Card, RuPay [^cred-sovereign-2026-07-01]
 
 ## Sources
 

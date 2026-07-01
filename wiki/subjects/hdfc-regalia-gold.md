@@ -62,8 +62,7 @@ Consumer card guides published in April 2026 are directing Axis Bank devaluation
 
 The Regalia Gold's own May 2026 devaluation (reward rate cut 6%, lounge conditionalised from July) means it is simultaneously being recommended as an upgrade while itself becoming less competitive — a window Scapia can exploit by reaching Axis defectors before they default to HDFC. [Inferred · High]
 
-### Regalia Gold Reward Rate Cut, Lounge Conditionalised — 2026-06-26
-
+### Regalia Gold Reward Rate Cut, Lounge Conditionalised
 HDFC Bank reduced the Regalia Gold's base reward rate from 4 points per Rs 150 to 5 points per Rs 200 from 15 May 2026, cutting effective earn rate by 6% to 1.625%[^regalia-deval-2026-06-26]. More impactfully, domestic lounge access — previously unconditional — now requires Rs 60,000 in prior-quarter spend to unlock just 3 visits, effective 1 July 2026. HDFC also introduced a Rs 199 card reissuance fee and raised the DCC fee to 1.75% on international INR transactions, adding cost layers that compound the value erosion[^regalia-deval-2026-06-26].
 
 At Rs 1 lakh/month spend, cardholders lose approximately Rs 650/year on rewards alone — modest in isolation but material when stacked with conditional lounge loss and higher forex costs[^regalia-deval-2026-06-26]. For Scapia, the July 1 lounge condition effective date is a concrete acquisition moment: Regalia Gold holders who miss the spending threshold will experience their first zero-lounge quarter and are primed to switch to a card with unconditional access. [Inferred · High]
@@ -71,7 +70,7 @@ At Rs 1 lakh/month spend, cardholders lose approximately Rs 650/year on rewards 
 ## Developments
 
 - 2026-04-02 — Regalia Gold Positioned as Axis Defector Target [^regalia-axis-alt-2026]
-- 2026-06-26 — Regalia Gold Reward Rate Cut, Lounge Conditionalised [^regalia-deval-2026-06-26]
+- Regalia Gold Reward Rate Cut, Lounge Conditionalised [^regalia-deval-2026-06-26]
 - 2026-06-22 — HDFC Bank revamped Regalia Gold with a Rs 2,500 annual fee, 12 domestic lounge visits, capped utility/telecom rewards, and a stated mass-premium salaried focus.[^regalia26]
 
 ## Sources

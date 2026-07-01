@@ -34,15 +34,14 @@ last_updated: 2026-06-29
 
 ## Coverage
 
-### Nykaa's Glam Pass loyalty bet — 2026-06-29
-
+### Nykaa's Glam Pass loyalty bet
 Nykaa is rolling out Glam Pass, a brand-specific loyalty pass priced from ₹39, offering 10% discounts on initial purchases across labels like NYX and Minimalist — currently live for select Mumbai users with city-wide expansion imminent[^nykaa-2026-06-29]. The move is a direct counter to quick-commerce rivals (Blinkit, Swiggy Instamart) and fashion-beauty crossover players (Myntra, Reliance Tira) that are eroding its ~20% online beauty market share[^nykaa-2026-06-29].
 
 The broader signal is structural: India's loyalty program market is on track to nearly quadruple from $4.3B to $17.1B by 2035[^nykaa-2026-06-29]. Nykaa's brand-co-funded model — letting individual labels finance their own rewards — could become a template across lifestyle verticals. For Scapia, this opens a potential partnership lane where beauty/lifestyle brand rewards sit alongside travel perks on the card, reinforcing spend stickiness [Inferred · Medium].
 
 ## Developments
 
-- 2026-06-29 — Nykaa's Glam Pass loyalty bet [^nykaa-2026-06-29]
+- Nykaa's Glam Pass loyalty bet [^nykaa-2026-06-29]
 
 ## Sources
 

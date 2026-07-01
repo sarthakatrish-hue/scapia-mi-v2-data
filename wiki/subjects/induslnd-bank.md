@@ -44,8 +44,7 @@ last_updated: 2026-07-01
 
 ## Coverage
 
-### IndusInd Co-Issues CRED RuPay Card — 2026-07-01
-
+### IndusInd Co-Issues CRED RuPay Card
 IndusInd Bank is the licensed issuer behind the newly launched CRED IndusInd Bank RuPay Credit Card, deepening its co-branded fintech portfolio[^cred-induslnd-2026-07-01]. Under the arrangement, IndusInd handles issuance while CRED manages marketing and distribution — a model that gives IndusInd access to CRED's millions of creditworthy users without direct acquisition spend. The card carries zero joining fee, 5% e-commerce rewards, and travel redemption via ixigo and Expedia[^cred-induslnd-2026-07-01].
 
 The partnership signals IndusInd's continued push to grow card distribution through fintech rails, complementing its Tiger (Air India miles) and Avios Infinite products[^cred-induslnd-2026-07-01]. For Scapia, IndusInd now presents on two fronts — a travel-miles card and a CRED-distributed e-commerce rewards card — both targeting the affluent digital consumer [Inferred · Medium].
@@ -70,7 +69,7 @@ The single-partner constraint is the structural ceiling: Tiger's entire airline 
 
 ## Developments
 
-- 2026-07-01 — IndusInd Co-Issues CRED RuPay Card [^cred-induslnd-2026-07-01]
+- IndusInd Co-Issues CRED RuPay Card [^cred-induslnd-2026-07-01]
 - 2026-06-18 — IndusInd Lounge Gap Exposed [^df-lounge-induslnd-2026-06-18]
 - 2026-06-26 — IndusInd Avios Infinite Surfaced [^bttc-2026-06-26]
 - 2026-06-26 — IndusInd Tiger Adds Air India Miles [^indusind-tiger-2026-06-26]

@@ -42,8 +42,7 @@ last_updated: 2026-06-22
 
 ## Coverage
 
-### Fi Money's Consumer Exit Explained — 2026-06-22
-
+### Fi Money's Consumer Exit Explained
 Fi Money, the Federal Bank-backed neobank founded in 2019, is abandoning its consumer banking products to pivot toward AI-driven enterprise technology [^fi-b2b-2026-06-22]. Cofounder Sujith Narayanan announced the reset publicly, citing unsustainable burn, weak monetisation, and the need for a structural rebuild [^fi-b2b-2026-06-22]. The move follows layoffs that cut Fi's workforce to under 100, a runway collapse from 18 to ~10 months between December 2024 and March 2025, and FY23 losses of ₹300 Cr on just ₹38 Cr in operating revenue [^fi-b2b-2026-06-22].
 
 The strategic read for Scapia is largely positive. Fi and Scapia share a common issuer in Federal Bank, and Fi's consumer exit removes a digitally native competitor that once chased the same under-30 cohort [^fi-b2b-2026-06-22]. More importantly, Fi's implosion — despite $137M raised and strong early design credentials — validates that generic fintech rewards (mutual funds, US stocks, undifferentiated cashback) cannot build durable engagement or revenue among young Indians [^fi-b2b-2026-06-22]. Scapia's travel-native positioning sidesteps exactly the commoditisation trap Fi fell into [Inferred · High].
@@ -52,7 +51,7 @@ The residual watch item is Federal Bank's operational bandwidth. Fi's winding co
 
 ## Developments
 
-- 2026-06-22 — Fi Money's Consumer Exit Explained [^fi-b2b-2026-06-22]
+- Fi Money's Consumer Exit Explained [^fi-b2b-2026-06-22]
 
 ## Sources
 

@@ -49,15 +49,14 @@ last_updated: 2026-06-22
 
 ## Coverage
 
-### PNB Kiwi RuPay-UPI Card Launch — 2026-06-22
-
+### PNB Kiwi RuPay-UPI Card Launch
 Punjab National Bank partnered with fintech Kiwi to launch the PNB Kiwi Credit Card — a RuPay co-brand with native UPI credit integration, available to PNB's 180 million customers [^pnb-kiwi-2026-06-22]. The card carries no joining or annual fee, offers cashback on UPI and online spends, and is fully digitally onboarded [^pnb-kiwi-2026-06-22]. This is Kiwi's first public-sector bank partnership, a meaningful step up from prior private/small-bank co-brands [^pnb-kiwi-2026-06-22].
 
 The strategic signal is distribution at scale. PNB's 10,000+ branches anchor a financial-inclusion play targeting semi-urban and rural users who transact via QR codes but lack formal credit access [^pnb-kiwi-2026-06-22]. For Scapia, this is not a direct competitive threat today — the target segments and reward propositions are distinct — but it validates that credit-on-UPI is becoming a product category expectation, and Kiwi is now the best-distributed player in it [Inferred · High].
 
 ## Developments
 
-- 2026-06-22 — PNB Kiwi RuPay-UPI Card Launch [^pnb-kiwi-2026-06-22]
+- PNB Kiwi RuPay-UPI Card Launch [^pnb-kiwi-2026-06-22]
 
 ## Sources
 

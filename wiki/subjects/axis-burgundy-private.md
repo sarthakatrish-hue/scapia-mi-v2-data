@@ -58,14 +58,12 @@ last_updated: 2026-06-30
 
 ## Coverage
 
-### Burgundy Private's Digital Wealth Play — 2026-06-30
-
+### Burgundy Private's Digital Wealth Play
 Axis Bank's Burgundy Private is positioning itself as a low-friction, digitally-delivered private banking service for India's high and ultra-high net worth clients — pairing dedicated relationship managers with the bank's broader mobile stack, biometric controls, and AI-driven fraud monitoring[^burg-living-rooms-2026-06-30]. The service bundles investment advice (curated funds, bonds, AIFs), customised credit (home loans, overdrafts against securities), and estate planning under one relationship, with Axis claiming a ~40% reduction in retail digital fraud incidents as evidence of the security infrastructure wealth clients demand[^burg-living-rooms-2026-06-30].
 
 For Scapia, the article reinforces the depth of the relationship moat Burgundy Private is building — not just a card product but a whole-balance-sheet banking relationship for business families across an expanding set of cities[^burg-living-rooms-2026-06-30]. The digital fraud-reduction narrative also signals that Axis is equipping its wealth proposition with credibility points that resonate with risk-sensitive HNWIs, the same segment Scapia targets with its mobile-native travel card [Inferred · Low].
 
-### Burgundy Private Expands to Tier 2 — 2026-06-30
-
+### Burgundy Private Expands to Tier 2
 Axis Bank's Burgundy Private announced an expansion to 15 new Tier 2 cities, bringing its total presence to 42 locations across India[^burg-tier2-2026-06-30]. The new cities — including Bhubaneswar, Patna, Raipur, Jodhpur, Udaipur, Kozhikode, and Nagpur — were selected on the basis of surging savings and term deposits exceeding ₹1 lakh crore[^burg-tier2-2026-06-30]. AUM has grown to nearly ₹2.07 trillion, a 33% YoY jump, as Burgundy manages wealth for over 13,000 families[^burg-tier2-2026-06-30].
 
 The strategic tension for Scapia is clear: Burgundy Private is investing aggressively in Tier 2 geographies through physical relationship managers and the full "One Axis" product suite, even as its card programme has suffered a trust-damaging devaluation cycle[^burg-apr2026]. These same Tier 2 markets — entrepreneurs and salaried affluents with international travel aspirations — are Scapia's natural acquisition base, and the digital channel remains more scalable than Burgundy's branch-first model [Inferred · Medium].
@@ -78,8 +76,8 @@ The ultra-premium zero forex and unlimited lounge benefits remain intact, but th
 
 ## Developments
 
-- 2026-06-30 — Burgundy Private's Digital Wealth Play [^burg-living-rooms-2026-06-30]
-- 2026-06-30 — Burgundy Private Expands to Tier 2 [^burg-tier2-2026-06-30]
+- Burgundy Private's Digital Wealth Play [^burg-living-rooms-2026-06-30]
+- Burgundy Private Expands to Tier 2 [^burg-tier2-2026-06-30]
 - 2026-04-02 — Burgundy Private Magnus Ratio Halved [^burg-apr2026]
 
 ## Sources

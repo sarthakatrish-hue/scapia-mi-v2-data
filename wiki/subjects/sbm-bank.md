@@ -35,15 +35,14 @@ last_updated: 2026-06-22
 
 ## Coverage
 
-### SBM Bank in RBI Co-brand Scrutiny — 2026-06-22
-
+### SBM Bank in RBI Co-brand Scrutiny
 OneCard's FY25 financial disclosures confirm SBM Bank India as one of its three issuing partners and note that the RBI has asked these banks to pause new co-branded card issuances over data-sharing concerns [^oc-fy25-sbm-2026-06-22]. SBM Bank is also the issuing partner for Niyo's Global card — a direct Scapia competitor in zero-forex travel cards — making this RBI exposure potentially significant for that programme as well.
 
 The immediate relevance to Scapia is limited but worth tracking: if SBM Bank faces issuing restrictions across its co-brand portfolio in response to the RBI review, Niyo Global's card acquisition could be disrupted, creating a window in the zero-forex travel segment [Inferred · Medium]. The broader pattern — RBI scrutiny touching multiple issuers simultaneously — continues to confirm this is a structural regulatory shift rather than a targeted bank-specific action [Inferred · High].
 
 ## Developments
 
-- 2026-06-22 — SBM Bank in RBI Co-brand Scrutiny [^oc-fy25-sbm-2026-06-22]
+- SBM Bank in RBI Co-brand Scrutiny [^oc-fy25-sbm-2026-06-22]
 
 ## Sources
 

@@ -56,15 +56,14 @@ last_updated: 2026-06-30
 
 ## Coverage
 
-### Flipkart SBI Card Launched — 2026-06-30
-
+### Flipkart SBI Card Launched
 SBI Card and Flipkart have launched a co-branded credit card delivering up to 7.5% cashback on Myntra, 5% on Flipkart/Shopsy/Cleartrip, and 4% on Zomato, Uber, and PVR — with a joining/annual fee of ₹500+GST, waivable at ₹3.5 lakh annual spend[^fksbi-2026-06-30]. The card is available on both Visa and Mastercard networks and features an auto-credit cashback mechanism that settles rewards within two days of statement generation, reducing redemption friction for daily-use shoppers[^fksbi-2026-06-30].
 
 The card is clearly positioned for India's digital-first, Flipkart-ecosystem shopper — not for international travellers, a fact the article itself concedes given the steep 3.5% forex markup[^fksbi-2026-06-30]. For Scapia, the Cleartrip integration is the closest competitive overlap, but the ecosystem lock-in and forex penalty mean this card competes at the lifestyle/cashback end of the market rather than Scapia's travel-premium segment [Inferred · High]. The SBI Card–Flipkart partnership nonetheless signals that India's largest card issuer is doubling down on co-brand breadth and e-commerce stickiness as growth levers.
 
 ## Developments
 
-- 2026-06-30 — Flipkart SBI Card Launched [^fksbi-2026-06-30]
+- Flipkart SBI Card Launched [^fksbi-2026-06-30]
 
 ## Sources
 

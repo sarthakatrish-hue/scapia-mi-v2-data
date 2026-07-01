@@ -1,1 +1,32 @@
-{"entries": [{"id": "ld_f98baaa0b6", "subject_slug": "ixigo-au", "leader_name": "Aloke Bajpai", "role": "Group CEO, Ixigo", "date": "2026-07-01", "quote": "We are deploying agentic AI both within the org and for over half a billion travel consumers by leveraging OpenAI's Enterprise platforms to reinvent the travel stack.", "signal": "Bajpai is framing AI not as a feature but as an architectural rebuild — \"reinventing the travel stack\" implies infrastructure-level changes, not UI polish.", "belief": "[Inferred · High] Management believes agentic AI will restructure how travel is discovered, planned, and booked at mass scale — and that being an early infrastructure-layer adopter creates a durable moat.", "source_type": "article", "source_url": "raw/ambiguous/india-based-makemytrip-ixigo-working-with-openai-to-expand-ai-capabilities-news-technology.md", "photo": "/media/leaders/aloke-bajpai.jpg", "ts": 1782883248193}, {"id": "ld_765dd75c4e", "subject_slug": "ixigo-au", "leader_name": "Rajnish Kumar", "role": "Co-Founder & Co-CEO, Ixigo", "date": "2026-05-21", "quote": "Ixigo NEXT is more than a chatbot added to an existing app — travel software itself is changing.", "signal": "Kumar is staking Ixigo's next growth phase on a ground-up AI redesign, not incremental feature work", "belief": "[Inferred · High] Management believes conversational, preference-aware interfaces will structurally replace filter-and-menu travel booking in India", "source_type": "article", "source_url": "raw/ambiguous/the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatra-s-earnings-ca.md", "photo": "/media/leaders/rajnish-kumar.jpg", "ts": 1782123533825}]}
+{
+  "entries": [
+    {
+      "id": "ld_f98baaa0b6",
+      "subject_slug": "ixigo-au",
+      "leader_name": "Aloke Bajpai",
+      "role": "Group CEO, Ixigo",
+      "date": "2026-02-18",
+      "quote": "We are deploying agentic AI both within the org and for over half a billion travel consumers by leveraging OpenAI's Enterprise platforms to reinvent the travel stack.",
+      "signal": "Bajpai is framing AI not as a feature but as an architectural rebuild — \"reinventing the travel stack\" implies infrastructure-level changes, not UI polish.",
+      "belief": "[Inferred · High] Management believes agentic AI will restructure how travel is discovered, planned, and booked at mass scale — and that being an early infrastructure-layer adopter creates a durable moat.",
+      "source_type": "article",
+      "source_url": "raw/ambiguous/india-based-makemytrip-ixigo-working-with-openai-to-expand-ai-capabilities-news-technology.md",
+      "photo": "/media/leaders/aloke-bajpai.jpg",
+      "ts": 1782883248193
+    },
+    {
+      "id": "ld_765dd75c4e",
+      "subject_slug": "ixigo-au",
+      "leader_name": "Rajnish Kumar",
+      "role": "Co-Founder & Co-CEO, Ixigo",
+      "date": "2026-05-21",
+      "quote": "Ixigo NEXT is more than a chatbot added to an existing app — travel software itself is changing.",
+      "signal": "Kumar is staking Ixigo's next growth phase on a ground-up AI redesign, not incremental feature work",
+      "belief": "[Inferred · High] Management believes conversational, preference-aware interfaces will structurally replace filter-and-menu travel booking in India",
+      "source_type": "article",
+      "source_url": "raw/ambiguous/the-ai-divide-in-indian-travel-what-makemytrip-ixigo-tbo-and-yatra-s-earnings-ca.md",
+      "photo": "/media/leaders/rajnish-kumar.jpg",
+      "ts": 1782123533825
+    }
+  ]
+}

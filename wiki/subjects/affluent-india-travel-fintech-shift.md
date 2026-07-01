@@ -36,15 +36,14 @@ last_updated: 2026-06-28
 
 ## Coverage
 
-### Affluent Indians Strategise Travel Finance — 2026-06-28
-
+### Affluent Indians Strategise Travel Finance
 Consumer research published on NomadLawyer.org documents a structural shift among India's affluent travellers: 45-52% now use fintech apps to optimise forex and rewards before booking, and financial strategy "rivals destination selection" in planning priority[^affluent-travel-2026-06-28]. Travellers spending ₹8L-₹20L annually are accumulating 4-6 complimentary flights through deliberate card stacking, with 5-10x international multipliers driving booking concentration and 8-15% total trip cost savings achievable through combined forex and rewards optimisation[^affluent-travel-2026-06-28].
 
 For Scapia, this is a direct tailwind: the segment described — digitally native, internationally mobile, rewards-aware, maintaining 2-3 premium travel cards — is Scapia's core acquisition target[^affluent-travel-2026-06-28]. The 60-day pre-booking planning window is an underexploited acquisition moment. The competitive note is that Wise and Revolut are named as default fintech tools in this segment, requiring Scapia to actively insert the credit-card-vs-prepaid argument — no capital lock, rewards earn, domestic usability — into the research flow before users default to a multi-app prepaid posture [Inferred · High].
 
 ## Developments
 
-- 2026-06-28 — Affluent Indians Strategise Travel Finance [^affluent-travel-2026-06-28]
+- Affluent Indians Strategise Travel Finance [^affluent-travel-2026-06-28]
 
 ## Sources
 

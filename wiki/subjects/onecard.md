@@ -62,8 +62,7 @@ last_updated: 2026-06-22
 
 ## Coverage
 
-### OneCard FY25 Financials, RBI Probe — 2026-06-22
-
+### OneCard FY25 Financials, RBI Probe
 OneCard posted operating revenue of ₹1,878 cr in FY25, a 32% jump from ₹1,425.5 cr in FY24, approaching the ₹2,000 cr mark [^oc-fy25-2026-06-22]. Net losses fell 26% to ₹297.5 cr as the company cut advertising spend by nearly 40% to ₹294 cr and improved its cost-per-rupee-earned ratio from ₹1.31 to ₹1.17 [^oc-fy25-2026-06-22]. The company raised over $270 million to date and is adding ~₹40 cr in debt from Alteria Capital [^oc-fy25-2026-06-22].
 
 The more strategically significant signal for Scapia is the RBI scrutiny [^oc-fy25-2026-06-22]. The regulator reportedly asked OneCard's partner banks — which include Federal Bank, Scapia's sole issuing partner — to pause new co-branded card issuances pending clarity on data-sharing practices. This is the same regulatory theme already documented in the Federal Bank freeze, and it confirms the pressure is industry-wide, not bank-specific [Inferred · High].
@@ -72,7 +71,7 @@ For Scapia, the dual read is: OneCard is a well-funded, revenue-scaling competit
 
 ## Developments
 
-- 2026-06-22 — OneCard FY25 Financials, RBI Probe [^oc-fy25-2026-06-22]
+- OneCard FY25 Financials, RBI Probe [^oc-fy25-2026-06-22]
 
 ## Sources
 

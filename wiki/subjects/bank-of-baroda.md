@@ -35,15 +35,14 @@ last_updated: 2026-06-24
 
 ## Coverage
 
-### Bank of Baroda Raises Card Interest Rate — 2026-06-24
-
+### Bank of Baroda Raises Card Interest Rate
 Bank of Baroda is hiking the interest rate on unpaid dues for its One co-branded credit card customers from June 2026, adding to the broader trend of Indian banks repricing credit card debt costs upward this year[^bob-jun2026]. The One co-brand is not a travel card, so the direct competitive overlap with Scapia is limited.
 
 The move is nonetheless worth tracking as a signal: PSU banks are tightening the economics of their co-brand portfolios, which could either push them to seek more lucrative travel-focused partnerships or cede that segment further to specialist fintechs. [Inferred · Low]
 
 ## Developments
 
-- 2026-06-24 — Bank of Baroda Raises Card Interest Rate [^bob-jun2026]
+- Bank of Baroda Raises Card Interest Rate [^bob-jun2026]
 
 ## Sources
 

@@ -58,15 +58,14 @@ last_updated: 2026-06-28
 
 ## Coverage
 
-### WOW! Black in 2026 Forex Guide — 2026-06-28
-
+### WOW! Black in 2026 Forex Guide
 Cardtrail's 2026 zero-forex ranking covers the IDFC FIRST WOW! Black, confirming its current name and fleshing out benefits not previously on record: 2 domestic lounge visits per quarter, MakeMyTrip discounts, and accelerated reward points[^wow-cardtrail-2026-06-28]. The guide positions it as the "zero markup on training wheels" card — a smart entry point for students and career-starters who want to build credit history while also avoiding forex fees[^wow-cardtrail-2026-06-28].
 
 The structural ceiling is clear: credit limit equals the ₹20,000 FD, making large travel spends impossible on this card alone[^wow-cardtrail-2026-06-28]. Cardtrail verified the card carries no hidden cross-currency conversion fees, placing it alongside Niyo and IDFC FIRST Select in the genuinely-zero tier[^wow-cardtrail-2026-06-28]. For Scapia, WOW! Black occupies a distinct, lower segment — its MakeMyTrip tie-up is worth monitoring for signs of a deeper OTA partnership that could eventually compete in Scapia's core market[Inferred · Medium].
 
 ## Developments
 
-- 2026-06-28 — WOW! Black in 2026 Forex Guide [^wow-cardtrail-2026-06-28]
+- WOW! Black in 2026 Forex Guide [^wow-cardtrail-2026-06-28]
 
 ## Sources
 

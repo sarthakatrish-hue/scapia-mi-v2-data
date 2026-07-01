@@ -33,8 +33,7 @@ last_updated: 2026-06-22
 
 ## Coverage
 
-### RBI Freezes Co-brand Card Issuances — 2026-06-22
-
+### RBI Freezes Co-brand Card Issuances
 The Reserve Bank of India ordered Federal Bank and South Indian Bank to halt all new co-branded credit card issuances, citing non-compliance with recently revised card guidelines [^rbi-cobrand-2026-06-22]. The banks did not disclose the specific violations but confirmed they will continue serving existing co-branded cardholders while working to remediate deficiencies and seek regulatory clearance [^rbi-cobrand-2026-06-22].
 
 The revised RBI rules reaffirm that co-branding partners — fintechs like Scapia — cannot access customer data or conduct any transaction after the card is initially issued, and require the issuing bank's name to be clearly prominent on both the card and all marketing materials [^rbi-cobrand-2026-06-22]. Because Federal Bank is Scapia's own issuing partner, any freeze or compliance review at Federal Bank carries a direct risk to Scapia's new-customer acquisition pipeline [Inferred · High].
@@ -43,7 +42,7 @@ The broader read is that the RBI is using targeted enforcement to set sector-wid
 
 ## Developments
 
-- 2026-06-22 — RBI Freezes Co-brand Card Issuances [^rbi-cobrand-2026-06-22]
+- RBI Freezes Co-brand Card Issuances [^rbi-cobrand-2026-06-22]
 
 ## Sources
 

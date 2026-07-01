@@ -34,15 +34,14 @@ last_updated: 2026-06-28
 
 ## Coverage
 
-### Banks Battle for Premium Travellers — 2026-06-28
-
+### Banks Battle for Premium Travellers
 India's major banks — HDFC, Axis, ICICI, and Kotak — are competing intensely for high-net-worth travellers through premium travel credit cards, reducing forex markup to ~2% and accelerating rewards on international spend[^prem-travel-2026-06-28]. The strategic logic goes beyond card revenue: a premium travel cardholder is expected to consolidate savings, investments, and insurance with the same institution, making the forex fee reduction a calculated acquisition subsidy for long-term wallet share[^prem-travel-2026-06-28].
 
 Banks are reinforcing cardholder lock-in through proprietary booking portals — HDFC SmartBuy, ICICI iShop, Kotak Unbox — that offer higher reward multipliers for in-ecosystem travel bookings, capturing interchange, travel commissions, and engagement data in a single closed loop[^prem-travel-2026-06-28]. However, rising acquisition costs (lounge access, rewards, marketing) and the RBI's ongoing scrutiny of unsecured credit growth introduce profitability and regulatory risks that could force further benefit rationalisation — a dynamic that has already produced the 2025–26 devaluation wave and creates persistent switching opportunity for Scapia's unconditional, zero-fee model. [Inferred · High]
 
 ## Developments
 
-- 2026-06-28 — Banks Battle for Premium Travellers [^prem-travel-2026-06-28]
+- Banks Battle for Premium Travellers [^prem-travel-2026-06-28]
 
 ## Sources
 

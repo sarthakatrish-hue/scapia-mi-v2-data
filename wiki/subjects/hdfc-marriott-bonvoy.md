@@ -59,15 +59,14 @@ last_updated: 2026-06-26
 
 ## Coverage
 
-### Marriott Bonvoy HDFC Profiled — 2026-06-26
-
+### Marriott Bonvoy HDFC Profiled
 A 2026 travel-card roundup profiles the Marriott Bonvoy HDFC Credit Card for the first time in this wiki: ₹3,000 annual fee, 3.5% forex markup, and Silver Elite Marriott status from the first ₹500 spend[^bttc-2026-06-26]. The card earns 8 Bonvoy points per ₹150 on-property, drops sharply to 2 pts on general spend, and includes 12+12 lounge visits plus quarterly golf — a lifestyle bundle at a competitive fee.
 
 The structural vulnerability is forex and co-brand lock-in: 3.5% markup makes every international purchase 3.5% more expensive unless at a Marriott, and with Axis Atlas already stripping Marriott from its transfer programme in April 2026, partner-dependency risk is live [Inferred · High]. For Scapia, this card competes in the "aspirational hotel traveller" segment but offers little value to multi-brand or budget hotel guests[^bttc-2026-06-26].
 
 ## Developments
 
-- 2026-06-26 — Marriott Bonvoy HDFC Profiled [^bttc-2026-06-26]
+- Marriott Bonvoy HDFC Profiled [^bttc-2026-06-26]
 
 ## Sources
 

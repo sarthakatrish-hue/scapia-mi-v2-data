@@ -35,15 +35,14 @@ last_updated: 2026-06-24
 
 ## Coverage
 
-### UPI 2026 Rules: Fees and Limits — 2026-06-24
-
+### UPI 2026 Rules: Fees and Limits
 RBI and NPCI have formalised a set of UPI rule updates for 2026, introducing merchant-side interchange fees (0.5%–1.1% on transactions above ₹2,000), standardised daily transaction limits (₹1L for most major banks including Federal Bank), and a payee-name verification mandate effective 30 June 2025 requiring all UPI apps to display only bank-verified recipient names[^upi-2026-rules]. P2P transactions and sub-₹2,000 flows remain free, preserving the zero-cost experience for most consumer use cases.
 
 For Scapia, the direct regulatory impact is limited — the interchange applies to merchants, not cardholders, and Federal Bank's ₹1L daily UPI cap is in line with peers[^upi-2026-rules]. The more strategic read is structural: interchange legitimises UPI-credit revenue models for players like PhonePe, potentially accelerating their build-out of credit-on-UPI products that compete with Scapia for everyday and travel spend [Inferred · Medium]. The payee verification rule is a broad trust improvement for digital payments that benefits all participants.
 
 ## Developments
 
-- 2026-06-24 — UPI 2026 Rules: Fees and Limits [^upi-2026-rules]
+- UPI 2026 Rules: Fees and Limits [^upi-2026-rules]
 
 ## Sources
 

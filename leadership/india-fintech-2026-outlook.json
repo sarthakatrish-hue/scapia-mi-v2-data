@@ -1,1 +1,18 @@
-{"entries": [{"id": "ld_2bd658df84", "subject_slug": "india-fintech-2026-outlook", "leader_name": "Akash Sinha", "role": "CEO & Co-founder, Cashfree Payments", "date": "2026-06-28", "quote": "2025 was the year India proved that financial innovation can be both deeply inclusive and globally scalable. With UPI now powering over 80% of all digital payments, it is clear that the next wave of growth will come from new behaviors such as conversational and agentic payments, biometric payments and intelligent cross-border flows.", "signal": "Cashfree is positioning for the agentic/AI payments layer and cross-border flows as its next growth frontier, beyond domestic payment rails.", "belief": "[Inferred · High] Management believes the domestic UPI market is structurally won and future value lies in behavioural and geographic expansion — cross-border and AI-native payment experiences.", "source_type": "article", "source_url": "raw/market/fintech-3-0-what-2026-holds-for-india-s-digital-money-machine.md", "photo": "/media/leaders/akash-sinha.jpg", "ts": 1782614574019}]}
+{
+  "entries": [
+    {
+      "id": "ld_2bd658df84",
+      "subject_slug": "india-fintech-2026-outlook",
+      "leader_name": "Akash Sinha",
+      "role": "CEO & Co-founder, Cashfree Payments",
+      "date": "",
+      "quote": "2025 was the year India proved that financial innovation can be both deeply inclusive and globally scalable. With UPI now powering over 80% of all digital payments, it is clear that the next wave of growth will come from new behaviors such as conversational and agentic payments, biometric payments and intelligent cross-border flows.",
+      "signal": "Cashfree is positioning for the agentic/AI payments layer and cross-border flows as its next growth frontier, beyond domestic payment rails.",
+      "belief": "[Inferred · High] Management believes the domestic UPI market is structurally won and future value lies in behavioural and geographic expansion — cross-border and AI-native payment experiences.",
+      "source_type": "article",
+      "source_url": "raw/market/fintech-3-0-what-2026-holds-for-india-s-digital-money-machine.md",
+      "photo": "/media/leaders/akash-sinha.jpg",
+      "ts": 1782614574019
+    }
+  ]
+}

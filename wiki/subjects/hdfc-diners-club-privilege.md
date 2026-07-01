@@ -40,15 +40,14 @@ last_updated: 2026-06-26
 
 ## Coverage
 
-### Diners Privilege Takes 25% Reward Cut — 2026-06-26
-
+### Diners Privilege Takes 25% Reward Cut
 HDFC Bank's Diners Club Privilege suffered the steepest devaluation in the May 2026 revision: base reward rate fell from 4 points per Rs 150 to 4 points per Rs 200, reducing effective earn rate by 25% to 1.30%[^diners-deval-2026-06-26]. At Rs 1 lakh/month spend, that translates to Rs 2,600 in lost annual value. Simultaneously, domestic and international lounge access — previously unconditional — was placed behind a Rs 60,000 quarterly spend gate effective 1 July 2026, compounding the erosion for lighter spenders[^diners-deval-2026-06-26].
 
 The card's accelerated rewards on Swiggy, Zomato, and SmartBuy remain intact, meaning the devaluation is concentrated on base spenders rather than partner-platform loyalists. For Scapia, this bifurcation is useful intelligence: the Diners Privilege cardholders most likely to switch are those who do not heavily use those partner platforms and now see their base reward value down a quarter with lounge access newly conditional. [Inferred · High]
 
 ## Developments
 
-- 2026-06-26 — Diners Privilege Takes 25% Reward Cut [^diners-deval-2026-06-26]
+- Diners Privilege Takes 25% Reward Cut [^diners-deval-2026-06-26]
 
 ## Sources
 

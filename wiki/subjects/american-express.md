@@ -40,14 +40,12 @@ last_updated: 2026-06-26
 
 ## Coverage
 
-### Amex Slashes Membership Rewards Earn — 2026-06-26
-
+### Amex Slashes Membership Rewards Earn
 American Express India has significantly restructured its Membership Rewards programme: the same ₹4 lakh annual spend that previously generated ~25,000 points now yields only ~10,000 — a 60% reduction — and the Taj Hotels voucher threshold has been raised from ₹4 lakh to ₹7 lakh annual spend[^cc-tighten-amex-2026-06-26]. The changes confirm that even India's most premium card issuer is tightening reward economics as the industry-wide cost-benefit equation deteriorates.
 
 For Scapia, this is the most strategically significant devaluation in this cycle outside the domestic bank incumbents. Amex's ₹4–7L annual spend cardholders — who now earn fewer points and can no longer access the Taj voucher — are a premium-adjacent, travel-aware segment who chose their card for aspirational benefits that have now been materially diluted[^cc-tighten-amex-2026-06-26]. Scapia's zero-fee, zero-forex, stable-earn model is a direct counter-narrative. [Inferred · High]
 
-### Amex Platinum Specs Surfaced — 2026-06-26
-
+### Amex Platinum Specs Surfaced
 A 2026 travel-cards roundup profiles the American Express Platinum Card at ₹66,000 annual fee with a 3.5% forex markup — the most expensive card in the comparison set and aimed squarely at the ₹25L+ salaried segment[^bttc-2026-06-26]. Points do not expire and the 3X international earn rate with a ₹60,000-equivalent welcome gift sustain the premium positioning, but the 3.5% forex charge is a striking cost for a card at this price point.
 
 No new product changes are signalled. For Scapia, the Platinum's ₹66,000 fee and 3.5% forex are the sharpest possible contrast with a zero-fee, zero-forex proposition — though the target demographics barely overlap [Inferred · Low]. The no-expiry points feature is the one structural advantage worth tracking for Scapia's own roadmap [Inferred · Medium][^bttc-2026-06-26].
@@ -60,8 +58,8 @@ For Scapia, this is a useful signal: even the premium end of the Indian card mar
 
 ## Developments
 
-- 2026-06-26 — Amex Slashes Membership Rewards Earn [^cc-tighten-amex-2026-06-26]
-- 2026-06-26 — Amex Platinum Specs Surfaced [^bttc-2026-06-26]
+- Amex Slashes Membership Rewards Earn [^cc-tighten-amex-2026-06-26]
+- Amex Platinum Specs Surfaced [^bttc-2026-06-26]
 - 2026-04-09 — Amex Zeros Fuel Rewards [^amex-deval-2026-06-25]
 
 ## Sources

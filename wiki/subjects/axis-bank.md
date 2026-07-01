@@ -41,8 +41,7 @@ last_updated: 2026-07-01
 
 ## Coverage
 
-### Axis Replaces Vistara with IndiGo — 2026-07-01
-
+### Axis Replaces Vistara with IndiGo
 Axis Bank has moved quickly to fill the airline co-brand gap left by the Vistara wind-down, partnering with IndiGo — India's largest domestic carrier — to launch two BluChip-earning credit cards[^indigo-axis-2026-07-01]. The base and premium variants (INR 799++ and INR 5,000++) will run on both RuPay and Visa, with Axis President Arnika Dixit framing the tie-up as a commitment to delivering travel value across casual and frequent-flyer segments[^indigo-axis-2026-07-01].
 
 The move signals that Axis views airline co-brands as a core strategic pillar even after the Vistara disruption demonstrated the fragility of single-carrier programmes[^indigo-axis-2026-07-01]. For Scapia, the pattern is useful: Axis's reliance on airline partnerships for travel card differentiation is exactly the concentrated-risk structure that Scapia's airline-agnostic earn model is designed to contrast against [Inferred · High].
@@ -85,7 +84,7 @@ The pattern matters for Scapia's positioning: the combination of tighter forfeit
 
 ## Developments
 
-- 2026-07-01 — Axis Replaces Vistara with IndiGo [^indigo-axis-2026-07-01]
+- Axis Replaces Vistara with IndiGo [^indigo-axis-2026-07-01]
 - 2026-06-30 — Burgundy Private Wealth Arm Grows Fast [^burgundy-2026-06-30]
 - 2026-06-26 — Axis Partner Removals Cited Industry-Wide [^cc-tighten-axis-2026-06-26]
 - 2025-04-18 — Axis Winds Down Vistara Cards [^axis-apr2025-cc]

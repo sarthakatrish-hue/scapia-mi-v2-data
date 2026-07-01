@@ -37,15 +37,14 @@ last_updated: 2026-06-27
 
 ## Coverage
 
-### Zero-Markup Cards Beat Forex Cards — 2026-06-27
-
+### Zero-Markup Cards Beat Forex Cards
 A consumer guide benchmarking forex cards against credit cards for Indian international travel in 2026 frames record LRS outflows — USD 31.7B in FY24-25, up 17% — as the backdrop for a product-category shift[^forex-cc-2026-06-27]. Standard credit cards still cost 3.5-4.1% on every overseas swipe, but a new tier of zero-markup cards (Axis Magnus Burgundy at 0%, IDFC First Wealth at 0.99%, ICICI Emeralde at 0%) now match prepaid forex card economics — and beat them once forex card issuance, reload, and ATM fees are included. Axis Atlas, despite its premium positioning, is explicitly cited as a 3.5% forex card, reinforcing its cost disadvantage vs zero-markup peers.
 
 The guide also quantifies two under-discussed costs: DCC (Dynamic Currency Conversion) averages 5.4% excess charge at European POS terminals per a 2024 MoneyControl analysis, and TCS at 20% above ₹7L LRS cumulative threshold applies to forex card loads[^forex-cc-2026-06-27]. For Scapia, both are messaging opportunities — credit card international spend avoids the forex card's TCS loading trigger [Inferred · High], and Scapia's 0% markup removes the 3.5-4.1% friction entirely. The guide's recommendation logic — zero-markup credit card for frequent international travellers — maps precisely to Scapia's target user.
 
 ## Developments
 
-- 2026-06-27 — Zero-Markup Cards Beat Forex Cards [^forex-cc-2026-06-27]
+- Zero-Markup Cards Beat Forex Cards [^forex-cc-2026-06-27]
 
 ## Sources
 

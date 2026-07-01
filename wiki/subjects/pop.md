@@ -41,8 +41,7 @@ last_updated: 2026-06-22
 
 ## Coverage
 
-### POP Raises $30M, Razorpay Majority Stake — 2026-06-22
-
+### POP Raises $30M, Razorpay Majority Stake
 POP, a rewards-first UPI payments app launched in June 2024, raised $30 million from Razorpay, which simultaneously acquired a majority stake in the Bengaluru startup [^pop-razorpay-2026-06-22]. The company reports 6 lakh daily transactions and 1 million unique monthly users in its first year, and has issued over 40,000 RuPay credit cards with Yes Bank as its banking partner [^pop-razorpay-2026-06-22]. Proceeds will be deployed across product development, merchant base expansion, and its rewards programme.
 
 POP's central product is POPcoins — a multi-brand rewards currency that users earn on UPI payments and redeem across the POP merchant network [^pop-razorpay-2026-06-22]. The Razorpay acquisition adds instant scale: Razorpay's existing merchant payment infrastructure becomes a natural distribution and redemption layer for POPcoins, closing a rewards loop that previously required POP to build its merchant network from scratch [^pop-razorpay-2026-06-22] [Inferred · High].
@@ -51,7 +50,7 @@ For Scapia, POP represents a new-model competitor: not a bank issuing a premium 
 
 ## Developments
 
-- 2026-06-22 — POP Raises $30M, Razorpay Majority Stake [^pop-razorpay-2026-06-22]
+- POP Raises $30M, Razorpay Majority Stake [^pop-razorpay-2026-06-22]
 
 ## Sources
 

@@ -63,15 +63,14 @@ last_updated: 2026-06-30
 
 ## Coverage
 
-### BOBCARD Launches Etihad Premium Co-brand — 2026-06-30
-
+### BOBCARD Launches Etihad Premium Co-brand
 BOBCARD, via BOB Financial Solutions, launched the Etihad Guest Premium Credit Card as its debut airline co-brand, directly absorbing the Etihad partnership that SBI Card held for five years before its discontinuation[^bobcard-etihad-premium-2026-06-30]. The metal card offers 0% forex markup, complimentary Etihad Guest Gold status achievable with a single etihad.com transaction, and 12 domestic + 8 international lounge visits per year with no spend gate — at a ₹5,000+GST fee waivable at ₹5L spend. CardExpert rates it 4.5/5, calling it "a solid airline co-brand card" for foreign travellers[^bobcard-etihad-premium-2026-06-30].
 
 For Scapia, the card is a material competitive development on two fronts: it matches Scapia's zero forex core proposition while adding an aspirational status layer Scapia currently lacks, and it directly captures the orphaned SBI Etihad cardholders — a travel-focused, points-literate cohort that is now actively shopping[^bobcard-etihad-premium-2026-06-30]. The critical caveat is that Etihad miles carry low redemption value (~50 paise/mile typical), the exclusion list is unusually long for a premium card, and the programme's benefits are locked to a non-alliance carrier — all weaknesses Scapia's broader, fee-free proposition can exploit [Inferred · High].
 
 ## Developments
 
-- 2026-06-30 — BOBCARD Launches Etihad Premium Co-brand [^bobcard-etihad-premium-2026-06-30]
+- BOBCARD Launches Etihad Premium Co-brand [^bobcard-etihad-premium-2026-06-30]
 
 ## Sources
 

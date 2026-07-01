@@ -52,8 +52,7 @@ last_updated: 2026-06-26
 
 ## Coverage
 
-### DCB Metal Specs Confirmed — 2026-06-26
-
+### DCB Metal Specs Confirmed
 A travel-card comparison roundup independently restates the HDFC Diners Club Black Metal Edition's core specs: ₹10,000 annual fee (waivable at ₹8L spend), 2% forex markup, and up to 10X SmartBuy rewards[^bttc-2026-06-26]. The notably low income threshold — ₹2,50,000/year salaried — is highlighted, making this a premium card accessible to a broader income band than its ₹10,000 fee might suggest.
 
 No new product changes are present. The 2% forex remains the card's strongest competitive edge versus other premium peers; against Scapia's 0% it still adds material cost on heavy international spends [Inferred · High]. The unlimited Diners Club lounge access and Club Marriott welcome bundle continue to represent genuine premium depth[^bttc-2026-06-26].
@@ -76,7 +75,7 @@ No new product changes are present. The 2% forex remains the card's strongest co
 
 ## Developments
 
-- 2026-06-26 — DCB Metal Specs Confirmed [^bttc-2026-06-26]
+- DCB Metal Specs Confirmed [^bttc-2026-06-26]
 
 ## Sources
 

@@ -33,8 +33,7 @@ last_updated: 2026-06-22
 
 ## Coverage
 
-### YES Bank Issues POP RuPay Cards — 2026-06-22
-
+### YES Bank Issues POP RuPay Cards
 YES Bank's role as a fintech credit infrastructure provider deepened with the disclosure that it issued over 40,000 RuPay credit cards for rewards-UPI platform POP, now majority-owned by Razorpay [^yes-bank-pop-2026-06-22]. This adds a third confirmed fintech credit programme to YES Bank's portfolio — alongside BharatPe Flex and Uni NxtWave — cementing its strategy of acting as a behind-the-scenes issuer for high-distribution fintech apps rather than competing on branch acquisition.
 
 For Scapia, the development reinforces an earlier read: YES Bank is assembling a fintech-distribution network that embeds credit into daily-use consumer apps at scale [Inferred · High]. With POP's UPI transaction volume and Razorpay's merchant backing now added to this stack, YES Bank-powered credit products will reach digitally-native consumers through multiple daily touchpoints — a form of credit pre-emption that could reduce the addressable pool of first-time credit-card seekers who might otherwise discover Scapia [Inferred · Medium].
@@ -49,7 +48,7 @@ For Scapia, the indirect signal is notable: YES Bank's UPI-credit model meets co
 
 ## Developments
 
-- 2026-06-22 — YES Bank Issues POP RuPay Cards [^yes-bank-pop-2026-06-22]
+- YES Bank Issues POP RuPay Cards [^yes-bank-pop-2026-06-22]
 - 2026-06-02 — YES Bank Powers BharatPe Credit-on-UPI [^bharatpe-flex-2026-06-02]
 
 ## Sources

@@ -41,8 +41,7 @@ last_updated: 2026-06-24
 
 ## Coverage
 
-### Amazon Pay Confirmed UPI Top 5 — 2026-06-24
-
+### Amazon Pay Confirmed UPI Top 5
 The 2026 UPI landscape article confirms Amazon Pay holds a top-5 position among Indian UPI apps, on a platform that now serves 500 million unique users and processes 21 billion transactions monthly[^upi2026-amzp-jun24]. PhonePe (48.3%) and Google Pay (37%) dominate, but the sheer scale of UPI growth means even sub-5% players like Amazon Pay are riding a structurally expanding base — reinforcing the distribution advantage Amazon Pay already wields via its e-commerce and Prime ecosystem.
 
 ### Amazon Pay Launches Rewards Gold — 2025-07-10
@@ -55,7 +54,7 @@ Scapia's clearest counter is specificity: Rewards Gold is a generalist cashback 
 
 ## Developments
 
-- 2026-06-24 — Amazon Pay Confirmed UPI Top 5 [^upi2026-amzp-jun24]
+- Amazon Pay Confirmed UPI Top 5 [^upi2026-amzp-jun24]
 - 2025-07-10 — Amazon Pay Launches Rewards Gold [^amzpay-20250710]
 
 ## Sources

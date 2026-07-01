@@ -54,15 +54,14 @@ last_updated: 2026-06-26
 
 ## Coverage
 
-### SmartBuy Tops Value-Back Charts — 2026-06-26
-
+### SmartBuy Tops Value-Back Charts
 A head-to-head comparison published by Paisabazaar benchmarking HSBC Rewards Marketplace against ICICI iShop and HDFC SmartBuy confirms HDFC Infinia via SmartBuy as the top-performing rewards portal — returning ₹56,668 on a ₹1.8L spend across flights, hotels, car rentals, and shopping [^hsbc-rm-2026-06-26]. SmartBuy's edge comes from broader category redemption (including Tanishq and Apple vouchers) and universal card access, distinguishing it from HSBC's gated, travel-only marketplace.
 
 For Scapia, the data crystallises the competitive threat from HDFC Infinia's ecosystem: a ~31.5% effective value-back rate that Scapia's current rewards structure cannot match head-on [Inferred · High]. The counter-positioning — zero forex, zero annual fee, no earn caps, no gating — remains structurally sound for a different customer segment but should be sharpened against the SmartBuy benchmark in acquisition and retention messaging [^hsbc-rm-2026-06-26].
 
 ## Developments
 
-- 2026-06-26 — SmartBuy Tops Value-Back Charts [^hsbc-rm-2026-06-26]
+- SmartBuy Tops Value-Back Charts [^hsbc-rm-2026-06-26]
 
 ## Sources
 

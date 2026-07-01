@@ -36,15 +36,14 @@ last_updated: 2026-06-28
 
 ## Coverage
 
-### Zero-Forex Guide Category Formalising — 2026-06-28
-
+### Zero-Forex Guide Category Formalising
 Cardtrail published a 2026 ranking of zero-forex markup credit cards for Indian international travellers, comparing six cards on real cost (joining fee + annual fee vs. savings), markup percentage, and travel perks[^zeroforex-signal-2026-06-28]. The guide frames the category's value proposition in concrete rupee terms — ₹3,000–7,000 in markup savings on a ₹2L trip — and educates readers on hidden conversion fees, LRS mechanics, and the TCS threshold above ₹7L annual international spend[^zeroforex-signal-2026-06-28].
 
 The strategic signal for Scapia is that the zero-forex card category is now entering a comparison-shopping phase, where editorial rankings drive a meaningful share of card applications among high-intent travellers[^zeroforex-signal-2026-06-28]. IDFC FIRST Select holds the "best all-rounder" label in this guide; Scapia is not featured. As this guide format proliferates across Cardtrail, NerdWallet-style Indian clones, and personal finance YouTube, the absence from top-ranked positions represents a compounding acquisition cost [Inferred · High]. Ensuring Scapia is verified as genuinely-zero and outreach to category guides is a near-term SEO and PR priority.
 
 ## Developments
 
-- 2026-06-28 — Zero-Forex Guide Category Formalising [^zeroforex-signal-2026-06-28]
+- Zero-Forex Guide Category Formalising [^zeroforex-signal-2026-06-28]
 
 ## Sources
 

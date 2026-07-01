@@ -42,15 +42,14 @@ last_updated: 2026-07-01
 
 ## Coverage
 
-### IndiGo, Axis Bank Launch BluChip Cards — 2026-07-01
-
+### IndiGo, Axis Bank Launch BluChip Cards
 IndiGo and Axis Bank have jointly launched two co-branded credit cards — a retail variant at INR 799++ and a premium variant at INR 5,000++ — earning IndiGo BluChip loyalty points on everyday and travel spending, with accelerated rates on direct IndiGo bookings[^indigo-bluchip-2026-07-01]. Both cards will be available on RuPay and Visa networks and bundle lounge access, dining offers, and reduced forex markup[^indigo-bluchip-2026-07-01]. The partnership pairs IndiGo's dominant domestic market position with Axis Bank's card distribution infrastructure.
 
 For Scapia, this is a meaningful competitive signal: IndiGo is now aggressively monetising its loyal flyer base through a card product, deepening the ecosystem lock-in of India's most-flown domestic airline[^indigo-bluchip-2026-07-01]. The BluChip currency is inherently single-airline, however, making it vulnerable to any IndiGo operational or pricing change — precisely the kind of fragility Scapia's open travel-rewards model avoids [Inferred · High].
 
 ## Developments
 
-- 2026-07-01 — IndiGo, Axis Bank Launch BluChip Cards [^indigo-bluchip-2026-07-01]
+- IndiGo, Axis Bank Launch BluChip Cards [^indigo-bluchip-2026-07-01]
 
 ## Sources
 

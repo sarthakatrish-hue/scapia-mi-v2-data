@@ -40,8 +40,7 @@ last_updated: 2026-06-28
 
 ## Coverage
 
-### Revolut Named in HNI Research — 2026-06-28
-
+### Revolut Named in HNI Research
 Consumer research on affluent Indian travellers names Revolut alongside Wise as a recommended fintech platform for pre-travel forex optimisation, targeting the segment spending ₹8L-₹20L annually on international trips[^revolut-affluent-2026-06-28]. The guide explicitly advises users to open Revolut accounts and compare rates across platforms 30-45 days before departure — confirming Revolut is gaining mindshare in the HNI planning phase even before its full India launch.
 
 This is corroborative rather than a new competitive development: Revolut's HNI targeting was already documented in the beta-launch coverage. The significance is that Revolut is achieving brand recognition in affluent-traveller research content without yet being fully live — compounding the competitive pressure it will exert once RevPoints and a full launch activate [Inferred · Medium].
@@ -56,7 +55,7 @@ For Scapia, this is a material competitive arrival. Revolut's target demographic
 
 ## Developments
 
-- 2026-06-28 — Revolut Named in HNI Research [^revolut-affluent-2026-06-28]
+- Revolut Named in HNI Research [^revolut-affluent-2026-06-28]
 - 2026-06-01 — Revolut Enters India in Beta [^rev-tc-2026-06-01]
 
 ## Sources

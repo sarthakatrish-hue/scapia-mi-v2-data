@@ -36,15 +36,14 @@ last_updated: 2026-06-24
 
 ## Coverage
 
-### UPI's 2026 Super-App Leap — 2026-06-24
-
+### UPI's 2026 Super-App Leap
 UPI has crossed into full financial-OS territory in 2026, with the RBI raising large-ticket limits, NPCI rolling out Credit on UPI, offline/NFC payment modes, and cross-border QR acceptance now live in multiple countries[^upi2026-stashfin]. The shift from "balance-only" rails to credit-enabled, voice-triggered, and globally interoperable infrastructure represents the most significant structural change to India's payments stack since UPI's 2016 launch.
 
 For Scapia, the double-edged read is real: Credit on UPI chips at card-swipe occasions, and global UPI QR nudges travellers away from forex travel cards[^upi2026-stashfin]. But the same credit-hungry, digitally fluent, mobile-first user who embraces these features is precisely Scapia's core customer — and premium lounge access, travel rewards, and concierge benefits remain outside UPI's scope today [Inferred · High].
 
 ## Developments
 
-- 2026-06-24 — UPI's 2026 Super-App Leap [^upi2026-stashfin]
+- UPI's 2026 Super-App Leap [^upi2026-stashfin]
 
 ## Sources
 

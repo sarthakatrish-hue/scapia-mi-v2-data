@@ -43,8 +43,7 @@ last_updated: 2026-06-29
 
 ## Coverage
 
-### Thomas Cook vs Wise Fee Breakdown — 2026-06-29
-
+### Thomas Cook vs Wise Fee Breakdown
 A 2025-focused comparison article pits Thomas Cook's Borderless Prepaid Card (nine currencies, fixed rates, free Allpoint ATM withdrawals, zero issuance/reload fees) against Wise (40+ currencies, mid-market rate, 0.43–1.36% conversion fee, £200 free ATM monthly)[^tc-wise-2025]. Thomas Cook wins on cash-heavy, structured itineraries with predictable currency needs; Wise wins on digital-payment-first trips with frequent small conversions. Neither is a travel credit card, so the piece indirectly affirms Scapia's uncapped-earn, no-capital-lockup positioning as a third, superior option.
 
 For Scapia, the competitive read is structural: both Thomas Cook and Wise compete in the prepaid/digital-debit layer, leaving the credit-card value story — no LRS obligation, earn travel coins on every rupee spent, zero forex markup — largely uncontested in this comparison frame[^tc-wise-2025]. The article confirms Thomas Cook's continued brand authority in the forex-card segment and its offline issuance advantage, but its 3–3.5% cross-currency fee on non-loaded currencies is a persistent weakness Scapia's content can exploit. [Inferred · High]
@@ -55,8 +54,7 @@ A May 2026 consumer guide benchmarks Thomas Cook's Borderless Travel Card at 12 
 
 No new strategic facts. The 12-currency figure in this May guide contrasts with the 28-currency claim in Thomas Cook's June rewards launch announcement, suggesting a recent expansion[^tc-forex2-2026-05-07]. For Scapia, the guide confirms Thomas Cook's persistent brand presence in the travel-extras segment of the forex card market — but its proprietary exchange rate (implying an embedded margin) and the multi-step ATM fee structure leave room for zero-markup credit cards to win on total-cost comparisons. [Inferred · Medium]
 
-### Thomas Cook Launches Cross-Border Rewards — 2026-06-29
-
+### Thomas Cook Launches Cross-Border Rewards
 Thomas Cook India has introduced what it claims is an industry-first cross-border rewards programme on its prepaid forex cards, offering 10% rewards-back on eligible transactions at high-frequency international merchants — Grab, Starbucks, 7-Eleven, McDonald's, KFC, Careem, and Burger King — across POS, contactless, and online channels[^tc-rewards-2026-06-29]. A USD 25 per-transaction minimum and a USD 10 daily cap apply, with rewards paid as Amazon vouchers. CBO Deepesh Varma framed the launch as part of a deliberate push to accelerate the shift from ATM cash withdrawals to contactless card spending abroad[^tc-rewards-2026-06-29].
 
 The move materially closes the reward-gap that historically made prepaid forex cards inferior to travel credit cards on value[^tc-rewards-2026-06-29]. For Scapia, the immediate implication is that Thomas Cook's Borderless Card now competes more credibly on the "earn while you travel" axis — but the daily USD 10 cap and Amazon-only redemption leave meaningful space for Scapia's uncapped, travel-native coin model to differentiate, particularly for higher-spend travellers [Inferred · High].
@@ -75,9 +73,9 @@ The guide's structural framing still favours zero-markup credit cards over prepa
 
 ## Developments
 
-- 2026-06-29 — Thomas Cook vs Wise Fee Breakdown [^tc-wise-2025]
+- Thomas Cook vs Wise Fee Breakdown [^tc-wise-2025]
 - 2026-05-07 — Thomas Cook Card in Forex Benchmark [^tc-forex2-2026-05-07]
-- 2026-06-29 — Thomas Cook Launches Cross-Border Rewards [^tc-rewards-2026-06-29]
+- Thomas Cook Launches Cross-Border Rewards [^tc-rewards-2026-06-29]
 - 2026-06-27 — Thomas Cook Pitches Cards Over Cash [^tc-cash-limits-2026-06-27]
 - 2026-06-27 — Thomas Cook Card in 2026 Guide [^tc-forex-2026-06-27]
 

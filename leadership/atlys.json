@@ -1,1 +1,18 @@
-{"entries": [{"id": "ld_29f8c7f7a0", "subject_slug": "atlys", "leader_name": "Mohak Nahta", "role": "Founder & CEO", "date": "2026-06-22", "quote": "We will use this capital to expand into new international markets and advance our AI roadmap.", "signal": "Founder is prioritising geographic expansion and AI infrastructure simultaneously, suggesting aggressive multi-front scaling.", "belief": "[Inferred · High] Management believes AI-native visa processing is a winner-take-most category and that moving fast globally before incumbents automate is the core strategic bet.", "source_type": "article", "source_url": "", "photo": null, "ts": 1782123533822}]}
+{
+  "entries": [
+    {
+      "id": "ld_29f8c7f7a0",
+      "subject_slug": "atlys",
+      "leader_name": "Mohak Nahta",
+      "role": "Founder & CEO",
+      "date": "",
+      "quote": "We will use this capital to expand into new international markets and advance our AI roadmap.",
+      "signal": "Founder is prioritising geographic expansion and AI infrastructure simultaneously, suggesting aggressive multi-front scaling.",
+      "belief": "[Inferred · High] Management believes AI-native visa processing is a winner-take-most category and that moving fast globally before incumbents automate is the core strategic bet.",
+      "source_type": "article",
+      "source_url": "",
+      "photo": null,
+      "ts": 1782123533822
+    }
+  ]
+}

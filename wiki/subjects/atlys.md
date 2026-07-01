@@ -45,7 +45,7 @@ last_updated: 2026-06-22
 
 ## Developments
 
-- 2026-06-22 — Atlys closes $36M Series C led by Susquehanna Asia Venture Capital; MakeMyTrip joins as new investor.[^atlys-c]
+- Atlys closes $36M Series C led by Susquehanna Asia Venture Capital; MakeMyTrip joins as new investor.[^atlys-c]
 2025-02-01 — Atlys acquires UK unit of visa-services firm Artionis in all-cash deal to expand European processing infrastructure.[^atlys-c]
 2024-09-01 — Atlys closes $20M Series B co-led by Peak XV Partners and Elevation Capital with DST Global Partners and Headline participating.[^atlys-c]
 2023-09-01 — Atlys raises $12M Series A.[^atlys-c]

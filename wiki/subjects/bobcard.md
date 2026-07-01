@@ -43,8 +43,7 @@ last_updated: 2026-06-30
 
 ## Coverage
 
-### BOBCARD Adds Etihad Co-brand Anchor — 2026-06-30
-
+### BOBCARD Adds Etihad Co-brand Anchor
 BOBCARD debuted in the airline co-brand space with the Etihad Guest Premium Credit Card, inheriting the Etihad partnership that SBI Card held for five years before its discontinuation[^bobcard-etihad-issuer-2026-06-30]. The metal card adds a meaningful new dimension to BOBCARD's travel strategy: on top of its multi-OTA discount blitz (tracked separately), it now offers a premium frequent-flyer product with Etihad Guest Gold status, 0% forex markup, and no-spend-gate lounge access at a ₹5,000+GST fee waivable at ₹5L spend.
 
 For Scapia, BOBCARD is now running a two-pronged travel offensive — mass-market OTA discounts and a premium airline co-brand — that makes it a more complete travel competitor than any single prior move suggested[^bobcard-etihad-issuer-2026-06-30]. The Etihad card's long exclusion list, low miles redemption value, and single-carrier lock-in are structural weaknesses Scapia can exploit, but the Gold status hook and metal card positioning signal BOBCARD is serious about owning the premium travel segment [Inferred · High].
@@ -57,7 +56,7 @@ For Scapia, the competitive read is clear: BOBCARD is staking out travel as its 
 
 ## Developments
 
-- 2026-06-30 — BOBCARD Adds Etihad Co-brand Anchor [^bobcard-etihad-issuer-2026-06-30]
+- BOBCARD Adds Etihad Co-brand Anchor [^bobcard-etihad-issuer-2026-06-30]
 - 2026-05-29 — BOBCARD's Multi-OTA Travel Push [^bobcard-travel-2026-06-25]
 
 ## Sources

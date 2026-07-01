@@ -39,8 +39,7 @@ last_updated: 2026-06-29
 
 ## Coverage
 
-### SuperCoins Rides Into Mobility — 2026-06-29
-
+### SuperCoins Rides Into Mobility
 Flipkart and Uber have partnered to let users earn SuperCoins on eligible rides — 4% of fares up to 150 coins per trip, with no overall cap — by linking their accounts [^flipkart-uber-2026-06-29]. Coins are credited to Flipkart accounts and redeemable across its ecosystem, including Cleartrip and Flipkart Minutes, with bonus coins offered to re-engage lapsed Uber users [^flipkart-uber-2026-06-29]. Flipkart VP Gaurav Arora framed this as SuperCoins "evolving into a broader rewards layer across everyday use cases," with mobility as a natural next category [^flipkart-uber-2026-06-29].
 
 For Scapia, the strategic read is a sharpening threat: SuperCoins can now be earned daily (Uber rides) and redeemed on travel (Cleartrip), replicating the earn-on-spend → redeem-on-travel loop that is Scapia's core value proposition — but anchored to a far larger daily-use distribution base [Inferred · High]. The moat that remains is Scapia's travel-native earn rates and open-inventory redemption; if Cleartrip's SuperCoin redemption value approaches Scapia's coin rates, competitive intensity escalates materially [Inferred · Medium].
@@ -55,7 +54,7 @@ A simultaneous Juspay one-click checkout partnership for ~1,000 D2C merchants si
 
 ## Developments
 
-- 2026-06-29 — SuperCoins Rides Into Mobility [^flipkart-uber-2026-06-29]
+- SuperCoins Rides Into Mobility [^flipkart-uber-2026-06-29]
 - 2025-10-29 — Super.money Bets on Secured Cards [^sm-kotak-2025-10-29]
 
 ## Sources

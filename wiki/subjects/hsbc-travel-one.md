@@ -52,15 +52,14 @@ last_updated: 2026-06-26
 
 ## Coverage
 
-### HSBC TravelOne First Profiled — 2026-06-26
-
+### HSBC TravelOne First Profiled
 A 2026 travel-card roundup introduces HSBC TravelOne to this wiki: ₹4,999 annual fee, 3.5% forex markup, and a ₹6L salaried income threshold that positions it below Axis Atlas on accessibility[^bttc-2026-06-26]. The card's standout perk is 20% off duty-free in India alongside 6 domestic and 4 international lounge visits, with travel discounts and a multi-airline transfer ecosystem completing the offer.
 
 The 3.5% forex charge is the card's biggest structural weakness: it offsets duty-free savings and makes every international transaction meaningfully more expensive[^bttc-2026-06-26]. For Scapia, TravelOne competes in the ₹6L–₹12L salaried band with a recognisable global brand halo — but its capped lounge access and high forex create clear contrast points [Inferred · Medium].
 
 ## Developments
 
-- 2026-06-26 — HSBC TravelOne First Profiled [^bttc-2026-06-26]
+- HSBC TravelOne First Profiled [^bttc-2026-06-26]
 
 ## Sources
 

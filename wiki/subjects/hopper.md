@@ -38,15 +38,14 @@ last_updated: 2026-06-26
 
 ## Coverage
 
-### Hopper Powers HSBC India Portal — 2026-06-26
-
+### Hopper Powers HSBC India Portal
 Hopper has gone live in India as the technology backbone of HSBC's newly launched Rewards Marketplace, enabling flight, hotel, and car rental bookings for select HSBC credit cardholders [^hsbc-rm-2026-06-26]. The partnership brings Hopper's distinctive consumer-protection features — price drop refunds, cancel-for-any-reason, and best-price guarantee — into the Indian premium card ecosystem for the first time at scale.
 
 The move confirms Hopper's India strategy as B2B-first: embedding within bank card programs (HSBC following earlier ICICI linkage signals) rather than competing directly as a consumer OTA [Inferred · High]. For Scapia, this is a signal to watch — a well-capitalised travel-tech platform quietly building distribution through the very card-issuer channel Scapia operates in, while layering in protective travel features that Scapia does not yet offer [^hsbc-rm-2026-06-26].
 
 ## Developments
 
-- 2026-06-26 — Hopper Powers HSBC India Portal [^hsbc-rm-2026-06-26]
+- Hopper Powers HSBC India Portal [^hsbc-rm-2026-06-26]
 
 ## Sources
 

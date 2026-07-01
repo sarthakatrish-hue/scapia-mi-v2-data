@@ -1,1 +1,18 @@
-{"entries": [{"id": "ld_3dbf59d57a", "subject_slug": "hdfc-regalia-gold", "leader_name": "Parag Rao", "role": "Country Head, Payments — HDFC Bank", "date": "2026-06-22", "quote": "We are sharpening Regalia Gold for the mass-premium salaried customer; rewards must be sustainable, not a giveaway.", "signal": "HDFC is deliberately reining in loyalty economics to protect margins while doubling down on the premium salaried segment.", "belief": "[Inferred · High] Management believes premium-segment growth can be sustained by tightening reward leakage rather than by expanding card benefits.", "source_type": "article", "source_url": "", "photo": null, "ts": 1782123533824}]}
+{
+  "entries": [
+    {
+      "id": "ld_3dbf59d57a",
+      "subject_slug": "hdfc-regalia-gold",
+      "leader_name": "Parag Rao",
+      "role": "Country Head, Payments — HDFC Bank",
+      "date": "",
+      "quote": "We are sharpening Regalia Gold for the mass-premium salaried customer; rewards must be sustainable, not a giveaway.",
+      "signal": "HDFC is deliberately reining in loyalty economics to protect margins while doubling down on the premium salaried segment.",
+      "belief": "[Inferred · High] Management believes premium-segment growth can be sustained by tightening reward leakage rather than by expanding card benefits.",
+      "source_type": "article",
+      "source_url": "",
+      "photo": null,
+      "ts": 1782123533824
+    }
+  ]
+}

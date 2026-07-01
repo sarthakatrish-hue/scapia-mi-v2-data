@@ -35,15 +35,14 @@ last_updated: 2026-06-25
 
 ## Coverage
 
-### UPI 2026 Rules — Key Limits — 2026-06-25
-
+### UPI 2026 Rules — Key Limits
 A TaxGuru explainer outlines the UPI compliance framework taking shape from 2026: the standard daily cap remains ₹1,00,000, but travel, medical, education, and a handful of other categories qualify for a ₹5,00,000 exception[^upi2026-2026-06-25]. New UPI registrations face a ₹5,000 ceiling in the first 24 hours, and PF withdrawal via UPI is expected to go live in March 2026 for salaried users[^upi2026-2026-06-25].
 
 The article's compliance angle is significant for Scapia: the travel-payments carve-out in the higher UPI limit directly benefits users booking flights or hotels via UPI-linked flows[^upi2026-2026-06-25]. At the same time, cashback from UPI apps must now be declared as income in ITR — a detail Scapia's rewards communications will need to address proactively to avoid user confusion[^upi2026-2026-06-25] [Inferred · Medium].
 
 ## Developments
 
-- 2026-06-25 — UPI 2026 Rules — Key Limits [^upi2026-2026-06-25]
+- UPI 2026 Rules — Key Limits [^upi2026-2026-06-25]
 
 ## Sources
 

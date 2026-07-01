@@ -54,15 +54,14 @@ last_updated: 2026-06-28
 
 ## Coverage
 
-### IDFC Select Tops 2026 Forex Guide — 2026-06-28
-
+### IDFC Select Tops 2026 Forex Guide
 Cardtrail's 2026 zero-forex card guide names IDFC FIRST Select the card it "recommends most often," citing the combination of zero forex markup, 4 domestic and 2 international lounge visits per quarter, 3X rewards on online spends, and a ₹999 annual fee that is waived at ₹2L annual spend[^select-cardtrail-2026-06-28]. Cardtrail also verified the card carries no hidden cross-currency conversion fees, placing it in the genuinely-zero tier alongside Niyo Global and IDFC FIRST WOW! Black[^select-cardtrail-2026-06-28].
 
 This editorial endorsement is the most strategically significant element for Scapia. IDFC FIRST Select is now the guide-recommended default for frequent international travellers who want a full travel package — the same audience Scapia targets[^select-cardtrail-2026-06-28]. Scapia's unlimited lounge access and zero annual fee with no spend condition are clear structural advantages, but they are not being reflected in mainstream consumer guides [Inferred · High]. Securing comparable editorial positioning should be a near-term priority.
 
 ## Developments
 
-- 2026-06-28 — IDFC Select Tops 2026 Forex Guide [^select-cardtrail-2026-06-28]
+- IDFC Select Tops 2026 Forex Guide [^select-cardtrail-2026-06-28]
 
 ## Sources
 

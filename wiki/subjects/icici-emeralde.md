@@ -63,22 +63,20 @@ last_updated: 2026-06-26
 
 ## Coverage
 
-### iShop Unlocks 36% Hotel Returns — 2026-06-26
-
+### iShop Unlocks 36% Hotel Returns
 ICICI Bank's quietly launched iShop portal transforms the Emeralde Private Metal into a 36%-on-hotels proposition — the highest single-category return in India's current premium card landscape[^ishop-2026-06-26]. The 6X/12X multiplier structure (flights/hotels) mirrors HDFC SmartBuy's mechanics and positions Emeralde as a direct SmartBuy rival for the first time. ICICI PR confirmed no formal launch announcement; the portal is live and targeted at points maximisers, with Times Black identified as the accessible on-ramp (24% hotel earn, 15,000pt cap) for those who can't access the invite-only Emeralde tier[^ishop-2026-06-26].
 
 The headline numbers are striking, but the fine-print matters: bonus caps hit fast (₹12,000/month on vouchers, imposed within two weeks), redemption on eVouchers is diluted to 1pt = ₹0.60, and transfer partners are absent from iShop entirely[^ishop-2026-06-26]. For Scapia, iShop raises the competitive bar in the premium ecosystem segment — ICICI is no longer an also-ran on rewards. The structural openings remain: 2% forex, ₹12,000 annual fee, invite-only access, and cap-introduction cadence all sustain Scapia's zero-cost, unconditional positioning for the travel-first mid-market user. [Inferred · High]
 
-### iShop Benchmarked Against Rivals — 2026-06-26
-
+### iShop Benchmarked Against Rivals
 A Paisabazaar comparison places ICICI Emeralde's iShop portal in the middle of the premium travel rewards pack — returning ₹43,800 on ₹1.8L spend, ahead of HSBC Rewards Marketplace (₹39,900) but meaningfully behind HDFC SmartBuy (₹56,668) [^hsbc-rm-2026-06-26]. iShop's advantage over HSBC lies in its broader redemption scope — vouchers and shopping in addition to travel — while its deficit vs SmartBuy stems from lower flight and shopping earn multipliers.
 
 For Scapia, iShop reinforces that ICICI Emeralde competes on ecosystem breadth rather than rate purity [Inferred · Medium]. The 2% forex and ₹12,000 annual fee remain structural openings: Scapia can credibly argue that its zero-cost, zero-markup structure delivers comparable real-world savings for the frequent international traveller who doesn't need a multi-category voucher ecosystem [^hsbc-rm-2026-06-26].
 
 ## Developments
 
-- 2026-06-26 — iShop Unlocks 36% Hotel Returns [^ishop-2026-06-26]
-- 2026-06-26 — iShop Benchmarked Against Rivals [^hsbc-rm-2026-06-26]
+- iShop Unlocks 36% Hotel Returns [^ishop-2026-06-26]
+- iShop Benchmarked Against Rivals [^hsbc-rm-2026-06-26]
 
 ## Sources
 
