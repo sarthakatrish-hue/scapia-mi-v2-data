@@ -503,3 +503,5 @@ Append-only ingest/query/lint event log.
 ## [2026-07-01] update | entity-registry += amazon-now (competitor) (from amazon-ceo-andy-jassy-visits-india-company-to-expand-quick-commerce-network-to-3.md)
 
 ## [2026-07-01] ingest | amazon-ceo-andy-jassy-visits-india-company-to-expand-quick-commerce-network-to-3.md | Maker: 7/10, Checker: 2/10 AUTO-APPROVE — bypassing queue
+
+## [2026-07-01] ingest | amazon-ceo-andy-jassy-visits-india-company-to-expand-quick-commerce-network-to-3.md → subjects/amazon-now.md, sources/2026-07-01-amazon-ceo-andy-jassy-visits-india-company-to-expand-quick-commerce-network-to-3.md | Auto-approved

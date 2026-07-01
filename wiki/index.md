@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/amazon-now]] — "Amazon Now eyes 300 cities, doubling orders each quarter since June 2025 launch"
 - [[subjects/confirmtkt]] — "ConfirmTkt gets agentic AI upgrade as part of Ixigo-OpenAI enterprise deal"
 - [[subjects/india-credit-card-market-may-2026]] — "Mid-tier issuers take incremental spend share as average transaction value falls 15% YoY"
 - [[subjects/cred]] — "Meta's $900M bet and WhatsApp tie-up supercharges CRED's payments ambitions"
