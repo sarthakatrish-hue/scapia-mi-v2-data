@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/flipkart-travel]] — "Flipkart Minutes hits 1,000 MFCs and 5x order growth in quick-commerce war"
 - [[subjects/amazon-now]] — "Amazon Now eyes 300 cities, doubling orders each quarter since June 2025 launch"
 - [[subjects/confirmtkt]] — "ConfirmTkt gets agentic AI upgrade as part of Ixigo-OpenAI enterprise deal"
 - [[subjects/india-credit-card-market-may-2026]] — "Mid-tier issuers take incremental spend share as average transaction value falls 15% YoY"
@@ -10,7 +11,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/indigo-airlines]] — "IndiGo launches two co-branded Axis Bank credit cards via BluChip loyalty"
 - [[subjects/bobcard-etihad-guest-premium-credit-card]] — "BOBCARD's metal Etihad co-brand pairs Gold status with zero forex markup"
 - [[subjects/flipkart-sbi-card]] — "SBI Card and Flipkart launch cashback card targeting digital-first lifestyle shoppers"
-- [[subjects/nykaa]] — Nykaa launches brand-linked Glam Pass to defend beauty market share
+- [[subjects/nykaa]] — "Nykaa CEO joins Jassy roundtable as quick-commerce pressure on beauty intensifies"
 - [[subjects/openai]] — "OpenAI becomes the AI backbone for India's two largest OTAs simultaneously"
 - [[subjects/india-fintech-2026-outlook]] — "India fintech matures into mainstream infrastructure as 2026 prioritises precision over speed"
 - [[subjects/yatra]] — "Yatra remains vague on AI strategy as rivals stake out clear positions"
@@ -50,7 +51,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/fi-money]] — "Cash-strapped Fi Money exits consumer neobanking for AI-driven B2B play"
 - [[subjects/revolut]] — "Revolut enters India beta and is named as preferred HNI travel fintech tool"
 - [[subjects/kiwi]] — "Kiwi lands first public-sector bank co-brand with PNB on RuPay-UPI credit"
-- [[subjects/amazon-pay]] — "Amazon Pay rounds out top 5 UPI apps on a 500M-user platform growing rapidly"
+- [[subjects/amazon-pay]] — "Amazon doubles down on India with $35B commitment and quick-commerce blitz"
 - [[subjects/pop]] — "Razorpay-backed POP builds multi-brand UPI rewards loop with RuPay credit card"
 - [[subjects/razorpay]] — "Razorpay deepens payments ecosystem play with tokenisation, cross-border, and consumer rewards"
 - [[subjects/super-money]] — "Flipkart's SuperCoins expands into mobility via Uber, deepening loyalty moat"
