@@ -19,3 +19,6 @@ Oliver Jay, managing director of international at OpenAI, said the partnership a
 “Advanced AI is not just about enterprises and how they use it internally but how they can also transform their consumers’ experience and engagement with the platform,” Jay said.
 
 During an earnings call last month, MMT said feedback on Myra had been “very encouraging,” following the OTA's addition of a generative AI-enabled trip-planning assistant as part of the tool.
+
+---
+Source URL: https://www.phocuswire.com/makemytrip-ixigo-openai-expand-ai-capabilities
