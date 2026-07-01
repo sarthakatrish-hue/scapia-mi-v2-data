@@ -483,3 +483,9 @@ Append-only ingest/query/lint event log.
 ## [2026-07-01] ingest | who-dominates-india-s-credit-card-market-hdfc-bank-leads-cards-sbi-card-tops-spe.md → subjects/hdfc-bank.md, subjects/sbi-card.md, subjects/federal-bank.md, subjects/india-credit-card-market-may-2026.md, sources/2026-07-01-who-dominates-india-s-credit-card-market-hdfc-bank-leads-cards-sbi-card-tops-spe.md | Auto-approved
 
 ## [2026-07-01] ingest | batch b_8e162b2ca6: 6 URLs — 2 error, 4 ingested
+
+## [2026-07-01] update | entity-registry += confirmtkt (competitor), abhibus (competitor) (from india-based-makemytrip-ixigo-working-with-openai-to-expand-ai-capabilities-news-technology.md)
+
+## [2026-07-01] ingest | india-based-makemytrip-ixigo-working-with-openai-to-expand-ai-capabilities-news-technology.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
+
+## [2026-07-01] ingest | india-based-makemytrip-ixigo-working-with-openai-to-expand-ai-capabilities-news-technology.md → subjects/makemytrip.md, subjects/ixigo-au.md, subjects/openai.md, subjects/confirmtkt.md, sources/2026-07-01-india-based-makemytrip-ixigo-working-with-openai-to-expand-ai-capabilities-news-technology.md | Auto-approved

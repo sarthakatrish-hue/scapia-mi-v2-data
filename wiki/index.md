@@ -3,16 +3,17 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/confirmtkt]] — "ConfirmTkt gets agentic AI upgrade as part of Ixigo-OpenAI enterprise deal"
 - [[subjects/india-credit-card-market-may-2026]] — "Mid-tier issuers take incremental spend share as average transaction value falls 15% YoY"
 - [[subjects/cred]] — "CRED launches invite-only gold card and flexible RuPay card targeting premium digital spenders"
 - [[subjects/indigo-airlines]] — "IndiGo launches two co-branded Axis Bank credit cards via BluChip loyalty"
 - [[subjects/bobcard-etihad-guest-premium-credit-card]] — "BOBCARD's metal Etihad co-brand pairs Gold status with zero forex markup"
 - [[subjects/flipkart-sbi-card]] — "SBI Card and Flipkart launch cashback card targeting digital-first lifestyle shoppers"
 - [[subjects/nykaa]] — Nykaa launches brand-linked Glam Pass to defend beauty market share
-- [[subjects/openai]] — OpenAI embeds AI into India's payments stack via Pine Labs deal
+- [[subjects/openai]] — "OpenAI becomes the AI backbone for India's two largest OTAs simultaneously"
 - [[subjects/india-fintech-2026-outlook]] — "India fintech matures into mainstream infrastructure as 2026 prioritises precision over speed"
 - [[subjects/yatra]] — "Yatra remains vague on AI strategy as rivals stake out clear positions"
-- [[subjects/makemytrip]] — "MakeMyTrip bets on creator-led social commerce via Meta partnership"
+- [[subjects/makemytrip]] — "MakeMyTrip partners OpenAI to push Myra from inspiration to live booking"
 - [[subjects/dreamfolks-services]] — "DreamFolks lounge suspension leaves multiple bank card programmes scrambling for access"
 - [[subjects/affluent-india-travel-fintech-shift]] — "Affluent Indians now treat payment strategy as core to travel planning"
 - [[subjects/lrs-tcs-forex-2026]] — Budget 2026 cuts TCS on education and medical remittances from 5% to 2%
@@ -65,7 +66,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/niyo-global-sbm]] — "Niyo Global ranked top budget zero-forex card in 2026 guide, no rewards edge"
 - [[subjects/idfc-first-wow]] — "IDFC WOW! Black positioned as credit-builder zero-forex card with MakeMyTrip perks"
 - [[subjects/bobcard-etihad-premium]]
-- [[subjects/ixigo-au]] — "Ixigo is rebuilding its app around conversational AI, deepening the co-brand moat"
+- [[subjects/ixigo-au]] — "Ixigo deploys OpenAI enterprise APIs across trains, flights, and buses stack"
 - [[subjects/rbl-world-safari]]
 - [[subjects/idfc-first-mayura]]
 - [[subjects/sbi-elite]]

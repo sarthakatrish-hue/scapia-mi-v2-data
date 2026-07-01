@@ -60,6 +60,10 @@ treated as context until promoted).
 
 ## Competitors
 
+- abhibus | competitor | AbhiBus | added_by: agent 2026-07-01 · source: india-based-makemytrip-ixigo-working-with-openai-to-expand-ai-capabilities-news-technology.md · Bus ticket platform (Ixigo subsidiary) integrating OpenAI enterprise APIs for agentic AI
+
+- confirmtkt | competitor | ConfirmTkt | domain: confirmtkt.com | added_by: agent 2026-07-01 · source: india-based-makemytrip-ixigo-working-with-openai-to-expand-ai-capabilities-news-technology.md · Train ticket platform (Ixigo subsidiary) deploying OpenAI enterprise APIs for AI-assisted workflows
+
 - cred | competitor | CRED | domain: cred.club | added_by: agent 2026-07-01 · source: cred-unveils-invite-only-18k-gold-credit-card-for-india-s-elite-partners-with-in.md · Fintech unicorn; credit card platform and UPI app serving creditworthy consumers; launched Sovereign gold card and IndusInd RuPay card with flexible, e-commerce-focused rewards.
 
 - indigo-airlines | competitor | IndiGo Airlines | domain: goindigo.in | added_by: agent 2026-07-01 · source: indigo-and-axis-bank-launch-bluchip-co-brand-credit-cards.md · India's largest low-cost carrier operating co-branded credit cards and loyalty programs (BluChip) competing for travel-fintech customer wallet.
@@ -199,7 +203,7 @@ treated as context until promoted).
 - niyo-global-sbm | competitor | Niyo Global Sbm | domain: sbmbank.co.in | added_by: foundation 2026-06-22
 - idfc-first-wow | competitor | Idfc First Wow | domain: idfcfirstbank.com | added_by: foundation 2026-06-22
 - bobcard-etihad-premium | competitor | Bobcard Etihad Premium | added_by: foundation 2026-06-22
-- ixigo-au | competitor | Ixigo Au | domain: aubank.in | added_by: foundation 2026-06-22
+- ixigo-au | competitor | Ixigo Au | domain: ixigo.com | added_by: foundation 2026-06-22
 - rbl-world-safari | competitor | Rbl World Safari | added_by: foundation 2026-06-22
 - idfc-first-mayura | competitor | Idfc First Mayura | added_by: foundation 2026-06-22
 - sbi-elite | competitor | Sbi Elite | added_by: foundation 2026-06-22
