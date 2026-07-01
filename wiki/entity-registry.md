@@ -60,6 +60,8 @@ treated as context until promoted).
 
 ## Competitors
 
+- flipkart-minutes | competitor | Flipkart Minutes | added_by: agent 2026-07-01 · source: amazon-ceo-andy-jassy-visits-india-as-quick-commerce-battle-heats-up.md · quick-commerce network with 1,000+ micro-fulfillment centres across 130+ cities, 5-fold order growth, scaling to 1,500 centres
+
 - amazon-now | competitor | Amazon Now | domain: amazon.in | added_by: agent 2026-07-01 · source: amazon-ceo-andy-jassy-visits-india-company-to-expand-quick-commerce-network-to-3.md · quick-commerce service expanding across 300+ Indian cities, competing for store/redemption wallet-share and customer engagement velocity.
 
 - whatsapp | competitor | WhatsApp | added_by: agent 2026-07-01 · source: whatsapp-gets-new-chief-as-meta-taps-india-s-cred-founder-kunal-shah-and-invests.md · messaging platform with 500M+ India users; operates WhatsApp Pay (UPI/payments) and expanding into commerce, business messaging, and payments — direct peer to Scapia's digital payments and rewards ecosystem

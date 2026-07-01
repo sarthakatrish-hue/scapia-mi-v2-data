@@ -505,3 +505,7 @@ Append-only ingest/query/lint event log.
 ## [2026-07-01] ingest | amazon-ceo-andy-jassy-visits-india-company-to-expand-quick-commerce-network-to-3.md | Maker: 7/10, Checker: 2/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-07-01] ingest | amazon-ceo-andy-jassy-visits-india-company-to-expand-quick-commerce-network-to-3.md → subjects/amazon-now.md, sources/2026-07-01-amazon-ceo-andy-jassy-visits-india-company-to-expand-quick-commerce-network-to-3.md | Auto-approved
+
+## [2026-07-01] update | entity-registry += flipkart-minutes (competitor) (from amazon-ceo-andy-jassy-visits-india-as-quick-commerce-battle-heats-up.md)
+
+## [2026-07-01] ingest | amazon-ceo-andy-jassy-visits-india-as-quick-commerce-battle-heats-up.md | Maker: 7/10, Checker: 4/10 AUTO-APPROVE — bypassing queue
