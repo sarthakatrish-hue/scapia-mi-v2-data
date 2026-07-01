@@ -499,3 +499,7 @@ Append-only ingest/query/lint event log.
 ## [2026-07-01] ingest | meta-taps-kunal-shah-to-head-whatsapp-as-part-of-900-mn-cred-investment.md | Maker: 7/10, Checker: 2/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-07-01] ingest | meta-taps-kunal-shah-to-head-whatsapp-as-part-of-900-mn-cred-investment.md → subjects/cred.md, sources/2026-07-01-meta-taps-kunal-shah-to-head-whatsapp-as-part-of-900-mn-cred-investment.md | Auto-approved
+
+## [2026-07-01] update | entity-registry += amazon-now (competitor) (from amazon-ceo-andy-jassy-visits-india-company-to-expand-quick-commerce-network-to-3.md)
+
+## [2026-07-01] ingest | amazon-ceo-andy-jassy-visits-india-company-to-expand-quick-commerce-network-to-3.md | Maker: 7/10, Checker: 2/10 AUTO-APPROVE — bypassing queue
