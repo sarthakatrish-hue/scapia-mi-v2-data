@@ -22,7 +22,7 @@ last_updated: 2026-07-01
 
 ## Partner Intel
 
-**Relationship:** Federal Bank is Scapia's sole card-issuing partner for the Scapia Federal Bank co-branded Visa credit card. Federal Bank is also one of three issuing partners for competitor OneCard (FPL Technologies).
+**Relationship:** Federal Bank is one of Scapia's card-issuing partners, issuing the Scapia Federal Bank co-branded Visa credit card; Scapia also issues a co-branded card with BOBCARD. Federal Bank is separately one of three issuing partners for competitor OneCard (FPL Technologies).
 
 **Status:** Under regulatory review — RBI has ordered Federal Bank to halt new co-brand card issuances. Despite this, Federal Bank is the fastest-growing credit card issuer in India over the past 12 months by new issuance volume, overtaking both Axis Bank and ICICI Bank[^cc-mkt-2026-06-27]. The co-brand freeze therefore constrains Scapia specifically while Federal Bank's own-label issuance engine is demonstrably powerful. Remediation in progress; resumption contingent on RBI approval[^rbi-cobrand-2026-06-22].
 
@@ -39,7 +39,7 @@ last_updated: 2026-07-01
 
 ## Partner Intel
 
-**Relationship:** Federal Bank is Scapia's sole card-issuing partner for the Scapia Federal Bank co-branded Visa credit card. Federal Bank is also one of three issuing partners for competitor OneCard (FPL Technologies).
+**Relationship:** Federal Bank is one of Scapia's card-issuing partners, issuing the Scapia Federal Bank co-branded Visa credit card; Scapia also issues a co-branded card with BOBCARD. Federal Bank is separately one of three issuing partners for competitor OneCard (FPL Technologies).
 
 **Status:** Under regulatory review — RBI has ordered Federal Bank to halt new co-brand card issuances. The OneCard FY25 filing now independently corroborates that the RBI's concern is specifically about data sharing between fintech co-brand partners and their issuing banks [^oc-fy25-fb-2026-06-22]. Remediation in progress; resumption contingent on RBI approval [^rbi-cobrand-2026-06-22].
 
@@ -75,7 +75,7 @@ For Scapia's planning, this confirmation matters because it shifts the Federal B
 
 The RBI directed Federal Bank to cease issuing new co-branded credit cards, with Federal Bank acknowledging deficiencies in a stock exchange filing and committing to seek regulatory approval before resuming [^rbi-cobrand-2026-06-22]. The bank did not disclose the nature of the violations, but the action follows the RBI's revised co-branded card guidelines, which restrict fintech partner access to customer data and mandate clear issuer branding [^rbi-cobrand-2026-06-22].
 
-For Scapia, this is a direct and material partner risk. Federal Bank is the sole issuing entity behind the Scapia card; any suspension of its co-brand issuance capacity halts Scapia's new cardholder acquisition. While existing customers remain unaffected [^rbi-cobrand-2026-06-22], the growth pipeline is at risk for the duration of the compliance review [Inferred · High].
+For Scapia, this is a direct and material partner risk. Federal Bank is the issuer behind the Scapia Federal Bank co-branded card; any suspension of its co-brand issuance capacity halts new acquisition on that card (Scapia also runs a BOBCARD co-brand). While existing customers remain unaffected [^rbi-cobrand-2026-06-22], the growth pipeline is at risk for the duration of the compliance review [Inferred · High].
 
 The lack of disclosure around the specific violation is the most unsettling element for Scapia's planning purposes [Inferred · High]. Until Federal Bank confirms the scope of the deficiency, Scapia cannot fully assess whether its own programme practices — particularly around post-issuance data access — are implicated or insulated.
 
