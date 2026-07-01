@@ -467,3 +467,7 @@ Append-only ingest/query/lint event log.
 ## [2026-07-01] ingest | indigo-and-axis-bank-launch-bluchip-co-brand-credit-cards.md → subjects/indigo-airlines.md, subjects/axis-bank.md, sources/2026-07-01-indigo-and-axis-bank-launch-bluchip-co-brand-credit-cards.md | Auto-approved
 
 ## [2026-07-01] update | entity-registry += meta (context) (from makemytrip-and-cleartrip-both-just-launched-creator-programs-the-models-are-diff.md)
+
+## [2026-07-01] ingest | makemytrip-and-cleartrip-both-just-launched-creator-programs-the-models-are-diff.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-07-01] ingest | makemytrip-and-cleartrip-both-just-launched-creator-programs-the-models-are-diff.md → subjects/makemytrip.md, sources/2026-07-01-makemytrip-and-cleartrip-both-just-launched-creator-programs-the-models-are-diff.md | Auto-approved
