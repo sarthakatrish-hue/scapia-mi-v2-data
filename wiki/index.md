@@ -5,7 +5,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 ## Subjects
 - [[subjects/confirmtkt]] — "ConfirmTkt gets agentic AI upgrade as part of Ixigo-OpenAI enterprise deal"
 - [[subjects/india-credit-card-market-may-2026]] — "Mid-tier issuers take incremental spend share as average transaction value falls 15% YoY"
-- [[subjects/cred]] — "CRED launches invite-only gold card and flexible RuPay card targeting premium digital spenders"
+- [[subjects/cred]] — "Meta's $900M bet and WhatsApp tie-up supercharges CRED's payments ambitions"
 - [[subjects/indigo-airlines]] — "IndiGo launches two co-branded Axis Bank credit cards via BluChip loyalty"
 - [[subjects/bobcard-etihad-guest-premium-credit-card]] — "BOBCARD's metal Etihad co-brand pairs Gold status with zero forex markup"
 - [[subjects/flipkart-sbi-card]] — "SBI Card and Flipkart launch cashback card targeting digital-first lifestyle shoppers"

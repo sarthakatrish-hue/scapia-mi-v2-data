@@ -60,6 +60,8 @@ treated as context until promoted).
 
 ## Competitors
 
+- whatsapp | competitor | WhatsApp | added_by: agent 2026-07-01 · source: whatsapp-gets-new-chief-as-meta-taps-india-s-cred-founder-kunal-shah-and-invests.md · messaging platform with 500M+ India users; operates WhatsApp Pay (UPI/payments) and expanding into commerce, business messaging, and payments — direct peer to Scapia's digital payments and rewards ecosystem
+
 - abhibus | competitor | AbhiBus | added_by: agent 2026-07-01 · source: india-based-makemytrip-ixigo-working-with-openai-to-expand-ai-capabilities-news-technology.md · Bus ticket platform (Ixigo subsidiary) integrating OpenAI enterprise APIs for agentic AI
 
 - confirmtkt | competitor | ConfirmTkt | domain: confirmtkt.com | added_by: agent 2026-07-01 · source: india-based-makemytrip-ixigo-working-with-openai-to-expand-ai-capabilities-news-technology.md · Train ticket platform (Ixigo subsidiary) deploying OpenAI enterprise APIs for AI-assisted workflows

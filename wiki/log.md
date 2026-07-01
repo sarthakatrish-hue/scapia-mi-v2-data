@@ -489,3 +489,9 @@ Append-only ingest/query/lint event log.
 ## [2026-07-01] ingest | india-based-makemytrip-ixigo-working-with-openai-to-expand-ai-capabilities-news-technology.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-07-01] ingest | india-based-makemytrip-ixigo-working-with-openai-to-expand-ai-capabilities-news-technology.md → subjects/makemytrip.md, subjects/ixigo-au.md, subjects/openai.md, subjects/confirmtkt.md, sources/2026-07-01-india-based-makemytrip-ixigo-working-with-openai-to-expand-ai-capabilities-news-technology.md | Auto-approved
+
+## [2026-07-01] update | entity-registry += whatsapp (competitor) (from whatsapp-gets-new-chief-as-meta-taps-india-s-cred-founder-kunal-shah-and-invests.md)
+
+## [2026-07-01] ingest | whatsapp-gets-new-chief-as-meta-taps-india-s-cred-founder-kunal-shah-and-invests.md | Maker: 8/10 AUTO-APPROVE — bypassing queue
+
+## [2026-07-01] ingest | whatsapp-gets-new-chief-as-meta-taps-india-s-cred-founder-kunal-shah-and-invests.md → subjects/cred.md, sources/2026-07-01-whatsapp-gets-new-chief-as-meta-taps-india-s-cred-founder-kunal-shah-and-invests.md | Auto-approved
