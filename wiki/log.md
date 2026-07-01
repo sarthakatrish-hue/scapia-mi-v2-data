@@ -477,3 +477,9 @@ Append-only ingest/query/lint event log.
 ## [2026-07-01] ingest | cred-unveils-invite-only-18k-gold-credit-card-for-india-s-elite-partners-with-in.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-07-01] ingest | cred-unveils-invite-only-18k-gold-credit-card-for-india-s-elite-partners-with-in.md → subjects/cred.md, subjects/induslnd-bank.md, sources/2026-07-01-cred-unveils-invite-only-18k-gold-credit-card-for-india-s-elite-partners-with-in.md | Auto-approved
+
+## [2026-07-01] ingest | who-dominates-india-s-credit-card-market-hdfc-bank-leads-cards-sbi-card-tops-spe.md | Maker: 9/10 AUTO-APPROVE — bypassing queue
+
+## [2026-07-01] ingest | who-dominates-india-s-credit-card-market-hdfc-bank-leads-cards-sbi-card-tops-spe.md → subjects/hdfc-bank.md, subjects/sbi-card.md, subjects/federal-bank.md, subjects/india-credit-card-market-may-2026.md, sources/2026-07-01-who-dominates-india-s-credit-card-market-hdfc-bank-leads-cards-sbi-card-tops-spe.md | Auto-approved
+
+## [2026-07-01] ingest | batch b_8e162b2ca6: 6 URLs — 2 error, 4 ingested

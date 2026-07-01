@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/india-credit-card-market-may-2026]] — "Mid-tier issuers take incremental spend share as average transaction value falls 15% YoY"
 - [[subjects/cred]] — "CRED launches invite-only gold card and flexible RuPay card targeting premium digital spenders"
 - [[subjects/indigo-airlines]] — "IndiGo launches two co-branded Axis Bank credit cards via BluChip loyalty"
 - [[subjects/bobcard-etihad-guest-premium-credit-card]] — "BOBCARD's metal Etihad co-brand pairs Gold status with zero forex markup"
@@ -51,7 +52,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/pop]] — "Razorpay-backed POP builds multi-brand UPI rewards loop with RuPay credit card"
 - [[subjects/razorpay]] — "Razorpay deepens payments ecosystem play with tokenisation, cross-border, and consumer rewards"
 - [[subjects/super-money]] — "Flipkart's SuperCoins expands into mobility via Uber, deepening loyalty moat"
-- [[subjects/federal-bank]] — "Federal Bank co-brand freeze widens — RBI data-sharing concern confirmed across OneCard partnership too"
+- [[subjects/federal-bank]] — "Federal Bank overtakes Axis and ICICI in 12-month card issuances despite regulatory freeze"
 - [[subjects/rbi-cobranded-card-scrutiny]] — "RBI halts co-brand card issuances, tightening fintech-bank partnership rules"
 - [[subjects/atlys]] — Atlys raises $36M Series C to accelerate AI-driven global visa platform
 - [[subjects/phonepe]] — "Market-share cap extension and wallet-interchange rule shape PhonePe's 2026 UPI runway"
@@ -78,8 +79,8 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 - [[subjects/au-bank]]
 - [[subjects/idfc-first-bank]] — "IDFC First winds down Club Vistara card and pivots lounge access to Elite Assist"
 - [[subjects/rbl-bank]]
-- [[subjects/sbi-card]] — "SBI Card's Etihad exit hands a ready-made co-brand base to BOBCARD"
+- [[subjects/sbi-card]] — "SBI Card gains spend share and leads new issuances with 1.8 lakh cards in May"
 - [[subjects/icici-bank]] — "'ICICI Bank's iShop portal delivers 36% hotel returns, directly rivalling HDFC SmartBuy'"
 - [[subjects/axis-bank]] — "Axis Bank extends co-brand travel card reach with IndiGo BluChip partnership"
-- [[subjects/hdfc-bank]] — "HDFC Bank joins industry-wide credit card reward tightening as costs rise"
+- [[subjects/hdfc-bank]] — "HDFC Bank holds 22% card share and 29% spend share in May 2026 market data"
 - [[subjects/hdfc-regalia-gold]] — "Regalia Gold reward rate cut 6% and lounge access conditionalised from July 2026"

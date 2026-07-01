@@ -7,16 +7,35 @@ categories: [banks]
 domain_url: federalbank.co.in
 logo: null
 issuer: null
-keywords: [[issuer, co-brand, partner, rbi, regulatory-freeze, onecard, data-sharing, upi, transaction-limits]]
+keywords: [issuer, co-brand, partner, rbi, regulatory-freeze, onecard, data-sharing, upi, transaction-limits, fastest-growing, new-issuances, market-share, cards-in-force, axis-overtaken, icici-overtaken]
 signal: threat
-headline: "'Federal Bank co-brand freeze widens — RBI data-sharing concern confirmed across OneCard partnership too'"
-vitals: ["[]"]
-last_updated: 2026-06-24
+headline: "'Federal Bank overtakes Axis and ICICI in 12-month card issuances despite regulatory freeze'"
+vitals: ["11.7 lakh|Cards issued in past 12 months|Overtook both Axis Bank and ICICI Bank", "~1 lakh|New cards added in May 2026|Fastest growing among mid-tier issuers"]
+last_updated: 2026-07-01
 ---
 
 ## What we know
 
-**UPI daily limit: ₹1,00,000** — Federal Bank's standard daily UPI transaction limit is ₹1,00,000, consistent with most major private banks and in line with the 2026 NPCI/RBI framework [^upi-fb-2026-06-24]
+**Fastest-growing issuer over 12 months** — Over the past year, Federal Bank issued 11.7 lakh credit cards, overtaking both Axis Bank and ICICI Bank in new issuance volume[^cc-mkt-2026-06-27]
+**~1 lakh new cards in May alone** — Federal Bank added approximately 1 lakh new cards in May 2026, the highest among mid-tier issuers and faster than IDFC First Bank's ~80,000[^cc-mkt-2026-06-27]
+**Mid-tier momentum shifts market structure** — Federal Bank, IDFC First Bank, and RBL Bank together are described as continuing to gain momentum, with the top four issuers accounting for only 63.7% of incremental May spending[^cc-mkt-2026-06-27]
+
+## Partner Intel
+
+**Relationship:** Federal Bank is Scapia's sole card-issuing partner for the Scapia Federal Bank co-branded Visa credit card. Federal Bank is also one of three issuing partners for competitor OneCard (FPL Technologies).
+
+**Status:** Under regulatory review — RBI has ordered Federal Bank to halt new co-brand card issuances. Despite this, Federal Bank is the fastest-growing credit card issuer in India over the past 12 months by new issuance volume, overtaking both Axis Bank and ICICI Bank[^cc-mkt-2026-06-27]. The co-brand freeze therefore constrains Scapia specifically while Federal Bank's own-label issuance engine is demonstrably powerful. Remediation in progress; resumption contingent on RBI approval[^rbi-cobrand-2026-06-22].
+
+### What Scapia gets
+**Card issuance infrastructure** — Federal Bank provides the regulated issuing, KYC, and credit underwriting backbone that allows Scapia to operate as a co-brand fintech without a banking licence.
+**Proven growth engine** — Federal Bank's 11.7 lakh 12-month issuances confirm it has the distribution and operational capacity to scale rapidly once the co-brand freeze lifts[^cc-mkt-2026-06-27].
+**Existing portfolio continuity** — Federal Bank has confirmed continued servicing of all existing co-branded cardholders, so Scapia's current user base is not immediately disrupted[^rbi-cobrand-2026-06-22].
+
+### Current risks
+**New acquisition freeze** — The RBI freeze blocks Scapia from onboarding new cardholders for the duration of the compliance review — a potentially material growth constraint while Federal Bank's own issuance volume is at a peak[^cc-mkt-2026-06-27] [Inferred · High].
+**Data-access constraints confirmed** — The OneCard RBI action makes explicit that the regulator's concern is post-issuance data sharing between fintech partners and banks; this directly implicates any engagement or personalisation model Scapia runs on post-onboarding cardholder data[^oc-fy25-fb-2026-06-22] [Inferred · High].
+**Opportunity cost is growing** — Federal Bank's 12-month issuance surge happening concurrently with Scapia's co-brand freeze means Scapia is missing the bank's fastest growth phase [Inferred · High].
+**Shared-bank exposure** — Federal Bank serves both Scapia and OneCard as co-brand partners; regulatory findings could affect Federal Bank's posture toward all co-brand partners[^oc-fy25-fb-2026-06-22] [Inferred · Medium].
 
 ## Partner Intel
 
@@ -35,6 +54,12 @@ last_updated: 2026-06-24
 **Compliance contagion risk** — The industry-wide nature of the RBI scrutiny — confirmed by independent action against OneCard's partner banks — reduces the probability that Federal Bank's issue is narrow or quickly resolved [^oc-fy25-fb-2026-06-22] [Inferred · Medium].
 
 ## Coverage
+
+### Federal Bank's Issuance Surge Confirmed — 2026-06-27
+
+Industry data for May 2026 confirms Federal Bank as India's fastest-growing credit card issuer over the past 12 months, having issued 11.7 lakh cards and overtaken both Axis Bank and ICICI Bank in new issuance volume[^cc-mkt-2026-06-27]. In May alone, Federal Bank added approximately 1 lakh new cards — more than double Axis Bank's 50,000 — cementing its emergence as a genuine challenger to the large-bank incumbents in card distribution.
+
+The irony for Scapia is acute: Federal Bank's issuance infrastructure is demonstrably firing on all cylinders, yet Scapia cannot access it for new co-brand acquisition while the RBI co-brand freeze persists[^cc-mkt-2026-06-27]. Once remediation is resolved, Scapia stands to benefit from a partner with proven high-velocity issuance capacity — but the opportunity cost of the freeze period is compounding with each month of Federal Bank's outperformance. [Inferred · High]
 
 ### Federal Bank UPI Limit Confirmed — 2026-06-24
 
@@ -56,6 +81,7 @@ The lack of disclosure around the specific violation is the most unsettling elem
 
 ## Developments
 
+- 2026-06-27 — Federal Bank's Issuance Surge Confirmed [^cc-mkt-2026-06-27]
 - 2026-06-24 — Federal Bank UPI Limit Confirmed [^upi-fb-2026-06-24]
 - 2026-06-22 — OneCard Filing Confirms Federal Bank RBI Exposure [^oc-fy25-fb-2026-06-22]
 - 2026-06-22 — Federal Bank Faces Co-brand Freeze [^rbi-cobrand-2026-06-22]
@@ -65,3 +91,4 @@ The lack of disclosure around the specific violation is the most unsettling elem
 [^rbi-cobrand-2026-06-22]: Outlook Money — RBI Halts Co-branded Card Issuances — raw/ambiguous/rbi-halts-co-branded-card-issuances-controversy-guidelines-and-consumer-advice.md
 [^oc-fy25-fb-2026-06-22]: Entrackr/Fintrackr — OneCard FY25 financials, RBI co-brand scrutiny — raw/ambiguous/onecard-posts-rs-1-878-cr-revenue-in-fy25-cuts-losses-by-26.md
 [^upi-fb-2026-06-24]: BankBazaar — New UPI Rules 2026 Explained — raw/ambiguous/new-upi-rules-2026-explained.md
+[^cc-mkt-2026-06-27]: raw/ambiguous/who-dominates-india-s-credit-card-market-hdfc-bank-leads-cards-sbi-card-tops-spe.md

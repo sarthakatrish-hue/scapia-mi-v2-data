@@ -7,18 +7,20 @@ categories: [cards, flights, stays]
 domain_url: sbicard.com
 logo: null
 issuer: null
-keywords: [[issuer, cards, devaluation, lounge-access, etihad, co-brand, fee-hike, insurance, rewards, phonepe, select-black, exclusions, rent, cashback-cap, april-2026, air-india, club-vistara, vistara-merger, reward-rate-cut, monthly-cap, set-a, set-b, authorisation-fee, visa, rupay, mastercard, domestic-lounge, international-lounge, partnership-ended, bobcard]]
+keywords: [issuer, cards, devaluation, lounge-access, etihad, co-brand, fee-hike, insurance, rewards, phonepe, select-black, exclusions, rent, cashback-cap, april-2026, air-india, club-vistara, vistara-merger, reward-rate-cut, monthly-cap, set-a, set-b, authorisation-fee, visa, rupay, mastercard, domestic-lounge, international-lounge, partnership-ended, bobcard, market-share, new-issuances, spend-per-card, corporate-spending]
 signal: threat
-headline: "'SBI Card's Etihad exit hands a ready-made co-brand base to BOBCARD'"
-vitals: ["['₹4,000|Monthly cashback cap (was ₹5,000)|Per statement cycle from Apr 2026', '₹2|Visa/RuPay authorisation fee|Non-refundable per lounge visit from Jan 10', 'Discontinued|Etihad Guest SBI Card|Partnership migrated to BOBCARD']"]
-scoreboard: ["Loyalty & Rewards|High|down", "Partnerships|Medium|down"]
-last_updated: 2026-06-30
+headline: "'SBI Card gains spend share and leads new issuances with 1.8 lakh cards in May'"
+vitals: ["19.1%|Spend market share (May 2026)|Up YoY, strongest among large issuers", "18.6%|Cards-in-force share|Second behind HDFC Bank", "+12% YoY|Average spend per card|Bucking the industry decline trend"]
+scoreboard: ["Cards & Credit|High|up", "Loyalty & Rewards|High|down"]
+last_updated: 2026-07-01
 ---
 
 ## What we know
 
-**Etihad Partnership Terminated** — Etihad Airways ended its five-year co-brand partnership with SBI Card (which included the SBI Etihad Guest Premier Card) and moved exclusively to BOBCARD via BOB Financial Solutions[^sbi-etihad-exit-2026-06-30]
-**Co-brand Cardholder Base Orphaned** — SBI Etihad Guest cardholders are now without a successor product from SBI Card; the Etihad programme has fully migrated, not been wound down[^sbi-etihad-exit-2026-06-30]
+**Leads new card issuances in May** — SBI Cards issued the highest number of new cards in May 2026 at 1.8 lakh, ahead of all large issuers[^cc-mkt-2026-06-27]
+**Spend share gaining** — SBI Cards accounted for 19.1% of industry spending and gained market share in spends, supported by higher corporate spending[^cc-mkt-2026-06-27]
+**Losing cards-in-force share slightly** — Despite leading new issuances, SBI also lost some share in cards in force, reflecting churn or portfolio mix dynamics[^cc-mkt-2026-06-27]
+**Average spend per card up 12% YoY** — SBI's average spend per card increased 12% year-on-year, the standout performer among large issuers and bucking the broader industry decline[^cc-mkt-2026-06-27]
 
 ## Competitor Intel
 
@@ -39,6 +41,12 @@ last_updated: 2026-06-30
 **Contrast frictionless lounge access** — SBI's new ₹2 non-refundable auth fee and tiered eligibility add mental overhead; Scapia should surface its lounge experience as simpler and transparent[^sbi-lounge-2026-06-30]
 
 ## Coverage
+
+### SBI Card Strengthens Spend Leadership — 2026-06-27
+
+SBI Cards posted the strongest spending momentum among India's large credit card issuers in May 2026, with 19.1% spend share (gaining YoY), average spend per card rising 12% YoY, and the highest volume of new card additions at 1.8 lakh for the month[^cc-mkt-2026-06-27]. The spend growth is attributed to higher corporate card usage, distinguishing SBI's customer mix from peers whose retail-heavy portfolios are seeing smaller-ticket, lower-value transactions dilute per-card economics.
+
+For Scapia, SBI's spend-per-card outperformance is a useful competitive signal: corporate and high-frequency spenders are still concentrating volume at SBI, even as the bank simultaneously devalues its consumer-facing rewards[^cc-mkt-2026-06-27]. The travel-card acquisition opportunity remains strongest among SBI's consumer co-brand holders — Etihad, Vistara, Air India — who are not the corporate spenders driving the May figures and are already documented as programme-orphaned. [Inferred · Medium]
 
 ### SBI Card Loses Etihad Partnership — 2026-06-30
 
@@ -84,6 +92,7 @@ The Etihad discontinuation is the most tactically significant for Scapia: it orp
 
 ## Developments
 
+- 2026-06-27 — SBI Card Strengthens Spend Leadership [^cc-mkt-2026-06-27]
 - 2026-06-30 — SBI Card Loses Etihad Partnership [^sbi-etihad-exit-2026-06-30]
 - 2025-12-10 — SBI Card Revamps Lounge Access [^sbi-lounge-2026-06-30]
 - 2026-06-26 — SBI Cashback Cap Reaches Mainstream Coverage [^cc-tighten-sbi-2026-06-26]
@@ -101,3 +110,4 @@ The Etihad discontinuation is the most tactically significant for Scapia: it orp
 [^cc-tighten-sbi-2026-06-26]: raw/ambiguous/credit-card-rewards-in-india-are-getting-tighter-what-is-changing.md
 [^sbi-lounge-2026-06-30]: raw/competitive/sbi-card-s-new-lounge-access-rules-from-2026-key-changes-for-flyers.md
 [^sbi-etihad-exit-2026-06-30]: raw/competitive/bobcard-etihad-guest-premium-credit-card-review-cardexpert.md
+[^cc-mkt-2026-06-27]: raw/ambiguous/who-dominates-india-s-credit-card-market-hdfc-bank-leads-cards-sbi-card-tops-spe.md

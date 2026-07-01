@@ -3,21 +3,24 @@ subject: "HDFC Bank"
 type: subject
 role: competitor
 domains: [fintech, travel]
-categories: [banks, flights, stays]
+categories: [banks, cards]
 domain_url: hdfcbank.com
 logo: null
 issuer: null
-keywords: [[issuer, bank, credit-card, devaluation, cost-reduction, rewards-cut, lounge-conditional, industry-wide-tightening, forex-card, multicurrency, forexplus, consumer-guide, smartbuy, premium-travel, hni, share-of-wallet, booking-portal]]
+keywords: [issuer, bank, credit-card, market-share, cards-in-force, spend-share, devaluation, cost-reduction, rewards-cut, lounge-conditional, industry-wide-tightening, forex-card, multicurrency, forexplus, consumer-guide, smartbuy, premium-travel, hni, share-of-wallet, booking-portal]
 signal: threat
-headline: "'HDFC Bank joins industry-wide credit card reward tightening as costs rise'"
-vitals: ["['90%|Market share (top 5 banks)|Controls ~117.7M cards collectively', 'SmartBuy|Proprietary booking portal|Offers higher reward multipliers for in-ecosystem travel bookings']"]
-scoreboard: ["['Travel Booking|High|up', 'Loyalty & Rewards|High|down', 'Premium Segment|High|steady']"]
-last_updated: 2026-06-29
+headline: "'HDFC Bank holds 22% card share and 29% spend share in May 2026 market data'"
+vitals: ["22%|Cards-in-force market share|Largest issuer in India", "29.2%|Spend market share|Largest by spending too", "1.4 lakh|New cards added in May|Second behind SBI Cards"]
+scoreboard: ["Cards & Credit|High|steady"]
+last_updated: 2026-07-01
 ---
 
 ## What we know
 
-**ForexPlus card benchmarked at 2% cross-currency fee** — HDFC Multicurrency Platinum ForexPlus Chip Card is listed in a May 2026 consumer guide at a 2% cross-currency fee, ₹500 + GST issuance fee, 22 currencies, and variable ATM fees (2 USD, 1 GBP)[^hdfc-forex2-2026-05-07]
+**22% cards-in-force share** — HDFC Bank retained India's largest credit card issuer position with 22% share by cards in force as of May 2026[^cc-mkt-2026-06-27]
+**29.2% spend share** — HDFC held the largest spend share at 29.2%, ahead of SBI Cards (19.1%), ICICI Bank (16.2%), and Axis Bank (11.5%)[^cc-mkt-2026-06-27]
+**Growth in line with industry** — HDFC's growth was broadly in line with industry trends; large private banks including HDFC continued to lose marginal market share[^cc-mkt-2026-06-27]
+**1.4 lakh new cards in May** — HDFC added ~1.4 lakh new cards in May, second only to SBI Cards' 1.8 lakh among large issuers[^cc-mkt-2026-06-27]
 
 ## Competitor Intel
 
@@ -38,6 +41,12 @@ last_updated: 2026-06-29
 **Monitor community sentiment** — Track credit card forums and Reddit for devaluation-driven churn intent; respond fast with targeted win-back creative[^hdfc-deval-2026-06-26]
 
 ## Coverage
+
+### HDFC Leads Scale, Faces Mid-Tier Pressure — 2026-06-27
+
+HDFC Bank retained its dual leadership in India's credit card market in May 2026 — holding 22% of cards in force and 29.2% of total spend — as the industry added ~10 lakh new cards and total spending crossed ₹2.02 lakh crore, up 6.6% year-on-year[^cc-mkt-2026-06-27]. HDFC's growth tracked the industry average, and the top-four issuers (HDFC, SBI, ICICI, Axis) together accounted for only 63.7% of incremental spending despite controlling ~76% of the stock — a signal that mid-sized challengers are winning at the margin.
+
+The structural read for Scapia: HDFC's dominance in absolute scale is intact, but the growth energy in the market is shifting toward aggressive mid-tier issuers led by Federal Bank and IDFC First Bank[^cc-mkt-2026-06-27]. For a travel-focused co-brand, this means the competitive moat is not HDFC's card count but its booking-ecosystem depth and premium spend capture — areas where Scapia's zero-fee, zero-markup model can credibly compete for share of wallet on international travel. [Inferred · Medium]
 
 ### HDFC ForexPlus in Broad Comparison Guide — 2026-05-07
 
@@ -77,6 +86,7 @@ The move hands challengers like Scapia a small but concrete CX talking point: fu
 
 ## Developments
 
+- 2026-06-27 — HDFC Leads Scale, Faces Mid-Tier Pressure [^cc-mkt-2026-06-27]
 - 2026-05-07 — HDFC ForexPlus in Broad Comparison Guide [^hdfc-forex2-2026-05-07]
 - 2026-06-28 — HDFC SmartBuy Cited in HNI Battle [^prem-travel-hdfc-2026-06-28]
 - 2026-06-27 — HDFC ForexPlus Named Best Bank Card [^hdfc-forex-2026-06-27]
@@ -92,3 +102,4 @@ The move hands challengers like Scapia a small but concrete CX talking point: fu
 [^hdfc-forex-2026-06-27]: raw/ambiguous/best-forex-cards-for-indians-travelling-abroad-in-2026-the-complete-guide.md
 [^prem-travel-hdfc-2026-06-28]: raw/ambiguous/indian-banks-battle-for-premium-travelers-with-travel-credit-cards.md
 [^hdfc-forex2-2026-05-07]: raw/ambiguous/the-smart-guide-to-the-best-forex-cards-in-india-2026.md
+[^cc-mkt-2026-06-27]: raw/ambiguous/who-dominates-india-s-credit-card-market-hdfc-bank-leads-cards-sbi-card-tops-spe.md
