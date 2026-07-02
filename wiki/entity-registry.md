@@ -60,6 +60,20 @@ treated as context until promoted).
 
 ## Competitors
 
+- citi | competitor | Citibank | newly-surfaced · added_by: agent 2026-07-02 · source: best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md · global card issuer with India presence and credit products
+
+- bigbasket | competitor | BigBasket | newly-surfaced · added_by: agent 2026-07-02 · source: best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md · grocery e-commerce with card rewards
+
+- swiggy | competitor | Swiggy | newly-surfaced · added_by: agent 2026-07-02 · source: best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md · food delivery and fintech with credit products and rewards
+
+- ajio | competitor | AJIO | newly-surfaced · added_by: agent 2026-07-02 · source: best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md · e-commerce platform with rewards and loyalty
+
+- myntra | competitor | Myntra | newly-surfaced · added_by: agent 2026-07-02 · source: best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md · fashion e-commerce with loyalty and card co-brands
+
+- flipkart | competitor | Flipkart | newly-surfaced · added_by: agent 2026-07-02 · source: best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md · e-commerce and fintech platform with co-branded cards and rewards
+
+- amazon | competitor | Amazon | newly-surfaced · added_by: agent 2026-07-02 · source: best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md · e-commerce and fintech platform with payments and travel products
+
 - niyo-global-dcb | competitor | Niyo Global DCB | newly-surfaced · added_by: agent 2026-07-02 · source: best-zero-forex-mark-up-fee-credit-cards-2026.md · FD-backed zero-forex credit card with interest on savings and app control
 
 - flipkart-minutes | competitor | Flipkart Minutes | added_by: agent 2026-07-01 · source: amazon-ceo-andy-jassy-visits-india-as-quick-commerce-battle-heats-up.md · quick-commerce network with 1,000+ micro-fulfillment centres across 130+ cities, 5-fold order growth, scaling to 1,500 centres

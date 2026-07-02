@@ -523,3 +523,7 @@ Append-only ingest/query/lint event log.
 ## [2026-07-02] ingest | tcs-on-foreign-travel-tour-packages-2026-how-it-works-how-to-claim-it-back.md → subjects/tcs-on-foreign-travel-lrs.md, sources/2026-07-02-tcs-on-foreign-travel-tour-packages-2026-how-it-works-how-to-claim-it-back.md | Auto-approved
 
 ## [2026-07-02] crawl-drop | tcs-on-foreign-travel-from-india-2026-5-20-slabs-refund-process.md | Maker: 7/10, Checker: 6/10 BORDERLINE — dropped (autonomous, no queue)
+
+## [2026-07-02] update | entity-registry += amazon (competitor), flipkart (competitor), myntra (competitor), ajio (competitor), swiggy (competitor), bigbasket (competitor), citi (competitor) (from best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md)
+
+## [2026-07-02] filter-reject | best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md | Maker: 3/10 AUTO-REJECT — Generic listicle with no new strategic intelligence, no dated facts, no financial data, no market moves, no competitive shifts — merely restates reward rates and fees already public on issuer sites; zero insight into competitor positioning, product changes, or market dynamics.

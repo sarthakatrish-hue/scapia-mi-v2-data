@@ -2,6 +2,18 @@
   "pending_queue": [],
   "rejection_log": [
     {
+      "id": "reject-2516163a",
+      "filename": "best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md",
+      "score": "3/10",
+      "checker_score": null,
+      "checker_reason": null,
+      "band": "AUTO-REJECT",
+      "outcome": null,
+      "reason": "Generic listicle with no new strategic intelligence, no dated facts, no financial data, no market moves, no competitive shifts \u2014 merely restates reward rates and fees already public on issuer sites; zero insight into competitor positioning, product changes, or market dynamics.",
+      "maker_reason": "Generic listicle with no new strategic intelligence, no dated facts, no financial data, no market moves, no competitive shifts \u2014 merely restates reward rates and fees already public on issuer sites; zero insight into competitor positioning, product changes, or market dynamics.",
+      "timestamp": "2026-07-02"
+    },
+    {
       "id": "reject-66d545b8",
       "filename": "axis-bank-s-burgundy-private-expands-its-footprint-to-15-new-cities.md",
       "score": "2/10",
