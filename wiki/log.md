@@ -521,3 +521,5 @@ Append-only ingest/query/lint event log.
 ## [2026-07-02] ingest | tcs-on-foreign-travel-tour-packages-2026-how-it-works-how-to-claim-it-back.md | Maker: 6/10, Checker: 2/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-07-02] ingest | tcs-on-foreign-travel-tour-packages-2026-how-it-works-how-to-claim-it-back.md → subjects/tcs-on-foreign-travel-lrs.md, sources/2026-07-02-tcs-on-foreign-travel-tour-packages-2026-how-it-works-how-to-claim-it-back.md | Auto-approved
+
+## [2026-07-02] crawl-drop | tcs-on-foreign-travel-from-india-2026-5-20-slabs-refund-process.md | Maker: 7/10, Checker: 6/10 BORDERLINE — dropped (autonomous, no queue)
