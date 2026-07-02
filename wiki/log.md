@@ -513,3 +513,7 @@ Append-only ingest/query/lint event log.
 ## [2026-07-01] ingest | amazon-ceo-andy-jassy-visits-india-as-quick-commerce-battle-heats-up.md → subjects/amazon-pay.md, subjects/flipkart-travel.md, subjects/nykaa.md, subjects/idfc-first-bank.md, sources/2026-07-01-amazon-ceo-andy-jassy-visits-india-as-quick-commerce-battle-heats-up.md | Auto-approved
 
 ## [2026-07-01] ingest | batch b_e00cd0cb84: 4 URLs — 4 ingested
+
+## [2026-07-02] update | entity-registry += niyo-global-dcb (competitor) (from best-zero-forex-mark-up-fee-credit-cards-2026.md)
+
+## [2026-07-02] crawl-drop | best-zero-forex-mark-up-fee-credit-cards-2026.md | Maker: 7/10, Checker: 7/10 BORDERLINE — dropped (autonomous, no queue)
