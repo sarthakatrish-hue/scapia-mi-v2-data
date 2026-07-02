@@ -533,3 +533,9 @@ Append-only ingest/query/lint event log.
 ## [2026-07-02] filter-reject | best-cashback-credit-cards-in-india-2026.md | Maker: 2/10 AUTO-REJECT — Generic educational/comparison content with no strategic signal — restates public product information without revealing competitive moves, financial health, market share, partnerships, or changes. Lists known competitor products with standard features already available on bank websites.
 
 ## [2026-07-02] filter-reject | 10-best-credit-cards-for-online-shopping-in-india-updated-list-2026.md | Maker: 2/10 AUTO-REJECT — Generic product comparison listicle with zero new intelligence — no launches, pivots, funding, leadership changes, pricing shifts, regulatory events, or material competitive developments; merely restates known card features available on issuer websites.
+
+## [2026-07-02] update | entity-registry += blinkit (competitor), zepto (competitor), swiggy-instamart (competitor) (from key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md)
+
+## [2026-07-02] ingest | key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md | Maker: 7/10, Checker: 3/10 AUTO-APPROVE — bypassing queue
+
+## [2026-07-02] ingest | key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md → subjects/amazon-now.md, sources/2026-07-02-key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md | Auto-approved

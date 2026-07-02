@@ -7,20 +7,20 @@ categories: [store]
 domain_url: amazon.in
 logo: null
 issuer: null
-keywords: [[quick-commerce, amazon-now, fast-delivery, micro-fulfilment, 300-cities, amazon-india, andy-jassy]]
+keywords: [quick-commerce, amazon-now, fast-delivery, micro-fulfilment, dark-stores, amazon-india]
 signal: watch
-headline: "'Amazon Now eyes 300 cities, doubling orders each quarter since June 2025 launch'"
-vitals: ["300+|Cities targeted|Scapia has no q-commerce exposure", "15|Current city presence|Bengaluru, Delhi-NCR, Mumbai and more", "2x/quarter|Order growth rate|Fastest-growing Amazon India unit ever"]
+headline: "'Amazon Now hits 1,000 dark stores across 50+ cities as quick-commerce race intensifies'"
+vitals: ["1000|Dark stores|Scapia has no q-commerce exposure", "50+|Cities (current)|Behind Blinkit's 200+, Flipkart's 130+", "5th|Rank by store count|Blinkit leads with 2,243"]
 scoreboard: ["Travel Booking|Low|steady", "Pricing & Fees|Medium|up"]
-last_updated: 2026-07-01
+last_updated: 2026-07-02
 ---
 
 ## What we know
 
-**Amazon Now rapid expansion** — Amazon Now launched June 2025 and has doubled orders every quarter, now expanding from 15 to 300+ cities[^amznow-2026-06]
-**CEO-endorsed India push** — Andy Jassy's India visit signals boardroom-level commitment to quick commerce as a strategic priority[^amznow-2026-06]
-**Prime as growth lever** — Country Manager Samir Kumar noted Prime members triple their shopping frequency once they adopt Amazon Now, deepening the Prime ecosystem lock-in[^amznow-2026-06]
-**$300M ops investment** — A portion of Amazon India's $300M investment in operations will fund delivery associate welfare and fulfilment infrastructure supporting this expansion[^amznow-2026-06]
+**Amazon Now dark-store count** — Amazon Now has reached 1,000 dark stores across 50+ cities as of June 2026, per a sector-wide network comparison[^qcomm-2026-06-24]
+**Blinkit leads the pack** — Blinkit (Eternal Ltd) holds the most dark stores at 2,243 across 200+ cities, with Instamart (1,143), Zepto (1,139), and Flipkart Minutes (1,000) in the middle tier[^qcomm-2026-06-24]
+**Flipkart Minutes city reach** — Flipkart Minutes matches Amazon Now on store count (1,000) but is present in 130+ cities vs Amazon Now's 50+, suggesting deeper geographic spread[^qcomm-2026-06-24]
+**Gen Z driving category expansion** — Quick commerce is evolving beyond groceries into electronics, beauty, and wellness, with Gen Z representing 40%+ of Flipkart Minutes' customer base[^qcomm-2026-06-24]
 
 ## Competitor Intel
 
@@ -39,6 +39,12 @@ last_updated: 2026-07-01
 
 ## Coverage
 
+### Amazon Now at 1,000 Dark Stores — 2026-06-24
+
+Amazon Now has reached 1,000 dark stores across 50+ cities, confirmed in a sector-wide snapshot published June 24[^qcomm-2026-06-24]. It sits at the lower end of city penetration compared to Flipkart Minutes (130+ cities at the same store count) and well behind Blinkit's 2,243-store, 200-city network — signalling Amazon Now is still consolidating depth before breadth.
+
+The broader quick-commerce picture is one of rapid infrastructure arms-racing, with all five major players expanding simultaneously[^qcomm-2026-06-24]. For Scapia, the relevance remains indirect: each Amazon Now or Flipkart Minutes checkout deepens a rival ecosystem's payment habit loop — Amazon Pay or PhonePe — reinforcing daily-spend stickiness that a travel-occasion card must consciously counterprogram. [Inferred · Medium]
+
 ### Amazon Now eyes 300 cities — 2026-06-30
 
 Amazon CEO Andy Jassy visited India as the company announced Amazon Now — its quick-commerce unit launched in June 2025 — would expand from 15 locations to more than 300 cities[^amznow-2026-06]. Orders have doubled every quarter since launch, making it the fastest-growing business unit in Amazon India's history, and Country Manager Samir Kumar credited Prime members, who triple purchase frequency after adopting the service[^amznow-2026-06].
@@ -47,8 +53,10 @@ For Scapia, the direct product overlap is minimal — Amazon Now targets groceri
 
 ## Developments
 
+- 2026-06-24 — Amazon Now at 1,000 Dark Stores [^qcomm-2026-06-24]
 - 2026-06-30 — Amazon Now eyes 300 cities [^amznow-2026-06]
 
 ## Sources
 
 [^amznow-2026-06]: raw/ambiguous/amazon-ceo-andy-jassy-visits-india-company-to-expand-quick-commerce-network-to-3.md
+[^qcomm-2026-06-24]: raw/market/key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md

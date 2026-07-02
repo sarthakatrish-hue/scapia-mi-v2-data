@@ -60,6 +60,12 @@ treated as context until promoted).
 
 ## Competitors
 
+- swiggy-instamart | competitor | Instamart (Swiggy) | newly-surfaced · added_by: agent 2026-07-02 · source: key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md · Quick-commerce arm of Swiggy with 1,143 dark stores across 129 cities
+
+- zepto | competitor | Zepto | newly-surfaced · added_by: agent 2026-07-02 · source: key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md · Indian quick-commerce platform with 1,139 dark stores across 89 cities
+
+- blinkit | competitor | Blinkit | newly-surfaced · added_by: agent 2026-07-02 · source: key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md · Indian quick-commerce platform with 2,243 dark stores across 200+ cities
+
 - citi | competitor | Citibank | newly-surfaced · added_by: agent 2026-07-02 · source: best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md · global card issuer with India presence and credit products
 
 - bigbasket | competitor | BigBasket | newly-surfaced · added_by: agent 2026-07-02 · source: best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md · grocery e-commerce with card rewards
