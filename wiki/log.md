@@ -545,3 +545,7 @@ Append-only ingest/query/lint event log.
 ## [2026-07-02] ingest | quick-commerce-companies-in-india-meaning-examples-apps-in-india.md | Maker: 6/10, Checker: 3/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-07-02] ingest | quick-commerce-companies-in-india-meaning-examples-apps-in-india.md → subjects/amazon-now.md, sources/2026-07-02-quick-commerce-companies-in-india-meaning-examples-apps-in-india.md | Auto-approved
+
+## [2026-07-02] ingest | quick-commerce-war-2026-blinkit-tops-brutal-6-way-fight.md | Maker: 7/10, Checker: 5/10 AUTO-APPROVE — bypassing queue
+
+## [2026-07-02] ingest | quick-commerce-war-2026-blinkit-tops-brutal-6-way-fight.md → subjects/amazon-now.md, subjects/blinkit.md, subjects/zepto.md, subjects/flipkart-minutes.md, sources/2026-07-02-quick-commerce-war-2026-blinkit-tops-brutal-6-way-fight.md | Auto-approved

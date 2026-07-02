@@ -68,9 +68,9 @@ treated as context until promoted).
 
 - swiggy-instamart | competitor | Instamart (Swiggy) | newly-surfaced · added_by: agent 2026-07-02 · source: key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md · Quick-commerce arm of Swiggy with 1,143 dark stores across 129 cities
 
-- zepto | competitor | Zepto | newly-surfaced · added_by: agent 2026-07-02 · source: key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md · Indian quick-commerce platform with 1,139 dark stores across 89 cities
+- zepto | competitor | Zepto | domain: zepto.com | newly-surfaced · added_by: agent 2026-07-02 · source: key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md · Indian quick-commerce platform with 1,139 dark stores across 89 cities
 
-- blinkit | competitor | Blinkit | newly-surfaced · added_by: agent 2026-07-02 · source: key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md · Indian quick-commerce platform with 2,243 dark stores across 200+ cities
+- blinkit | competitor | Blinkit | domain: blinkit.com | newly-surfaced · added_by: agent 2026-07-02 · source: key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md · Indian quick-commerce platform with 2,243 dark stores across 200+ cities
 
 - citi | competitor | Citibank | newly-surfaced · added_by: agent 2026-07-02 · source: best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md · global card issuer with India presence and credit products
 
@@ -88,7 +88,7 @@ treated as context until promoted).
 
 - niyo-global-dcb | competitor | Niyo Global DCB | newly-surfaced · added_by: agent 2026-07-02 · source: best-zero-forex-mark-up-fee-credit-cards-2026.md · FD-backed zero-forex credit card with interest on savings and app control
 
-- flipkart-minutes | competitor | Flipkart Minutes | added_by: agent 2026-07-01 · source: amazon-ceo-andy-jassy-visits-india-as-quick-commerce-battle-heats-up.md · quick-commerce network with 1,000+ micro-fulfillment centres across 130+ cities, 5-fold order growth, scaling to 1,500 centres
+- flipkart-minutes | competitor | Flipkart Minutes | domain: flipkart.com | added_by: agent 2026-07-01 · source: amazon-ceo-andy-jassy-visits-india-as-quick-commerce-battle-heats-up.md · quick-commerce network with 1,000+ micro-fulfillment centres across 130+ cities, 5-fold order growth, scaling to 1,500 centres
 
 - amazon-now | competitor | Amazon Now | domain: amazon.in | added_by: agent 2026-07-01 · source: amazon-ceo-andy-jassy-visits-india-company-to-expand-quick-commerce-network-to-3.md · quick-commerce service expanding across 300+ Indian cities, competing for store/redemption wallet-share and customer engagement velocity.
 

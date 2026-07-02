@@ -3,9 +3,12 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/flipkart-minutes]] — "Flipkart Minutes adds 100 dark stores monthly, targeting electronics-led q-commerce differentiation"
+- [[subjects/zepto]] — "Zepto at 22% share faces profitability squeeze as IPO plans slip to late 2026"
+- [[subjects/blinkit]] — "Blinkit commands 46% of India's $11.5Bn quick-commerce market with 1,500+ dark stores"
 - [[subjects/tcs-on-foreign-travel-lrs]] — 5% TCS on tour packages from rupee one shapes how Indians book international travel
 - [[subjects/flipkart-travel]] — "Flipkart Minutes hits 1,000 MFCs and 5x order growth in quick-commerce war"
-- [[subjects/amazon-now]] — "Amazon Now targets 1,000+ dark stores by end-2026 as q-commerce arms race accelerates"
+- [[subjects/amazon-now]] — "Amazon Now holds 3-5% share as six-way quick-commerce war intensifies in 2026"
 - [[subjects/confirmtkt]] — "ConfirmTkt gets agentic AI upgrade as part of Ixigo-OpenAI enterprise deal"
 - [[subjects/india-credit-card-market-may-2026]] — "Mid-tier issuers take incremental spend share as average transaction value falls 15% YoY"
 - [[subjects/cred]] — "Meta's $900M bet and WhatsApp tie-up supercharges CRED's payments ambitions"

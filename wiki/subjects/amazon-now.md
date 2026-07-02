@@ -7,21 +7,21 @@ categories: [store]
 domain_url: amazon.in
 logo: null
 issuer: null
-keywords: [quick-commerce, amazon-now, fast-delivery, micro-fulfilment, dark-stores, amazon-india]
+keywords: [quick-commerce, amazon-now, fast-delivery, micro-fulfilment, dark-stores, amazon-india, dark-store-war, market-share]
 signal: watch
-headline: "'Amazon Now targets 1,000+ dark stores by end-2026 as q-commerce arms race accelerates'"
-vitals: ["1000+|Dark stores (target 2026)|Scapia has no q-commerce exposure", "46-50%|Blinkit market share|Amazon Now is a distant challenger", "10-20 min|Amazon Now delivery time|Comparable to Blinkit's ~12 min"]
+headline: "'Amazon Now holds 3-5% share as six-way quick-commerce war intensifies in 2026'"
+vitals: ["['500+|Dark stores (actual 2026)|Blinkit leads at 1,500+', '3-5%|Market share (Datum Intelligence)|Blinkit at 46%, Instamart 24%', '$300M|Amazon Now 2026 capex commitment|Signals sustained multi-year push']"]
 scoreboard: ["Travel Booking|Low|steady", "Pricing & Fees|Medium|up"]
 last_updated: 2026-07-02
 ---
 
 ## What we know
 
-**Market crossed ₹64,000 crore** — India's quick-commerce market exceeded ₹64,000 crore in 2025, targeting ₹1 lakh crore by 2030[^qcomm-overview-2026]
-**Amazon Now launched 2025** — Amazon pivoted from Amazon Fresh (2–4 hour delivery, ~120 cities) to Amazon Now in 2025, targeting 10–20 minute dark-store delivery in Delhi and Mumbai first[^qcomm-overview-2026]
-**1,000+ dark stores targeted** — Amazon is reportedly targeting 1,000+ dark stores by end of 2026, replacing Amazon Fresh in top 10–15 Tier-1 cities while Fresh continues in smaller markets[^qcomm-overview-2026]
-**Blinkit leads at 46–50% share** — Blinkit (Zomato) holds the largest dark-store network and the highest market share; Zepto holds ~20–30%, Swiggy Instamart 18–22%, BigBasket BB Now 5–7%, Flipkart Minutes <3%[^qcomm-overview-2026]
-**Average order values remain small** — Typical q-commerce basket is ₹200–₹600 vs ₹1,580–₹1,650+ for traditional e-commerce, reinforcing that q-commerce is a high-frequency, low-ticket habit loop[^qcomm-overview-2026]
+**Six-player market confirmed** — Blinkit 46%, Swiggy Instamart 24%, Zepto 22%, BB Now 5-7%, Amazon Now 3-5%, Flipkart Minutes 3-4% per Datum Intelligence cited by Reuters[^qcwar-2026-06-07]
+**Amazon Now at 500+ dark stores** — Entered top-tier with 500+ dark stores operational in 2026; target of 1,000+ by end-2026 remains on track[^qcwar-2026-06-07]
+**$300M committed capex** — Amazon India earmarked Rs 2,800 Cr (~$300M) for Amazon Now expansion in 2026, reinforcing boardroom-level conviction[^qcwar-2026-06-07]
+**4.5-5 lakh daily orders** — Amazon Now processes 4.5-5 lakh daily orders, placing it well behind Blinkit's ~1 million but ahead of a two-player consolidation threshold[^qcwar-2026-06-07]
+**Prime loyalty as differentiator** — Amazon Now bets on Prime membership and the broader Amazon catalogue rather than speed alone, per Bernstein analysis[^qcwar-2026-06-07]
 
 ## Competitor Intel
 
@@ -39,6 +39,12 @@ last_updated: 2026-07-02
 **Own the travel occasion** — Amazon Now competes on daily essentials, not travel; Scapia should sharpen messaging that travel rewards are a distinct, higher-value occasion Amazon's ecosystem does not serve.
 
 ## Coverage
+
+### Six-Way Q-Commerce War Snapshot — 2026-06-07
+
+India's quick-commerce sector, now valued at $11.5 Bn (Rs 95,500 Cr) and growing at 75%+ YoY, has crystallised into a six-player war with Blinkit (46%), Swiggy Instamart (24%), and Zepto (22%) holding the top three slots, per Datum Intelligence data cited by Reuters[^qcwar-2026-06-07]. Amazon Now sits at 3-5% share with 500+ dark stores and 4.5-5 lakh daily orders — a credible but distant challenger, backed by a Rs 2,800 Cr capex commitment for 2026[^qcwar-2026-06-07].
+
+The structural read for Scapia remains indirect: Amazon Now's Prime-anchored checkout deepens Amazon Pay's daily-habit touchpoints, while Flipkart Minutes — adding ~100 dark stores per month — similarly embeds PhonePe at the point of sale[^qcwar-2026-06-07]. Neither player targets travel occasions directly, but each successful quick-commerce checkout is a rival payments ecosystem reinforcing everyday-spend stickiness that a travel-occasion card must consciously counterprogram. [Inferred · Medium]
 
 ### India Q-Commerce Landscape 2026
 
@@ -60,6 +66,7 @@ For Scapia, the direct product overlap is minimal — Amazon Now targets groceri
 
 ## Developments
 
+- 2026-06-07 — Six-Way Q-Commerce War Snapshot [^qcwar-2026-06-07]
 - India Q-Commerce Landscape 2026 [^qcomm-overview-2026]
 - 2026-06-24 — Amazon Now at 1,000 Dark Stores [^qcomm-2026-06-24]
 - 2026-06-30 — Amazon Now eyes 300 cities [^amznow-2026-06]
@@ -69,3 +76,4 @@ For Scapia, the direct product overlap is minimal — Amazon Now targets groceri
 [^amznow-2026-06]: raw/ambiguous/amazon-ceo-andy-jassy-visits-india-company-to-expand-quick-commerce-network-to-3.md
 [^qcomm-2026-06-24]: raw/market/key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md
 [^qcomm-overview-2026]: raw/market/quick-commerce-companies-in-india-meaning-examples-apps-in-india.md
+[^qcwar-2026-06-07]: raw/market/quick-commerce-war-2026-blinkit-tops-brutal-6-way-fight.md
