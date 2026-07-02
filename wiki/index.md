@@ -5,7 +5,7 @@ Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 ## Subjects
 - [[subjects/tcs-on-foreign-travel-lrs]] — 5% TCS on tour packages from rupee one shapes how Indians book international travel
 - [[subjects/flipkart-travel]] — "Flipkart Minutes hits 1,000 MFCs and 5x order growth in quick-commerce war"
-- [[subjects/amazon-now]] — "Amazon Now hits 1,000 dark stores across 50+ cities as quick-commerce race intensifies"
+- [[subjects/amazon-now]] — "Amazon Now targets 1,000+ dark stores by end-2026 as q-commerce arms race accelerates"
 - [[subjects/confirmtkt]] — "ConfirmTkt gets agentic AI upgrade as part of Ixigo-OpenAI enterprise deal"
 - [[subjects/india-credit-card-market-may-2026]] — "Mid-tier issuers take incremental spend share as average transaction value falls 15% YoY"
 - [[subjects/cred]] — "Meta's $900M bet and WhatsApp tie-up supercharges CRED's payments ambitions"

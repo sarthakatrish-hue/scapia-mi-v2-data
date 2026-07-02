@@ -539,3 +539,9 @@ Append-only ingest/query/lint event log.
 ## [2026-07-02] ingest | key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md | Maker: 7/10, Checker: 3/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-07-02] ingest | key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md → subjects/amazon-now.md, sources/2026-07-02-key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md | Auto-approved
+
+## [2026-07-02] update | entity-registry += jiomart-express (competitor), amazon-fresh (competitor), bb-now (competitor) (from quick-commerce-companies-in-india-meaning-examples-apps-in-india.md)
+
+## [2026-07-02] ingest | quick-commerce-companies-in-india-meaning-examples-apps-in-india.md | Maker: 6/10, Checker: 3/10 AUTO-APPROVE — bypassing queue
+
+## [2026-07-02] ingest | quick-commerce-companies-in-india-meaning-examples-apps-in-india.md → subjects/amazon-now.md, sources/2026-07-02-quick-commerce-companies-in-india-meaning-examples-apps-in-india.md | Auto-approved

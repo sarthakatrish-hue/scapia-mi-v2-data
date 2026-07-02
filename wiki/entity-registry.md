@@ -60,6 +60,12 @@ treated as context until promoted).
 
 ## Competitors
 
+- bb-now | competitor | BigBasket BB Now | newly-surfaced · added_by: agent 2026-07-02 · source: quick-commerce-companies-in-india-meaning-examples-apps-in-india.md · Tata-owned quick-commerce grocery service (launched 2022)
+
+- amazon-fresh | competitor | Amazon Fresh | newly-surfaced · added_by: agent 2026-07-02 · source: quick-commerce-companies-in-india-meaning-examples-apps-in-india.md · Amazon's 2–4 hour grocery delivery service in India
+
+- jiomart-express | competitor | JioMart Express | newly-surfaced · added_by: agent 2026-07-02 · source: quick-commerce-companies-in-india-meaning-examples-apps-in-india.md · Reliance's quick-commerce service (discontinued 2023)
+
 - swiggy-instamart | competitor | Instamart (Swiggy) | newly-surfaced · added_by: agent 2026-07-02 · source: key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md · Quick-commerce arm of Swiggy with 1,143 dark stores across 129 cities
 
 - zepto | competitor | Zepto | newly-surfaced · added_by: agent 2026-07-02 · source: key-trends-in-india-s-quick-commerce-in-2026-as-flipkart-minutes-amazon-now-gain.md · Indian quick-commerce platform with 1,139 dark stores across 89 cities
