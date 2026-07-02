@@ -2,6 +2,18 @@
   "pending_queue": [],
   "rejection_log": [
     {
+      "id": "reject-6b715557",
+      "filename": "best-cashback-credit-cards-in-india-2026.md",
+      "score": "2/10",
+      "checker_score": null,
+      "checker_reason": null,
+      "band": "AUTO-REJECT",
+      "outcome": null,
+      "reason": "Generic educational/comparison content with no strategic signal \u2014 restates public product information without revealing competitive moves, financial health, market share, partnerships, or changes. Lists known competitor products with standard features already available on bank websites.",
+      "maker_reason": "Generic educational/comparison content with no strategic signal \u2014 restates public product information without revealing competitive moves, financial health, market share, partnerships, or changes. Lists known competitor products with standard features already available on bank websites.",
+      "timestamp": "2026-07-02"
+    },
+    {
       "id": "reject-75cef022",
       "filename": "best-credit-cards-for-online-shopping-in-india-2025.md",
       "score": "2/10",
