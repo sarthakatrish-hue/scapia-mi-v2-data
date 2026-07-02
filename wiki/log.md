@@ -531,3 +531,5 @@ Append-only ingest/query/lint event log.
 ## [2026-07-02] filter-reject | best-credit-cards-for-online-shopping-in-india-2025.md | Maker: 2/10 AUTO-REJECT — Listicle format with no new product launches, pricing changes, earn-rate updates, competitor moves, or market data — generic feature descriptions that add no knowledge-base value and match boilerplate marketing language.
 
 ## [2026-07-02] filter-reject | best-cashback-credit-cards-in-india-2026.md | Maker: 2/10 AUTO-REJECT — Generic educational/comparison content with no strategic signal — restates public product information without revealing competitive moves, financial health, market share, partnerships, or changes. Lists known competitor products with standard features already available on bank websites.
+
+## [2026-07-02] filter-reject | 10-best-credit-cards-for-online-shopping-in-india-updated-list-2026.md | Maker: 2/10 AUTO-REJECT — Generic product comparison listicle with zero new intelligence — no launches, pivots, funding, leadership changes, pricing shifts, regulatory events, or material competitive developments; merely restates known card features available on issuer websites.
