@@ -2,6 +2,18 @@
   "pending_queue": [],
   "rejection_log": [
     {
+      "id": "reject-75cef022",
+      "filename": "best-credit-cards-for-online-shopping-in-india-2025.md",
+      "score": "2/10",
+      "checker_score": null,
+      "checker_reason": null,
+      "band": "AUTO-REJECT",
+      "outcome": null,
+      "reason": "Listicle format with no new product launches, pricing changes, earn-rate updates, competitor moves, or market data \u2014 generic feature descriptions that add no knowledge-base value and match boilerplate marketing language.",
+      "maker_reason": "Listicle format with no new product launches, pricing changes, earn-rate updates, competitor moves, or market data \u2014 generic feature descriptions that add no knowledge-base value and match boilerplate marketing language.",
+      "timestamp": "2026-07-02"
+    },
+    {
       "id": "reject-2516163a",
       "filename": "best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md",
       "score": "3/10",

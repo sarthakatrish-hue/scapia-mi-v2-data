@@ -527,3 +527,5 @@ Append-only ingest/query/lint event log.
 ## [2026-07-02] update | entity-registry += amazon (competitor), flipkart (competitor), myntra (competitor), ajio (competitor), swiggy (competitor), bigbasket (competitor), citi (competitor) (from best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md)
 
 ## [2026-07-02] filter-reject | best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md | Maker: 3/10 AUTO-REJECT — Generic listicle with no new strategic intelligence, no dated facts, no financial data, no market moves, no competitive shifts — merely restates reward rates and fees already public on issuer sites; zero insight into competitor positioning, product changes, or market dynamics.
+
+## [2026-07-02] filter-reject | best-credit-cards-for-online-shopping-in-india-2025.md | Maker: 2/10 AUTO-REJECT — Listicle format with no new product launches, pricing changes, earn-rate updates, competitor moves, or market data — generic feature descriptions that add no knowledge-base value and match boilerplate marketing language.
