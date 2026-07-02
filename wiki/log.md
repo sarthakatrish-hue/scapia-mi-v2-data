@@ -549,3 +549,9 @@ Append-only ingest/query/lint event log.
 ## [2026-07-02] ingest | quick-commerce-war-2026-blinkit-tops-brutal-6-way-fight.md | Maker: 7/10, Checker: 5/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-07-02] ingest | quick-commerce-war-2026-blinkit-tops-brutal-6-way-fight.md → subjects/amazon-now.md, subjects/blinkit.md, subjects/zepto.md, subjects/flipkart-minutes.md, sources/2026-07-02-quick-commerce-war-2026-blinkit-tops-brutal-6-way-fight.md | Auto-approved
+
+## [2026-07-02] update | entity-registry += eternal (competitor) (from amazon-flipkart-aim-for-delivery-in-minutes.md)
+
+## [2026-07-02] ingest | amazon-flipkart-aim-for-delivery-in-minutes.md | Maker: 7/10, Checker: 3/10 AUTO-APPROVE — bypassing queue
+
+## [2026-07-02] ingest | amazon-flipkart-aim-for-delivery-in-minutes.md → subjects/amazon.md, subjects/flipkart.md, subjects/blinkit.md, subjects/india-quick-commerce-boom.md, sources/2026-07-02-amazon-flipkart-aim-for-delivery-in-minutes.md | Auto-approved

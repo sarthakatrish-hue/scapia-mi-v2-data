@@ -3,9 +3,12 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/india-quick-commerce-boom]] — "India q-commerce to hit $65–70Bn by 2030, reshaping consumer spend and card rewards"
+- [[subjects/flipkart]] — "Flipkart Minutes reaches 1,000+ micro-fulfilment centres across 130+ cities"
+- [[subjects/amazon]] — "Amazon Now targets India's largest delivery-in-minutes network across 300+ cities"
 - [[subjects/flipkart-minutes]] — "Flipkart Minutes adds 100 dark stores monthly, targeting electronics-led q-commerce differentiation"
 - [[subjects/zepto]] — "Zepto at 22% share faces profitability squeeze as IPO plans slip to late 2026"
-- [[subjects/blinkit]] — "Blinkit commands 46% of India's $11.5Bn quick-commerce market with 1,500+ dark stores"
+- [[subjects/blinkit]] — "Blinkit is only profitable q-commerce player as Amazon and Flipkart mount scale challenge"
 - [[subjects/tcs-on-foreign-travel-lrs]] — 5% TCS on tour packages from rupee one shapes how Indians book international travel
 - [[subjects/flipkart-travel]] — "Flipkart Minutes hits 1,000 MFCs and 5x order growth in quick-commerce war"
 - [[subjects/amazon-now]] — "Amazon Now holds 3-5% share as six-way quick-commerce war intensifies in 2026"

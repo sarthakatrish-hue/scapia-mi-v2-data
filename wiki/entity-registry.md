@@ -60,6 +60,8 @@ treated as context until promoted).
 
 ## Competitors
 
+- eternal | competitor | Eternal | newly-surfaced · added_by: agent 2026-07-02 · source: amazon-flipkart-aim-for-delivery-in-minutes.md · Quick-commerce and food-delivery holding company; parent of Blinkit.
+
 - bb-now | competitor | BigBasket BB Now | newly-surfaced · added_by: agent 2026-07-02 · source: quick-commerce-companies-in-india-meaning-examples-apps-in-india.md · Tata-owned quick-commerce grocery service (launched 2022)
 
 - amazon-fresh | competitor | Amazon Fresh | newly-surfaced · added_by: agent 2026-07-02 · source: quick-commerce-companies-in-india-meaning-examples-apps-in-india.md · Amazon's 2–4 hour grocery delivery service in India
@@ -82,9 +84,9 @@ treated as context until promoted).
 
 - myntra | competitor | Myntra | newly-surfaced · added_by: agent 2026-07-02 · source: best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md · fashion e-commerce with loyalty and card co-brands
 
-- flipkart | competitor | Flipkart | newly-surfaced · added_by: agent 2026-07-02 · source: best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md · e-commerce and fintech platform with co-branded cards and rewards
+- flipkart | competitor | Flipkart | domain: flipkart.com | newly-surfaced · added_by: agent 2026-07-02 · source: best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md · e-commerce and fintech platform with co-branded cards and rewards
 
-- amazon | competitor | Amazon | newly-surfaced · added_by: agent 2026-07-02 · source: best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md · e-commerce and fintech platform with payments and travel products
+- amazon | competitor | Amazon | domain: amazon.in | newly-surfaced · added_by: agent 2026-07-02 · source: best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more.md · e-commerce and fintech platform with payments and travel products
 
 - niyo-global-dcb | competitor | Niyo Global DCB | newly-surfaced · added_by: agent 2026-07-02 · source: best-zero-forex-mark-up-fee-credit-cards-2026.md · FD-backed zero-forex credit card with interest on savings and app control
 
