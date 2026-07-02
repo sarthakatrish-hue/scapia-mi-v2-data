@@ -555,3 +555,5 @@ Append-only ingest/query/lint event log.
 ## [2026-07-02] ingest | amazon-flipkart-aim-for-delivery-in-minutes.md | Maker: 7/10, Checker: 3/10 AUTO-APPROVE — bypassing queue
 
 ## [2026-07-02] ingest | amazon-flipkart-aim-for-delivery-in-minutes.md → subjects/amazon.md, subjects/flipkart.md, subjects/blinkit.md, subjects/india-quick-commerce-boom.md, sources/2026-07-02-amazon-flipkart-aim-for-delivery-in-minutes.md | Auto-approved
+
+## [2026-07-02] crawl | autonomous | universe 117, 9 searches + 2 feeds → 22 candidates | ingested 5/8 (vault 1, market-signal 4, feeds 0), dropped 6, queued 0, dupes 21, stale 39, irrelevant 8, errors 3

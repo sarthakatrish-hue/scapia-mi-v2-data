@@ -671,6 +671,138 @@
    "url": "https://www.axis.bank.in/burgundy",
    "status": "no-relevant-article",
    "at": "2026-06-30"
+  },
+  "82c1d84607f314531a0beceb": {
+   "url": "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQMDCreditCardandDebitCard.pdf",
+   "status": "no-relevant-article",
+   "at": "2026-07-02"
+  },
+  "22e3a686a3fea52822cc2f2a": {
+   "url": "https://stablemoney.in/credit-card/best-zero-forex-mark-up-fee-credit-cards",
+   "status": "BORDERLINE",
+   "content_hash": "ab6f2f45a3adf20c9e6effd3",
+   "autonomous": true,
+   "at": "2026-07-02"
+  },
+  "f8436c5be08d5e5f31946b2d": {
+   "url": "https://tripcabinet.com/blog/tcs-on-foreign-travel-tour-packages-2026",
+   "status": "AUTO-APPROVE",
+   "content_hash": "c138c6dfbeca58d7f1efdcf4",
+   "autonomous": true,
+   "at": "2026-07-02"
+  },
+  "a61758b9467be5948ae46c88": {
+   "url": "https://www.happyfares.in/news/tcs-foreign-travel-india-2026",
+   "status": "BORDERLINE",
+   "content_hash": "41572d687228c8f998ae428d",
+   "autonomous": true,
+   "at": "2026-07-02"
+  },
+  "e168f18c1c5ebdcef640de98": {
+   "url": "https://www.investingpro.in/articles/best-credit-cards-for-online-shopping-in-india-2026-amazon-flipkart-and-more",
+   "status": "AUTO-REJECT",
+   "content_hash": "6286aacf142959fcac6706ca",
+   "autonomous": true,
+   "at": "2026-07-02"
+  },
+  "0fbc0df2a47dfc164764f75e": {
+   "url": "https://fi.money/guides/credit-cards/best-online-shopping-credit-cards-india",
+   "status": "AUTO-REJECT",
+   "content_hash": "8a9bb9b6d677e017dcb2cb9c",
+   "autonomous": true,
+   "at": "2026-07-02"
+  },
+  "3379ffc2812877211be19f47": {
+   "url": "https://www.mymoneymantra.com/best-cashback-credit-cards-in-india",
+   "status": "AUTO-REJECT",
+   "content_hash": "e744f5dd7f0901d956a3623b",
+   "autonomous": true,
+   "at": "2026-07-02"
+  },
+  "6c269977e3f846cebe9d54b6": {
+   "url": "https://www.paisabazaar.com/credit-card/best-credit-cards-online-shopping/",
+   "status": "AUTO-REJECT",
+   "content_hash": "fea11b13304c7cee42951c89",
+   "autonomous": true,
+   "at": "2026-07-02"
+  },
+  "26721af27f56151109f4cbb6": {
+   "url": "https://www.grabon.in/blinkit-coupons/",
+   "status": "no-relevant-article",
+   "at": "2026-07-02"
+  },
+  "5d8e322bbe4074ebbb889cc8": {
+   "url": "https://www.zeebiz.com/startups/news-amazon-now-zepto-blinkit-swiggy-instamart-flipkart-minutes-quick-commerce-is-all-about-network-see-where-top-etailers-stand-in-dark-store-expansion-397880",
+   "status": "AUTO-APPROVE",
+   "content_hash": "aa521fd39272e25694638a63",
+   "autonomous": true,
+   "at": "2026-07-02"
+  },
+  "cf8b6df1636b3f36815dd1c1": {
+   "url": "https://www.ithinklogistics.com/blog/quick-commerce-companies-in-india/",
+   "status": "AUTO-APPROVE",
+   "content_hash": "c9069f149b6673af20f8821b",
+   "autonomous": true,
+   "at": "2026-07-02"
+  },
+  "f6af137e18fb3713132b6380": {
+   "url": "https://startupfeed.in/quick-commerce-war-2026-blinkit-zepto-instamart-amazon-flipkart/",
+   "status": "AUTO-APPROVE",
+   "content_hash": "be7cb1a91b8691718965e486",
+   "autonomous": true,
+   "at": "2026-07-02"
+  },
+  "dde5c2eb94b5bd5466a6ff3b": {
+   "url": "https://www.cnbc.com/2026/07/02/india-amazon-walmart-flipkart-quick-commerce.html",
+   "status": "AUTO-APPROVE",
+   "content_hash": "fcd315e2b3ec77f7788ab593",
+   "autonomous": true,
+   "at": "2026-07-02"
+  },
+  "ddc54f61f52cb2d633b99e63": {
+   "url": "https://swcybernetics.in/services",
+   "status": "fetch-error",
+   "at": "2026-07-02"
+  },
+  "ac8c85954e8dd9af5c6ea198": {
+   "url": "https://www.americanexpress.com/in/benefits/rewards-program.html",
+   "status": "no-relevant-article",
+   "at": "2026-07-02"
+  },
+  "63d69cea97a5b3c57297894b": {
+   "url": "https://www.grabon.in/nykaa-fashion-coupons/",
+   "status": "no-relevant-article",
+   "at": "2026-07-02"
+  },
+  "07f28dfe17e6c3a90cc2ebae": {
+   "url": "https://www.zingoy.com/gift-cards/nykaa-fashion",
+   "status": "no-relevant-article",
+   "at": "2026-07-02"
+  },
+  "a965da85a623056ffaa647d3": {
+   "url": "https://nykaa.coupon.today/",
+   "status": "fetch-error",
+   "at": "2026-07-02"
+  },
+  "4d336df30646f573f0389e39": {
+   "url": "https://www.zingoy.com/shopping/mygyftr",
+   "status": "no-relevant-article",
+   "at": "2026-07-02"
+  },
+  "4399ef256d1b5db2ec86af0f": {
+   "url": "https://www.grabon.in/nykaa-coupons/",
+   "status": "no-relevant-article",
+   "at": "2026-07-02"
+  },
+  "356fa7caafe3c16e09b6feb3": {
+   "url": "https://couponfollow.com/site/nykaa.com",
+   "status": "fetch-error",
+   "at": "2026-07-02"
+  },
+  "b449a21feb8325652739fff8": {
+   "url": "https://zoutons.com/nykaa-fashion-coupons",
+   "status": "no-relevant-article",
+   "at": "2026-07-02"
   }
  }
 }
