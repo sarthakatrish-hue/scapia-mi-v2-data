@@ -517,3 +517,7 @@ Append-only ingest/query/lint event log.
 ## [2026-07-02] update | entity-registry += niyo-global-dcb (competitor) (from best-zero-forex-mark-up-fee-credit-cards-2026.md)
 
 ## [2026-07-02] crawl-drop | best-zero-forex-mark-up-fee-credit-cards-2026.md | Maker: 7/10, Checker: 7/10 BORDERLINE — dropped (autonomous, no queue)
+
+## [2026-07-02] ingest | tcs-on-foreign-travel-tour-packages-2026-how-it-works-how-to-claim-it-back.md | Maker: 6/10, Checker: 2/10 AUTO-APPROVE — bypassing queue
+
+## [2026-07-02] ingest | tcs-on-foreign-travel-tour-packages-2026-how-it-works-how-to-claim-it-back.md → subjects/tcs-on-foreign-travel-lrs.md, sources/2026-07-02-tcs-on-foreign-travel-tour-packages-2026-how-it-works-how-to-claim-it-back.md | Auto-approved

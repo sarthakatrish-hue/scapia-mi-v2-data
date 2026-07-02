@@ -3,6 +3,7 @@
 Master catalog of subject pages (v2). Maintained by the agent at ingest time.
 
 ## Subjects
+- [[subjects/tcs-on-foreign-travel-lrs]] — 5% TCS on tour packages from rupee one shapes how Indians book international travel
 - [[subjects/flipkart-travel]] — "Flipkart Minutes hits 1,000 MFCs and 5x order growth in quick-commerce war"
 - [[subjects/amazon-now]] — "Amazon Now eyes 300 cities, doubling orders each quarter since June 2025 launch"
 - [[subjects/confirmtkt]] — "ConfirmTkt gets agentic AI upgrade as part of Ixigo-OpenAI enterprise deal"
